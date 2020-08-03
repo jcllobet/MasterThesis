@@ -1,0 +1,30 @@
+Code and data to replicate the results from the paper "Noise Corrected Sampling of Online Social Networks".
+
+The "data" folder contains the different synthetic networks used for the experiments. Each network comes in two files:
+
+- *.edgelist: one edge per line, two tab-separated columns: node1, node2;
+- *.nodelist: one node per line, with header, three tab-separated columns: nodeid, assortative attribute value, diassortative attribute value.
+
+Each network comes in two flavors, weighted and unweighted. All weighted networks have a 'w' as first letter in the filename. The four types of networks are:
+
+- er: Erdos-Renyi random graph;
+- ba: Barabasi-Albert preferential attachment graph;
+- pc: PowerCluster graph;
+- lfr: LFR benchmark.
+
+The "code" folder contains the code to launch the experiments. The code is written in Python 3 and requires the following libraries: numpy, scipy, pandas, scikit-learn, networkx, igraph.
+
+- "backboning.py": a Python library containing the backboning methods, including the one used in the paper (noise_corrected).
+- "network_sampling.py": the Python library implementing the network sampling srategy and the API simulator.
+- "01_extract_samples.py": to be run first, extracts the samples from the networks in the "data" folder. Takes four command line arguments:
+   - budget: integer, determines the number of seconds you have to explore the network (values used in the paper: 60, 120, 300, 600, 900, 1800);
+   - api: string, one of sphl, spll, lphl, lpll. See paper for info;
+   - method: which network sampling method to use (values used in the paper: nc, bfs, dfs, rw, mhrw, ff);
+   - network: the input network (the two- or three-digit code from the filenames in the "data" folder).
+- "02_evaluate_samples.py": to be run after the first script terminates. Calculates the differences for all analyses between the sample and the original network. Takes two arguments, with the same semantic as the previous ones: "method" and "network".
+
+The 01_extract_samples.py script takes a long time to run. One suggestion is to run it massively in parallel. To help with the task, I generated a "parameters" file. You can run the following command in the terminal:
+
+cat parameters | xargs -n 4 -P X python3 01_extract_samples.py
+
+You have to replace "X" with the number of threads you can run on your machine. This will launch X threads in parallel. You can use a similar strategy for 02_evaluate_samples.py.

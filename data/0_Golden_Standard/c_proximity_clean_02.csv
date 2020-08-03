@@ -1,0 +1,723 @@
+,src,trg,iso_code,region,days_since_100_cases_in_China_2019
+0,Afghanistan,China,AFG,Asia,71 days 00:00:00.000000000
+1,Afghanistan,Iran (Islamic Republic of),AFG,Asia,71 days 00:00:00.000000000
+2,Afghanistan,Pakistan,AFG,Asia,71 days 00:00:00.000000000
+3,Afghanistan,Tajikistan,AFG,Asia,71 days 00:00:00.000000000
+4,Afghanistan,Turkmenistan,AFG,Asia,71 days 00:00:00.000000000
+5,Afghanistan,Uzbekistan,AFG,Asia,71 days 00:00:00.000000000
+6,Albania,Greece,ALB,Europe,67 days 00:00:00.000000000
+7,Albania,Montenegro,ALB,Europe,67 days 00:00:00.000000000
+8,Albania,North Macedonia,ALB,Europe,67 days 00:00:00.000000000
+9,Algeria,Libya,DZA,Africa,63 days 00:00:00.000000000
+10,Algeria,Mali,DZA,Africa,63 days 00:00:00.000000000
+11,Algeria,Mauritania,DZA,Africa,63 days 00:00:00.000000000
+12,Algeria,Morocco,DZA,Africa,63 days 00:00:00.000000000
+13,Algeria,Niger,DZA,Africa,63 days 00:00:00.000000000
+14,Algeria,Tunisia,DZA,Africa,63 days 00:00:00.000000000
+15,Algeria,Western Sahara,DZA,Africa,63 days 00:00:00.000000000
+16,American Samoa,Niue,ASM,Oceania,999 days 00:00:00.000000000
+17,American Samoa,Samoa,ASM,Oceania,999 days 00:00:00.000000000
+18,American Samoa,Wallis and Futuna,ASM,Oceania,999 days 00:00:00.000000000
+19,Angola,Congo,AGO,Africa,145 days 00:00:00.000000000
+20,Angola,"Congo, Democratic Republic of the",AGO,Africa,145 days 00:00:00.000000000
+21,Angola,Namibia,AGO,Africa,145 days 00:00:00.000000000
+22,Angola,Zambia,AGO,Africa,145 days 00:00:00.000000000
+23,Anguilla,Antigua and Barbuda,AIA,Americas,999 days 00:00:00.000000000
+24,Anguilla,Saint Kitts and Nevis,AIA,Americas,999 days 00:00:00.000000000
+25,Antigua and Barbuda,Saint Kitts and Nevis,ATG,Americas,999 days 00:00:00.000000000
+26,Argentina,Bolivia,ARG,Americas,62 days 00:00:00.000000000
+27,Argentina,Brazil,ARG,Americas,62 days 00:00:00.000000000
+28,Argentina,Chile,ARG,Americas,62 days 00:00:00.000000000
+29,Argentina,Paraguay,ARG,Americas,62 days 00:00:00.000000000
+30,Argentina,Uruguay,ARG,Americas,62 days 00:00:00.000000000
+31,Armenia,Azerbaijan,ARM,Asia,61 days 00:00:00.000000000
+32,Armenia,Georgia,ARM,Asia,61 days 00:00:00.000000000
+33,Armenia,Iran (Islamic Republic of),ARM,Asia,61 days 00:00:00.000000000
+34,Armenia,Turkey,ARM,Asia,61 days 00:00:00.000000000
+35,Aruba,Venezuela (Bolivarian Republic of),ABW,Americas,110 days 00:00:00.000000000
+36,Australia,Indonesia,AUS,Oceania,53 days 00:00:00.000000000
+37,Australia,Norfolk Island,AUS,Oceania,53 days 00:00:00.000000000
+38,Austria,Czechia,AUT,Europe,51 days 00:00:00.000000000
+39,Austria,Germany,AUT,Europe,51 days 00:00:00.000000000
+40,Austria,Hungary,AUT,Europe,51 days 00:00:00.000000000
+41,Austria,Italy,AUT,Europe,51 days 00:00:00.000000000
+42,Austria,Slovakia,AUT,Europe,51 days 00:00:00.000000000
+43,Austria,Slovenia,AUT,Europe,51 days 00:00:00.000000000
+44,Austria,Switzerland,AUT,Europe,51 days 00:00:00.000000000
+45,Azerbaijan,Armenia,AZE,Asia,69 days 00:00:00.000000000
+46,Azerbaijan,Georgia,AZE,Asia,69 days 00:00:00.000000000
+47,Azerbaijan,Iran (Islamic Republic of),AZE,Asia,69 days 00:00:00.000000000
+48,Azerbaijan,Russian Federation,AZE,Asia,69 days 00:00:00.000000000
+49,Azerbaijan,Turkey,AZE,Asia,69 days 00:00:00.000000000
+50,Bahamas,United States of America,BHS,Americas,132 days 00:00:00.000000000
+51,Bahrain,Qatar,BHR,Asia,52 days 00:00:00.000000000
+52,Bahrain,Saudi Arabia,BHR,Asia,52 days 00:00:00.000000000
+53,Bangladesh,India,BGD,Asia,80 days 00:00:00.000000000
+54,Bangladesh,Myanmar,BGD,Asia,80 days 00:00:00.000000000
+55,Barbados,Grenada,BRB,Americas,176 days 00:00:00.000000000
+56,Belarus,Latvia,BLR,Europe,73 days 00:00:00.000000000
+57,Belarus,Lithuania,BLR,Europe,73 days 00:00:00.000000000
+58,Belarus,Poland,BLR,Europe,73 days 00:00:00.000000000
+59,Belarus,Russian Federation,BLR,Europe,73 days 00:00:00.000000000
+60,Belarus,Ukraine,BLR,Europe,73 days 00:00:00.000000000
+61,Belgium,France,BEL,Europe,47 days 00:00:00.000000000
+62,Belgium,Germany,BEL,Europe,47 days 00:00:00.000000000
+63,Belgium,Luxembourg,BEL,Europe,47 days 00:00:00.000000000
+64,Belgium,Netherlands,BEL,Europe,47 days 00:00:00.000000000
+65,Belize,Guatemala,BLZ,Americas,999 days 00:00:00.000000000
+66,Belize,Mexico,BLZ,Americas,999 days 00:00:00.000000000
+67,Benin,Burkina Faso,BEN,Africa,110 days 00:00:00.000000000
+68,Benin,Niger,BEN,Africa,110 days 00:00:00.000000000
+69,Benin,Nigeria,BEN,Africa,110 days 00:00:00.000000000
+70,Benin,Togo,BEN,Africa,110 days 00:00:00.000000000
+71,Bermuda,United States of America,BMU,Americas,100 days 00:00:00.000000000
+72,Bhutan,China,BTN,Asia,999 days 00:00:00.000000000
+73,Bhutan,India,BTN,Asia,999 days 00:00:00.000000000
+74,Bolivia,Argentina,BOL,Americas,73 days 00:00:00.000000000
+75,Bolivia,Brazil,BOL,Americas,73 days 00:00:00.000000000
+76,Bolivia,Chile,BOL,Americas,73 days 00:00:00.000000000
+77,Bolivia,Paraguay,BOL,Americas,73 days 00:00:00.000000000
+78,Bolivia,Peru,BOL,Americas,73 days 00:00:00.000000000
+79,Bosnia and Herzegovina,Croatia,BIH,Europe,65 days 00:00:00.000000000
+80,Bosnia and Herzegovina,Montenegro,BIH,Europe,65 days 00:00:00.000000000
+81,Bosnia and Herzegovina,Serbia,BIH,Europe,65 days 00:00:00.000000000
+82,Botswana,Namibia,BWA,Africa,161 days 00:00:00.000000000
+83,Botswana,South Africa,BWA,Africa,161 days 00:00:00.000000000
+84,Botswana,Zambia,BWA,Africa,161 days 00:00:00.000000000
+85,Botswana,Zimbabwe,BWA,Africa,161 days 00:00:00.000000000
+86,Brazil,Argentina,BRA,Americas,57 days 00:00:00.000000000
+87,Brazil,Bolivia,BRA,Americas,57 days 00:00:00.000000000
+88,Brazil,Colombia,BRA,Americas,57 days 00:00:00.000000000
+89,Brazil,French Guiana,BRA,Americas,57 days 00:00:00.000000000
+90,Brazil,Guyana,BRA,Americas,57 days 00:00:00.000000000
+91,Brazil,Paraguay,BRA,Americas,57 days 00:00:00.000000000
+92,Brazil,Peru,BRA,Americas,57 days 00:00:00.000000000
+93,Brazil,Suriname,BRA,Americas,57 days 00:00:00.000000000
+94,Brazil,Uruguay,BRA,Americas,57 days 00:00:00.000000000
+95,Brazil,Venezuela (Bolivarian Republic of),BRA,Americas,57 days 00:00:00.000000000
+96,Brunei,Malaysia,BRN,Asia,67 days 00:00:00.000000000
+97,Bulgaria,Greece,BGR,Europe,62 days 00:00:00.000000000
+98,Bulgaria,North Macedonia,BGR,Europe,62 days 00:00:00.000000000
+99,Bulgaria,Romania,BGR,Europe,62 days 00:00:00.000000000
+100,Bulgaria,Serbia,BGR,Europe,62 days 00:00:00.000000000
+101,Bulgaria,Turkey,BGR,Europe,62 days 00:00:00.000000000
+102,Burkina Faso,Benin,BFA,Africa,68 days 00:00:00.000000000
+103,Burkina Faso,Côte d'Ivoire,BFA,Africa,68 days 00:00:00.000000000
+104,Burkina Faso,Ghana,BFA,Africa,68 days 00:00:00.000000000
+105,Burkina Faso,Mali,BFA,Africa,68 days 00:00:00.000000000
+106,Burkina Faso,Niger,BFA,Africa,68 days 00:00:00.000000000
+107,Burkina Faso,Togo,BFA,Africa,68 days 00:00:00.000000000
+108,Burundi,"Congo, Democratic Republic of the",BDI,Africa,150 days 00:00:00.000000000
+109,Burundi,Rwanda,BDI,Africa,150 days 00:00:00.000000000
+110,Burundi,"Tanzania, United Republic of",BDI,Africa,150 days 00:00:00.000000000
+111,Cabo Verde,Mauritania,CPV,Africa,100 days 00:00:00.000000000
+112,Cabo Verde,Senegal,CPV,Africa,100 days 00:00:00.000000000
+113,Cambodia,Lao People's Democratic Republic,KHM,Asia,70 days 00:00:00.000000000
+114,Cambodia,Thailand,KHM,Asia,70 days 00:00:00.000000000
+115,Cambodia,Viet Nam,KHM,Asia,70 days 00:00:00.000000000
+116,Cameroon,Central African Republic,CMR,Africa,73 days 00:00:00.000000000
+117,Cameroon,Chad,CMR,Africa,73 days 00:00:00.000000000
+118,Cameroon,Congo,CMR,Africa,73 days 00:00:00.000000000
+119,Cameroon,Equatorial Guinea,CMR,Africa,73 days 00:00:00.000000000
+120,Cameroon,Gabon,CMR,Africa,73 days 00:00:00.000000000
+121,Cameroon,Nigeria,CMR,Africa,73 days 00:00:00.000000000
+122,Canada,Greenland,CAN,Americas,54 days 00:00:00.000000000
+123,Canada,United States of America,CAN,Americas,54 days 00:00:00.000000000
+124,Cayman Islands,Cuba,CYM,Americas,123 days 00:00:00.000000000
+125,Cayman Islands,Jamaica,CYM,Americas,123 days 00:00:00.000000000
+126,Central African Republic,Cameroon,CAF,Africa,112 days 00:00:00.000000000
+127,Central African Republic,Chad,CAF,Africa,112 days 00:00:00.000000000
+128,Central African Republic,Congo,CAF,Africa,112 days 00:00:00.000000000
+129,Central African Republic,"Congo, Democratic Republic of the",CAF,Africa,112 days 00:00:00.000000000
+130,Central African Republic,South Sudan,CAF,Africa,112 days 00:00:00.000000000
+131,Central African Republic,Sudan,CAF,Africa,112 days 00:00:00.000000000
+132,Chad,Cameroon,TCD,Africa,106 days 00:00:00.000000000
+133,Chad,Central African Republic,TCD,Africa,106 days 00:00:00.000000000
+134,Chad,Libya,TCD,Africa,106 days 00:00:00.000000000
+135,Chad,Niger,TCD,Africa,106 days 00:00:00.000000000
+136,Chad,Nigeria,TCD,Africa,106 days 00:00:00.000000000
+137,Chad,Sudan,TCD,Africa,106 days 00:00:00.000000000
+138,Chile,Argentina,CHL,Americas,59 days 00:00:00.000000000
+139,Chile,Bolivia,CHL,Americas,59 days 00:00:00.000000000
+140,Chile,Peru,CHL,Americas,59 days 00:00:00.000000000
+141,China,Afghanistan,CHN,Asia,1 days 00:00:00.000000000
+142,China,Bhutan,CHN,Asia,1 days 00:00:00.000000000
+143,China,Hong Kong,CHN,Asia,1 days 00:00:00.000000000
+144,China,India,CHN,Asia,1 days 00:00:00.000000000
+145,China,Kazakhstan,CHN,Asia,1 days 00:00:00.000000000
+146,China,Korea (Democratic People's Republic of),CHN,Asia,1 days 00:00:00.000000000
+147,China,Kyrgyzstan,CHN,Asia,1 days 00:00:00.000000000
+148,China,Lao People's Democratic Republic,CHN,Asia,1 days 00:00:00.000000000
+149,China,Macao,CHN,Asia,1 days 00:00:00.000000000
+150,China,Mongolia,CHN,Asia,1 days 00:00:00.000000000
+151,China,Myanmar,CHN,Asia,1 days 00:00:00.000000000
+152,China,Nepal,CHN,Asia,1 days 00:00:00.000000000
+153,China,Pakistan,CHN,Asia,1 days 00:00:00.000000000
+154,China,Russian Federation,CHN,Asia,1 days 00:00:00.000000000
+155,China,Tajikistan,CHN,Asia,1 days 00:00:00.000000000
+156,China,Viet Nam,CHN,Asia,1 days 00:00:00.000000000
+157,Christmas Island,Cocos (Keeling) Islands,CXR,Oceania,999 days 00:00:00.000000000
+158,Christmas Island,Indonesia,CXR,Oceania,999 days 00:00:00.000000000
+159,Cocos (Keeling) Islands,Indonesia,CCK,Oceania,999 days 00:00:00.000000000
+160,Colombia,Brazil,COL,Americas,61 days 00:00:00.000000000
+161,Colombia,Ecuador,COL,Americas,61 days 00:00:00.000000000
+162,Colombia,Panama,COL,Americas,61 days 00:00:00.000000000
+163,Colombia,Peru,COL,Americas,61 days 00:00:00.000000000
+164,Colombia,Venezuela (Bolivarian Republic of),COL,Americas,61 days 00:00:00.000000000
+165,Comoros,Mayotte,COM,Africa,134 days 00:00:00.000000000
+166,Comoros,Mozambique,COM,Africa,134 days 00:00:00.000000000
+167,Congo,Angola,COG,Africa,89 days 00:00:00.000000000
+168,Congo,Cameroon,COG,Africa,89 days 00:00:00.000000000
+169,Congo,Central African Republic,COG,Africa,89 days 00:00:00.000000000
+170,Congo,"Congo, Democratic Republic of the",COG,Africa,89 days 00:00:00.000000000
+171,Congo,Gabon,COG,Africa,89 days 00:00:00.000000000
+172,"Congo, Democratic Republic of the",Angola,COD,Africa,75 days 00:00:00.000000000
+173,"Congo, Democratic Republic of the",Burundi,COD,Africa,75 days 00:00:00.000000000
+174,"Congo, Democratic Republic of the",Central African Republic,COD,Africa,75 days 00:00:00.000000000
+175,"Congo, Democratic Republic of the",Congo,COD,Africa,75 days 00:00:00.000000000
+176,"Congo, Democratic Republic of the",Rwanda,COD,Africa,75 days 00:00:00.000000000
+177,"Congo, Democratic Republic of the",South Sudan,COD,Africa,75 days 00:00:00.000000000
+178,"Congo, Democratic Republic of the","Tanzania, United Republic of",COD,Africa,75 days 00:00:00.000000000
+179,"Congo, Democratic Republic of the",Uganda,COD,Africa,75 days 00:00:00.000000000
+180,"Congo, Democratic Republic of the",Zambia,COD,Africa,75 days 00:00:00.000000000
+181,Cook Islands,Niue,COK,Oceania,999 days 00:00:00.000000000
+182,Costa Rica,Nicaragua,CRI,Americas,63 days 00:00:00.000000000
+183,Costa Rica,Panama,CRI,Americas,63 days 00:00:00.000000000
+184,Côte d'Ivoire,Burkina Faso,CIV,Africa,70 days 00:00:00.000000000
+185,Côte d'Ivoire,Ghana,CIV,Africa,70 days 00:00:00.000000000
+186,Côte d'Ivoire,Guinea,CIV,Africa,70 days 00:00:00.000000000
+187,Côte d'Ivoire,Liberia,CIV,Africa,70 days 00:00:00.000000000
+188,Côte d'Ivoire,Mali,CIV,Africa,70 days 00:00:00.000000000
+189,Croatia,Bosnia and Herzegovina,HRV,Europe,62 days 00:00:00.000000000
+190,Croatia,Hungary,HRV,Europe,62 days 00:00:00.000000000
+191,Croatia,Montenegro,HRV,Europe,62 days 00:00:00.000000000
+192,Croatia,Serbia,HRV,Europe,62 days 00:00:00.000000000
+193,Croatia,Slovenia,HRV,Europe,62 days 00:00:00.000000000
+194,Cuba,Cayman Islands,CUB,Americas,71 days 00:00:00.000000000
+195,Cuba,Mexico,CUB,Americas,71 days 00:00:00.000000000
+196,Cuba,United States of America,CUB,Americas,71 days 00:00:00.000000000
+197,Cyprus,Greece,CYP,Asia,66 days 00:00:00.000000000
+198,Cyprus,Turkey,CYP,Asia,66 days 00:00:00.000000000
+199,Czechia,Austria,CZE,Europe,55 days 00:00:00.000000000
+200,Czechia,Germany,CZE,Europe,55 days 00:00:00.000000000
+201,Czechia,Poland,CZE,Europe,55 days 00:00:00.000000000
+202,Czechia,Slovakia,CZE,Europe,55 days 00:00:00.000000000
+203,Denmark,Germany,DNK,Europe,52 days 00:00:00.000000000
+204,Denmark,Sweden,DNK,Europe,52 days 00:00:00.000000000
+205,Djibouti,Eritrea,DJI,Africa,81 days 00:00:00.000000000
+206,Djibouti,Ethiopia,DJI,Africa,81 days 00:00:00.000000000
+207,Djibouti,Somalia,DJI,Africa,81 days 00:00:00.000000000
+208,Dominica,Guadeloupe,DMA,Americas,999 days 00:00:00.000000000
+209,Dominican Republic,Haiti,DOM,Americas,64 days 00:00:00.000000000
+210,Dominican Republic,Puerto Rico,DOM,Americas,64 days 00:00:00.000000000
+211,East Timor,Indonesia,TL,Asia,999 days 00:00:00.000000000
+212,Ecuador,Colombia,ECU,Americas,60 days 00:00:00.000000000
+213,Ecuador,Peru,ECU,Americas,60 days 00:00:00.000000000
+214,Egypt,Israel,EGY,Africa,58 days 00:00:00.000000000
+215,Egypt,Libya,EGY,Africa,58 days 00:00:00.000000000
+216,Egypt,Sudan,EGY,Africa,58 days 00:00:00.000000000
+217,El Salvador,Guatemala,SLV,Americas,82 days 00:00:00.000000000
+218,El Salvador,Honduras,SLV,Americas,82 days 00:00:00.000000000
+219,Equatorial Guinea,Cameroon,GNQ,Africa,98 days 00:00:00.000000000
+220,Equatorial Guinea,Gabon,GNQ,Africa,98 days 00:00:00.000000000
+221,Eritrea,Djibouti,ERI,Africa,150 days 00:00:00.000000000
+222,Eritrea,Ethiopia,ERI,Africa,150 days 00:00:00.000000000
+223,Eritrea,South Sudan,ERI,Africa,150 days 00:00:00.000000000
+224,Eritrea,Sudan,ERI,Africa,150 days 00:00:00.000000000
+225,Estonia,Latvia,EST,Europe,57 days 00:00:00.000000000
+226,Estonia,Russian Federation,EST,Europe,57 days 00:00:00.000000000
+227,Ethiopia,Djibouti,ETH,Africa,92 days 00:00:00.000000000
+228,Ethiopia,Eritrea,ETH,Africa,92 days 00:00:00.000000000
+229,Ethiopia,Kenya,ETH,Africa,92 days 00:00:00.000000000
+230,Ethiopia,Somalia,ETH,Africa,92 days 00:00:00.000000000
+231,Ethiopia,South Sudan,ETH,Africa,92 days 00:00:00.000000000
+232,Ethiopia,Sudan,ETH,Africa,92 days 00:00:00.000000000
+233,Falkland Islands (Malvinas),Argentina,FLK,Americas,999 days 00:00:00.000000000
+234,Faroe Islands,United Kingdom of Great Britain and Northern Ireland,FRO,Europe,65 days 00:00:00.000000000
+235,Fiji,New Caledonia,FJI,Oceania,999 days 00:00:00.000000000
+236,Fiji,Samoa,FJI,Oceania,999 days 00:00:00.000000000
+237,Fiji,Tuvalu,FJI,Oceania,999 days 00:00:00.000000000
+238,Fiji,Vanuatu,FJI,Oceania,999 days 00:00:00.000000000
+239,Fiji,Wallis and Futuna,FJI,Oceania,999 days 00:00:00.000000000
+240,Finland,Norway,FIN,Europe,55 days 00:00:00.000000000
+241,Finland,Russian Federation,FIN,Europe,55 days 00:00:00.000000000
+242,Finland,Sweden,FIN,Europe,55 days 00:00:00.000000000
+243,France,Belgium,FRA,Europe,44 days 00:00:00.000000000
+244,France,Germany,FRA,Europe,44 days 00:00:00.000000000
+245,France,Italy,FRA,Europe,44 days 00:00:00.000000000
+246,France,Luxembourg,FRA,Europe,44 days 00:00:00.000000000
+247,France,Spain,FRA,Europe,44 days 00:00:00.000000000
+248,France,Switzerland,FRA,Europe,44 days 00:00:00.000000000
+249,French Guiana,Brazil,GUF,Americas,999 days 00:00:00.000000000
+250,French Guiana,Suriname,GUF,Americas,999 days 00:00:00.000000000
+251,French Polynesia,Cook Islands,PYF,Oceania,999 days 00:00:00.000000000
+252,Gabon,Cameroon,GAB,Africa,91 days 00:00:00.000000000
+253,Gabon,Congo,GAB,Africa,91 days 00:00:00.000000000
+254,Gabon,Equatorial Guinea,GAB,Africa,91 days 00:00:00.000000000
+255,Gambia,Senegal,GMB,Africa,999 days 00:00:00.000000000
+256,Georgia,Azerbaijan,GEO,Asia,74 days 00:00:00.000000000
+257,Georgia,Russian Federation,GEO,Asia,74 days 00:00:00.000000000
+258,Georgia,Turkey,GEO,Asia,74 days 00:00:00.000000000
+259,Germany,Austria,DEU,Europe,43 days 00:00:00.000000000
+260,Germany,Belgium,DEU,Europe,43 days 00:00:00.000000000
+261,Germany,Czechia,DEU,Europe,43 days 00:00:00.000000000
+262,Germany,Denmark,DEU,Europe,43 days 00:00:00.000000000
+263,Germany,France,DEU,Europe,43 days 00:00:00.000000000
+264,Germany,Luxembourg,DEU,Europe,43 days 00:00:00.000000000
+265,Germany,Netherlands,DEU,Europe,43 days 00:00:00.000000000
+266,Germany,Poland,DEU,Europe,43 days 00:00:00.000000000
+267,Germany,Switzerland,DEU,Europe,43 days 00:00:00.000000000
+268,Ghana,Burkina Faso,GHA,Africa,69 days 00:00:00.000000000
+269,Ghana,Côte d'Ivoire,GHA,Africa,69 days 00:00:00.000000000
+270,Ghana,Togo,GHA,Africa,69 days 00:00:00.000000000
+271,Gibraltar,Spain,GIB,Europe,79 days 00:00:00.000000000
+272,Greece,Albania,GRC,Europe,55 days 00:00:00.000000000
+273,Greece,Bulgaria,GRC,Europe,55 days 00:00:00.000000000
+274,Greece,North Macedonia,GRC,Europe,55 days 00:00:00.000000000
+275,Greece,Turkey,GRC,Europe,55 days 00:00:00.000000000
+276,Greenland,Iceland,GRL,Americas,999 days 00:00:00.000000000
+277,Grenada,Trinidad and Tobago,GRD,Americas,999 days 00:00:00.000000000
+278,Guadeloupe,Antigua and Barbuda,GLP,Americas,999 days 00:00:00.000000000
+279,Guam,Northern Mariana Islands,GUM,Oceania,79 days 00:00:00.000000000
+280,Guam,Palau,GUM,Oceania,79 days 00:00:00.000000000
+281,Guatemala,Belize,GTM,Americas,83 days 00:00:00.000000000
+282,Guatemala,El Salvador,GTM,Americas,83 days 00:00:00.000000000
+283,Guatemala,Honduras,GTM,Americas,83 days 00:00:00.000000000
+284,Guatemala,Mexico,GTM,Americas,83 days 00:00:00.000000000
+285,Guernsey,France,GGY,Europe,77 days 00:00:00.000000000
+286,Guernsey,United Kingdom of Great Britain and Northern Ireland,GGY,Europe,77 days 00:00:00.000000000
+287,Guinea,Côte d'Ivoire,GIN,Africa,78 days 00:00:00.000000000
+288,Guinea,Guinea-Bissau,GIN,Africa,78 days 00:00:00.000000000
+289,Guinea,Liberia,GIN,Africa,78 days 00:00:00.000000000
+290,Guinea,Mali,GIN,Africa,78 days 00:00:00.000000000
+291,Guinea,Senegal,GIN,Africa,78 days 00:00:00.000000000
+292,Guinea,Sierra Leone,GIN,Africa,78 days 00:00:00.000000000
+293,Guinea-Bissau,Guinea,GNB,Africa,104 days 00:00:00.000000000
+294,Guinea-Bissau,Senegal,GNB,Africa,104 days 00:00:00.000000000
+295,Guyana,Brazil,GUY,Americas,114 days 00:00:00.000000000
+296,Guyana,Suriname,GUY,Americas,114 days 00:00:00.000000000
+297,Guyana,Venezuela (Bolivarian Republic of),GUY,Americas,114 days 00:00:00.000000000
+298,Haiti,Cuba,HTI,Americas,109 days 00:00:00.000000000
+299,Haiti,Dominican Republic,HTI,Americas,109 days 00:00:00.000000000
+300,Honduras,El Salvador,HND,Americas,71 days 00:00:00.000000000
+301,Honduras,Guatemala,HND,Americas,71 days 00:00:00.000000000
+302,Honduras,Nicaragua,HND,Americas,71 days 00:00:00.000000000
+303,Hong Kong,China,HKG,Asia,999 days 00:00:00.000000000
+304,Hungary,Austria,HUN,Europe,63 days 00:00:00.000000000
+305,Hungary,Croatia,HUN,Europe,63 days 00:00:00.000000000
+306,Hungary,Romania,HUN,Europe,63 days 00:00:00.000000000
+307,Hungary,Serbia,HUN,Europe,63 days 00:00:00.000000000
+308,Hungary,Slovakia,HUN,Europe,63 days 00:00:00.000000000
+309,Hungary,Slovenia,HUN,Europe,63 days 00:00:00.000000000
+310,Hungary,Ukraine,HUN,Europe,63 days 00:00:00.000000000
+311,Iceland,Faroe Islands,ISL,Europe,55 days 00:00:00.000000000
+312,India,Bangladesh,IND,Asia,59 days 00:00:00.000000000
+313,India,Bhutan,IND,Asia,59 days 00:00:00.000000000
+314,India,China,IND,Asia,59 days 00:00:00.000000000
+315,India,Myanmar,IND,Asia,59 days 00:00:00.000000000
+316,India,Nepal,IND,Asia,59 days 00:00:00.000000000
+317,India,Pakistan,IND,Asia,59 days 00:00:00.000000000
+318,Indonesia,East Timor,IDN,Asia,58 days 00:00:00.000000000
+319,Indonesia,Malaysia,IDN,Asia,58 days 00:00:00.000000000
+320,Indonesia,Papua New Guinea,IDN,Asia,58 days 00:00:00.000000000
+321,Iran (Islamic Republic of),Afghanistan,IRN,Asia,40 days 00:00:00.000000000
+322,Iran (Islamic Republic of),Armenia,IRN,Asia,40 days 00:00:00.000000000
+323,Iran (Islamic Republic of),Azerbaijan,IRN,Asia,40 days 00:00:00.000000000
+324,Iran (Islamic Republic of),Iraq,IRN,Asia,40 days 00:00:00.000000000
+325,Iran (Islamic Republic of),Pakistan,IRN,Asia,40 days 00:00:00.000000000
+326,Iran (Islamic Republic of),Turkey,IRN,Asia,40 days 00:00:00.000000000
+327,Iran (Islamic Republic of),Turkmenistan,IRN,Asia,40 days 00:00:00.000000000
+328,Iraq,Iran (Islamic Republic of),IRQ,Asia,58 days 00:00:00.000000000
+329,Iraq,Jordan,IRQ,Asia,58 days 00:00:00.000000000
+330,Iraq,Kuwait,IRQ,Asia,58 days 00:00:00.000000000
+331,Iraq,Saudi Arabia,IRQ,Asia,58 days 00:00:00.000000000
+332,Iraq,Turkey,IRQ,Asia,58 days 00:00:00.000000000
+333,Ireland,United Kingdom of Great Britain and Northern Ireland,IRL,Europe,57 days 00:00:00.000000000
+334,Isle of Man,Ireland,IMN,Europe,77 days 00:00:00.000000000
+335,Isle of Man,United Kingdom of Great Britain and Northern Ireland,IMN,Europe,77 days 00:00:00.000000000
+336,Israel,Egypt,ISR,Asia,56 days 00:00:00.000000000
+337,Israel,Jordan,ISR,Asia,56 days 00:00:00.000000000
+338,Israel,Lebanon,ISR,Asia,56 days 00:00:00.000000000
+339,Italy,Austria,ITA,Europe,37 days 00:00:00.000000000
+340,Italy,France,ITA,Europe,37 days 00:00:00.000000000
+341,Italy,Slovenia,ITA,Europe,37 days 00:00:00.000000000
+342,Italy,Switzerland,ITA,Europe,37 days 00:00:00.000000000
+343,Jamaica,Cuba,JAM,Americas,88 days 00:00:00.000000000
+344,Jamaica,Haiti,JAM,Americas,88 days 00:00:00.000000000
+345,Japan,Korea (Democratic People's Republic of),JPN,Asia,35 days 00:00:00.000000000
+346,Jersey,France,JEY,Europe,77 days 00:00:00.000000000
+347,Jersey,United Kingdom of Great Britain and Northern Ireland,JEY,Europe,77 days 00:00:00.000000000
+348,Jordan,Iraq,JOR,Asia,66 days 00:00:00.000000000
+349,Jordan,Israel,JOR,Asia,66 days 00:00:00.000000000
+350,Jordan,Saudi Arabia,JOR,Asia,66 days 00:00:00.000000000
+351,Kazakhstan,China,KAZ,Asia,69 days 00:00:00.000000000
+352,Kazakhstan,Kyrgyzstan,KAZ,Asia,69 days 00:00:00.000000000
+353,Kazakhstan,Russian Federation,KAZ,Asia,69 days 00:00:00.000000000
+354,Kazakhstan,Turkmenistan,KAZ,Asia,69 days 00:00:00.000000000
+355,Kazakhstan,Uzbekistan,KAZ,Asia,69 days 00:00:00.000000000
+356,Kenya,Ethiopia,KEN,Africa,76 days 00:00:00.000000000
+357,Kenya,Somalia,KEN,Africa,76 days 00:00:00.000000000
+358,Kenya,South Sudan,KEN,Africa,76 days 00:00:00.000000000
+359,Kenya,"Tanzania, United Republic of",KEN,Africa,76 days 00:00:00.000000000
+360,Kenya,Uganda,KEN,Africa,76 days 00:00:00.000000000
+361,Kiribati,United States of America,KIR,Oceania,999 days 00:00:00.000000000
+362,Korea (Democratic People's Republic of),China,PRK,Asia,999 days 00:00:00.000000000
+363,Korea (Democratic People's Republic of),"Korea, Republic of",PRK,Asia,999 days 00:00:00.000000000
+364,Korea (Democratic People's Republic of),Russian Federation,PRK,Asia,999 days 00:00:00.000000000
+365,"Korea, Republic of",Korea (Democratic People's Republic of),KOR,Asia,34 days 00:00:00.000000000
+366,Kuwait,Iraq,KWT,Asia,57 days 00:00:00.000000000
+367,Kuwait,Saudi Arabia,KWT,Asia,57 days 00:00:00.000000000
+368,Kyrgyzstan,China,KGZ,Asia,74 days 00:00:00.000000000
+369,Kyrgyzstan,Kazakhstan,KGZ,Asia,74 days 00:00:00.000000000
+370,Kyrgyzstan,Tajikistan,KGZ,Asia,74 days 00:00:00.000000000
+371,Kyrgyzstan,Uzbekistan,KGZ,Asia,74 days 00:00:00.000000000
+372,Lao People's Democratic Republic,Cambodia,LAO,Asia,999 days 00:00:00.000000000
+373,Lao People's Democratic Republic,China,LAO,Asia,999 days 00:00:00.000000000
+374,Lao People's Democratic Republic,Myanmar,LAO,Asia,999 days 00:00:00.000000000
+375,Lao People's Democratic Republic,Thailand,LAO,Asia,999 days 00:00:00.000000000
+376,Lao People's Democratic Republic,Viet Nam,LAO,Asia,999 days 00:00:00.000000000
+377,Latvia,Belarus,LVA,Europe,63 days 00:00:00.000000000
+378,Latvia,Estonia,LVA,Europe,63 days 00:00:00.000000000
+379,Latvia,Lithuania,LVA,Europe,63 days 00:00:00.000000000
+380,Latvia,Russian Federation,LVA,Europe,63 days 00:00:00.000000000
+381,Lebanon,Israel,LBN,Asia,59 days 00:00:00.000000000
+382,Lesotho,South Africa,LSO,Africa,174 days 00:00:00.000000000
+383,Liberia,Côte d'Ivoire,LBR,Africa,95 days 00:00:00.000000000
+384,Liberia,Guinea,LBR,Africa,95 days 00:00:00.000000000
+385,Liberia,Sierra Leone,LBR,Africa,95 days 00:00:00.000000000
+386,Libya,Algeria,LBY,Africa,132 days 00:00:00.000000000
+387,Libya,Chad,LBY,Africa,132 days 00:00:00.000000000
+388,Libya,Egypt,LBY,Africa,132 days 00:00:00.000000000
+389,Libya,Niger,LBY,Africa,132 days 00:00:00.000000000
+390,Libya,Sudan,LBY,Africa,132 days 00:00:00.000000000
+391,Libya,Tunisia,LBY,Africa,132 days 00:00:00.000000000
+392,Lithuania,Belarus,LTU,Europe,64 days 00:00:00.000000000
+393,Lithuania,Latvia,LTU,Europe,64 days 00:00:00.000000000
+394,Lithuania,Poland,LTU,Europe,64 days 00:00:00.000000000
+395,Lithuania,Russian Federation,LTU,Europe,64 days 00:00:00.000000000
+396,Luxembourg,Belgium,LUX,Europe,60 days 00:00:00.000000000
+397,Luxembourg,France,LUX,Europe,60 days 00:00:00.000000000
+398,Luxembourg,Germany,LUX,Europe,60 days 00:00:00.000000000
+399,Macao,China,MAC,Asia,999 days 00:00:00.000000000
+400,Madagascar,Mayotte,MDG,Africa,84 days 00:00:00.000000000
+401,Malawi,Mozambique,MWI,Africa,129 days 00:00:00.000000000
+402,Malawi,"Tanzania, United Republic of",MWI,Africa,129 days 00:00:00.000000000
+403,Malawi,Zambia,MWI,Africa,129 days 00:00:00.000000000
+404,Malaysia,Brunei,MYS,Asia,52 days 00:00:00.000000000
+405,Malaysia,Indonesia,MYS,Asia,52 days 00:00:00.000000000
+406,Malaysia,Philippines,MYS,Asia,52 days 00:00:00.000000000
+407,Malaysia,Singapore,MYS,Asia,52 days 00:00:00.000000000
+408,Malaysia,Thailand,MYS,Asia,52 days 00:00:00.000000000
+409,Maldives,Sri Lanka,MDV,Asia,97 days 00:00:00.000000000
+410,Mali,Algeria,MLI,Africa,85 days 00:00:00.000000000
+411,Mali,Burkina Faso,MLI,Africa,85 days 00:00:00.000000000
+412,Mali,Côte d'Ivoire,MLI,Africa,85 days 00:00:00.000000000
+413,Mali,Guinea,MLI,Africa,85 days 00:00:00.000000000
+414,Mali,Mauritania,MLI,Africa,85 days 00:00:00.000000000
+415,Mali,Niger,MLI,Africa,85 days 00:00:00.000000000
+416,Mali,Senegal,MLI,Africa,85 days 00:00:00.000000000
+417,Malta,Italy,MLT,Europe,65 days 00:00:00.000000000
+418,Malta,Tunisia,MLT,Europe,65 days 00:00:00.000000000
+419,Marshall Islands,Nauru,MHL,Oceania,999 days 00:00:00.000000000
+420,Martinique,Dominica,MTQ,Americas,999 days 00:00:00.000000000
+421,Mauritania,Algeria,MRT,Africa,124 days 00:00:00.000000000
+422,Mauritania,Mali,MRT,Africa,124 days 00:00:00.000000000
+423,Mauritania,Senegal,MRT,Africa,124 days 00:00:00.000000000
+424,Mauritania,Western Sahara,MRT,Africa,124 days 00:00:00.000000000
+425,Mauritius,Réunion,MUS,Africa,71 days 00:00:00.000000000
+426,Mayotte,Mozambique,MYT,Africa,999 days 00:00:00.000000000
+427,Mexico,Belize,MEX,Americas,61 days 00:00:00.000000000
+428,Mexico,Guatemala,MEX,Americas,61 days 00:00:00.000000000
+429,Mexico,United States of America,MEX,Americas,61 days 00:00:00.000000000
+430,Micronesia (Federated States of),Papua New Guinea,FSM,Oceania,999 days 00:00:00.000000000
+431,"Moldova, Republic of",Romania,MDA,Europe,66 days 00:00:00.000000000
+432,"Moldova, Republic of",Ukraine,MDA,Europe,66 days 00:00:00.000000000
+433,Mongolia,China,MNG,Asia,119 days 00:00:00.000000000
+434,Mongolia,Russian Federation,MNG,Asia,119 days 00:00:00.000000000
+435,Montenegro,Albania,MNE,Europe,74 days 00:00:00.000000000
+436,Montenegro,Bosnia and Herzegovina,MNE,Europe,74 days 00:00:00.000000000
+437,Montenegro,Croatia,MNE,Europe,74 days 00:00:00.000000000
+438,Montenegro,Serbia,MNE,Europe,74 days 00:00:00.000000000
+439,Morocco,Algeria,MAR,Africa,65 days 00:00:00.000000000
+440,Morocco,Spain,MAR,Africa,65 days 00:00:00.000000000
+441,Morocco,Western Sahara,MAR,Africa,65 days 00:00:00.000000000
+442,Mozambique,Madagascar,MOZ,Africa,115 days 00:00:00.000000000
+443,Mozambique,Malawi,MOZ,Africa,115 days 00:00:00.000000000
+444,Mozambique,South Africa,MOZ,Africa,115 days 00:00:00.000000000
+445,Mozambique,Swaziland,MOZ,Africa,115 days 00:00:00.000000000
+446,Mozambique,"Tanzania, United Republic of",MOZ,Africa,115 days 00:00:00.000000000
+447,Mozambique,Zambia,MOZ,Africa,115 days 00:00:00.000000000
+448,Mozambique,Zimbabwe,MOZ,Africa,115 days 00:00:00.000000000
+449,Myanmar,Bangladesh,MMR,Asia,92 days 00:00:00.000000000
+450,Myanmar,China,MMR,Asia,92 days 00:00:00.000000000
+451,Myanmar,India,MMR,Asia,92 days 00:00:00.000000000
+452,Myanmar,Lao People's Democratic Republic,MMR,Asia,92 days 00:00:00.000000000
+453,Myanmar,Thailand,MMR,Asia,92 days 00:00:00.000000000
+454,Namibia,Angola,NAM,Africa,161 days 00:00:00.000000000
+455,Namibia,Botswana,NAM,Africa,161 days 00:00:00.000000000
+456,Namibia,South Africa,NAM,Africa,161 days 00:00:00.000000000
+457,Namibia,Zambia,NAM,Africa,161 days 00:00:00.000000000
+458,Nauru,Micronesia (Federated States of),NRU,Oceania,999 days 00:00:00.000000000
+459,Nepal,China,NPL,Asia,111 days 00:00:00.000000000
+460,Nepal,India,NPL,Asia,111 days 00:00:00.000000000
+461,Netherlands,Belgium,NLD,Europe,49 days 00:00:00.000000000
+462,Netherlands,Germany,NLD,Europe,49 days 00:00:00.000000000
+463,New Caledonia,Australia,NCL,Oceania,999 days 00:00:00.000000000
+464,New Caledonia,Vanuatu,NCL,Oceania,999 days 00:00:00.000000000
+465,New Zealand,Australia,NZL,Oceania,65 days 00:00:00.000000000
+466,Nicaragua,Costa Rica,NIC,Americas,126 days 00:00:00.000000000
+467,Nicaragua,Honduras,NIC,Americas,126 days 00:00:00.000000000
+468,Niger,Algeria,NER,Africa,78 days 00:00:00.000000000
+469,Niger,Benin,NER,Africa,78 days 00:00:00.000000000
+470,Niger,Burkina Faso,NER,Africa,78 days 00:00:00.000000000
+471,Niger,Chad,NER,Africa,78 days 00:00:00.000000000
+472,Niger,Libya,NER,Africa,78 days 00:00:00.000000000
+473,Niger,Mali,NER,Africa,78 days 00:00:00.000000000
+474,Niger,Nigeria,NER,Africa,78 days 00:00:00.000000000
+475,Nigeria,Benin,NGA,Africa,73 days 00:00:00.000000000
+476,Nigeria,Cameroon,NGA,Africa,73 days 00:00:00.000000000
+477,Nigeria,Chad,NGA,Africa,73 days 00:00:00.000000000
+478,Nigeria,Niger,NGA,Africa,73 days 00:00:00.000000000
+479,Niue,Tonga,NIU,Oceania,999 days 00:00:00.000000000
+480,Norfolk Island,New Zealand,NFK,Oceania,999 days 00:00:00.000000000
+481,North Macedonia,Albania,MKD,Europe,65 days 00:00:00.000000000
+482,North Macedonia,Bulgaria,MKD,Europe,65 days 00:00:00.000000000
+483,North Macedonia,Greece,MKD,Europe,65 days 00:00:00.000000000
+484,North Macedonia,Serbia,MKD,Europe,65 days 00:00:00.000000000
+485,Northern Mariana Islands,Guam,MNP,Oceania,999 days 00:00:00.000000000
+486,Norway,Finland,NOR,Europe,49 days 00:00:00.000000000
+487,Norway,Russian Federation,NOR,Europe,49 days 00:00:00.000000000
+488,Norway,Sweden,NOR,Europe,49 days 00:00:00.000000000
+489,Oman,Saudi Arabia,OMN,Asia,69 days 00:00:00.000000000
+490,Oman,United Arab Emirates,OMN,Asia,69 days 00:00:00.000000000
+491,Oman,Yemen,OMN,Asia,69 days 00:00:00.000000000
+492,Pakistan,Afghanistan,PAK,Asia,59 days 00:00:00.000000000
+493,Pakistan,China,PAK,Asia,59 days 00:00:00.000000000
+494,Pakistan,India,PAK,Asia,59 days 00:00:00.000000000
+495,Pakistan,Iran (Islamic Republic of),PAK,Asia,59 days 00:00:00.000000000
+496,Palau,Guam,PLW,Oceania,999 days 00:00:00.000000000
+497,Palau,Indonesia,PLW,Oceania,999 days 00:00:00.000000000
+498,Palau,Philippines,PLW,Oceania,999 days 00:00:00.000000000
+499,Panama,Colombia,PAN,Americas,61 days 00:00:00.000000000
+500,Panama,Costa Rica,PAN,Americas,61 days 00:00:00.000000000
+501,Papua New Guinea,Australia,PNG,Oceania,999 days 00:00:00.000000000
+502,Papua New Guinea,Indonesia,PNG,Oceania,999 days 00:00:00.000000000
+503,Papua New Guinea,Solomon Islands,PNG,Oceania,999 days 00:00:00.000000000
+504,Paraguay,Argentina,PRY,Americas,78 days 00:00:00.000000000
+505,Paraguay,Bolivia,PRY,Americas,78 days 00:00:00.000000000
+506,Paraguay,Brazil,PRY,Americas,78 days 00:00:00.000000000
+507,Peru,Bolivia,PER,Americas,60 days 00:00:00.000000000
+508,Peru,Brazil,PER,Americas,60 days 00:00:00.000000000
+509,Peru,Chile,PER,Americas,60 days 00:00:00.000000000
+510,Peru,Colombia,PER,Americas,60 days 00:00:00.000000000
+511,Peru,Ecuador,PER,Americas,60 days 00:00:00.000000000
+512,Philippines,Indonesia,PHL,Asia,57 days 00:00:00.000000000
+513,Poland,Belarus,POL,Europe,57 days 00:00:00.000000000
+514,Poland,Czechia,POL,Europe,57 days 00:00:00.000000000
+515,Poland,Germany,POL,Europe,57 days 00:00:00.000000000
+516,Poland,Lithuania,POL,Europe,57 days 00:00:00.000000000
+517,Poland,Russian Federation,POL,Europe,57 days 00:00:00.000000000
+518,Poland,Slovakia,POL,Europe,57 days 00:00:00.000000000
+519,Poland,Ukraine,POL,Europe,57 days 00:00:00.000000000
+520,Portugal,Spain,PRT,Europe,56 days 00:00:00.000000000
+521,Puerto Rico,Dominican Republic,PRI,Americas,72 days 00:00:00.000000000
+522,Qatar,Saudi Arabia,QAT,Asia,54 days 00:00:00.000000000
+523,Réunion,Madagascar,REU,Africa,999 days 00:00:00.000000000
+524,Romania,Bulgaria,ROU,Europe,57 days 00:00:00.000000000
+525,Romania,Hungary,ROU,Europe,57 days 00:00:00.000000000
+526,Romania,"Moldova, Republic of",ROU,Europe,57 days 00:00:00.000000000
+527,Romania,Serbia,ROU,Europe,57 days 00:00:00.000000000
+528,Romania,Ukraine,ROU,Europe,57 days 00:00:00.000000000
+529,Russian Federation,Azerbaijan,RUS,Europe,60 days 00:00:00.000000000
+530,Russian Federation,Belarus,RUS,Europe,60 days 00:00:00.000000000
+531,Russian Federation,China,RUS,Europe,60 days 00:00:00.000000000
+532,Russian Federation,Estonia,RUS,Europe,60 days 00:00:00.000000000
+533,Russian Federation,Finland,RUS,Europe,60 days 00:00:00.000000000
+534,Russian Federation,Georgia,RUS,Europe,60 days 00:00:00.000000000
+535,Russian Federation,Kazakhstan,RUS,Europe,60 days 00:00:00.000000000
+536,Russian Federation,Korea (Democratic People's Republic of),RUS,Europe,60 days 00:00:00.000000000
+537,Russian Federation,Latvia,RUS,Europe,60 days 00:00:00.000000000
+538,Russian Federation,Lithuania,RUS,Europe,60 days 00:00:00.000000000
+539,Russian Federation,Mongolia,RUS,Europe,60 days 00:00:00.000000000
+540,Russian Federation,Norway,RUS,Europe,60 days 00:00:00.000000000
+541,Russian Federation,Poland,RUS,Europe,60 days 00:00:00.000000000
+542,Russian Federation,Ukraine,RUS,Europe,60 days 00:00:00.000000000
+543,Rwanda,Burundi,RWA,Africa,78 days 00:00:00.000000000
+544,Rwanda,"Congo, Democratic Republic of the",RWA,Africa,78 days 00:00:00.000000000
+545,Rwanda,"Tanzania, United Republic of",RWA,Africa,78 days 00:00:00.000000000
+546,Rwanda,Uganda,RWA,Africa,78 days 00:00:00.000000000
+547,Saint Lucia,Barbados,LCA,Americas,999 days 00:00:00.000000000
+548,Saint Lucia,Martinique,LCA,Americas,999 days 00:00:00.000000000
+549,Saint Lucia,Saint Vincent and the Grenadines,LCA,Americas,999 days 00:00:00.000000000
+550,Saint Pierre and Miquelon,Canada,SPM,Americas,999 days 00:00:00.000000000
+551,Saint Vincent and the Grenadines,Barbados,VCT,Americas,999 days 00:00:00.000000000
+552,Saint Vincent and the Grenadines,Grenada,VCT,Americas,999 days 00:00:00.000000000
+553,Sao Tome and Principe,Gabon,STP,Africa,108 days 00:00:00.000000000
+554,Saudi Arabia,Iraq,SAU,Asia,58 days 00:00:00.000000000
+555,Saudi Arabia,Jordan,SAU,Asia,58 days 00:00:00.000000000
+556,Saudi Arabia,Kuwait,SAU,Asia,58 days 00:00:00.000000000
+557,Saudi Arabia,Oman,SAU,Asia,58 days 00:00:00.000000000
+558,Saudi Arabia,Qatar,SAU,Asia,58 days 00:00:00.000000000
+559,Saudi Arabia,United Arab Emirates,SAU,Asia,58 days 00:00:00.000000000
+560,Saudi Arabia,Yemen,SAU,Asia,58 days 00:00:00.000000000
+561,Senegal,Gambia,SEN,Africa,69 days 00:00:00.000000000
+562,Senegal,Guinea,SEN,Africa,69 days 00:00:00.000000000
+563,Senegal,Guinea-Bissau,SEN,Africa,69 days 00:00:00.000000000
+564,Senegal,Mali,SEN,Africa,69 days 00:00:00.000000000
+565,Senegal,Mauritania,SEN,Africa,69 days 00:00:00.000000000
+566,Serbia,Bosnia and Herzegovina,SRB,Europe,62 days 00:00:00.000000000
+567,Serbia,Bulgaria,SRB,Europe,62 days 00:00:00.000000000
+568,Serbia,Croatia,SRB,Europe,62 days 00:00:00.000000000
+569,Serbia,Hungary,SRB,Europe,62 days 00:00:00.000000000
+570,Serbia,Montenegro,SRB,Europe,62 days 00:00:00.000000000
+571,Serbia,North Macedonia,SRB,Europe,62 days 00:00:00.000000000
+572,Serbia,Romania,SRB,Europe,62 days 00:00:00.000000000
+573,Seychelles,Madagascar,SYC,Africa,999 days 00:00:00.000000000
+574,Seychelles,Somalia,SYC,Africa,999 days 00:00:00.000000000
+575,Sierra Leone,Guinea,SLE,Africa,102 days 00:00:00.000000000
+576,Sierra Leone,Liberia,SLE,Africa,102 days 00:00:00.000000000
+577,Singapore,Indonesia,SGP,Asia,43 days 00:00:00.000000000
+578,Slovakia,Austria,SVK,Europe,61 days 00:00:00.000000000
+579,Slovakia,Czechia,SVK,Europe,61 days 00:00:00.000000000
+580,Slovakia,Hungary,SVK,Europe,61 days 00:00:00.000000000
+581,Slovakia,Poland,SVK,Europe,61 days 00:00:00.000000000
+582,Slovakia,Ukraine,SVK,Europe,61 days 00:00:00.000000000
+583,Slovenia,Austria,SVN,Europe,56 days 00:00:00.000000000
+584,Slovenia,Croatia,SVN,Europe,56 days 00:00:00.000000000
+585,Slovenia,Hungary,SVN,Europe,56 days 00:00:00.000000000
+586,Slovenia,Italy,SVN,Europe,56 days 00:00:00.000000000
+587,Somalia,Djibouti,SOM,Africa,91 days 00:00:00.000000000
+588,Somalia,Ethiopia,SOM,Africa,91 days 00:00:00.000000000
+589,Somalia,Kenya,SOM,Africa,91 days 00:00:00.000000000
+590,Solomon Islands,Nauru,SLB,Oceania,999 days 00:00:00.000000000
+591,South Africa,Botswana,ZAF,Africa,61 days 00:00:00.000000000
+592,South Africa,Lesotho,ZAF,Africa,61 days 00:00:00.000000000
+593,South Africa,Mozambique,ZAF,Africa,61 days 00:00:00.000000000
+594,South Africa,Namibia,ZAF,Africa,61 days 00:00:00.000000000
+595,South Africa,Swaziland,ZAF,Africa,61 days 00:00:00.000000000
+596,South Africa,Zimbabwe,ZAF,Africa,61 days 00:00:00.000000000
+597,South Sudan,Central African Republic,SSD,Africa,112 days 00:00:00.000000000
+598,South Sudan,"Congo, Democratic Republic of the",SSD,Africa,112 days 00:00:00.000000000
+599,South Sudan,Eritrea,SSD,Africa,112 days 00:00:00.000000000
+600,South Sudan,Ethiopia,SSD,Africa,112 days 00:00:00.000000000
+601,South Sudan,Kenya,SSD,Africa,112 days 00:00:00.000000000
+602,South Sudan,Sudan,SSD,Africa,112 days 00:00:00.000000000
+603,South Sudan,Uganda,SSD,Africa,112 days 00:00:00.000000000
+604,Spain,France,ESP,Europe,44 days 00:00:00.000000000
+605,Spain,Gibraltar,ESP,Europe,44 days 00:00:00.000000000
+606,Spain,Morocco,ESP,Europe,44 days 00:00:00.000000000
+607,Spain,Portugal,ESP,Europe,44 days 00:00:00.000000000
+608,Sri Lanka,India,LKA,Asia,67 days 00:00:00.000000000
+609,Sri Lanka,Indonesia,LKA,Asia,67 days 00:00:00.000000000
+610,Sudan,Central African Republic,SDN,Africa,95 days 00:00:00.000000000
+611,Sudan,Chad,SDN,Africa,95 days 00:00:00.000000000
+612,Sudan,Egypt,SDN,Africa,95 days 00:00:00.000000000
+613,Sudan,Eritrea,SDN,Africa,95 days 00:00:00.000000000
+614,Sudan,Ethiopia,SDN,Africa,95 days 00:00:00.000000000
+615,Sudan,Libya,SDN,Africa,95 days 00:00:00.000000000
+616,Sudan,South Sudan,SDN,Africa,95 days 00:00:00.000000000
+617,Suriname,Brazil,SUR,Americas,142 days 00:00:00.000000000
+618,Suriname,French Guiana,SUR,Americas,142 days 00:00:00.000000000
+619,Suriname,Guyana,SUR,Americas,142 days 00:00:00.000000000
+620,Swaziland,Mozambique,SWZ,Africa,105 days 00:00:00.000000000
+621,Swaziland,South Africa,SWZ,Africa,105 days 00:00:00.000000000
+622,Sweden,Denmark,SWE,Europe,49 days 00:00:00.000000000
+623,Sweden,Finland,SWE,Europe,49 days 00:00:00.000000000
+624,Sweden,Norway,SWE,Europe,49 days 00:00:00.000000000
+625,Switzerland,Austria,CHE,Europe,49 days 00:00:00.000000000
+626,Switzerland,France,CHE,Europe,49 days 00:00:00.000000000
+627,Switzerland,Germany,CHE,Europe,49 days 00:00:00.000000000
+628,Switzerland,Italy,CHE,Europe,49 days 00:00:00.000000000
+629,Taiwan,China,TWN,Asia,61 days 00:00:00.000000000
+630,Taiwan,Philippines,TWN,Asia,61 days 00:00:00.000000000
+631,Tajikistan,Afghanistan,TJK,Asia,108 days 00:00:00.000000000
+632,Tajikistan,China,TJK,Asia,108 days 00:00:00.000000000
+633,Tajikistan,Kyrgyzstan,TJK,Asia,108 days 00:00:00.000000000
+634,Tajikistan,Uzbekistan,TJK,Asia,108 days 00:00:00.000000000
+635,"Tanzania, United Republic of",Burundi,TZA,Africa,91 days 00:00:00.000000000
+636,"Tanzania, United Republic of","Congo, Democratic Republic of the",TZA,Africa,91 days 00:00:00.000000000
+637,"Tanzania, United Republic of",Kenya,TZA,Africa,91 days 00:00:00.000000000
+638,"Tanzania, United Republic of",Malawi,TZA,Africa,91 days 00:00:00.000000000
+639,"Tanzania, United Republic of",Mozambique,TZA,Africa,91 days 00:00:00.000000000
+640,"Tanzania, United Republic of",Rwanda,TZA,Africa,91 days 00:00:00.000000000
+641,"Tanzania, United Republic of",Uganda,TZA,Africa,91 days 00:00:00.000000000
+642,"Tanzania, United Republic of",Zambia,TZA,Africa,91 days 00:00:00.000000000
+643,Thailand,Cambodia,THA,Asia,58 days 00:00:00.000000000
+644,Thailand,Lao People's Democratic Republic,THA,Asia,58 days 00:00:00.000000000
+645,Thailand,Malaysia,THA,Asia,58 days 00:00:00.000000000
+646,Thailand,Myanmar,THA,Asia,58 days 00:00:00.000000000
+647,Togo,Benin,TGO,Africa,103 days 00:00:00.000000000
+648,Togo,Burkina Faso,TGO,Africa,103 days 00:00:00.000000000
+649,Togo,Ghana,TGO,Africa,103 days 00:00:00.000000000
+650,Tonga,American Samoa,TON,Oceania,999 days 00:00:00.000000000
+651,Tonga,Fiji,TON,Oceania,999 days 00:00:00.000000000
+652,Trinidad and Tobago,Grenada,TTO,Americas,78 days 00:00:00.000000000
+653,Trinidad and Tobago,Venezuela (Bolivarian Republic of),TTO,Americas,78 days 00:00:00.000000000
+654,Tunisia,Algeria,TUN,Africa,67 days 00:00:00.000000000
+655,Tunisia,Libya,TUN,Africa,67 days 00:00:00.000000000
+656,Turkey,Armenia,TUR,Asia,61 days 00:00:00.000000000
+657,Turkey,Azerbaijan,TUR,Asia,61 days 00:00:00.000000000
+658,Turkey,Bulgaria,TUR,Asia,61 days 00:00:00.000000000
+659,Turkey,Georgia,TUR,Asia,61 days 00:00:00.000000000
+660,Turkey,Greece,TUR,Asia,61 days 00:00:00.000000000
+661,Turkey,Iran (Islamic Republic of),TUR,Asia,61 days 00:00:00.000000000
+662,Turkey,Iraq,TUR,Asia,61 days 00:00:00.000000000
+663,Turkmenistan,Afghanistan,TKM,Asia,999 days 00:00:00.000000000
+664,Turkmenistan,Iran (Islamic Republic of),TKM,Asia,999 days 00:00:00.000000000
+665,Turkmenistan,Kazakhstan,TKM,Asia,999 days 00:00:00.000000000
+666,Turkmenistan,Uzbekistan,TKM,Asia,999 days 00:00:00.000000000
+667,Turks and Caicos Islands,Bahamas,TCA,Americas,999 days 00:00:00.000000000
+668,Tuvalu,Wallis and Futuna,TUV,Oceania,999 days 00:00:00.000000000
+669,Uganda,"Congo, Democratic Republic of the",UGA,Africa,111 days 00:00:00.000000000
+670,Uganda,Kenya,UGA,Africa,111 days 00:00:00.000000000
+671,Uganda,Rwanda,UGA,Africa,111 days 00:00:00.000000000
+672,Uganda,South Sudan,UGA,Africa,111 days 00:00:00.000000000
+673,Uganda,"Tanzania, United Republic of",UGA,Africa,111 days 00:00:00.000000000
+674,Ukraine,Belarus,UKR,Europe,68 days 00:00:00.000000000
+675,Ukraine,Hungary,UKR,Europe,68 days 00:00:00.000000000
+676,Ukraine,"Moldova, Republic of",UKR,Europe,68 days 00:00:00.000000000
+677,Ukraine,Poland,UKR,Europe,68 days 00:00:00.000000000
+678,Ukraine,Romania,UKR,Europe,68 days 00:00:00.000000000
+679,Ukraine,Russian Federation,UKR,Europe,68 days 00:00:00.000000000
+680,Ukraine,Slovakia,UKR,Europe,68 days 00:00:00.000000000
+681,United Arab Emirates,Oman,ARE,Asia,60 days 00:00:00.000000000
+682,United Arab Emirates,Saudi Arabia,ARE,Asia,60 days 00:00:00.000000000
+683,United Kingdom of Great Britain and Northern Ireland,Ireland,GBR,Europe,48 days 00:00:00.000000000
+684,United States of America,Canada,USA,Americas,45 days 00:00:00.000000000
+685,United States of America,Mexico,USA,Americas,45 days 00:00:00.000000000
+686,Uruguay,Argentina,URY,Americas,63 days 00:00:00.000000000
+687,Uruguay,Brazil,URY,Americas,63 days 00:00:00.000000000
+688,Uzbekistan,Afghanistan,UZB,Asia,70 days 00:00:00.000000000
+689,Uzbekistan,Kazakhstan,UZB,Asia,70 days 00:00:00.000000000
+690,Uzbekistan,Kyrgyzstan,UZB,Asia,70 days 00:00:00.000000000
+691,Uzbekistan,Tajikistan,UZB,Asia,70 days 00:00:00.000000000
+692,Uzbekistan,Turkmenistan,UZB,Asia,70 days 00:00:00.000000000
+693,Vanuatu,Fiji,VUT,Oceania,999 days 00:00:00.000000000
+694,Vanuatu,Papua New Guinea,VUT,Oceania,999 days 00:00:00.000000000
+695,Venezuela (Bolivarian Republic of),Brazil,VEN,Americas,68 days 00:00:00.000000000
+696,Venezuela (Bolivarian Republic of),Colombia,VEN,Americas,68 days 00:00:00.000000000
+697,Venezuela (Bolivarian Republic of),Grenada,VEN,Americas,68 days 00:00:00.000000000
+698,Venezuela (Bolivarian Republic of),Guyana,VEN,Americas,68 days 00:00:00.000000000
+699,Viet Nam,Cambodia,VNM,Asia,65 days 00:00:00.000000000
+700,Viet Nam,China,VNM,Asia,65 days 00:00:00.000000000
+701,Viet Nam,Lao People's Democratic Republic,VNM,Asia,65 days 00:00:00.000000000
+702,Virgin Islands (British),Anguilla,VGB,Americas,999 days 00:00:00.000000000
+703,Virgin Islands (British),Puerto Rico,VGB,Americas,999 days 00:00:00.000000000
+704,Wallis and Futuna,Samoa,WLF,Oceania,999 days 00:00:00.000000000
+705,Western Sahara,Algeria,ESH,Africa,162 days 00:00:00.000000000
+706,Western Sahara,Mauritania,ESH,Africa,162 days 00:00:00.000000000
+707,Western Sahara,Morocco,ESH,Africa,162 days 00:00:00.000000000
+708,Yemen,Oman,YEM,Asia,119 days 00:00:00.000000000
+709,Yemen,Saudi Arabia,YEM,Asia,119 days 00:00:00.000000000
+710,Zambia,Angola,ZMB,Africa,104 days 00:00:00.000000000
+711,Zambia,Botswana,ZMB,Africa,104 days 00:00:00.000000000
+712,Zambia,"Congo, Democratic Republic of the",ZMB,Africa,104 days 00:00:00.000000000
+713,Zambia,Malawi,ZMB,Africa,104 days 00:00:00.000000000
+714,Zambia,Mozambique,ZMB,Africa,104 days 00:00:00.000000000
+715,Zambia,Namibia,ZMB,Africa,104 days 00:00:00.000000000
+716,Zambia,"Tanzania, United Republic of",ZMB,Africa,104 days 00:00:00.000000000
+717,Zambia,Zimbabwe,ZMB,Africa,104 days 00:00:00.000000000
+718,Zimbabwe,Botswana,ZWE,Africa,131 days 00:00:00.000000000
+719,Zimbabwe,Mozambique,ZWE,Africa,131 days 00:00:00.000000000
+720,Zimbabwe,South Africa,ZWE,Africa,131 days 00:00:00.000000000
+721,Zimbabwe,Zambia,ZWE,Africa,131 days 00:00:00.000000000
