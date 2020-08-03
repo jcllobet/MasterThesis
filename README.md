@@ -14,7 +14,7 @@ Using country proximity, country flights and covid data, does the necessary data
 - trg
 - weight (if relevant)
 - ISO Code
-- # of Days it took to get to 200 infected people since 2020/01/18 outbreak in China. 
+- Number of Days it took to get to 200 infected people since 2020/01/18 outbreak in China. 
 
 ### networkx testing.ipynb
 - Testing the implementation of network distance measures from [Generalized Euclidean Measure to Estimate Network Distances](http://www.michelecoscia.com/wp-content/uploads/2020/03/FULL-CosciaM1099.pdf)
