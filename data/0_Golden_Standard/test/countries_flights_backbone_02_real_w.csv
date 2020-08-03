@@ -1,0 +1,15 @@
+source,target,real weight
+Albania,Greece,0.8778054863
+Albania,Slovenia,0.9457364341
+Bosnia and Herzegovina,Slovenia,0.9233716475
+Montenegro,Slovenia,0.9160305344
+North Macedonia,Slovenia,0.9015151515
+Greece,Albania,0.8778054863
+Slovenia,Albania,0.9457364341
+Croatia,Bosnia and Herzegovina,0.8951342282
+Serbia,Bosnia and Herzegovina,0.883284702
+Slovenia,Bosnia and Herzegovina,0.9233716475
+Bosnia and Herzegovina,Croatia,0.8951342282
+Slovenia,North Macedonia,0.9015151515
+Slovenia,Montenegro,0.9160305344
+Bosnia and Herzegovina,Serbia,0.883284702

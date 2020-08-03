@@ -1,0 +1,4519 @@
+,src,iso-alpha-3,region,trg,weights
+0,Afghanistan,AFG,Asia,Azerbaijan,1
+1,Afghanistan,AFG,Asia,India,1
+2,Afghanistan,AFG,Asia,Iran (Islamic Republic of),1
+3,Afghanistan,AFG,Asia,Kuwait,1
+4,Afghanistan,AFG,Asia,Pakistan,1
+5,Afghanistan,AFG,Asia,Tajikistan,1
+6,Afghanistan,AFG,Asia,Turkey,1
+7,Afghanistan,AFG,Asia,United Arab Emirates,1
+48,Albania,ALB,Europe,Austria,1
+49,Albania,ALB,Europe,Germany,1
+50,Albania,ALB,Europe,Greece,1
+51,Albania,ALB,Europe,Italy,1
+52,Albania,ALB,Europe,Slovenia,1
+53,Albania,ALB,Europe,Turkey,1
+54,Albania,ALB,Europe,United Kingdom of Great Britain and Northern Ireland,1
+69,Algeria,DZA,Africa,Austria,1
+70,Algeria,DZA,Africa,Belgium,1
+71,Algeria,DZA,Africa,Burkina Faso,1
+72,Algeria,DZA,Africa,Canada,1
+73,Algeria,DZA,Africa,China,1
+74,Algeria,DZA,Africa,Côte d'Ivoire,1
+75,Algeria,DZA,Africa,Egypt,1
+76,Algeria,DZA,Africa,France,1
+77,Algeria,DZA,Africa,Germany,1
+78,Algeria,DZA,Africa,Italy,1
+79,Algeria,DZA,Africa,Jordan,1
+80,Algeria,DZA,Africa,Lebanon,1
+81,Algeria,DZA,Africa,Libya,1
+82,Algeria,DZA,Africa,Mali,1
+83,Algeria,DZA,Africa,Malta,1
+84,Algeria,DZA,Africa,Morocco,1
+85,Algeria,DZA,Africa,Niger,1
+86,Algeria,DZA,Africa,Portugal,1
+87,Algeria,DZA,Africa,Qatar,1
+88,Algeria,DZA,Africa,Russian Federation,1
+89,Algeria,DZA,Africa,Saudi Arabia,1
+90,Algeria,DZA,Africa,Senegal,1
+91,Algeria,DZA,Africa,Spain,1
+92,Algeria,DZA,Africa,Switzerland,1
+93,Algeria,DZA,Africa,Tunisia,1
+94,Algeria,DZA,Africa,Turkey,1
+95,Algeria,DZA,Africa,United Arab Emirates,1
+96,Algeria,DZA,Africa,United Kingdom of Great Britain and Northern Ireland,1
+265,American Samoa,ASM,Oceania,United States of America,1
+268,Angola,AGO,Africa,Brazil,1
+269,Angola,AGO,Africa,China,1
+270,Angola,AGO,Africa,Congo,1
+271,Angola,AGO,Africa,"Congo, Democratic Republic of the",1
+272,Angola,AGO,Africa,Cuba,1
+273,Angola,AGO,Africa,Ethiopia,1
+274,Angola,AGO,Africa,France,1
+275,Angola,AGO,Africa,Germany,1
+276,Angola,AGO,Africa,Kenya,1
+277,Angola,AGO,Africa,Morocco,1
+278,Angola,AGO,Africa,Mozambique,1
+279,Angola,AGO,Africa,Namibia,1
+280,Angola,AGO,Africa,Netherlands,1
+281,Angola,AGO,Africa,Portugal,1
+282,Angola,AGO,Africa,Sao Tome and Principe,1
+283,Angola,AGO,Africa,South Africa,1
+284,Angola,AGO,Africa,Spain,1
+285,Angola,AGO,Africa,United Arab Emirates,1
+286,Angola,AGO,Africa,United Kingdom of Great Britain and Northern Ireland,1
+287,Angola,AGO,Africa,Zimbabwe,1
+348,Anguilla,AIA,Americas,Antigua and Barbuda,1
+349,Anguilla,AIA,Americas,Netherlands Antilles,1
+350,Anguilla,AIA,Americas,Puerto Rico,1
+351,Anguilla,AIA,Americas,Virgin Islands (British),1
+356,Antigua and Barbuda,ATG,Americas,Anguilla,1
+357,Antigua and Barbuda,ATG,Americas,Barbados,1
+358,Antigua and Barbuda,ATG,Americas,Canada,1
+359,Antigua and Barbuda,ATG,Americas,Dominica,1
+360,Antigua and Barbuda,ATG,Americas,Dominican Republic,1
+361,Antigua and Barbuda,ATG,Americas,France,1
+362,Antigua and Barbuda,ATG,Americas,Germany,1
+363,Antigua and Barbuda,ATG,Americas,Guadeloupe,1
+364,Antigua and Barbuda,ATG,Americas,Jamaica,1
+365,Antigua and Barbuda,ATG,Americas,Netherlands Antilles,1
+366,Antigua and Barbuda,ATG,Americas,Puerto Rico,1
+367,Antigua and Barbuda,ATG,Americas,Saint Kitts and Nevis,1
+368,Antigua and Barbuda,ATG,Americas,Saint Lucia,1
+369,Antigua and Barbuda,ATG,Americas,Trinidad and Tobago,1
+370,Antigua and Barbuda,ATG,Americas,United Kingdom of Great Britain and Northern Ireland,1
+371,Antigua and Barbuda,ATG,Americas,United States of America,1
+372,Argentina,ARG,Americas,Bolivia,1
+373,Argentina,ARG,Americas,Brazil,1
+374,Argentina,ARG,Americas,Chile,1
+375,Argentina,ARG,Americas,Colombia,1
+376,Argentina,ARG,Americas,Cuba,1
+377,Argentina,ARG,Americas,Dominican Republic,1
+378,Argentina,ARG,Americas,Ecuador,1
+379,Argentina,ARG,Americas,Falkland Islands (Malvinas),1
+380,Argentina,ARG,Americas,France,1
+381,Argentina,ARG,Americas,Germany,1
+382,Argentina,ARG,Americas,Italy,1
+383,Argentina,ARG,Americas,Mexico,1
+384,Argentina,ARG,Americas,Netherlands,1
+385,Argentina,ARG,Americas,Panama,1
+386,Argentina,ARG,Americas,Paraguay,1
+387,Argentina,ARG,Americas,Peru,1
+388,Argentina,ARG,Americas,Spain,1
+389,Argentina,ARG,Americas,United Kingdom of Great Britain and Northern Ireland,1
+390,Argentina,ARG,Americas,United States of America,1
+391,Argentina,ARG,Americas,Uruguay,1
+392,Argentina,ARG,Americas,Venezuela (Bolivarian Republic of),1
+477,Armenia,ARM,Asia,Austria,1
+478,Armenia,ARM,Asia,Belarus,1
+479,Armenia,ARM,Asia,Czechia,1
+480,Armenia,ARM,Asia,France,1
+481,Armenia,ARM,Asia,Greece,1
+482,Armenia,ARM,Asia,Iran (Islamic Republic of),1
+483,Armenia,ARM,Asia,Italy,1
+484,Armenia,ARM,Asia,Kazakhstan,1
+485,Armenia,ARM,Asia,Lebanon,1
+486,Armenia,ARM,Asia,Poland,1
+487,Armenia,ARM,Asia,Russian Federation,1
+488,Armenia,ARM,Asia,Ukraine,1
+489,Armenia,ARM,Asia,United Arab Emirates,1
+529,Aruba,ABW,Americas,Canada,1
+530,Aruba,ABW,Americas,Colombia,1
+531,Aruba,ABW,Americas,Dominican Republic,1
+532,Aruba,ABW,Americas,Netherlands,1
+533,Aruba,ABW,Americas,Netherlands Antilles,1
+534,Aruba,ABW,Americas,Panama,1
+535,Aruba,ABW,Americas,Suriname,1
+536,Aruba,ABW,Americas,United States of America,1
+537,Aruba,ABW,Americas,Venezuela (Bolivarian Republic of),1
+538,Australia,AUS,Oceania,Brunei,1
+539,Australia,AUS,Oceania,Canada,1
+540,Australia,AUS,Oceania,Chile,1
+541,Australia,AUS,Oceania,China,1
+542,Australia,AUS,Oceania,Christmas Island,1
+543,Australia,AUS,Oceania,Cook Islands,1
+544,Australia,AUS,Oceania,East Timor,1
+545,Australia,AUS,Oceania,Fiji,1
+546,Australia,AUS,Oceania,Guam,1
+547,Australia,AUS,Oceania,Hong Kong,1
+548,Australia,AUS,Oceania,India,1
+549,Australia,AUS,Oceania,Indonesia,1
+550,Australia,AUS,Oceania,Japan,1
+551,Australia,AUS,Oceania,Malaysia,1
+552,Australia,AUS,Oceania,Mauritius,1
+553,Australia,AUS,Oceania,Nauru,1
+554,Australia,AUS,Oceania,New Caledonia,1
+555,Australia,AUS,Oceania,New Zealand,1
+556,Australia,AUS,Oceania,Norfolk Island,1
+557,Australia,AUS,Oceania,Papua New Guinea,1
+558,Australia,AUS,Oceania,Philippines,1
+559,Australia,AUS,Oceania,Qatar,1
+560,Australia,AUS,Oceania,Samoa,1
+561,Australia,AUS,Oceania,Singapore,1
+562,Australia,AUS,Oceania,Solomon Islands,1
+563,Australia,AUS,Oceania,South Africa,1
+564,Australia,AUS,Oceania,"Korea, Republic of",1
+565,Australia,AUS,Oceania,Taiwan,1
+566,Australia,AUS,Oceania,Thailand,1
+567,Australia,AUS,Oceania,Tonga,1
+568,Australia,AUS,Oceania,United Arab Emirates,1
+569,Australia,AUS,Oceania,United States of America,1
+570,Australia,AUS,Oceania,Vanuatu,1
+571,Australia,AUS,Oceania,Viet Nam,1
+606,Austria,AUT,Europe,Albania,1
+607,Austria,AUT,Europe,Algeria,1
+608,Austria,AUT,Europe,Armenia,1
+609,Austria,AUT,Europe,Azerbaijan,1
+610,Austria,AUT,Europe,Belarus,1
+611,Austria,AUT,Europe,Belgium,1
+612,Austria,AUT,Europe,Bosnia and Herzegovina,1
+613,Austria,AUT,Europe,Bulgaria,1
+614,Austria,AUT,Europe,Canada,1
+615,Austria,AUT,Europe,China,1
+616,Austria,AUT,Europe,Croatia,1
+617,Austria,AUT,Europe,Cyprus,1
+618,Austria,AUT,Europe,Czechia,1
+619,Austria,AUT,Europe,Denmark,1
+620,Austria,AUT,Europe,Egypt,1
+621,Austria,AUT,Europe,Finland,1
+622,Austria,AUT,Europe,France,1
+623,Austria,AUT,Europe,Georgia,1
+624,Austria,AUT,Europe,Germany,1
+625,Austria,AUT,Europe,Greece,1
+626,Austria,AUT,Europe,Hungary,1
+627,Austria,AUT,Europe,India,1
+628,Austria,AUT,Europe,Iran (Islamic Republic of),1
+629,Austria,AUT,Europe,Iraq,1
+630,Austria,AUT,Europe,Ireland,1
+631,Austria,AUT,Europe,Israel,1
+632,Austria,AUT,Europe,Italy,1
+633,Austria,AUT,Europe,Japan,1
+634,Austria,AUT,Europe,Jordan,1
+635,Austria,AUT,Europe,Kazakhstan,1
+636,Austria,AUT,Europe,Latvia,1
+637,Austria,AUT,Europe,Lithuania,1
+638,Austria,AUT,Europe,Luxembourg,1
+639,Austria,AUT,Europe,North Macedonia,1
+640,Austria,AUT,Europe,Malta,1
+641,Austria,AUT,Europe,"Moldova, Republic of",1
+642,Austria,AUT,Europe,Montenegro,1
+643,Austria,AUT,Europe,Netherlands,1
+644,Austria,AUT,Europe,Norway,1
+645,Austria,AUT,Europe,Poland,1
+646,Austria,AUT,Europe,Portugal,1
+647,Austria,AUT,Europe,Qatar,1
+648,Austria,AUT,Europe,Romania,1
+649,Austria,AUT,Europe,Russian Federation,1
+650,Austria,AUT,Europe,Serbia,1
+651,Austria,AUT,Europe,Slovakia,1
+652,Austria,AUT,Europe,Slovenia,1
+653,Austria,AUT,Europe,Spain,1
+654,Austria,AUT,Europe,Sweden,1
+655,Austria,AUT,Europe,Switzerland,1
+656,Austria,AUT,Europe,Taiwan,1
+657,Austria,AUT,Europe,Thailand,1
+658,Austria,AUT,Europe,Tunisia,1
+659,Austria,AUT,Europe,Turkey,1
+660,Austria,AUT,Europe,Ukraine,1
+661,Austria,AUT,Europe,United Arab Emirates,1
+662,Austria,AUT,Europe,United Kingdom of Great Britain and Northern Ireland,1
+663,Austria,AUT,Europe,United States of America,1
+1012,Azerbaijan,AZE,Asia,Afghanistan,1
+1013,Azerbaijan,AZE,Asia,Austria,1
+1014,Azerbaijan,AZE,Asia,Belarus,1
+1015,Azerbaijan,AZE,Asia,China,1
+1016,Azerbaijan,AZE,Asia,Czechia,1
+1017,Azerbaijan,AZE,Asia,France,1
+1018,Azerbaijan,AZE,Asia,Georgia,1
+1019,Azerbaijan,AZE,Asia,Germany,1
+1020,Azerbaijan,AZE,Asia,Hungary,1
+1021,Azerbaijan,AZE,Asia,Iran (Islamic Republic of),1
+1022,Azerbaijan,AZE,Asia,Israel,1
+1023,Azerbaijan,AZE,Asia,Italy,1
+1024,Azerbaijan,AZE,Asia,Kazakhstan,1
+1025,Azerbaijan,AZE,Asia,Latvia,1
+1026,Azerbaijan,AZE,Asia,Qatar,1
+1027,Azerbaijan,AZE,Asia,Russian Federation,1
+1028,Azerbaijan,AZE,Asia,Turkey,1
+1029,Azerbaijan,AZE,Asia,Turkmenistan,1
+1030,Azerbaijan,AZE,Asia,Ukraine,1
+1031,Azerbaijan,AZE,Asia,United Arab Emirates,1
+1032,Azerbaijan,AZE,Asia,United Kingdom of Great Britain and Northern Ireland,1
+1033,Azerbaijan,AZE,Asia,Uzbekistan,1
+1122,Bahamas,BHS,Americas,Canada,1
+1123,Bahamas,BHS,Americas,Cayman Islands,1
+1124,Bahamas,BHS,Americas,Cuba,1
+1125,Bahamas,BHS,Americas,Jamaica,1
+1126,Bahamas,BHS,Americas,Panama,1
+1127,Bahamas,BHS,Americas,Turks and Caicos Islands,1
+1128,Bahamas,BHS,Americas,United Kingdom of Great Britain and Northern Ireland,1
+1129,Bahamas,BHS,Americas,United States of America,1
+1130,Bahrain,BHR,Asia,Cyprus,1
+1131,Bahrain,BHR,Asia,Egypt,1
+1132,Bahrain,BHR,Asia,Ethiopia,1
+1133,Bahrain,BHR,Asia,France,1
+1134,Bahrain,BHR,Asia,Germany,1
+1135,Bahrain,BHR,Asia,India,1
+1136,Bahrain,BHR,Asia,Iran (Islamic Republic of),1
+1137,Bahrain,BHR,Asia,Iraq,1
+1138,Bahrain,BHR,Asia,Jordan,1
+1139,Bahrain,BHR,Asia,Kuwait,1
+1140,Bahrain,BHR,Asia,Lebanon,1
+1141,Bahrain,BHR,Asia,Oman,1
+1142,Bahrain,BHR,Asia,Pakistan,1
+1143,Bahrain,BHR,Asia,Philippines,1
+1144,Bahrain,BHR,Asia,Qatar,1
+1145,Bahrain,BHR,Asia,Saudi Arabia,1
+1146,Bahrain,BHR,Asia,Sri Lanka,1
+1147,Bahrain,BHR,Asia,Sudan,1
+1148,Bahrain,BHR,Asia,Thailand,1
+1149,Bahrain,BHR,Asia,Turkey,1
+1150,Bahrain,BHR,Asia,United Arab Emirates,1
+1151,Bahrain,BHR,Asia,United Kingdom of Great Britain and Northern Ireland,1
+1152,Bahrain,BHR,Asia,Yemen,1
+1176,Bangladesh,BGD,Asia,Bhutan,1
+1177,Bangladesh,BGD,Asia,Myanmar,1
+1178,Bangladesh,BGD,Asia,China,1
+1179,Bangladesh,BGD,Asia,Hong Kong,1
+1180,Bangladesh,BGD,Asia,India,1
+1181,Bangladesh,BGD,Asia,Italy,1
+1182,Bangladesh,BGD,Asia,Kuwait,1
+1183,Bangladesh,BGD,Asia,Malaysia,1
+1184,Bangladesh,BGD,Asia,Nepal,1
+1185,Bangladesh,BGD,Asia,Oman,1
+1186,Bangladesh,BGD,Asia,Pakistan,1
+1187,Bangladesh,BGD,Asia,Qatar,1
+1188,Bangladesh,BGD,Asia,Saudi Arabia,1
+1189,Bangladesh,BGD,Asia,Singapore,1
+1190,Bangladesh,BGD,Asia,Sri Lanka,1
+1191,Bangladesh,BGD,Asia,Thailand,1
+1192,Bangladesh,BGD,Asia,Turkey,1
+1193,Bangladesh,BGD,Asia,United Arab Emirates,1
+1194,Bangladesh,BGD,Asia,United Kingdom of Great Britain and Northern Ireland,1
+1214,Barbados,BRB,Americas,Antigua and Barbuda,1
+1215,Barbados,BRB,Americas,Brazil,1
+1216,Barbados,BRB,Americas,Canada,1
+1217,Barbados,BRB,Americas,Dominica,1
+1218,Barbados,BRB,Americas,Germany,1
+1219,Barbados,BRB,Americas,Grenada,1
+1220,Barbados,BRB,Americas,Guyana,1
+1221,Barbados,BRB,Americas,Jamaica,1
+1222,Barbados,BRB,Americas,Martinique,1
+1223,Barbados,BRB,Americas,Netherlands Antilles,1
+1224,Barbados,BRB,Americas,Saint Lucia,1
+1225,Barbados,BRB,Americas,Saint Vincent and the Grenadines,1
+1226,Barbados,BRB,Americas,Trinidad and Tobago,1
+1227,Barbados,BRB,Americas,United Kingdom of Great Britain and Northern Ireland,1
+1228,Barbados,BRB,Americas,United States of America,1
+1229,Belarus,BLR,Europe,Armenia,1
+1230,Belarus,BLR,Europe,Austria,1
+1231,Belarus,BLR,Europe,Azerbaijan,1
+1232,Belarus,BLR,Europe,Cyprus,1
+1233,Belarus,BLR,Europe,Czechia,1
+1234,Belarus,BLR,Europe,Finland,1
+1235,Belarus,BLR,Europe,France,1
+1236,Belarus,BLR,Europe,Georgia,1
+1237,Belarus,BLR,Europe,Germany,1
+1238,Belarus,BLR,Europe,Hungary,1
+1239,Belarus,BLR,Europe,Iran (Islamic Republic of),1
+1240,Belarus,BLR,Europe,Israel,1
+1241,Belarus,BLR,Europe,Italy,1
+1242,Belarus,BLR,Europe,Kazakhstan,1
+1243,Belarus,BLR,Europe,Latvia,1
+1244,Belarus,BLR,Europe,Lebanon,1
+1245,Belarus,BLR,Europe,Lithuania,1
+1246,Belarus,BLR,Europe,Netherlands,1
+1247,Belarus,BLR,Europe,Poland,1
+1248,Belarus,BLR,Europe,Russian Federation,1
+1249,Belarus,BLR,Europe,Spain,1
+1250,Belarus,BLR,Europe,Sweden,1
+1251,Belarus,BLR,Europe,Switzerland,1
+1252,Belarus,BLR,Europe,Turkey,1
+1253,Belarus,BLR,Europe,Turkmenistan,1
+1254,Belarus,BLR,Europe,Ukraine,1
+1255,Belarus,BLR,Europe,United Arab Emirates,1
+1256,Belarus,BLR,Europe,United Kingdom of Great Britain and Northern Ireland,1
+1369,Belgium,BEL,Europe,Algeria,1
+1370,Belgium,BEL,Europe,Angola,1
+1371,Belgium,BEL,Europe,Austria,1
+1372,Belgium,BEL,Europe,Benin,1
+1373,Belgium,BEL,Europe,Bulgaria,1
+1374,Belgium,BEL,Europe,Burkina Faso,1
+1375,Belgium,BEL,Europe,Burundi,1
+1376,Belgium,BEL,Europe,Cameroon,1
+1377,Belgium,BEL,Europe,Canada,1
+1378,Belgium,BEL,Europe,China,1
+1379,Belgium,BEL,Europe,"Congo, Democratic Republic of the",1
+1380,Belgium,BEL,Europe,Côte d'Ivoire,1
+1381,Belgium,BEL,Europe,Croatia,1
+1382,Belgium,BEL,Europe,Cyprus,1
+1383,Belgium,BEL,Europe,Czechia,1
+1384,Belgium,BEL,Europe,Denmark,1
+1385,Belgium,BEL,Europe,Egypt,1
+1386,Belgium,BEL,Europe,Estonia,1
+1387,Belgium,BEL,Europe,Finland,1
+1388,Belgium,BEL,Europe,France,1
+1389,Belgium,BEL,Europe,Germany,1
+1390,Belgium,BEL,Europe,Greece,1
+1391,Belgium,BEL,Europe,Hungary,1
+1392,Belgium,BEL,Europe,Iceland,1
+1393,Belgium,BEL,Europe,India,1
+1394,Belgium,BEL,Europe,Ireland,1
+1395,Belgium,BEL,Europe,Israel,1
+1396,Belgium,BEL,Europe,Italy,1
+1397,Belgium,BEL,Europe,Latvia,1
+1398,Belgium,BEL,Europe,Lebanon,1
+1399,Belgium,BEL,Europe,Lithuania,1
+1400,Belgium,BEL,Europe,North Macedonia,1
+1401,Belgium,BEL,Europe,Malta,1
+1402,Belgium,BEL,Europe,Montenegro,1
+1403,Belgium,BEL,Europe,Morocco,1
+1404,Belgium,BEL,Europe,Netherlands,1
+1405,Belgium,BEL,Europe,Norway,1
+1406,Belgium,BEL,Europe,Poland,1
+1407,Belgium,BEL,Europe,Portugal,1
+1408,Belgium,BEL,Europe,Qatar,1
+1409,Belgium,BEL,Europe,Romania,1
+1410,Belgium,BEL,Europe,Russian Federation,1
+1411,Belgium,BEL,Europe,Rwanda,1
+1412,Belgium,BEL,Europe,Senegal,1
+1413,Belgium,BEL,Europe,Serbia,1
+1414,Belgium,BEL,Europe,Sierra Leone,1
+1415,Belgium,BEL,Europe,Slovakia,1
+1416,Belgium,BEL,Europe,Slovenia,1
+1417,Belgium,BEL,Europe,Spain,1
+1418,Belgium,BEL,Europe,Sweden,1
+1419,Belgium,BEL,Europe,Switzerland,1
+1420,Belgium,BEL,Europe,Thailand,1
+1421,Belgium,BEL,Europe,Tunisia,1
+1422,Belgium,BEL,Europe,Turkey,1
+1423,Belgium,BEL,Europe,Ukraine,1
+1424,Belgium,BEL,Europe,United Arab Emirates,1
+1425,Belgium,BEL,Europe,United Kingdom of Great Britain and Northern Ireland,1
+1426,Belgium,BEL,Europe,United States of America,1
+1601,Belize,BLZ,Americas,El Salvador,1
+1602,Belize,BLZ,Americas,Guatemala,1
+1603,Belize,BLZ,Americas,Honduras,1
+1604,Belize,BLZ,Americas,Mexico,1
+1605,Belize,BLZ,Americas,United States of America,1
+1611,Benin,BEN,Africa,Burkina Faso,1
+1612,Benin,BEN,Africa,Cameroon,1
+1613,Benin,BEN,Africa,Congo,1
+1614,Benin,BEN,Africa,Côte d'Ivoire,1
+1615,Benin,BEN,Africa,Equatorial Guinea,1
+1616,Benin,BEN,Africa,Ethiopia,1
+1617,Benin,BEN,Africa,France,1
+1618,Benin,BEN,Africa,Gabon,1
+1619,Benin,BEN,Africa,Ghana,1
+1620,Benin,BEN,Africa,Kenya,1
+1621,Benin,BEN,Africa,Mali,1
+1622,Benin,BEN,Africa,Niger,1
+1623,Benin,BEN,Africa,Nigeria,1
+1624,Benin,BEN,Africa,Senegal,1
+1625,Benin,BEN,Africa,Togo,1
+1671,Bermuda,BMU,Americas,Canada,1
+1672,Bermuda,BMU,Americas,United Kingdom of Great Britain and Northern Ireland,1
+1673,Bermuda,BMU,Americas,United States of America,1
+1674,Bhutan,BTN,Asia,Bangladesh,1
+1675,Bhutan,BTN,Asia,India,1
+1676,Bhutan,BTN,Asia,Nepal,1
+1680,Bolivia,BOL,Americas,Argentina,1
+1681,Bolivia,BOL,Americas,Brazil,1
+1682,Bolivia,BOL,Americas,Chile,1
+1683,Bolivia,BOL,Americas,Colombia,1
+1684,Bolivia,BOL,Americas,Panama,1
+1685,Bolivia,BOL,Americas,Paraguay,1
+1686,Bolivia,BOL,Americas,Peru,1
+1687,Bolivia,BOL,Americas,Spain,1
+1688,Bolivia,BOL,Americas,United States of America,1
+1725,Bosnia and Herzegovina,BIH,Europe,Austria,1
+1726,Bosnia and Herzegovina,BIH,Europe,Croatia,1
+1727,Bosnia and Herzegovina,BIH,Europe,Denmark,1
+1728,Bosnia and Herzegovina,BIH,Europe,Germany,1
+1729,Bosnia and Herzegovina,BIH,Europe,Italy,1
+1730,Bosnia and Herzegovina,BIH,Europe,Serbia,1
+1731,Bosnia and Herzegovina,BIH,Europe,Slovenia,1
+1732,Bosnia and Herzegovina,BIH,Europe,Sweden,1
+1733,Bosnia and Herzegovina,BIH,Europe,Switzerland,1
+1734,Bosnia and Herzegovina,BIH,Europe,Turkey,1
+1755,Botswana,BWA,Africa,Kenya,1
+1756,Botswana,BWA,Africa,Namibia,1
+1757,Botswana,BWA,Africa,South Africa,1
+1758,Botswana,BWA,Africa,Zambia,1
+1759,Botswana,BWA,Africa,Zimbabwe,1
+1775,Brazil,BRA,Americas,Angola,1
+1776,Brazil,BRA,Americas,Argentina,1
+1777,Brazil,BRA,Americas,Barbados,1
+1778,Brazil,BRA,Americas,Bolivia,1
+1779,Brazil,BRA,Americas,Canada,1
+1780,Brazil,BRA,Americas,Cabo Verde,1
+1781,Brazil,BRA,Americas,Chile,1
+1782,Brazil,BRA,Americas,Colombia,1
+1783,Brazil,BRA,Americas,Dominican Republic,1
+1784,Brazil,BRA,Americas,Ecuador,1
+1785,Brazil,BRA,Americas,France,1
+1786,Brazil,BRA,Americas,French Guiana,1
+1787,Brazil,BRA,Americas,Germany,1
+1788,Brazil,BRA,Americas,Italy,1
+1789,Brazil,BRA,Americas,Mexico,1
+1790,Brazil,BRA,Americas,Morocco,1
+1791,Brazil,BRA,Americas,Netherlands,1
+1792,Brazil,BRA,Americas,Panama,1
+1793,Brazil,BRA,Americas,Paraguay,1
+1794,Brazil,BRA,Americas,Peru,1
+1795,Brazil,BRA,Americas,Portugal,1
+1796,Brazil,BRA,Americas,Qatar,1
+1797,Brazil,BRA,Americas,South Africa,1
+1798,Brazil,BRA,Americas,Spain,1
+1799,Brazil,BRA,Americas,Suriname,1
+1800,Brazil,BRA,Americas,Switzerland,1
+1801,Brazil,BRA,Americas,Togo,1
+1802,Brazil,BRA,Americas,Turkey,1
+1803,Brazil,BRA,Americas,United Arab Emirates,1
+1804,Brazil,BRA,Americas,United Kingdom of Great Britain and Northern Ireland,1
+1805,Brazil,BRA,Americas,United States of America,1
+1806,Brazil,BRA,Americas,Uruguay,1
+1807,Brazil,BRA,Americas,Venezuela (Bolivarian Republic of),1
+2105,Brunei,BRN,Asia,Australia,1
+2106,Brunei,BRN,Asia,China,1
+2107,Brunei,BRN,Asia,Hong Kong,1
+2108,Brunei,BRN,Asia,Indonesia,1
+2109,Brunei,BRN,Asia,Malaysia,1
+2110,Brunei,BRN,Asia,Philippines,1
+2111,Brunei,BRN,Asia,Saudi Arabia,1
+2112,Brunei,BRN,Asia,Singapore,1
+2113,Brunei,BRN,Asia,Thailand,1
+2114,Brunei,BRN,Asia,United Arab Emirates,1
+2115,Bulgaria,BGR,Europe,Austria,1
+2116,Bulgaria,BGR,Europe,Belgium,1
+2117,Bulgaria,BGR,Europe,Cyprus,1
+2118,Bulgaria,BGR,Europe,Czechia,1
+2119,Bulgaria,BGR,Europe,Denmark,1
+2120,Bulgaria,BGR,Europe,Finland,1
+2121,Bulgaria,BGR,Europe,France,1
+2122,Bulgaria,BGR,Europe,Germany,1
+2123,Bulgaria,BGR,Europe,Greece,1
+2124,Bulgaria,BGR,Europe,Ireland,1
+2125,Bulgaria,BGR,Europe,Israel,1
+2126,Bulgaria,BGR,Europe,Italy,1
+2127,Bulgaria,BGR,Europe,Luxembourg,1
+2128,Bulgaria,BGR,Europe,Netherlands,1
+2129,Bulgaria,BGR,Europe,Norway,1
+2130,Bulgaria,BGR,Europe,Poland,1
+2131,Bulgaria,BGR,Europe,Romania,1
+2132,Bulgaria,BGR,Europe,Russian Federation,1
+2133,Bulgaria,BGR,Europe,Serbia,1
+2134,Bulgaria,BGR,Europe,Spain,1
+2135,Bulgaria,BGR,Europe,Switzerland,1
+2136,Bulgaria,BGR,Europe,Turkey,1
+2137,Bulgaria,BGR,Europe,United Arab Emirates,1
+2138,Bulgaria,BGR,Europe,United Kingdom of Great Britain and Northern Ireland,1
+2235,Burkina Faso,BFA,Africa,Algeria,1
+2236,Burkina Faso,BFA,Africa,Belgium,1
+2237,Burkina Faso,BFA,Africa,Benin,1
+2238,Burkina Faso,BFA,Africa,Côte d'Ivoire,1
+2239,Burkina Faso,BFA,Africa,Ethiopia,1
+2240,Burkina Faso,BFA,Africa,France,1
+2241,Burkina Faso,BFA,Africa,Ghana,1
+2242,Burkina Faso,BFA,Africa,Mali,1
+2243,Burkina Faso,BFA,Africa,Morocco,1
+2244,Burkina Faso,BFA,Africa,Niger,1
+2245,Burkina Faso,BFA,Africa,Senegal,1
+2246,Burkina Faso,BFA,Africa,Togo,1
+2247,Burkina Faso,BFA,Africa,Tunisia,1
+2248,Burkina Faso,BFA,Africa,Turkey,1
+2319,Burundi,BDI,Africa,Kenya,1
+2320,Burundi,BDI,Africa,Rwanda,1
+2321,Burundi,BDI,Africa,Uganda,1
+2328,Cabo Verde,CPV,Africa,Brazil,1
+2329,Cabo Verde,CPV,Africa,France,1
+2330,Cabo Verde,CPV,Africa,Gambia,1
+2331,Cabo Verde,CPV,Africa,Germany,1
+2332,Cabo Verde,CPV,Africa,Guinea-Bissau,1
+2333,Cabo Verde,CPV,Africa,Luxembourg,1
+2334,Cabo Verde,CPV,Africa,Morocco,1
+2335,Cabo Verde,CPV,Africa,Netherlands,1
+2336,Cabo Verde,CPV,Africa,Portugal,1
+2337,Cabo Verde,CPV,Africa,Sao Tome and Principe,1
+2338,Cabo Verde,CPV,Africa,Senegal,1
+2339,Cabo Verde,CPV,Africa,Spain,1
+2340,Cabo Verde,CPV,Africa,United Kingdom of Great Britain and Northern Ireland,1
+2341,Cabo Verde,CPV,Africa,United States of America,1
+2356,Cambodia,KHM,Asia,Myanmar,1
+2357,Cambodia,KHM,Asia,China,1
+2358,Cambodia,KHM,Asia,Hong Kong,1
+2359,Cambodia,KHM,Asia,Lao People's Democratic Republic,1
+2360,Cambodia,KHM,Asia,Malaysia,1
+2361,Cambodia,KHM,Asia,Philippines,1
+2362,Cambodia,KHM,Asia,Singapore,1
+2363,Cambodia,KHM,Asia,"Korea, Republic of",1
+2364,Cambodia,KHM,Asia,Taiwan,1
+2365,Cambodia,KHM,Asia,Thailand,1
+2366,Cambodia,KHM,Asia,Viet Nam,1
+2389,Cameroon,CMR,Africa,Belgium,1
+2390,Cameroon,CMR,Africa,Benin,1
+2391,Cameroon,CMR,Africa,Central African Republic,1
+2392,Cameroon,CMR,Africa,Chad,1
+2393,Cameroon,CMR,Africa,Congo,1
+2394,Cameroon,CMR,Africa,"Congo, Democratic Republic of the",1
+2395,Cameroon,CMR,Africa,Côte d'Ivoire,1
+2396,Cameroon,CMR,Africa,Equatorial Guinea,1
+2397,Cameroon,CMR,Africa,Ethiopia,1
+2398,Cameroon,CMR,Africa,France,1
+2399,Cameroon,CMR,Africa,Gabon,1
+2400,Cameroon,CMR,Africa,Kenya,1
+2401,Cameroon,CMR,Africa,Morocco,1
+2402,Cameroon,CMR,Africa,Nigeria,1
+2403,Cameroon,CMR,Africa,Senegal,1
+2404,Cameroon,CMR,Africa,Togo,1
+2405,Cameroon,CMR,Africa,Turkey,1
+2491,Canada,CAN,Americas,Algeria,1
+2492,Canada,CAN,Americas,Antigua and Barbuda,1
+2493,Canada,CAN,Americas,Aruba,1
+2494,Canada,CAN,Americas,Australia,1
+2495,Canada,CAN,Americas,Austria,1
+2496,Canada,CAN,Americas,Bahamas,1
+2497,Canada,CAN,Americas,Barbados,1
+2498,Canada,CAN,Americas,Belgium,1
+2499,Canada,CAN,Americas,Bermuda,1
+2500,Canada,CAN,Americas,Brazil,1
+2501,Canada,CAN,Americas,Cayman Islands,1
+2502,Canada,CAN,Americas,Chile,1
+2503,Canada,CAN,Americas,China,1
+2504,Canada,CAN,Americas,Colombia,1
+2505,Canada,CAN,Americas,Costa Rica,1
+2506,Canada,CAN,Americas,Cuba,1
+2507,Canada,CAN,Americas,Denmark,1
+2508,Canada,CAN,Americas,Dominican Republic,1
+2509,Canada,CAN,Americas,Egypt,1
+2510,Canada,CAN,Americas,El Salvador,1
+2511,Canada,CAN,Americas,Ethiopia,1
+2512,Canada,CAN,Americas,France,1
+2513,Canada,CAN,Americas,Germany,1
+2514,Canada,CAN,Americas,Greece,1
+2515,Canada,CAN,Americas,Grenada,1
+2516,Canada,CAN,Americas,Guadeloupe,1
+2517,Canada,CAN,Americas,Guyana,1
+2518,Canada,CAN,Americas,Haiti,1
+2519,Canada,CAN,Americas,Hong Kong,1
+2520,Canada,CAN,Americas,Iceland,1
+2521,Canada,CAN,Americas,Ireland,1
+2522,Canada,CAN,Americas,Israel,1
+2523,Canada,CAN,Americas,Italy,1
+2524,Canada,CAN,Americas,Jamaica,1
+2525,Canada,CAN,Americas,Japan,1
+2526,Canada,CAN,Americas,Jordan,1
+2527,Canada,CAN,Americas,Martinique,1
+2528,Canada,CAN,Americas,Mexico,1
+2529,Canada,CAN,Americas,Morocco,1
+2530,Canada,CAN,Americas,Netherlands,1
+2531,Canada,CAN,Americas,Netherlands Antilles,1
+2532,Canada,CAN,Americas,New Zealand,1
+2533,Canada,CAN,Americas,Pakistan,1
+2534,Canada,CAN,Americas,Panama,1
+2535,Canada,CAN,Americas,Peru,1
+2536,Canada,CAN,Americas,Philippines,1
+2537,Canada,CAN,Americas,Poland,1
+2538,Canada,CAN,Americas,Portugal,1
+2539,Canada,CAN,Americas,Puerto Rico,1
+2540,Canada,CAN,Americas,Qatar,1
+2541,Canada,CAN,Americas,Russian Federation,1
+2542,Canada,CAN,Americas,Saint Lucia,1
+2543,Canada,CAN,Americas,Saint Pierre and Miquelon,1
+2544,Canada,CAN,Americas,Saudi Arabia,1
+2545,Canada,CAN,Americas,"Korea, Republic of",1
+2546,Canada,CAN,Americas,Spain,1
+2547,Canada,CAN,Americas,Switzerland,1
+2548,Canada,CAN,Americas,Taiwan,1
+2549,Canada,CAN,Americas,Trinidad and Tobago,1
+2550,Canada,CAN,Americas,Tunisia,1
+2551,Canada,CAN,Americas,Turkey,1
+2552,Canada,CAN,Americas,Turks and Caicos Islands,1
+2553,Canada,CAN,Americas,United Arab Emirates,1
+2554,Canada,CAN,Americas,United Kingdom of Great Britain and Northern Ireland,1
+2555,Canada,CAN,Americas,United States of America,1
+2621,Cayman Islands,CYM,Americas,Bahamas,1
+2622,Cayman Islands,CYM,Americas,Canada,1
+2623,Cayman Islands,CYM,Americas,Cuba,1
+2624,Cayman Islands,CYM,Americas,Honduras,1
+2625,Cayman Islands,CYM,Americas,Jamaica,1
+2626,Cayman Islands,CYM,Americas,United States of America,1
+2633,Central African Republic,CAF,Africa,Cameroon,1
+2634,Central African Republic,CAF,Africa,Morocco,1
+2645,Chad,TCD,Africa,Cameroon,1
+2646,Chad,TCD,Africa,Ethiopia,1
+2647,Chad,TCD,Africa,France,1
+2648,Chad,TCD,Africa,Niger,1
+2649,Chad,TCD,Africa,Nigeria,1
+2650,Chad,TCD,Africa,Turkey,1
+2681,Chile,CHL,Americas,Argentina,1
+2682,Chile,CHL,Americas,Australia,1
+2683,Chile,CHL,Americas,Bolivia,1
+2684,Chile,CHL,Americas,Brazil,1
+2685,Chile,CHL,Americas,Canada,1
+2686,Chile,CHL,Americas,Colombia,1
+2687,Chile,CHL,Americas,Dominican Republic,1
+2688,Chile,CHL,Americas,Ecuador,1
+2689,Chile,CHL,Americas,France,1
+2690,Chile,CHL,Americas,French Polynesia,1
+2691,Chile,CHL,Americas,Mexico,1
+2692,Chile,CHL,Americas,New Zealand,1
+2693,Chile,CHL,Americas,Panama,1
+2694,Chile,CHL,Americas,Paraguay,1
+2695,Chile,CHL,Americas,Peru,1
+2696,Chile,CHL,Americas,Spain,1
+2697,Chile,CHL,Americas,United States of America,1
+2698,Chile,CHL,Americas,Uruguay,1
+2699,Chile,CHL,Americas,Venezuela (Bolivarian Republic of),1
+2738,China,CHN,Asia,Algeria,1
+2739,China,CHN,Asia,Angola,1
+2740,China,CHN,Asia,Australia,1
+2741,China,CHN,Asia,Austria,1
+2742,China,CHN,Asia,Azerbaijan,1
+2743,China,CHN,Asia,Bangladesh,1
+2744,China,CHN,Asia,Belgium,1
+2745,China,CHN,Asia,Brunei,1
+2746,China,CHN,Asia,Myanmar,1
+2747,China,CHN,Asia,Cambodia,1
+2748,China,CHN,Asia,Canada,1
+2749,China,CHN,Asia,Denmark,1
+2750,China,CHN,Asia,Egypt,1
+2751,China,CHN,Asia,Ethiopia,1
+2752,China,CHN,Asia,Finland,1
+2753,China,CHN,Asia,France,1
+2754,China,CHN,Asia,Georgia,1
+2755,China,CHN,Asia,Germany,1
+2756,China,CHN,Asia,Hong Kong,1
+2757,China,CHN,Asia,India,1
+2758,China,CHN,Asia,Indonesia,1
+2759,China,CHN,Asia,Iran (Islamic Republic of),1
+2760,China,CHN,Asia,Israel,1
+2761,China,CHN,Asia,Italy,1
+2762,China,CHN,Asia,Japan,1
+2763,China,CHN,Asia,Kazakhstan,1
+2764,China,CHN,Asia,Kenya,1
+2765,China,CHN,Asia,Kyrgyzstan,1
+2766,China,CHN,Asia,Lao People's Democratic Republic,1
+2767,China,CHN,Asia,Macao,1
+2768,China,CHN,Asia,Malaysia,1
+2769,China,CHN,Asia,Maldives,1
+2770,China,CHN,Asia,Mauritius,1
+2771,China,CHN,Asia,Mexico,1
+2772,China,CHN,Asia,Mongolia,1
+2773,China,CHN,Asia,Nepal,1
+2774,China,CHN,Asia,Netherlands,1
+2775,China,CHN,Asia,New Zealand,1
+2776,China,CHN,Asia,Korea (Democratic People's Republic of),1
+2777,China,CHN,Asia,Northern Mariana Islands,1
+2778,China,CHN,Asia,Pakistan,1
+2779,China,CHN,Asia,Philippines,1
+2780,China,CHN,Asia,Poland,1
+2781,China,CHN,Asia,Qatar,1
+2782,China,CHN,Asia,Russian Federation,1
+2783,China,CHN,Asia,Saudi Arabia,1
+2784,China,CHN,Asia,Singapore,1
+2785,China,CHN,Asia,South Africa,1
+2786,China,CHN,Asia,"Korea, Republic of",1
+2787,China,CHN,Asia,Spain,1
+2788,China,CHN,Asia,Sri Lanka,1
+2789,China,CHN,Asia,Sweden,1
+2790,China,CHN,Asia,Switzerland,1
+2791,China,CHN,Asia,Taiwan,1
+2792,China,CHN,Asia,Tajikistan,1
+2793,China,CHN,Asia,Thailand,1
+2794,China,CHN,Asia,Turkey,1
+2795,China,CHN,Asia,Turkmenistan,1
+2796,China,CHN,Asia,United Arab Emirates,1
+2797,China,CHN,Asia,United Kingdom of Great Britain and Northern Ireland,1
+2798,China,CHN,Asia,United States of America,1
+2799,China,CHN,Asia,Uzbekistan,1
+2800,China,CHN,Asia,Viet Nam,1
+3746,Christmas Island,CXR,Oceania,Australia,1
+3747,Christmas Island,CXR,Oceania,Cocos (Keeling) Islands,1
+3750,Cocos (Keeling) Islands,CCK,Oceania,Christmas Island,1
+3751,Colombia,COL,Americas,Argentina,1
+3752,Colombia,COL,Americas,Aruba,1
+3753,Colombia,COL,Americas,Bolivia,1
+3754,Colombia,COL,Americas,Brazil,1
+3755,Colombia,COL,Americas,Canada,1
+3756,Colombia,COL,Americas,Chile,1
+3757,Colombia,COL,Americas,Costa Rica,1
+3758,Colombia,COL,Americas,Cuba,1
+3759,Colombia,COL,Americas,Dominican Republic,1
+3760,Colombia,COL,Americas,Ecuador,1
+3761,Colombia,COL,Americas,El Salvador,1
+3762,Colombia,COL,Americas,France,1
+3763,Colombia,COL,Americas,Germany,1
+3764,Colombia,COL,Americas,Guatemala,1
+3765,Colombia,COL,Americas,Mexico,1
+3766,Colombia,COL,Americas,Netherlands Antilles,1
+3767,Colombia,COL,Americas,Panama,1
+3768,Colombia,COL,Americas,Peru,1
+3769,Colombia,COL,Americas,Puerto Rico,1
+3770,Colombia,COL,Americas,Spain,1
+3771,Colombia,COL,Americas,United States of America,1
+3772,Colombia,COL,Americas,Venezuela (Bolivarian Republic of),1
+3861,Comoros,COM,Africa,Djibouti,1
+3862,Comoros,COM,Africa,Kenya,1
+3863,Comoros,COM,Africa,Madagascar,1
+3864,Comoros,COM,Africa,Mayotte,1
+3865,Comoros,COM,Africa,Réunion,1
+3866,Comoros,COM,Africa,"Tanzania, United Republic of",1
+3873,Congo,COG,Africa,Angola,1
+3874,Congo,COG,Africa,Benin,1
+3875,Congo,COG,Africa,Cameroon,1
+3876,Congo,COG,Africa,"Congo, Democratic Republic of the",1
+3877,Congo,COG,Africa,Ethiopia,1
+3878,Congo,COG,Africa,France,1
+3879,Congo,COG,Africa,Gabon,1
+3880,Congo,COG,Africa,Kenya,1
+3881,Congo,COG,Africa,Morocco,1
+3882,Congo,COG,Africa,Rwanda,1
+3883,Congo,COG,Africa,South Africa,1
+3928,"Congo, Democratic Republic of the",COD,Africa,Belgium,1
+3929,"Congo, Democratic Republic of the",COD,Africa,Cameroon,1
+3930,"Congo, Democratic Republic of the",COD,Africa,Congo,1
+3931,"Congo, Democratic Republic of the",COD,Africa,France,1
+3932,"Congo, Democratic Republic of the",COD,Africa,Gabon,1
+3933,"Congo, Democratic Republic of the",COD,Africa,Kenya,1
+3934,"Congo, Democratic Republic of the",COD,Africa,South Africa,1
+3935,"Congo, Democratic Republic of the",COD,Africa,Turkey,1
+3936,"Congo, Democratic Republic of the",COD,Africa,Zambia,1
+4009,Cook Islands,COK,Oceania,Australia,1
+4010,Cook Islands,COK,Oceania,French Polynesia,1
+4011,Cook Islands,COK,Oceania,New Zealand,1
+4012,Cook Islands,COK,Oceania,United States of America,1
+4013,Costa Rica,CRI,Americas,Canada,1
+4014,Costa Rica,CRI,Americas,Colombia,1
+4015,Costa Rica,CRI,Americas,Dominican Republic,1
+4016,Costa Rica,CRI,Americas,El Salvador,1
+4017,Costa Rica,CRI,Americas,Guatemala,1
+4018,Costa Rica,CRI,Americas,Honduras,1
+4019,Costa Rica,CRI,Americas,Mexico,1
+4020,Costa Rica,CRI,Americas,Nicaragua,1
+4021,Costa Rica,CRI,Americas,Panama,1
+4022,Costa Rica,CRI,Americas,Peru,1
+4023,Costa Rica,CRI,Americas,Spain,1
+4024,Costa Rica,CRI,Americas,United States of America,1
+4037,Côte d'Ivoire,CIV,Africa,Algeria,1
+4038,Côte d'Ivoire,CIV,Africa,Belgium,1
+4039,Côte d'Ivoire,CIV,Africa,Benin,1
+4040,Côte d'Ivoire,CIV,Africa,Burkina Faso,1
+4041,Côte d'Ivoire,CIV,Africa,Cameroon,1
+4042,Côte d'Ivoire,CIV,Africa,France,1
+4043,Côte d'Ivoire,CIV,Africa,Gabon,1
+4044,Côte d'Ivoire,CIV,Africa,Ghana,1
+4045,Côte d'Ivoire,CIV,Africa,Guinea,1
+4046,Côte d'Ivoire,CIV,Africa,Kenya,1
+4047,Côte d'Ivoire,CIV,Africa,Liberia,1
+4048,Côte d'Ivoire,CIV,Africa,Mali,1
+4049,Côte d'Ivoire,CIV,Africa,Morocco,1
+4050,Côte d'Ivoire,CIV,Africa,Nigeria,1
+4051,Côte d'Ivoire,CIV,Africa,Senegal,1
+4052,Côte d'Ivoire,CIV,Africa,Sierra Leone,1
+4053,Côte d'Ivoire,CIV,Africa,Togo,1
+4054,Côte d'Ivoire,CIV,Africa,Tunisia,1
+4055,Côte d'Ivoire,CIV,Africa,Turkey,1
+4132,Croatia,HRV,Europe,Austria,1
+4133,Croatia,HRV,Europe,Belgium,1
+4134,Croatia,HRV,Europe,Bosnia and Herzegovina,1
+4135,Croatia,HRV,Europe,Czechia,1
+4136,Croatia,HRV,Europe,Denmark,1
+4137,Croatia,HRV,Europe,Estonia,1
+4138,Croatia,HRV,Europe,Finland,1
+4139,Croatia,HRV,Europe,France,1
+4140,Croatia,HRV,Europe,Germany,1
+4141,Croatia,HRV,Europe,Greece,1
+4142,Croatia,HRV,Europe,Hungary,1
+4143,Croatia,HRV,Europe,Ireland,1
+4144,Croatia,HRV,Europe,Italy,1
+4145,Croatia,HRV,Europe,Luxembourg,1
+4146,Croatia,HRV,Europe,North Macedonia,1
+4147,Croatia,HRV,Europe,Netherlands,1
+4148,Croatia,HRV,Europe,Norway,1
+4149,Croatia,HRV,Europe,Poland,1
+4150,Croatia,HRV,Europe,Russian Federation,1
+4151,Croatia,HRV,Europe,Serbia,1
+4152,Croatia,HRV,Europe,Spain,1
+4153,Croatia,HRV,Europe,Sweden,1
+4154,Croatia,HRV,Europe,Switzerland,1
+4155,Croatia,HRV,Europe,Turkey,1
+4156,Croatia,HRV,Europe,United Kingdom of Great Britain and Northern Ireland,1
+4257,Cuba,CUB,Americas,Angola,1
+4258,Cuba,CUB,Americas,Argentina,1
+4259,Cuba,CUB,Americas,Bahamas,1
+4260,Cuba,CUB,Americas,Canada,1
+4261,Cuba,CUB,Americas,Cayman Islands,1
+4262,Cuba,CUB,Americas,Colombia,1
+4263,Cuba,CUB,Americas,Dominican Republic,1
+4264,Cuba,CUB,Americas,Ecuador,1
+4265,Cuba,CUB,Americas,El Salvador,1
+4266,Cuba,CUB,Americas,France,1
+4267,Cuba,CUB,Americas,Germany,1
+4268,Cuba,CUB,Americas,Italy,1
+4269,Cuba,CUB,Americas,Jamaica,1
+4270,Cuba,CUB,Americas,Martinique,1
+4271,Cuba,CUB,Americas,Mexico,1
+4272,Cuba,CUB,Americas,Netherlands,1
+4273,Cuba,CUB,Americas,Panama,1
+4274,Cuba,CUB,Americas,Peru,1
+4275,Cuba,CUB,Americas,Russian Federation,1
+4276,Cuba,CUB,Americas,Spain,1
+4277,Cuba,CUB,Americas,Switzerland,1
+4278,Cuba,CUB,Americas,United Kingdom of Great Britain and Northern Ireland,1
+4279,Cuba,CUB,Americas,Venezuela (Bolivarian Republic of),1
+4326,Cyprus,CYP,Asia,Austria,1
+4327,Cyprus,CYP,Asia,Bahrain,1
+4328,Cyprus,CYP,Asia,Belarus,1
+4329,Cyprus,CYP,Asia,Belgium,1
+4330,Cyprus,CYP,Asia,Bulgaria,1
+4331,Cyprus,CYP,Asia,Egypt,1
+4332,Cyprus,CYP,Asia,France,1
+4333,Cyprus,CYP,Asia,Germany,1
+4334,Cyprus,CYP,Asia,Greece,1
+4335,Cyprus,CYP,Asia,Hungary,1
+4336,Cyprus,CYP,Asia,Israel,1
+4337,Cyprus,CYP,Asia,Italy,1
+4338,Cyprus,CYP,Asia,Jordan,1
+4339,Cyprus,CYP,Asia,Latvia,1
+4340,Cyprus,CYP,Asia,Lebanon,1
+4341,Cyprus,CYP,Asia,Lithuania,1
+4342,Cyprus,CYP,Asia,Malta,1
+4343,Cyprus,CYP,Asia,"Moldova, Republic of",1
+4344,Cyprus,CYP,Asia,Netherlands,1
+4345,Cyprus,CYP,Asia,Norway,1
+4346,Cyprus,CYP,Asia,Poland,1
+4347,Cyprus,CYP,Asia,Qatar,1
+4348,Cyprus,CYP,Asia,Romania,1
+4349,Cyprus,CYP,Asia,Russian Federation,1
+4350,Cyprus,CYP,Asia,Serbia,1
+4351,Cyprus,CYP,Asia,Sweden,1
+4352,Cyprus,CYP,Asia,Switzerland,1
+4353,Cyprus,CYP,Asia,Turkey,1
+4354,Cyprus,CYP,Asia,Ukraine,1
+4355,Cyprus,CYP,Asia,United Arab Emirates,1
+4356,Cyprus,CYP,Asia,United Kingdom of Great Britain and Northern Ireland,1
+4388,Czechia,CZE,Europe,Armenia,1
+4389,Czechia,CZE,Europe,Austria,1
+4390,Czechia,CZE,Europe,Azerbaijan,1
+4391,Czechia,CZE,Europe,Belarus,1
+4392,Czechia,CZE,Europe,Belgium,1
+4393,Czechia,CZE,Europe,Bulgaria,1
+4394,Czechia,CZE,Europe,Croatia,1
+4395,Czechia,CZE,Europe,Denmark,1
+4396,Czechia,CZE,Europe,Finland,1
+4397,Czechia,CZE,Europe,France,1
+4398,Czechia,CZE,Europe,Germany,1
+4399,Czechia,CZE,Europe,Greece,1
+4400,Czechia,CZE,Europe,Hungary,1
+4401,Czechia,CZE,Europe,Ireland,1
+4402,Czechia,CZE,Europe,Israel,1
+4403,Czechia,CZE,Europe,Italy,1
+4404,Czechia,CZE,Europe,Kazakhstan,1
+4405,Czechia,CZE,Europe,Latvia,1
+4406,Czechia,CZE,Europe,Lithuania,1
+4407,Czechia,CZE,Europe,Malta,1
+4408,Czechia,CZE,Europe,Netherlands,1
+4409,Czechia,CZE,Europe,Norway,1
+4410,Czechia,CZE,Europe,Poland,1
+4411,Czechia,CZE,Europe,Portugal,1
+4412,Czechia,CZE,Europe,Romania,1
+4413,Czechia,CZE,Europe,Russian Federation,1
+4414,Czechia,CZE,Europe,Serbia,1
+4415,Czechia,CZE,Europe,Slovakia,1
+4416,Czechia,CZE,Europe,Slovenia,1
+4417,Czechia,CZE,Europe,"Korea, Republic of",1
+4418,Czechia,CZE,Europe,Spain,1
+4419,Czechia,CZE,Europe,Sweden,1
+4420,Czechia,CZE,Europe,Switzerland,1
+4421,Czechia,CZE,Europe,Turkey,1
+4422,Czechia,CZE,Europe,Ukraine,1
+4423,Czechia,CZE,Europe,United Arab Emirates,1
+4424,Czechia,CZE,Europe,United Kingdom of Great Britain and Northern Ireland,1
+4425,Czechia,CZE,Europe,Uzbekistan,1
+4540,Denmark,DNK,Europe,Austria,1
+4541,Denmark,DNK,Europe,Belgium,1
+4542,Denmark,DNK,Europe,Bosnia and Herzegovina,1
+4543,Denmark,DNK,Europe,Bulgaria,1
+4544,Denmark,DNK,Europe,Canada,1
+4545,Denmark,DNK,Europe,China,1
+4546,Denmark,DNK,Europe,Croatia,1
+4547,Denmark,DNK,Europe,Czechia,1
+4548,Denmark,DNK,Europe,Egypt,1
+4549,Denmark,DNK,Europe,Estonia,1
+4550,Denmark,DNK,Europe,Faroe Islands,1
+4551,Denmark,DNK,Europe,Finland,1
+4552,Denmark,DNK,Europe,France,1
+4553,Denmark,DNK,Europe,Germany,1
+4554,Denmark,DNK,Europe,Greece,1
+4555,Denmark,DNK,Europe,Greenland,1
+4556,Denmark,DNK,Europe,Hungary,1
+4557,Denmark,DNK,Europe,Iceland,1
+4558,Denmark,DNK,Europe,Ireland,1
+4559,Denmark,DNK,Europe,Israel,1
+4560,Denmark,DNK,Europe,Italy,1
+4561,Denmark,DNK,Europe,Japan,1
+4562,Denmark,DNK,Europe,Latvia,1
+4563,Denmark,DNK,Europe,Lithuania,1
+4564,Denmark,DNK,Europe,Luxembourg,1
+4565,Denmark,DNK,Europe,Malta,1
+4566,Denmark,DNK,Europe,Morocco,1
+4567,Denmark,DNK,Europe,Netherlands,1
+4568,Denmark,DNK,Europe,Norway,1
+4569,Denmark,DNK,Europe,Pakistan,1
+4570,Denmark,DNK,Europe,Poland,1
+4571,Denmark,DNK,Europe,Portugal,1
+4572,Denmark,DNK,Europe,Qatar,1
+4573,Denmark,DNK,Europe,Romania,1
+4574,Denmark,DNK,Europe,Russian Federation,1
+4575,Denmark,DNK,Europe,Serbia,1
+4576,Denmark,DNK,Europe,Singapore,1
+4577,Denmark,DNK,Europe,Slovenia,1
+4578,Denmark,DNK,Europe,Spain,1
+4579,Denmark,DNK,Europe,Sweden,1
+4580,Denmark,DNK,Europe,Switzerland,1
+4581,Denmark,DNK,Europe,Thailand,1
+4582,Denmark,DNK,Europe,Turkey,1
+4583,Denmark,DNK,Europe,United Arab Emirates,1
+4584,Denmark,DNK,Europe,United Kingdom of Great Britain and Northern Ireland,1
+4585,Denmark,DNK,Europe,United States of America,1
+4632,Djibouti,DJI,Africa,Comoros,1
+4633,Djibouti,DJI,Africa,Ethiopia,1
+4634,Djibouti,DJI,Africa,France,1
+4635,Djibouti,DJI,Africa,Kenya,1
+4636,Djibouti,DJI,Africa,Saudi Arabia,1
+4637,Djibouti,DJI,Africa,Somalia,1
+4638,Djibouti,DJI,Africa,Turkey,1
+4639,Djibouti,DJI,Africa,United Arab Emirates,1
+4640,Djibouti,DJI,Africa,Yemen,1
+4659,Dominica,DMA,Americas,Antigua and Barbuda,1
+4660,Dominica,DMA,Americas,Barbados,1
+4661,Dominica,DMA,Americas,Virgin Islands (British),1
+4662,Dominica,DMA,Americas,Guadeloupe,1
+4663,Dominica,DMA,Americas,Netherlands Antilles,1
+4664,Dominica,DMA,Americas,Puerto Rico,1
+4665,Dominica,DMA,Americas,Saint Vincent and the Grenadines,1
+4667,Dominican Republic,DOM,Americas,Antigua and Barbuda,1
+4668,Dominican Republic,DOM,Americas,Argentina,1
+4669,Dominican Republic,DOM,Americas,Aruba,1
+4670,Dominican Republic,DOM,Americas,Brazil,1
+4671,Dominican Republic,DOM,Americas,Canada,1
+4672,Dominican Republic,DOM,Americas,Chile,1
+4673,Dominican Republic,DOM,Americas,Colombia,1
+4674,Dominican Republic,DOM,Americas,Costa Rica,1
+4675,Dominican Republic,DOM,Americas,Cuba,1
+4676,Dominican Republic,DOM,Americas,France,1
+4677,Dominican Republic,DOM,Americas,Germany,1
+4678,Dominican Republic,DOM,Americas,Guadeloupe,1
+4679,Dominican Republic,DOM,Americas,Haiti,1
+4680,Dominican Republic,DOM,Americas,Italy,1
+4681,Dominican Republic,DOM,Americas,Jamaica,1
+4682,Dominican Republic,DOM,Americas,Netherlands,1
+4683,Dominican Republic,DOM,Americas,Netherlands Antilles,1
+4684,Dominican Republic,DOM,Americas,Panama,1
+4685,Dominican Republic,DOM,Americas,Peru,1
+4686,Dominican Republic,DOM,Americas,Puerto Rico,1
+4687,Dominican Republic,DOM,Americas,Russian Federation,1
+4688,Dominican Republic,DOM,Americas,Spain,1
+4689,Dominican Republic,DOM,Americas,Switzerland,1
+4690,Dominican Republic,DOM,Americas,Turks and Caicos Islands,1
+4691,Dominican Republic,DOM,Americas,United Kingdom of Great Britain and Northern Ireland,1
+4692,Dominican Republic,DOM,Americas,United States of America,1
+4693,Dominican Republic,DOM,Americas,Venezuela (Bolivarian Republic of),1
+4721,East Timor,TL,Asia,Australia,1
+4722,East Timor,TL,Asia,Indonesia,1
+4723,East Timor,TL,Asia,Singapore,1
+4724,Ecuador,ECU,Americas,Argentina,1
+4725,Ecuador,ECU,Americas,Brazil,1
+4726,Ecuador,ECU,Americas,Chile,1
+4727,Ecuador,ECU,Americas,Colombia,1
+4728,Ecuador,ECU,Americas,Cuba,1
+4729,Ecuador,ECU,Americas,El Salvador,1
+4730,Ecuador,ECU,Americas,Mexico,1
+4731,Ecuador,ECU,Americas,Netherlands,1
+4732,Ecuador,ECU,Americas,Panama,1
+4733,Ecuador,ECU,Americas,Peru,1
+4734,Ecuador,ECU,Americas,Spain,1
+4735,Ecuador,ECU,Americas,United States of America,1
+4736,Ecuador,ECU,Americas,Venezuela (Bolivarian Republic of),1
+4750,Egypt,EGY,Africa,Algeria,1
+4751,Egypt,EGY,Africa,Austria,1
+4752,Egypt,EGY,Africa,Bahrain,1
+4753,Egypt,EGY,Africa,Belgium,1
+4754,Egypt,EGY,Africa,Canada,1
+4755,Egypt,EGY,Africa,China,1
+4756,Egypt,EGY,Africa,Cyprus,1
+4757,Egypt,EGY,Africa,Denmark,1
+4758,Egypt,EGY,Africa,Eritrea,1
+4759,Egypt,EGY,Africa,Ethiopia,1
+4760,Egypt,EGY,Africa,France,1
+4761,Egypt,EGY,Africa,Germany,1
+4762,Egypt,EGY,Africa,Ghana,1
+4763,Egypt,EGY,Africa,Greece,1
+4764,Egypt,EGY,Africa,Hungary,1
+4765,Egypt,EGY,Africa,India,1
+4766,Egypt,EGY,Africa,Indonesia,1
+4767,Egypt,EGY,Africa,Iraq,1
+4768,Egypt,EGY,Africa,Israel,1
+4769,Egypt,EGY,Africa,Italy,1
+4770,Egypt,EGY,Africa,Jordan,1
+4771,Egypt,EGY,Africa,Kenya,1
+4772,Egypt,EGY,Africa,Kuwait,1
+4773,Egypt,EGY,Africa,Lebanon,1
+4774,Egypt,EGY,Africa,Libya,1
+4775,Egypt,EGY,Africa,Morocco,1
+4776,Egypt,EGY,Africa,Netherlands,1
+4777,Egypt,EGY,Africa,Nigeria,1
+4778,Egypt,EGY,Africa,Oman,1
+4779,Egypt,EGY,Africa,Qatar,1
+4780,Egypt,EGY,Africa,Russian Federation,1
+4781,Egypt,EGY,Africa,Saudi Arabia,1
+4782,Egypt,EGY,Africa,South Africa,1
+4783,Egypt,EGY,Africa,South Sudan,1
+4784,Egypt,EGY,Africa,Spain,1
+4785,Egypt,EGY,Africa,Sudan,1
+4786,Egypt,EGY,Africa,Switzerland,1
+4787,Egypt,EGY,Africa,"Tanzania, United Republic of",1
+4788,Egypt,EGY,Africa,Thailand,1
+4789,Egypt,EGY,Africa,Tunisia,1
+4790,Egypt,EGY,Africa,Turkey,1
+4791,Egypt,EGY,Africa,Uganda,1
+4792,Egypt,EGY,Africa,United Arab Emirates,1
+4793,Egypt,EGY,Africa,United Kingdom of Great Britain and Northern Ireland,1
+4794,Egypt,EGY,Africa,United States of America,1
+4795,Egypt,EGY,Africa,Yemen,1
+4888,El Salvador,SLV,Americas,Belize,1
+4889,El Salvador,SLV,Americas,Canada,1
+4890,El Salvador,SLV,Americas,Colombia,1
+4891,El Salvador,SLV,Americas,Costa Rica,1
+4892,El Salvador,SLV,Americas,Cuba,1
+4893,El Salvador,SLV,Americas,Ecuador,1
+4894,El Salvador,SLV,Americas,Guatemala,1
+4895,El Salvador,SLV,Americas,Honduras,1
+4896,El Salvador,SLV,Americas,Mexico,1
+4897,El Salvador,SLV,Americas,Nicaragua,1
+4898,El Salvador,SLV,Americas,Panama,1
+4899,El Salvador,SLV,Americas,Peru,1
+4900,El Salvador,SLV,Americas,Spain,1
+4901,El Salvador,SLV,Americas,United States of America,1
+4916,Equatorial Guinea,GNQ,Africa,Benin,1
+4917,Equatorial Guinea,GNQ,Africa,Cameroon,1
+4918,Equatorial Guinea,GNQ,Africa,Ethiopia,1
+4919,Equatorial Guinea,GNQ,Africa,Gabon,1
+4920,Equatorial Guinea,GNQ,Africa,Morocco,1
+4921,Equatorial Guinea,GNQ,Africa,Nigeria,1
+4922,Equatorial Guinea,GNQ,Africa,Spain,1
+4930,Eritrea,ERI,Africa,Egypt,1
+4931,Eritrea,ERI,Africa,Kenya,1
+4932,Eritrea,ERI,Africa,Saudi Arabia,1
+4933,Eritrea,ERI,Africa,South Sudan,1
+4934,Eritrea,ERI,Africa,Sudan,1
+4935,Eritrea,ERI,Africa,Yemen,1
+4954,Estonia,EST,Europe,Belgium,1
+4955,Estonia,EST,Europe,Croatia,1
+4956,Estonia,EST,Europe,Denmark,1
+4957,Estonia,EST,Europe,Finland,1
+4958,Estonia,EST,Europe,France,1
+4959,Estonia,EST,Europe,Germany,1
+4960,Estonia,EST,Europe,Greece,1
+4961,Estonia,EST,Europe,Italy,1
+4962,Estonia,EST,Europe,Latvia,1
+4963,Estonia,EST,Europe,Lithuania,1
+4964,Estonia,EST,Europe,Netherlands,1
+4965,Estonia,EST,Europe,Norway,1
+4966,Estonia,EST,Europe,Poland,1
+4967,Estonia,EST,Europe,Russian Federation,1
+4968,Estonia,EST,Europe,Spain,1
+4969,Estonia,EST,Europe,Sweden,1
+4970,Estonia,EST,Europe,Turkey,1
+4971,Estonia,EST,Europe,Ukraine,1
+4972,Estonia,EST,Europe,United Kingdom of Great Britain and Northern Ireland,1
+4992,Ethiopia,ETH,Africa,Angola,1
+4993,Ethiopia,ETH,Africa,Bahrain,1
+4994,Ethiopia,ETH,Africa,Benin,1
+4995,Ethiopia,ETH,Africa,Burkina Faso,1
+4996,Ethiopia,ETH,Africa,Cameroon,1
+4997,Ethiopia,ETH,Africa,Chad,1
+4998,Ethiopia,ETH,Africa,China,1
+4999,Ethiopia,ETH,Africa,Congo,1
+5000,Ethiopia,ETH,Africa,"Congo, Democratic Republic of the",1
+5001,Ethiopia,ETH,Africa,Djibouti,1
+5002,Ethiopia,ETH,Africa,Egypt,1
+5003,Ethiopia,ETH,Africa,Equatorial Guinea,1
+5004,Ethiopia,ETH,Africa,France,1
+5005,Ethiopia,ETH,Africa,Gabon,1
+5006,Ethiopia,ETH,Africa,Germany,1
+5007,Ethiopia,ETH,Africa,Ghana,1
+5008,Ethiopia,ETH,Africa,Hong Kong,1
+5009,Ethiopia,ETH,Africa,India,1
+5010,Ethiopia,ETH,Africa,Israel,1
+5011,Ethiopia,ETH,Africa,Italy,1
+5012,Ethiopia,ETH,Africa,Kenya,1
+5013,Ethiopia,ETH,Africa,Kuwait,1
+5014,Ethiopia,ETH,Africa,Lebanon,1
+5015,Ethiopia,ETH,Africa,Malawi,1
+5016,Ethiopia,ETH,Africa,Mali,1
+5017,Ethiopia,ETH,Africa,Mozambique,1
+5018,Ethiopia,ETH,Africa,Niger,1
+5019,Ethiopia,ETH,Africa,Nigeria,1
+5020,Ethiopia,ETH,Africa,Oman,1
+5021,Ethiopia,ETH,Africa,Qatar,1
+5022,Ethiopia,ETH,Africa,Rwanda,1
+5023,Ethiopia,ETH,Africa,Saudi Arabia,1
+5024,Ethiopia,ETH,Africa,Somalia,1
+5025,Ethiopia,ETH,Africa,South Africa,1
+5026,Ethiopia,ETH,Africa,South Sudan,1
+5027,Ethiopia,ETH,Africa,Sudan,1
+5028,Ethiopia,ETH,Africa,"Tanzania, United Republic of",1
+5029,Ethiopia,ETH,Africa,Thailand,1
+5030,Ethiopia,ETH,Africa,Togo,1
+5031,Ethiopia,ETH,Africa,Turkey,1
+5032,Ethiopia,ETH,Africa,Uganda,1
+5033,Ethiopia,ETH,Africa,United Arab Emirates,1
+5034,Ethiopia,ETH,Africa,United Kingdom of Great Britain and Northern Ireland,1
+5035,Ethiopia,ETH,Africa,Yemen,1
+5036,Ethiopia,ETH,Africa,Zambia,1
+5037,Ethiopia,ETH,Africa,Zimbabwe,1
+5268,Falkland Islands (Malvinas),FLK,Americas,Chile,1
+5269,Faroe Islands,FRO,Europe,Denmark,1
+5270,Faroe Islands,FRO,Europe,Norway,1
+5271,Fiji,FJI,Oceania,Australia,1
+5272,Fiji,FJI,Oceania,Hong Kong,1
+5273,Fiji,FJI,Oceania,Kiribati,1
+5274,Fiji,FJI,Oceania,New Caledonia,1
+5275,Fiji,FJI,Oceania,New Zealand,1
+5276,Fiji,FJI,Oceania,Papua New Guinea,1
+5277,Fiji,FJI,Oceania,Samoa,1
+5278,Fiji,FJI,Oceania,Solomon Islands,1
+5279,Fiji,FJI,Oceania,"Korea, Republic of",1
+5280,Fiji,FJI,Oceania,Tonga,1
+5281,Fiji,FJI,Oceania,Tuvalu,1
+5282,Fiji,FJI,Oceania,United States of America,1
+5283,Fiji,FJI,Oceania,Vanuatu,1
+5284,Fiji,FJI,Oceania,Wallis and Futuna,1
+5341,Finland,FIN,Europe,Austria,1
+5342,Finland,FIN,Europe,Belarus,1
+5343,Finland,FIN,Europe,Belgium,1
+5344,Finland,FIN,Europe,Bulgaria,1
+5345,Finland,FIN,Europe,China,1
+5346,Finland,FIN,Europe,Croatia,1
+5347,Finland,FIN,Europe,Czechia,1
+5348,Finland,FIN,Europe,Denmark,1
+5349,Finland,FIN,Europe,Estonia,1
+5350,Finland,FIN,Europe,France,1
+5351,Finland,FIN,Europe,Germany,1
+5352,Finland,FIN,Europe,Greece,1
+5353,Finland,FIN,Europe,Hong Kong,1
+5354,Finland,FIN,Europe,Hungary,1
+5355,Finland,FIN,Europe,Iceland,1
+5356,Finland,FIN,Europe,India,1
+5357,Finland,FIN,Europe,Ireland,1
+5358,Finland,FIN,Europe,Israel,1
+5359,Finland,FIN,Europe,Italy,1
+5360,Finland,FIN,Europe,Japan,1
+5361,Finland,FIN,Europe,Latvia,1
+5362,Finland,FIN,Europe,Lithuania,1
+5363,Finland,FIN,Europe,Netherlands,1
+5364,Finland,FIN,Europe,Norway,1
+5365,Finland,FIN,Europe,Poland,1
+5366,Finland,FIN,Europe,Portugal,1
+5367,Finland,FIN,Europe,Russian Federation,1
+5368,Finland,FIN,Europe,Singapore,1
+5369,Finland,FIN,Europe,Slovenia,1
+5370,Finland,FIN,Europe,"Korea, Republic of",1
+5371,Finland,FIN,Europe,Spain,1
+5372,Finland,FIN,Europe,Sweden,1
+5373,Finland,FIN,Europe,Switzerland,1
+5374,Finland,FIN,Europe,Thailand,1
+5375,Finland,FIN,Europe,Turkey,1
+5376,Finland,FIN,Europe,Ukraine,1
+5377,Finland,FIN,Europe,United Kingdom of Great Britain and Northern Ireland,1
+5378,Finland,FIN,Europe,United States of America,1
+5455,France,FRA,Europe,Algeria,1
+5456,France,FRA,Europe,Angola,1
+5457,France,FRA,Europe,Antigua and Barbuda,1
+5458,France,FRA,Europe,Argentina,1
+5459,France,FRA,Europe,Armenia,1
+5460,France,FRA,Europe,Austria,1
+5461,France,FRA,Europe,Azerbaijan,1
+5462,France,FRA,Europe,Bahrain,1
+5463,France,FRA,Europe,Belarus,1
+5464,France,FRA,Europe,Belgium,1
+5465,France,FRA,Europe,Benin,1
+5466,France,FRA,Europe,Brazil,1
+5467,France,FRA,Europe,Bulgaria,1
+5468,France,FRA,Europe,Burkina Faso,1
+5469,France,FRA,Europe,Cameroon,1
+5470,France,FRA,Europe,Canada,1
+5471,France,FRA,Europe,Cabo Verde,1
+5472,France,FRA,Europe,Central African Republic,1
+5473,France,FRA,Europe,Chad,1
+5474,France,FRA,Europe,Chile,1
+5475,France,FRA,Europe,China,1
+5476,France,FRA,Europe,Colombia,1
+5477,France,FRA,Europe,Congo,1
+5478,France,FRA,Europe,"Congo, Democratic Republic of the",1
+5479,France,FRA,Europe,Côte d'Ivoire,1
+5480,France,FRA,Europe,Croatia,1
+5481,France,FRA,Europe,Cuba,1
+5482,France,FRA,Europe,Cyprus,1
+5483,France,FRA,Europe,Czechia,1
+5484,France,FRA,Europe,Denmark,1
+5485,France,FRA,Europe,Djibouti,1
+5486,France,FRA,Europe,Dominican Republic,1
+5487,France,FRA,Europe,Egypt,1
+5488,France,FRA,Europe,Estonia,1
+5489,France,FRA,Europe,Ethiopia,1
+5490,France,FRA,Europe,Finland,1
+5491,France,FRA,Europe,French Guiana,1
+5492,France,FRA,Europe,Gabon,1
+5493,France,FRA,Europe,Georgia,1
+5494,France,FRA,Europe,Germany,1
+5495,France,FRA,Europe,Greece,1
+5496,France,FRA,Europe,Guadeloupe,1
+5497,France,FRA,Europe,Guernsey,1
+5498,France,FRA,Europe,Guinea,1
+5499,France,FRA,Europe,Haiti,1
+5500,France,FRA,Europe,Hong Kong,1
+5501,France,FRA,Europe,Hungary,1
+5502,France,FRA,Europe,Iceland,1
+5503,France,FRA,Europe,India,1
+5504,France,FRA,Europe,Iran (Islamic Republic of),1
+5505,France,FRA,Europe,Ireland,1
+5506,France,FRA,Europe,Israel,1
+5507,France,FRA,Europe,Italy,1
+5508,France,FRA,Europe,Japan,1
+5509,France,FRA,Europe,Jersey,1
+5510,France,FRA,Europe,Jordan,1
+5511,France,FRA,Europe,Kenya,1
+5512,France,FRA,Europe,Latvia,1
+5513,France,FRA,Europe,Lebanon,1
+5514,France,FRA,Europe,Liberia,1
+5515,France,FRA,Europe,Lithuania,1
+5516,France,FRA,Europe,Luxembourg,1
+5517,France,FRA,Europe,Madagascar,1
+5518,France,FRA,Europe,Malaysia,1
+5519,France,FRA,Europe,Mali,1
+5520,France,FRA,Europe,Malta,1
+5521,France,FRA,Europe,Martinique,1
+5522,France,FRA,Europe,Mauritania,1
+5523,France,FRA,Europe,Mauritius,1
+5524,France,FRA,Europe,Mayotte,1
+5525,France,FRA,Europe,Mexico,1
+5526,France,FRA,Europe,"Moldova, Republic of",1
+5527,France,FRA,Europe,Montenegro,1
+5528,France,FRA,Europe,Morocco,1
+5529,France,FRA,Europe,Netherlands,1
+5530,France,FRA,Europe,Netherlands Antilles,1
+5531,France,FRA,Europe,Niger,1
+5532,France,FRA,Europe,Nigeria,1
+5533,France,FRA,Europe,Norway,1
+5534,France,FRA,Europe,Oman,1
+5535,France,FRA,Europe,Pakistan,1
+5536,France,FRA,Europe,Panama,1
+5537,France,FRA,Europe,Peru,1
+5538,France,FRA,Europe,Poland,1
+5539,France,FRA,Europe,Portugal,1
+5540,France,FRA,Europe,Puerto Rico,1
+5541,France,FRA,Europe,Qatar,1
+5542,France,FRA,Europe,Réunion,1
+5543,France,FRA,Europe,Romania,1
+5544,France,FRA,Europe,Russian Federation,1
+5545,France,FRA,Europe,Saudi Arabia,1
+5546,France,FRA,Europe,Senegal,1
+5547,France,FRA,Europe,Serbia,1
+5548,France,FRA,Europe,Singapore,1
+5549,France,FRA,Europe,Slovakia,1
+5550,France,FRA,Europe,Slovenia,1
+5551,France,FRA,Europe,South Africa,1
+5552,France,FRA,Europe,"Korea, Republic of",1
+5553,France,FRA,Europe,Spain,1
+5554,France,FRA,Europe,Sri Lanka,1
+5555,France,FRA,Europe,Sweden,1
+5556,France,FRA,Europe,Switzerland,1
+5557,France,FRA,Europe,Taiwan,1
+5558,France,FRA,Europe,Thailand,1
+5559,France,FRA,Europe,Togo,1
+5560,France,FRA,Europe,Tunisia,1
+5561,France,FRA,Europe,Turkey,1
+5562,France,FRA,Europe,Ukraine,1
+5563,France,FRA,Europe,United Arab Emirates,1
+5564,France,FRA,Europe,United Kingdom of Great Britain and Northern Ireland,1
+5565,France,FRA,Europe,United States of America,1
+5566,France,FRA,Europe,Uzbekistan,1
+5567,France,FRA,Europe,Venezuela (Bolivarian Republic of),1
+5568,France,FRA,Europe,Viet Nam,1
+5569,France,FRA,Europe,Virgin Islands (British),1
+6145,French Guiana,GUF,Americas,Brazil,1
+6146,French Guiana,GUF,Americas,France,1
+6147,French Guiana,GUF,Americas,Martinique,1
+6148,French Guiana,GUF,Americas,Suriname,1
+6153,French Polynesia,PYF,Oceania,Chile,1
+6154,French Polynesia,PYF,Oceania,Cook Islands,1
+6155,French Polynesia,PYF,Oceania,Japan,1
+6156,French Polynesia,PYF,Oceania,New Caledonia,1
+6157,French Polynesia,PYF,Oceania,New Zealand,1
+6158,French Polynesia,PYF,Oceania,United States of America,1
+6159,Gabon,GAB,Africa,Benin,1
+6160,Gabon,GAB,Africa,Cameroon,1
+6161,Gabon,GAB,Africa,Congo,1
+6162,Gabon,GAB,Africa,"Congo, Democratic Republic of the",1
+6163,Gabon,GAB,Africa,Côte d'Ivoire,1
+6164,Gabon,GAB,Africa,Equatorial Guinea,1
+6165,Gabon,GAB,Africa,Ethiopia,1
+6166,Gabon,GAB,Africa,France,1
+6167,Gabon,GAB,Africa,Morocco,1
+6168,Gabon,GAB,Africa,Nigeria,1
+6169,Gabon,GAB,Africa,Rwanda,1
+6170,Gabon,GAB,Africa,South Africa,1
+6171,Gabon,GAB,Africa,Togo,1
+6172,Gabon,GAB,Africa,Turkey,1
+6201,Gambia,GMB,Africa,Cabo Verde,1
+6202,Gambia,GMB,Africa,Guinea-Bissau,1
+6203,Gambia,GMB,Africa,Morocco,1
+6204,Gambia,GMB,Africa,Senegal,1
+6205,Gambia,GMB,Africa,Sierra Leone,1
+6206,Gambia,GMB,Africa,Spain,1
+6207,Georgia,GEO,Asia,Austria,1
+6208,Georgia,GEO,Asia,Azerbaijan,1
+6209,Georgia,GEO,Asia,Belarus,1
+6210,Georgia,GEO,Asia,China,1
+6211,Georgia,GEO,Asia,France,1
+6212,Georgia,GEO,Asia,Germany,1
+6213,Georgia,GEO,Asia,Greece,1
+6214,Georgia,GEO,Asia,Iraq,1
+6215,Georgia,GEO,Asia,Israel,1
+6216,Georgia,GEO,Asia,Italy,1
+6217,Georgia,GEO,Asia,Kazakhstan,1
+6218,Georgia,GEO,Asia,Latvia,1
+6219,Georgia,GEO,Asia,Lithuania,1
+6220,Georgia,GEO,Asia,Netherlands,1
+6221,Georgia,GEO,Asia,Poland,1
+6222,Georgia,GEO,Asia,Russian Federation,1
+6223,Georgia,GEO,Asia,Turkey,1
+6224,Georgia,GEO,Asia,Ukraine,1
+6225,Georgia,GEO,Asia,United Arab Emirates,1
+6264,Germany,DEU,Europe,Albania,1
+6265,Germany,DEU,Europe,Algeria,1
+6266,Germany,DEU,Europe,Angola,1
+6267,Germany,DEU,Europe,Argentina,1
+6268,Germany,DEU,Europe,Austria,1
+6269,Germany,DEU,Europe,Azerbaijan,1
+6270,Germany,DEU,Europe,Bahrain,1
+6271,Germany,DEU,Europe,Belarus,1
+6272,Germany,DEU,Europe,Belgium,1
+6273,Germany,DEU,Europe,Bosnia and Herzegovina,1
+6274,Germany,DEU,Europe,Brazil,1
+6275,Germany,DEU,Europe,Bulgaria,1
+6276,Germany,DEU,Europe,Canada,1
+6277,Germany,DEU,Europe,Cabo Verde,1
+6278,Germany,DEU,Europe,China,1
+6279,Germany,DEU,Europe,Colombia,1
+6280,Germany,DEU,Europe,Croatia,1
+6281,Germany,DEU,Europe,Cuba,1
+6282,Germany,DEU,Europe,Cyprus,1
+6283,Germany,DEU,Europe,Czechia,1
+6284,Germany,DEU,Europe,Denmark,1
+6285,Germany,DEU,Europe,Dominican Republic,1
+6286,Germany,DEU,Europe,Egypt,1
+6287,Germany,DEU,Europe,Estonia,1
+6288,Germany,DEU,Europe,Ethiopia,1
+6289,Germany,DEU,Europe,Finland,1
+6290,Germany,DEU,Europe,France,1
+6291,Germany,DEU,Europe,Georgia,1
+6292,Germany,DEU,Europe,Ghana,1
+6293,Germany,DEU,Europe,Greece,1
+6294,Germany,DEU,Europe,Guernsey,1
+6295,Germany,DEU,Europe,Hong Kong,1
+6296,Germany,DEU,Europe,Hungary,1
+6297,Germany,DEU,Europe,Iceland,1
+6298,Germany,DEU,Europe,India,1
+6299,Germany,DEU,Europe,Iran (Islamic Republic of),1
+6300,Germany,DEU,Europe,Iraq,1
+6301,Germany,DEU,Europe,Ireland,1
+6302,Germany,DEU,Europe,Israel,1
+6303,Germany,DEU,Europe,Italy,1
+6304,Germany,DEU,Europe,Jamaica,1
+6305,Germany,DEU,Europe,Japan,1
+6306,Germany,DEU,Europe,Jersey,1
+6307,Germany,DEU,Europe,Jordan,1
+6308,Germany,DEU,Europe,Kazakhstan,1
+6309,Germany,DEU,Europe,Kenya,1
+6310,Germany,DEU,Europe,Kuwait,1
+6311,Germany,DEU,Europe,Latvia,1
+6312,Germany,DEU,Europe,Lebanon,1
+6313,Germany,DEU,Europe,Lithuania,1
+6314,Germany,DEU,Europe,Luxembourg,1
+6315,Germany,DEU,Europe,North Macedonia,1
+6316,Germany,DEU,Europe,Malaysia,1
+6317,Germany,DEU,Europe,Maldives,1
+6318,Germany,DEU,Europe,Malta,1
+6319,Germany,DEU,Europe,Mauritius,1
+6320,Germany,DEU,Europe,Mexico,1
+6321,Germany,DEU,Europe,"Moldova, Republic of",1
+6322,Germany,DEU,Europe,Montenegro,1
+6323,Germany,DEU,Europe,Morocco,1
+6324,Germany,DEU,Europe,Namibia,1
+6325,Germany,DEU,Europe,Netherlands,1
+6326,Germany,DEU,Europe,Netherlands Antilles,1
+6327,Germany,DEU,Europe,Nigeria,1
+6328,Germany,DEU,Europe,Norway,1
+6329,Germany,DEU,Europe,Oman,1
+6330,Germany,DEU,Europe,Poland,1
+6331,Germany,DEU,Europe,Portugal,1
+6332,Germany,DEU,Europe,Puerto Rico,1
+6333,Germany,DEU,Europe,Qatar,1
+6334,Germany,DEU,Europe,Romania,1
+6335,Germany,DEU,Europe,Russian Federation,1
+6336,Germany,DEU,Europe,Saudi Arabia,1
+6337,Germany,DEU,Europe,Serbia,1
+6338,Germany,DEU,Europe,Seychelles,1
+6339,Germany,DEU,Europe,Singapore,1
+6340,Germany,DEU,Europe,Slovenia,1
+6341,Germany,DEU,Europe,South Africa,1
+6342,Germany,DEU,Europe,"Korea, Republic of",1
+6343,Germany,DEU,Europe,Spain,1
+6344,Germany,DEU,Europe,Sri Lanka,1
+6345,Germany,DEU,Europe,Sweden,1
+6346,Germany,DEU,Europe,Switzerland,1
+6347,Germany,DEU,Europe,Taiwan,1
+6348,Germany,DEU,Europe,Tajikistan,1
+6349,Germany,DEU,Europe,Thailand,1
+6350,Germany,DEU,Europe,Trinidad and Tobago,1
+6351,Germany,DEU,Europe,Tunisia,1
+6352,Germany,DEU,Europe,Turkey,1
+6353,Germany,DEU,Europe,Turkmenistan,1
+6354,Germany,DEU,Europe,Ukraine,1
+6355,Germany,DEU,Europe,United Arab Emirates,1
+6356,Germany,DEU,Europe,United Kingdom of Great Britain and Northern Ireland,1
+6357,Germany,DEU,Europe,United States of America,1
+6358,Germany,DEU,Europe,Uzbekistan,1
+6359,Germany,DEU,Europe,Venezuela (Bolivarian Republic of),1
+6360,Germany,DEU,Europe,Viet Nam,1
+7137,Ghana,GHA,Africa,Benin,1
+7138,Ghana,GHA,Africa,Burkina Faso,1
+7139,Ghana,GHA,Africa,Côte d'Ivoire,1
+7140,Ghana,GHA,Africa,Egypt,1
+7141,Ghana,GHA,Africa,Ethiopia,1
+7142,Ghana,GHA,Africa,Germany,1
+7143,Ghana,GHA,Africa,Italy,1
+7144,Ghana,GHA,Africa,Kenya,1
+7145,Ghana,GHA,Africa,Lebanon,1
+7146,Ghana,GHA,Africa,Liberia,1
+7147,Ghana,GHA,Africa,Morocco,1
+7148,Ghana,GHA,Africa,Namibia,1
+7149,Ghana,GHA,Africa,Netherlands,1
+7150,Ghana,GHA,Africa,Nigeria,1
+7151,Ghana,GHA,Africa,Portugal,1
+7152,Ghana,GHA,Africa,Senegal,1
+7153,Ghana,GHA,Africa,Sierra Leone,1
+7154,Ghana,GHA,Africa,South Africa,1
+7155,Ghana,GHA,Africa,Spain,1
+7156,Ghana,GHA,Africa,Togo,1
+7157,Ghana,GHA,Africa,Turkey,1
+7158,Ghana,GHA,Africa,United Arab Emirates,1
+7159,Ghana,GHA,Africa,United Kingdom of Great Britain and Northern Ireland,1
+7160,Ghana,GHA,Africa,United States of America,1
+7209,Gibraltar,GIB,Europe,United Kingdom of Great Britain and Northern Ireland,1
+7210,Greece,GRC,Europe,Albania,1
+7211,Greece,GRC,Europe,Armenia,1
+7212,Greece,GRC,Europe,Austria,1
+7213,Greece,GRC,Europe,Belgium,1
+7214,Greece,GRC,Europe,Bulgaria,1
+7215,Greece,GRC,Europe,Canada,1
+7216,Greece,GRC,Europe,Croatia,1
+7217,Greece,GRC,Europe,Cyprus,1
+7218,Greece,GRC,Europe,Czechia,1
+7219,Greece,GRC,Europe,Denmark,1
+7220,Greece,GRC,Europe,Egypt,1
+7221,Greece,GRC,Europe,Estonia,1
+7222,Greece,GRC,Europe,Finland,1
+7223,Greece,GRC,Europe,France,1
+7224,Greece,GRC,Europe,Georgia,1
+7225,Greece,GRC,Europe,Germany,1
+7226,Greece,GRC,Europe,Hungary,1
+7227,Greece,GRC,Europe,Ireland,1
+7228,Greece,GRC,Europe,Israel,1
+7229,Greece,GRC,Europe,Italy,1
+7230,Greece,GRC,Europe,Jordan,1
+7231,Greece,GRC,Europe,Latvia,1
+7232,Greece,GRC,Europe,Lebanon,1
+7233,Greece,GRC,Europe,Lithuania,1
+7234,Greece,GRC,Europe,Luxembourg,1
+7235,Greece,GRC,Europe,Malta,1
+7236,Greece,GRC,Europe,"Moldova, Republic of",1
+7237,Greece,GRC,Europe,Netherlands,1
+7238,Greece,GRC,Europe,Norway,1
+7239,Greece,GRC,Europe,Poland,1
+7240,Greece,GRC,Europe,Qatar,1
+7241,Greece,GRC,Europe,Romania,1
+7242,Greece,GRC,Europe,Russian Federation,1
+7243,Greece,GRC,Europe,Serbia,1
+7244,Greece,GRC,Europe,Spain,1
+7245,Greece,GRC,Europe,Sweden,1
+7246,Greece,GRC,Europe,Switzerland,1
+7247,Greece,GRC,Europe,Turkey,1
+7248,Greece,GRC,Europe,Ukraine,1
+7249,Greece,GRC,Europe,United Arab Emirates,1
+7250,Greece,GRC,Europe,United Kingdom of Great Britain and Northern Ireland,1
+7251,Greece,GRC,Europe,United States of America,1
+7378,Greenland,GRL,Americas,Denmark,1
+7379,Greenland,GRL,Americas,Iceland,1
+7380,Grenada,GRD,Americas,Barbados,1
+7381,Grenada,GRD,Americas,Canada,1
+7382,Grenada,GRD,Americas,Saint Lucia,1
+7383,Grenada,GRD,Americas,Saint Vincent and the Grenadines,1
+7384,Grenada,GRD,Americas,Trinidad and Tobago,1
+7385,Grenada,GRD,Americas,United States of America,1
+7386,Grenada,GRD,Americas,Venezuela (Bolivarian Republic of),1
+7387,Guadeloupe,GLP,Americas,Antigua and Barbuda,1
+7388,Guadeloupe,GLP,Americas,Canada,1
+7389,Guadeloupe,GLP,Americas,Dominica,1
+7390,Guadeloupe,GLP,Americas,Dominican Republic,1
+7391,Guadeloupe,GLP,Americas,France,1
+7392,Guadeloupe,GLP,Americas,Haiti,1
+7393,Guadeloupe,GLP,Americas,Martinique,1
+7394,Guadeloupe,GLP,Americas,Netherlands Antilles,1
+7395,Guadeloupe,GLP,Americas,Puerto Rico,1
+7396,Guadeloupe,GLP,Americas,United States of America,1
+7397,Guam,GUM,Oceania,Australia,1
+7398,Guam,GUM,Oceania,Hong Kong,1
+7399,Guam,GUM,Oceania,Japan,1
+7400,Guam,GUM,Oceania,Micronesia (Federated States of),1
+7401,Guam,GUM,Oceania,Northern Mariana Islands,1
+7402,Guam,GUM,Oceania,Palau,1
+7403,Guam,GUM,Oceania,Philippines,1
+7404,Guam,GUM,Oceania,"Korea, Republic of",1
+7405,Guam,GUM,Oceania,Taiwan,1
+7406,Guam,GUM,Oceania,United States of America,1
+7417,Guatemala,GTM,Americas,Belize,1
+7418,Guatemala,GTM,Americas,Colombia,1
+7419,Guatemala,GTM,Americas,Costa Rica,1
+7420,Guatemala,GTM,Americas,El Salvador,1
+7421,Guatemala,GTM,Americas,Honduras,1
+7422,Guatemala,GTM,Americas,Mexico,1
+7423,Guatemala,GTM,Americas,Nicaragua,1
+7424,Guatemala,GTM,Americas,Panama,1
+7425,Guatemala,GTM,Americas,United States of America,1
+7453,Guernsey,GGY,Europe,France,1
+7454,Guernsey,GGY,Europe,Germany,1
+7455,Guernsey,GGY,Europe,Jersey,1
+7456,Guernsey,GGY,Europe,Netherlands,1
+7457,Guernsey,GGY,Europe,United Kingdom of Great Britain and Northern Ireland,1
+7463,Guinea,GIN,Africa,Côte d'Ivoire,1
+7464,Guinea,GIN,Africa,France,1
+7465,Guinea,GIN,Africa,Guinea-Bissau,1
+7466,Guinea,GIN,Africa,Mali,1
+7467,Guinea,GIN,Africa,Mauritania,1
+7468,Guinea,GIN,Africa,Morocco,1
+7469,Guinea,GIN,Africa,Senegal,1
+7470,Guinea,GIN,Africa,Togo,1
+7511,Guinea-Bissau,GNB,Africa,Cabo Verde,1
+7512,Guinea-Bissau,GNB,Africa,Gambia,1
+7513,Guinea-Bissau,GNB,Africa,Guinea,1
+7514,Guinea-Bissau,GNB,Africa,Morocco,1
+7515,Guinea-Bissau,GNB,Africa,Senegal,1
+7521,Guyana,GUY,Americas,Barbados,1
+7522,Guyana,GUY,Americas,Canada,1
+7523,Guyana,GUY,Americas,Jamaica,1
+7524,Guyana,GUY,Americas,Suriname,1
+7525,Guyana,GUY,Americas,Trinidad and Tobago,1
+7526,Guyana,GUY,Americas,United States of America,1
+7527,Guyana,GUY,Americas,Venezuela (Bolivarian Republic of),1
+7542,Haiti,HTI,Americas,Canada,1
+7543,Haiti,HTI,Americas,Dominican Republic,1
+7544,Haiti,HTI,Americas,Guadeloupe,1
+7545,Haiti,HTI,Americas,Netherlands Antilles,1
+7546,Haiti,HTI,Americas,Panama,1
+7547,Haiti,HTI,Americas,Turks and Caicos Islands,1
+7548,Haiti,HTI,Americas,United States of America,1
+7556,Honduras,HND,Americas,Belize,1
+7557,Honduras,HND,Americas,Cayman Islands,1
+7558,Honduras,HND,Americas,Costa Rica,1
+7559,Honduras,HND,Americas,El Salvador,1
+7560,Honduras,HND,Americas,Guatemala,1
+7561,Honduras,HND,Americas,Mexico,1
+7562,Honduras,HND,Americas,Panama,1
+7563,Honduras,HND,Americas,United States of America,1
+7580,Hong Kong,HKG,Asia,Australia,1
+7581,Hong Kong,HKG,Asia,Bangladesh,1
+7582,Hong Kong,HKG,Asia,Brunei,1
+7583,Hong Kong,HKG,Asia,Myanmar,1
+7584,Hong Kong,HKG,Asia,Cambodia,1
+7585,Hong Kong,HKG,Asia,Canada,1
+7586,Hong Kong,HKG,Asia,China,1
+7587,Hong Kong,HKG,Asia,Ethiopia,1
+7588,Hong Kong,HKG,Asia,Fiji,1
+7589,Hong Kong,HKG,Asia,Finland,1
+7590,Hong Kong,HKG,Asia,France,1
+7591,Hong Kong,HKG,Asia,Germany,1
+7592,Hong Kong,HKG,Asia,Guam,1
+7593,Hong Kong,HKG,Asia,India,1
+7594,Hong Kong,HKG,Asia,Indonesia,1
+7595,Hong Kong,HKG,Asia,Israel,1
+7596,Hong Kong,HKG,Asia,Italy,1
+7597,Hong Kong,HKG,Asia,Japan,1
+7598,Hong Kong,HKG,Asia,Kazakhstan,1
+7599,Hong Kong,HKG,Asia,Malaysia,1
+7600,Hong Kong,HKG,Asia,Maldives,1
+7601,Hong Kong,HKG,Asia,Mauritius,1
+7602,Hong Kong,HKG,Asia,Mongolia,1
+7603,Hong Kong,HKG,Asia,Nepal,1
+7604,Hong Kong,HKG,Asia,Netherlands,1
+7605,Hong Kong,HKG,Asia,New Zealand,1
+7606,Hong Kong,HKG,Asia,Papua New Guinea,1
+7607,Hong Kong,HKG,Asia,Philippines,1
+7608,Hong Kong,HKG,Asia,Qatar,1
+7609,Hong Kong,HKG,Asia,Russian Federation,1
+7610,Hong Kong,HKG,Asia,Saudi Arabia,1
+7611,Hong Kong,HKG,Asia,Singapore,1
+7612,Hong Kong,HKG,Asia,South Africa,1
+7613,Hong Kong,HKG,Asia,"Korea, Republic of",1
+7614,Hong Kong,HKG,Asia,Switzerland,1
+7615,Hong Kong,HKG,Asia,Taiwan,1
+7616,Hong Kong,HKG,Asia,Thailand,1
+7617,Hong Kong,HKG,Asia,Turkey,1
+7618,Hong Kong,HKG,Asia,United Arab Emirates,1
+7619,Hong Kong,HKG,Asia,United Kingdom of Great Britain and Northern Ireland,1
+7620,Hong Kong,HKG,Asia,United States of America,1
+7621,Hong Kong,HKG,Asia,Viet Nam,1
+7622,Hungary,HUN,Europe,Austria,1
+7623,Hungary,HUN,Europe,Azerbaijan,1
+7624,Hungary,HUN,Europe,Belarus,1
+7625,Hungary,HUN,Europe,Belgium,1
+7626,Hungary,HUN,Europe,Croatia,1
+7627,Hungary,HUN,Europe,Cyprus,1
+7628,Hungary,HUN,Europe,Czechia,1
+7629,Hungary,HUN,Europe,Denmark,1
+7630,Hungary,HUN,Europe,Egypt,1
+7631,Hungary,HUN,Europe,Finland,1
+7632,Hungary,HUN,Europe,France,1
+7633,Hungary,HUN,Europe,Germany,1
+7634,Hungary,HUN,Europe,Greece,1
+7635,Hungary,HUN,Europe,Ireland,1
+7636,Hungary,HUN,Europe,Israel,1
+7637,Hungary,HUN,Europe,Italy,1
+7638,Hungary,HUN,Europe,Latvia,1
+7639,Hungary,HUN,Europe,Malta,1
+7640,Hungary,HUN,Europe,Netherlands,1
+7641,Hungary,HUN,Europe,Norway,1
+7642,Hungary,HUN,Europe,Poland,1
+7643,Hungary,HUN,Europe,Portugal,1
+7644,Hungary,HUN,Europe,Qatar,1
+7645,Hungary,HUN,Europe,Romania,1
+7646,Hungary,HUN,Europe,Russian Federation,1
+7647,Hungary,HUN,Europe,Serbia,1
+7648,Hungary,HUN,Europe,Spain,1
+7649,Hungary,HUN,Europe,Sweden,1
+7650,Hungary,HUN,Europe,Switzerland,1
+7651,Hungary,HUN,Europe,Turkey,1
+7652,Hungary,HUN,Europe,Ukraine,1
+7653,Hungary,HUN,Europe,United Arab Emirates,1
+7654,Hungary,HUN,Europe,United Kingdom of Great Britain and Northern Ireland,1
+7853,Iceland,ISL,Europe,Belgium,1
+7854,Iceland,ISL,Europe,Canada,1
+7855,Iceland,ISL,Europe,Denmark,1
+7856,Iceland,ISL,Europe,Finland,1
+7857,Iceland,ISL,Europe,France,1
+7858,Iceland,ISL,Europe,Germany,1
+7859,Iceland,ISL,Europe,Greenland,1
+7860,Iceland,ISL,Europe,Netherlands,1
+7861,Iceland,ISL,Europe,Norway,1
+7862,Iceland,ISL,Europe,Spain,1
+7863,Iceland,ISL,Europe,Sweden,1
+7864,Iceland,ISL,Europe,Switzerland,1
+7865,Iceland,ISL,Europe,United Kingdom of Great Britain and Northern Ireland,1
+7866,Iceland,ISL,Europe,United States of America,1
+7867,India,IND,Asia,Afghanistan,1
+7868,India,IND,Asia,Australia,1
+7869,India,IND,Asia,Austria,1
+7870,India,IND,Asia,Bahrain,1
+7871,India,IND,Asia,Bangladesh,1
+7872,India,IND,Asia,Belgium,1
+7873,India,IND,Asia,Bhutan,1
+7874,India,IND,Asia,Myanmar,1
+7875,India,IND,Asia,China,1
+7876,India,IND,Asia,Egypt,1
+7877,India,IND,Asia,Ethiopia,1
+7878,India,IND,Asia,Finland,1
+7879,India,IND,Asia,France,1
+7880,India,IND,Asia,Germany,1
+7881,India,IND,Asia,Hong Kong,1
+7882,India,IND,Asia,Iran (Islamic Republic of),1
+7883,India,IND,Asia,Israel,1
+7884,India,IND,Asia,Italy,1
+7885,India,IND,Asia,Japan,1
+7886,India,IND,Asia,Jordan,1
+7887,India,IND,Asia,Kazakhstan,1
+7888,India,IND,Asia,Kenya,1
+7889,India,IND,Asia,Kuwait,1
+7890,India,IND,Asia,Malaysia,1
+7891,India,IND,Asia,Maldives,1
+7892,India,IND,Asia,Mauritius,1
+7893,India,IND,Asia,Nepal,1
+7894,India,IND,Asia,Netherlands,1
+7895,India,IND,Asia,Oman,1
+7896,India,IND,Asia,Pakistan,1
+7897,India,IND,Asia,Qatar,1
+7898,India,IND,Asia,Réunion,1
+7899,India,IND,Asia,Russian Federation,1
+7900,India,IND,Asia,Saudi Arabia,1
+7901,India,IND,Asia,Singapore,1
+7902,India,IND,Asia,South Africa,1
+7903,India,IND,Asia,"Korea, Republic of",1
+7904,India,IND,Asia,Sri Lanka,1
+7905,India,IND,Asia,Switzerland,1
+7906,India,IND,Asia,Taiwan,1
+7907,India,IND,Asia,Tajikistan,1
+7908,India,IND,Asia,Thailand,1
+7909,India,IND,Asia,Turkey,1
+7910,India,IND,Asia,Turkmenistan,1
+7911,India,IND,Asia,United Arab Emirates,1
+7912,India,IND,Asia,United Kingdom of Great Britain and Northern Ireland,1
+7913,India,IND,Asia,United States of America,1
+7914,India,IND,Asia,Uzbekistan,1
+7915,India,IND,Asia,Yemen,1
+8161,Indonesia,IDN,Asia,Australia,1
+8162,Indonesia,IDN,Asia,Brunei,1
+8163,Indonesia,IDN,Asia,China,1
+8164,Indonesia,IDN,Asia,East Timor,1
+8165,Indonesia,IDN,Asia,Egypt,1
+8166,Indonesia,IDN,Asia,Hong Kong,1
+8167,Indonesia,IDN,Asia,Japan,1
+8168,Indonesia,IDN,Asia,Malaysia,1
+8169,Indonesia,IDN,Asia,Papua New Guinea,1
+8170,Indonesia,IDN,Asia,Philippines,1
+8171,Indonesia,IDN,Asia,Qatar,1
+8172,Indonesia,IDN,Asia,Saudi Arabia,1
+8173,Indonesia,IDN,Asia,Singapore,1
+8174,Indonesia,IDN,Asia,"Korea, Republic of",1
+8175,Indonesia,IDN,Asia,Sri Lanka,1
+8176,Indonesia,IDN,Asia,Taiwan,1
+8177,Indonesia,IDN,Asia,Thailand,1
+8178,Indonesia,IDN,Asia,United Arab Emirates,1
+8179,Indonesia,IDN,Asia,Viet Nam,1
+8218,Iran (Islamic Republic of),IRN,Asia,Afghanistan,1
+8219,Iran (Islamic Republic of),IRN,Asia,Armenia,1
+8220,Iran (Islamic Republic of),IRN,Asia,Austria,1
+8221,Iran (Islamic Republic of),IRN,Asia,Azerbaijan,1
+8222,Iran (Islamic Republic of),IRN,Asia,Bahrain,1
+8223,Iran (Islamic Republic of),IRN,Asia,Belarus,1
+8224,Iran (Islamic Republic of),IRN,Asia,China,1
+8225,Iran (Islamic Republic of),IRN,Asia,France,1
+8226,Iran (Islamic Republic of),IRN,Asia,Germany,1
+8227,Iran (Islamic Republic of),IRN,Asia,India,1
+8228,Iran (Islamic Republic of),IRN,Asia,Iraq,1
+8229,Iran (Islamic Republic of),IRN,Asia,Italy,1
+8230,Iran (Islamic Republic of),IRN,Asia,Kazakhstan,1
+8231,Iran (Islamic Republic of),IRN,Asia,Kuwait,1
+8232,Iran (Islamic Republic of),IRN,Asia,Lebanon,1
+8233,Iran (Islamic Republic of),IRN,Asia,Malaysia,1
+8234,Iran (Islamic Republic of),IRN,Asia,Netherlands,1
+8235,Iran (Islamic Republic of),IRN,Asia,Oman,1
+8236,Iran (Islamic Republic of),IRN,Asia,Pakistan,1
+8237,Iran (Islamic Republic of),IRN,Asia,Qatar,1
+8238,Iran (Islamic Republic of),IRN,Asia,Russian Federation,1
+8239,Iran (Islamic Republic of),IRN,Asia,Saudi Arabia,1
+8240,Iran (Islamic Republic of),IRN,Asia,Sweden,1
+8241,Iran (Islamic Republic of),IRN,Asia,Tajikistan,1
+8242,Iran (Islamic Republic of),IRN,Asia,Thailand,1
+8243,Iran (Islamic Republic of),IRN,Asia,Turkey,1
+8244,Iran (Islamic Republic of),IRN,Asia,United Arab Emirates,1
+8245,Iran (Islamic Republic of),IRN,Asia,United Kingdom of Great Britain and Northern Ireland,1
+8246,Iran (Islamic Republic of),IRN,Asia,Uzbekistan,1
+8421,Iraq,IRQ,Asia,Austria,1
+8422,Iraq,IRQ,Asia,Bahrain,1
+8423,Iraq,IRQ,Asia,Egypt,1
+8424,Iraq,IRQ,Asia,Georgia,1
+8425,Iraq,IRQ,Asia,Germany,1
+8426,Iraq,IRQ,Asia,Iran (Islamic Republic of),1
+8427,Iraq,IRQ,Asia,Jordan,1
+8428,Iraq,IRQ,Asia,Kuwait,1
+8429,Iraq,IRQ,Asia,Lebanon,1
+8430,Iraq,IRQ,Asia,Netherlands,1
+8431,Iraq,IRQ,Asia,Qatar,1
+8432,Iraq,IRQ,Asia,Sweden,1
+8433,Iraq,IRQ,Asia,Turkey,1
+8434,Iraq,IRQ,Asia,United Arab Emirates,1
+8491,Ireland,IRL,Europe,Austria,1
+8492,Ireland,IRL,Europe,Belgium,1
+8493,Ireland,IRL,Europe,Bulgaria,1
+8494,Ireland,IRL,Europe,Canada,1
+8495,Ireland,IRL,Europe,Croatia,1
+8496,Ireland,IRL,Europe,Czechia,1
+8497,Ireland,IRL,Europe,Denmark,1
+8498,Ireland,IRL,Europe,Finland,1
+8499,Ireland,IRL,Europe,France,1
+8500,Ireland,IRL,Europe,Germany,1
+8501,Ireland,IRL,Europe,Greece,1
+8502,Ireland,IRL,Europe,Hungary,1
+8503,Ireland,IRL,Europe,Isle of Man,1
+8504,Ireland,IRL,Europe,Italy,1
+8505,Ireland,IRL,Europe,Jersey,1
+8506,Ireland,IRL,Europe,Latvia,1
+8507,Ireland,IRL,Europe,Lithuania,1
+8508,Ireland,IRL,Europe,Luxembourg,1
+8509,Ireland,IRL,Europe,Malta,1
+8510,Ireland,IRL,Europe,"Moldova, Republic of",1
+8511,Ireland,IRL,Europe,Morocco,1
+8512,Ireland,IRL,Europe,Netherlands,1
+8513,Ireland,IRL,Europe,Norway,1
+8514,Ireland,IRL,Europe,Poland,1
+8515,Ireland,IRL,Europe,Portugal,1
+8516,Ireland,IRL,Europe,Romania,1
+8517,Ireland,IRL,Europe,Slovakia,1
+8518,Ireland,IRL,Europe,Spain,1
+8519,Ireland,IRL,Europe,Sweden,1
+8520,Ireland,IRL,Europe,Switzerland,1
+8521,Ireland,IRL,Europe,Turkey,1
+8522,Ireland,IRL,Europe,United Arab Emirates,1
+8523,Ireland,IRL,Europe,United Kingdom of Great Britain and Northern Ireland,1
+8524,Ireland,IRL,Europe,United States of America,1
+8525,Isle of Man,IMN,Europe,Ireland,1
+8526,Isle of Man,IMN,Europe,United Kingdom of Great Britain and Northern Ireland,1
+8529,Israel,ISR,Asia,Austria,1
+8530,Israel,ISR,Asia,Azerbaijan,1
+8531,Israel,ISR,Asia,Belarus,1
+8532,Israel,ISR,Asia,Belgium,1
+8533,Israel,ISR,Asia,Bulgaria,1
+8534,Israel,ISR,Asia,Canada,1
+8535,Israel,ISR,Asia,China,1
+8536,Israel,ISR,Asia,Cyprus,1
+8537,Israel,ISR,Asia,Czechia,1
+8538,Israel,ISR,Asia,Denmark,1
+8539,Israel,ISR,Asia,Egypt,1
+8540,Israel,ISR,Asia,Ethiopia,1
+8541,Israel,ISR,Asia,Finland,1
+8542,Israel,ISR,Asia,France,1
+8543,Israel,ISR,Asia,Georgia,1
+8544,Israel,ISR,Asia,Germany,1
+8545,Israel,ISR,Asia,Greece,1
+8546,Israel,ISR,Asia,Hong Kong,1
+8547,Israel,ISR,Asia,Hungary,1
+8548,Israel,ISR,Asia,India,1
+8549,Israel,ISR,Asia,Italy,1
+8550,Israel,ISR,Asia,Jordan,1
+8551,Israel,ISR,Asia,Latvia,1
+8552,Israel,ISR,Asia,Lithuania,1
+8553,Israel,ISR,Asia,Netherlands,1
+8554,Israel,ISR,Asia,Poland,1
+8555,Israel,ISR,Asia,Romania,1
+8556,Israel,ISR,Asia,Russian Federation,1
+8557,Israel,ISR,Asia,Serbia,1
+8558,Israel,ISR,Asia,South Africa,1
+8559,Israel,ISR,Asia,"Korea, Republic of",1
+8560,Israel,ISR,Asia,Spain,1
+8561,Israel,ISR,Asia,Sweden,1
+8562,Israel,ISR,Asia,Switzerland,1
+8563,Israel,ISR,Asia,Thailand,1
+8564,Israel,ISR,Asia,Turkey,1
+8565,Israel,ISR,Asia,Ukraine,1
+8566,Israel,ISR,Asia,United Kingdom of Great Britain and Northern Ireland,1
+8567,Israel,ISR,Asia,United States of America,1
+8568,Israel,ISR,Asia,Uzbekistan,1
+8649,Italy,ITA,Europe,Albania,1
+8650,Italy,ITA,Europe,Algeria,1
+8651,Italy,ITA,Europe,Argentina,1
+8652,Italy,ITA,Europe,Armenia,1
+8653,Italy,ITA,Europe,Austria,1
+8654,Italy,ITA,Europe,Azerbaijan,1
+8655,Italy,ITA,Europe,Bangladesh,1
+8656,Italy,ITA,Europe,Belarus,1
+8657,Italy,ITA,Europe,Belgium,1
+8658,Italy,ITA,Europe,Bosnia and Herzegovina,1
+8659,Italy,ITA,Europe,Brazil,1
+8660,Italy,ITA,Europe,Bulgaria,1
+8661,Italy,ITA,Europe,Canada,1
+8662,Italy,ITA,Europe,China,1
+8663,Italy,ITA,Europe,Croatia,1
+8664,Italy,ITA,Europe,Cuba,1
+8665,Italy,ITA,Europe,Cyprus,1
+8666,Italy,ITA,Europe,Czechia,1
+8667,Italy,ITA,Europe,Denmark,1
+8668,Italy,ITA,Europe,Dominican Republic,1
+8669,Italy,ITA,Europe,Egypt,1
+8670,Italy,ITA,Europe,Estonia,1
+8671,Italy,ITA,Europe,Ethiopia,1
+8672,Italy,ITA,Europe,Finland,1
+8673,Italy,ITA,Europe,France,1
+8674,Italy,ITA,Europe,Georgia,1
+8675,Italy,ITA,Europe,Germany,1
+8676,Italy,ITA,Europe,Greece,1
+8677,Italy,ITA,Europe,Hong Kong,1
+8678,Italy,ITA,Europe,Hungary,1
+8679,Italy,ITA,Europe,India,1
+8680,Italy,ITA,Europe,Iran (Islamic Republic of),1
+8681,Italy,ITA,Europe,Ireland,1
+8682,Italy,ITA,Europe,Israel,1
+8683,Italy,ITA,Europe,Japan,1
+8684,Italy,ITA,Europe,Jordan,1
+8685,Italy,ITA,Europe,Kuwait,1
+8686,Italy,ITA,Europe,Latvia,1
+8687,Italy,ITA,Europe,Lebanon,1
+8688,Italy,ITA,Europe,Libya,1
+8689,Italy,ITA,Europe,Lithuania,1
+8690,Italy,ITA,Europe,Luxembourg,1
+8691,Italy,ITA,Europe,North Macedonia,1
+8692,Italy,ITA,Europe,Malta,1
+8693,Italy,ITA,Europe,Mauritius,1
+8694,Italy,ITA,Europe,Mexico,1
+8695,Italy,ITA,Europe,"Moldova, Republic of",1
+8696,Italy,ITA,Europe,Montenegro,1
+8697,Italy,ITA,Europe,Morocco,1
+8698,Italy,ITA,Europe,Netherlands,1
+8699,Italy,ITA,Europe,Nigeria,1
+8700,Italy,ITA,Europe,Norway,1
+8701,Italy,ITA,Europe,Oman,1
+8702,Italy,ITA,Europe,Pakistan,1
+8703,Italy,ITA,Europe,Poland,1
+8704,Italy,ITA,Europe,Portugal,1
+8705,Italy,ITA,Europe,Qatar,1
+8706,Italy,ITA,Europe,Romania,1
+8707,Italy,ITA,Europe,Russian Federation,1
+8708,Italy,ITA,Europe,Saudi Arabia,1
+8709,Italy,ITA,Europe,Senegal,1
+8710,Italy,ITA,Europe,Serbia,1
+8711,Italy,ITA,Europe,Singapore,1
+8712,Italy,ITA,Europe,Slovakia,1
+8713,Italy,ITA,Europe,"Korea, Republic of",1
+8714,Italy,ITA,Europe,Spain,1
+8715,Italy,ITA,Europe,Sri Lanka,1
+8716,Italy,ITA,Europe,Sweden,1
+8717,Italy,ITA,Europe,Switzerland,1
+8718,Italy,ITA,Europe,Thailand,1
+8719,Italy,ITA,Europe,Tunisia,1
+8720,Italy,ITA,Europe,Turkey,1
+8721,Italy,ITA,Europe,Ukraine,1
+8722,Italy,ITA,Europe,United Arab Emirates,1
+8723,Italy,ITA,Europe,United Kingdom of Great Britain and Northern Ireland,1
+8724,Italy,ITA,Europe,United States of America,1
+8725,Italy,ITA,Europe,Uzbekistan,1
+8726,Italy,ITA,Europe,Venezuela (Bolivarian Republic of),1
+8961,Jamaica,JAM,Americas,Antigua and Barbuda,1
+8962,Jamaica,JAM,Americas,Bahamas,1
+8963,Jamaica,JAM,Americas,Barbados,1
+8964,Jamaica,JAM,Americas,Canada,1
+8965,Jamaica,JAM,Americas,Cayman Islands,1
+8966,Jamaica,JAM,Americas,Dominican Republic,1
+8967,Jamaica,JAM,Americas,Germany,1
+8968,Jamaica,JAM,Americas,Guyana,1
+8969,Jamaica,JAM,Americas,Netherlands,1
+8970,Jamaica,JAM,Americas,Netherlands Antilles,1
+8971,Jamaica,JAM,Americas,Panama,1
+8972,Jamaica,JAM,Americas,Trinidad and Tobago,1
+8973,Jamaica,JAM,Americas,Turks and Caicos Islands,1
+8974,Jamaica,JAM,Americas,United Kingdom of Great Britain and Northern Ireland,1
+8975,Jamaica,JAM,Americas,United States of America,1
+8991,Japan,JPN,Asia,Australia,1
+8992,Japan,JPN,Asia,Austria,1
+8993,Japan,JPN,Asia,Myanmar,1
+8994,Japan,JPN,Asia,Canada,1
+8995,Japan,JPN,Asia,China,1
+8996,Japan,JPN,Asia,Denmark,1
+8997,Japan,JPN,Asia,Finland,1
+8998,Japan,JPN,Asia,France,1
+8999,Japan,JPN,Asia,French Polynesia,1
+9000,Japan,JPN,Asia,Germany,1
+9001,Japan,JPN,Asia,Guam,1
+9002,Japan,JPN,Asia,Hong Kong,1
+9003,Japan,JPN,Asia,India,1
+9004,Japan,JPN,Asia,Indonesia,1
+9005,Japan,JPN,Asia,Italy,1
+9006,Japan,JPN,Asia,Macao,1
+9007,Japan,JPN,Asia,Malaysia,1
+9008,Japan,JPN,Asia,Mexico,1
+9009,Japan,JPN,Asia,Mongolia,1
+9010,Japan,JPN,Asia,Netherlands,1
+9011,Japan,JPN,Asia,New Caledonia,1
+9012,Japan,JPN,Asia,New Zealand,1
+9013,Japan,JPN,Asia,Northern Mariana Islands,1
+9014,Japan,JPN,Asia,Palau,1
+9015,Japan,JPN,Asia,Papua New Guinea,1
+9016,Japan,JPN,Asia,Philippines,1
+9017,Japan,JPN,Asia,Qatar,1
+9018,Japan,JPN,Asia,Russian Federation,1
+9019,Japan,JPN,Asia,Singapore,1
+9020,Japan,JPN,Asia,"Korea, Republic of",1
+9021,Japan,JPN,Asia,Sri Lanka,1
+9022,Japan,JPN,Asia,Switzerland,1
+9023,Japan,JPN,Asia,Taiwan,1
+9024,Japan,JPN,Asia,Thailand,1
+9025,Japan,JPN,Asia,Turkey,1
+9026,Japan,JPN,Asia,United Arab Emirates,1
+9027,Japan,JPN,Asia,United Kingdom of Great Britain and Northern Ireland,1
+9028,Japan,JPN,Asia,United States of America,1
+9029,Japan,JPN,Asia,Uzbekistan,1
+9030,Japan,JPN,Asia,Viet Nam,1
+9031,Jersey,JEY,Europe,France,1
+9032,Jersey,JEY,Europe,Germany,1
+9033,Jersey,JEY,Europe,Guernsey,1
+9034,Jersey,JEY,Europe,Ireland,1
+9035,Jersey,JEY,Europe,Netherlands,1
+9036,Jersey,JEY,Europe,Switzerland,1
+9037,Jersey,JEY,Europe,United Kingdom of Great Britain and Northern Ireland,1
+9045,Jordan,JOR,Asia,Algeria,1
+9046,Jordan,JOR,Asia,Austria,1
+9047,Jordan,JOR,Asia,Bahrain,1
+9048,Jordan,JOR,Asia,Canada,1
+9049,Jordan,JOR,Asia,Cyprus,1
+9050,Jordan,JOR,Asia,Egypt,1
+9051,Jordan,JOR,Asia,France,1
+9052,Jordan,JOR,Asia,Germany,1
+9053,Jordan,JOR,Asia,Greece,1
+9054,Jordan,JOR,Asia,India,1
+9055,Jordan,JOR,Asia,Iraq,1
+9056,Jordan,JOR,Asia,Israel,1
+9057,Jordan,JOR,Asia,Italy,1
+9058,Jordan,JOR,Asia,Kuwait,1
+9059,Jordan,JOR,Asia,Lebanon,1
+9060,Jordan,JOR,Asia,Libya,1
+9061,Jordan,JOR,Asia,Netherlands,1
+9062,Jordan,JOR,Asia,Nigeria,1
+9063,Jordan,JOR,Asia,Oman,1
+9064,Jordan,JOR,Asia,Qatar,1
+9065,Jordan,JOR,Asia,Romania,1
+9066,Jordan,JOR,Asia,Russian Federation,1
+9067,Jordan,JOR,Asia,Saudi Arabia,1
+9068,Jordan,JOR,Asia,Spain,1
+9069,Jordan,JOR,Asia,Sudan,1
+9070,Jordan,JOR,Asia,Switzerland,1
+9071,Jordan,JOR,Asia,Thailand,1
+9072,Jordan,JOR,Asia,Tunisia,1
+9073,Jordan,JOR,Asia,Turkey,1
+9074,Jordan,JOR,Asia,Ukraine,1
+9075,Jordan,JOR,Asia,United Arab Emirates,1
+9076,Jordan,JOR,Asia,United Kingdom of Great Britain and Northern Ireland,1
+9077,Jordan,JOR,Asia,United States of America,1
+9078,Jordan,JOR,Asia,Yemen,1
+9147,Kazakhstan,KAZ,Asia,Armenia,1
+9148,Kazakhstan,KAZ,Asia,Austria,1
+9149,Kazakhstan,KAZ,Asia,Azerbaijan,1
+9150,Kazakhstan,KAZ,Asia,Belarus,1
+9151,Kazakhstan,KAZ,Asia,China,1
+9152,Kazakhstan,KAZ,Asia,Czechia,1
+9153,Kazakhstan,KAZ,Asia,Georgia,1
+9154,Kazakhstan,KAZ,Asia,Germany,1
+9155,Kazakhstan,KAZ,Asia,Hong Kong,1
+9156,Kazakhstan,KAZ,Asia,India,1
+9157,Kazakhstan,KAZ,Asia,Iran (Islamic Republic of),1
+9158,Kazakhstan,KAZ,Asia,Kyrgyzstan,1
+9159,Kazakhstan,KAZ,Asia,Malaysia,1
+9160,Kazakhstan,KAZ,Asia,Netherlands,1
+9161,Kazakhstan,KAZ,Asia,Russian Federation,1
+9162,Kazakhstan,KAZ,Asia,"Korea, Republic of",1
+9163,Kazakhstan,KAZ,Asia,Tajikistan,1
+9164,Kazakhstan,KAZ,Asia,Thailand,1
+9165,Kazakhstan,KAZ,Asia,Turkey,1
+9166,Kazakhstan,KAZ,Asia,Ukraine,1
+9167,Kazakhstan,KAZ,Asia,United Arab Emirates,1
+9168,Kazakhstan,KAZ,Asia,United Kingdom of Great Britain and Northern Ireland,1
+9169,Kazakhstan,KAZ,Asia,Uzbekistan,1
+9170,Kazakhstan,KAZ,Asia,Viet Nam,1
+9267,Kenya,KEN,Africa,Angola,1
+9268,Kenya,KEN,Africa,Belgium,1
+9269,Kenya,KEN,Africa,Botswana,1
+9270,Kenya,KEN,Africa,Burundi,1
+9271,Kenya,KEN,Africa,Cameroon,1
+9272,Kenya,KEN,Africa,China,1
+9273,Kenya,KEN,Africa,Comoros,1
+9274,Kenya,KEN,Africa,Congo,1
+9275,Kenya,KEN,Africa,"Congo, Democratic Republic of the",1
+9276,Kenya,KEN,Africa,Côte d'Ivoire,1
+9277,Kenya,KEN,Africa,Djibouti,1
+9278,Kenya,KEN,Africa,Egypt,1
+9279,Kenya,KEN,Africa,Eritrea,1
+9280,Kenya,KEN,Africa,Ethiopia,1
+9281,Kenya,KEN,Africa,France,1
+9282,Kenya,KEN,Africa,Germany,1
+9283,Kenya,KEN,Africa,Ghana,1
+9284,Kenya,KEN,Africa,India,1
+9285,Kenya,KEN,Africa,Madagascar,1
+9286,Kenya,KEN,Africa,Malawi,1
+9287,Kenya,KEN,Africa,Mali,1
+9288,Kenya,KEN,Africa,Mauritius,1
+9289,Kenya,KEN,Africa,Mayotte,1
+9290,Kenya,KEN,Africa,Mozambique,1
+9291,Kenya,KEN,Africa,Netherlands,1
+9292,Kenya,KEN,Africa,Nigeria,1
+9293,Kenya,KEN,Africa,Qatar,1
+9294,Kenya,KEN,Africa,Rwanda,1
+9295,Kenya,KEN,Africa,Saudi Arabia,1
+9296,Kenya,KEN,Africa,Seychelles,1
+9297,Kenya,KEN,Africa,Somalia,1
+9298,Kenya,KEN,Africa,South Africa,1
+9299,Kenya,KEN,Africa,"Korea, Republic of",1
+9300,Kenya,KEN,Africa,South Sudan,1
+9301,Kenya,KEN,Africa,Sudan,1
+9302,Kenya,KEN,Africa,Switzerland,1
+9303,Kenya,KEN,Africa,"Tanzania, United Republic of",1
+9304,Kenya,KEN,Africa,Thailand,1
+9305,Kenya,KEN,Africa,Turkey,1
+9306,Kenya,KEN,Africa,Uganda,1
+9307,Kenya,KEN,Africa,United Arab Emirates,1
+9308,Kenya,KEN,Africa,United Kingdom of Great Britain and Northern Ireland,1
+9309,Kenya,KEN,Africa,Yemen,1
+9310,Kenya,KEN,Africa,Zambia,1
+9311,Kenya,KEN,Africa,Zimbabwe,1
+9492,Kiribati,KIR,Oceania,Fiji,1
+9493,Kiribati,KIR,Oceania,Marshall Islands,1
+9494,Kiribati,KIR,Oceania,Nauru,1
+9495,Kiribati,KIR,Oceania,United States of America,1
+9496,Korea (Democratic People's Republic of),PRK,Asia,China,1
+9497,Korea (Democratic People's Republic of),PRK,Asia,Malaysia,1
+9498,Korea (Democratic People's Republic of),PRK,Asia,Russian Federation,1
+9505,"Korea, Republic of",KOR,Asia,Australia,1
+9506,"Korea, Republic of",KOR,Asia,Austria,1
+9507,"Korea, Republic of",KOR,Asia,Myanmar,1
+9508,"Korea, Republic of",KOR,Asia,Cambodia,1
+9509,"Korea, Republic of",KOR,Asia,Canada,1
+9510,"Korea, Republic of",KOR,Asia,China,1
+9511,"Korea, Republic of",KOR,Asia,Czechia,1
+9512,"Korea, Republic of",KOR,Asia,Fiji,1
+9513,"Korea, Republic of",KOR,Asia,Finland,1
+9514,"Korea, Republic of",KOR,Asia,France,1
+9515,"Korea, Republic of",KOR,Asia,Germany,1
+9516,"Korea, Republic of",KOR,Asia,Guam,1
+9517,"Korea, Republic of",KOR,Asia,Hong Kong,1
+9518,"Korea, Republic of",KOR,Asia,India,1
+9519,"Korea, Republic of",KOR,Asia,Indonesia,1
+9520,"Korea, Republic of",KOR,Asia,Israel,1
+9521,"Korea, Republic of",KOR,Asia,Italy,1
+9522,"Korea, Republic of",KOR,Asia,Japan,1
+9523,"Korea, Republic of",KOR,Asia,Kazakhstan,1
+9524,"Korea, Republic of",KOR,Asia,Kenya,1
+9525,"Korea, Republic of",KOR,Asia,Lao People's Democratic Republic,1
+9526,"Korea, Republic of",KOR,Asia,Macao,1
+9527,"Korea, Republic of",KOR,Asia,Malaysia,1
+9528,"Korea, Republic of",KOR,Asia,Mongolia,1
+9529,"Korea, Republic of",KOR,Asia,Nepal,1
+9530,"Korea, Republic of",KOR,Asia,Netherlands,1
+9531,"Korea, Republic of",KOR,Asia,New Zealand,1
+9532,"Korea, Republic of",KOR,Asia,Northern Mariana Islands,1
+9533,"Korea, Republic of",KOR,Asia,Palau,1
+9534,"Korea, Republic of",KOR,Asia,Philippines,1
+9535,"Korea, Republic of",KOR,Asia,Qatar,1
+9536,"Korea, Republic of",KOR,Asia,Russian Federation,1
+9537,"Korea, Republic of",KOR,Asia,Saudi Arabia,1
+9538,"Korea, Republic of",KOR,Asia,Singapore,1
+9539,"Korea, Republic of",KOR,Asia,Spain,1
+9540,"Korea, Republic of",KOR,Asia,Sri Lanka,1
+9541,"Korea, Republic of",KOR,Asia,Taiwan,1
+9542,"Korea, Republic of",KOR,Asia,Thailand,1
+9543,"Korea, Republic of",KOR,Asia,Turkey,1
+9544,"Korea, Republic of",KOR,Asia,United Arab Emirates,1
+9545,"Korea, Republic of",KOR,Asia,United Kingdom of Great Britain and Northern Ireland,1
+9546,"Korea, Republic of",KOR,Asia,United States of America,1
+9547,"Korea, Republic of",KOR,Asia,Uzbekistan,1
+9548,"Korea, Republic of",KOR,Asia,Viet Nam,1
+9549,Kuwait,KWT,Asia,Afghanistan,1
+9550,Kuwait,KWT,Asia,Bahrain,1
+9551,Kuwait,KWT,Asia,Bangladesh,1
+9552,Kuwait,KWT,Asia,Egypt,1
+9553,Kuwait,KWT,Asia,Ethiopia,1
+9554,Kuwait,KWT,Asia,Germany,1
+9555,Kuwait,KWT,Asia,India,1
+9556,Kuwait,KWT,Asia,Iran (Islamic Republic of),1
+9557,Kuwait,KWT,Asia,Iraq,1
+9558,Kuwait,KWT,Asia,Italy,1
+9559,Kuwait,KWT,Asia,Jordan,1
+9560,Kuwait,KWT,Asia,Lebanon,1
+9561,Kuwait,KWT,Asia,Malaysia,1
+9562,Kuwait,KWT,Asia,Netherlands,1
+9563,Kuwait,KWT,Asia,Oman,1
+9564,Kuwait,KWT,Asia,Pakistan,1
+9565,Kuwait,KWT,Asia,Qatar,1
+9566,Kuwait,KWT,Asia,Saudi Arabia,1
+9567,Kuwait,KWT,Asia,Sri Lanka,1
+9568,Kuwait,KWT,Asia,Thailand,1
+9569,Kuwait,KWT,Asia,Tunisia,1
+9570,Kuwait,KWT,Asia,Turkey,1
+9571,Kuwait,KWT,Asia,United Arab Emirates,1
+9572,Kuwait,KWT,Asia,United Kingdom of Great Britain and Northern Ireland,1
+9573,Kuwait,KWT,Asia,United States of America,1
+9574,Kuwait,KWT,Asia,Yemen,1
+9601,Kyrgyzstan,KGZ,Asia,China,1
+9602,Kyrgyzstan,KGZ,Asia,Kazakhstan,1
+9603,Kyrgyzstan,KGZ,Asia,Mongolia,1
+9604,Kyrgyzstan,KGZ,Asia,Russian Federation,1
+9605,Kyrgyzstan,KGZ,Asia,Tajikistan,1
+9606,Kyrgyzstan,KGZ,Asia,Turkey,1
+9607,Kyrgyzstan,KGZ,Asia,United Arab Emirates,1
+9608,Kyrgyzstan,KGZ,Asia,Uzbekistan,1
+9633,Lao People's Democratic Republic,LAO,Asia,Cambodia,1
+9634,Lao People's Democratic Republic,LAO,Asia,China,1
+9635,Lao People's Democratic Republic,LAO,Asia,Malaysia,1
+9636,Lao People's Democratic Republic,LAO,Asia,Singapore,1
+9637,Lao People's Democratic Republic,LAO,Asia,"Korea, Republic of",1
+9638,Lao People's Democratic Republic,LAO,Asia,Thailand,1
+9639,Lao People's Democratic Republic,LAO,Asia,Viet Nam,1
+9668,Latvia,LVA,Europe,Austria,1
+9669,Latvia,LVA,Europe,Azerbaijan,1
+9670,Latvia,LVA,Europe,Belarus,1
+9671,Latvia,LVA,Europe,Belgium,1
+9672,Latvia,LVA,Europe,Cyprus,1
+9673,Latvia,LVA,Europe,Czechia,1
+9674,Latvia,LVA,Europe,Denmark,1
+9675,Latvia,LVA,Europe,Estonia,1
+9676,Latvia,LVA,Europe,Finland,1
+9677,Latvia,LVA,Europe,France,1
+9678,Latvia,LVA,Europe,Georgia,1
+9679,Latvia,LVA,Europe,Germany,1
+9680,Latvia,LVA,Europe,Greece,1
+9681,Latvia,LVA,Europe,Hungary,1
+9682,Latvia,LVA,Europe,Ireland,1
+9683,Latvia,LVA,Europe,Israel,1
+9684,Latvia,LVA,Europe,Italy,1
+9685,Latvia,LVA,Europe,Lithuania,1
+9686,Latvia,LVA,Europe,Malta,1
+9687,Latvia,LVA,Europe,"Moldova, Republic of",1
+9688,Latvia,LVA,Europe,Netherlands,1
+9689,Latvia,LVA,Europe,Norway,1
+9690,Latvia,LVA,Europe,Poland,1
+9691,Latvia,LVA,Europe,Russian Federation,1
+9692,Latvia,LVA,Europe,Spain,1
+9693,Latvia,LVA,Europe,Sweden,1
+9694,Latvia,LVA,Europe,Switzerland,1
+9695,Latvia,LVA,Europe,Turkey,1
+9696,Latvia,LVA,Europe,Ukraine,1
+9697,Latvia,LVA,Europe,United Kingdom of Great Britain and Northern Ireland,1
+9698,Latvia,LVA,Europe,United States of America,1
+9699,Latvia,LVA,Europe,Uzbekistan,1
+9796,Lebanon,LBN,Asia,Algeria,1
+9797,Lebanon,LBN,Asia,Armenia,1
+9798,Lebanon,LBN,Asia,Bahrain,1
+9799,Lebanon,LBN,Asia,Belarus,1
+9800,Lebanon,LBN,Asia,Belgium,1
+9801,Lebanon,LBN,Asia,Cyprus,1
+9802,Lebanon,LBN,Asia,Egypt,1
+9803,Lebanon,LBN,Asia,Ethiopia,1
+9804,Lebanon,LBN,Asia,France,1
+9805,Lebanon,LBN,Asia,Germany,1
+9806,Lebanon,LBN,Asia,Ghana,1
+9807,Lebanon,LBN,Asia,Greece,1
+9808,Lebanon,LBN,Asia,Iran (Islamic Republic of),1
+9809,Lebanon,LBN,Asia,Iraq,1
+9810,Lebanon,LBN,Asia,Italy,1
+9811,Lebanon,LBN,Asia,Jordan,1
+9812,Lebanon,LBN,Asia,Kuwait,1
+9813,Lebanon,LBN,Asia,Morocco,1
+9814,Lebanon,LBN,Asia,Nigeria,1
+9815,Lebanon,LBN,Asia,Oman,1
+9816,Lebanon,LBN,Asia,Qatar,1
+9817,Lebanon,LBN,Asia,Romania,1
+9818,Lebanon,LBN,Asia,Russian Federation,1
+9819,Lebanon,LBN,Asia,Saudi Arabia,1
+9820,Lebanon,LBN,Asia,Switzerland,1
+9821,Lebanon,LBN,Asia,Tunisia,1
+9822,Lebanon,LBN,Asia,Turkey,1
+9823,Lebanon,LBN,Asia,United Arab Emirates,1
+9824,Lebanon,LBN,Asia,United Kingdom of Great Britain and Northern Ireland,1
+9825,Lebanon,LBN,Asia,Yemen,1
+9826,Lesotho,LSO,Africa,South Africa,1
+9827,Liberia,LBR,Africa,Belgium,1
+9828,Liberia,LBR,Africa,Côte d'Ivoire,1
+9829,Liberia,LBR,Africa,Ghana,1
+9830,Liberia,LBR,Africa,Morocco,1
+9831,Liberia,LBR,Africa,Nigeria,1
+9832,Liberia,LBR,Africa,Sierra Leone,1
+9845,Libya,LBY,Africa,Algeria,1
+9846,Libya,LBY,Africa,Egypt,1
+9847,Libya,LBY,Africa,Italy,1
+9848,Libya,LBY,Africa,Jordan,1
+9849,Libya,LBY,Africa,Malta,1
+9850,Libya,LBY,Africa,Morocco,1
+9851,Libya,LBY,Africa,Saudi Arabia,1
+9852,Libya,LBY,Africa,Spain,1
+9853,Libya,LBY,Africa,Tunisia,1
+9854,Libya,LBY,Africa,Turkey,1
+9855,Libya,LBY,Africa,United Arab Emirates,1
+9856,Libya,LBY,Africa,United Kingdom of Great Britain and Northern Ireland,1
+9917,Lithuania,LTU,Europe,Austria,1
+9918,Lithuania,LTU,Europe,Belarus,1
+9919,Lithuania,LTU,Europe,Belgium,1
+9920,Lithuania,LTU,Europe,Cyprus,1
+9921,Lithuania,LTU,Europe,Czechia,1
+9922,Lithuania,LTU,Europe,Denmark,1
+9923,Lithuania,LTU,Europe,Estonia,1
+9924,Lithuania,LTU,Europe,Finland,1
+9925,Lithuania,LTU,Europe,France,1
+9926,Lithuania,LTU,Europe,Georgia,1
+9927,Lithuania,LTU,Europe,Germany,1
+9928,Lithuania,LTU,Europe,Greece,1
+9929,Lithuania,LTU,Europe,Ireland,1
+9930,Lithuania,LTU,Europe,Israel,1
+9931,Lithuania,LTU,Europe,Italy,1
+9932,Lithuania,LTU,Europe,Latvia,1
+9933,Lithuania,LTU,Europe,Malta,1
+9934,Lithuania,LTU,Europe,Netherlands,1
+9935,Lithuania,LTU,Europe,Norway,1
+9936,Lithuania,LTU,Europe,Poland,1
+9937,Lithuania,LTU,Europe,Russian Federation,1
+9938,Lithuania,LTU,Europe,Spain,1
+9939,Lithuania,LTU,Europe,Sweden,1
+9940,Lithuania,LTU,Europe,Turkey,1
+9941,Lithuania,LTU,Europe,Ukraine,1
+9942,Lithuania,LTU,Europe,United Kingdom of Great Britain and Northern Ireland,1
+10021,Luxembourg,LUX,Europe,Austria,1
+10022,Luxembourg,LUX,Europe,Bulgaria,1
+10023,Luxembourg,LUX,Europe,Cabo Verde,1
+10024,Luxembourg,LUX,Europe,Croatia,1
+10025,Luxembourg,LUX,Europe,Denmark,1
+10026,Luxembourg,LUX,Europe,France,1
+10027,Luxembourg,LUX,Europe,Germany,1
+10028,Luxembourg,LUX,Europe,Greece,1
+10029,Luxembourg,LUX,Europe,Ireland,1
+10030,Luxembourg,LUX,Europe,Italy,1
+10031,Luxembourg,LUX,Europe,Malta,1
+10032,Luxembourg,LUX,Europe,Morocco,1
+10033,Luxembourg,LUX,Europe,Netherlands,1
+10034,Luxembourg,LUX,Europe,Portugal,1
+10035,Luxembourg,LUX,Europe,Spain,1
+10036,Luxembourg,LUX,Europe,Sweden,1
+10037,Luxembourg,LUX,Europe,Switzerland,1
+10038,Luxembourg,LUX,Europe,Tunisia,1
+10039,Luxembourg,LUX,Europe,Turkey,1
+10040,Luxembourg,LUX,Europe,United Kingdom of Great Britain and Northern Ireland,1
+10081,Macao,MAC,Asia,China,1
+10082,Macao,MAC,Asia,Japan,1
+10083,Macao,MAC,Asia,Malaysia,1
+10084,Macao,MAC,Asia,Philippines,1
+10085,Macao,MAC,Asia,Singapore,1
+10086,Macao,MAC,Asia,"Korea, Republic of",1
+10087,Macao,MAC,Asia,Taiwan,1
+10088,Macao,MAC,Asia,Thailand,1
+10089,Macao,MAC,Asia,Viet Nam,1
+10090,Madagascar,MDG,Africa,Comoros,1
+10091,Madagascar,MDG,Africa,France,1
+10092,Madagascar,MDG,Africa,Kenya,1
+10093,Madagascar,MDG,Africa,Mauritius,1
+10094,Madagascar,MDG,Africa,Mayotte,1
+10095,Madagascar,MDG,Africa,Réunion,1
+10096,Madagascar,MDG,Africa,South Africa,1
+10097,Madagascar,MDG,Africa,Thailand,1
+10098,Malawi,MWI,Africa,Ethiopia,1
+10099,Malawi,MWI,Africa,Kenya,1
+10100,Malawi,MWI,Africa,South Africa,1
+10101,Malawi,MWI,Africa,"Tanzania, United Republic of",1
+10102,Malawi,MWI,Africa,Zambia,1
+10103,Malawi,MWI,Africa,Zimbabwe,1
+10116,Malaysia,MYS,Asia,Australia,1
+10117,Malaysia,MYS,Asia,Bangladesh,1
+10118,Malaysia,MYS,Asia,Brunei,1
+10119,Malaysia,MYS,Asia,Myanmar,1
+10120,Malaysia,MYS,Asia,Cambodia,1
+10121,Malaysia,MYS,Asia,China,1
+10122,Malaysia,MYS,Asia,France,1
+10123,Malaysia,MYS,Asia,Germany,1
+10124,Malaysia,MYS,Asia,Hong Kong,1
+10125,Malaysia,MYS,Asia,India,1
+10126,Malaysia,MYS,Asia,Indonesia,1
+10127,Malaysia,MYS,Asia,Iran (Islamic Republic of),1
+10128,Malaysia,MYS,Asia,Japan,1
+10129,Malaysia,MYS,Asia,Kazakhstan,1
+10130,Malaysia,MYS,Asia,Kuwait,1
+10131,Malaysia,MYS,Asia,Lao People's Democratic Republic,1
+10132,Malaysia,MYS,Asia,Macao,1
+10133,Malaysia,MYS,Asia,Maldives,1
+10134,Malaysia,MYS,Asia,Mauritius,1
+10135,Malaysia,MYS,Asia,Nepal,1
+10136,Malaysia,MYS,Asia,Netherlands,1
+10137,Malaysia,MYS,Asia,New Zealand,1
+10138,Malaysia,MYS,Asia,Korea (Democratic People's Republic of),1
+10139,Malaysia,MYS,Asia,Oman,1
+10140,Malaysia,MYS,Asia,Pakistan,1
+10141,Malaysia,MYS,Asia,Philippines,1
+10142,Malaysia,MYS,Asia,Qatar,1
+10143,Malaysia,MYS,Asia,Saudi Arabia,1
+10144,Malaysia,MYS,Asia,Singapore,1
+10145,Malaysia,MYS,Asia,"Korea, Republic of",1
+10146,Malaysia,MYS,Asia,Sri Lanka,1
+10147,Malaysia,MYS,Asia,Taiwan,1
+10148,Malaysia,MYS,Asia,Thailand,1
+10149,Malaysia,MYS,Asia,Turkey,1
+10150,Malaysia,MYS,Asia,United Arab Emirates,1
+10151,Malaysia,MYS,Asia,United Kingdom of Great Britain and Northern Ireland,1
+10152,Malaysia,MYS,Asia,Uzbekistan,1
+10153,Malaysia,MYS,Asia,Viet Nam,1
+10306,Maldives,MDV,Asia,China,1
+10307,Maldives,MDV,Asia,Germany,1
+10308,Maldives,MDV,Asia,Hong Kong,1
+10309,Maldives,MDV,Asia,India,1
+10310,Maldives,MDV,Asia,Italy,1
+10311,Maldives,MDV,Asia,Malaysia,1
+10312,Maldives,MDV,Asia,Oman,1
+10313,Maldives,MDV,Asia,Qatar,1
+10314,Maldives,MDV,Asia,Russian Federation,1
+10315,Maldives,MDV,Asia,Singapore,1
+10316,Maldives,MDV,Asia,Sri Lanka,1
+10317,Maldives,MDV,Asia,Thailand,1
+10318,Maldives,MDV,Asia,Turkey,1
+10319,Maldives,MDV,Asia,United Arab Emirates,1
+10320,Maldives,MDV,Asia,United Kingdom of Great Britain and Northern Ireland,1
+10321,Mali,MLI,Africa,Algeria,1
+10322,Mali,MLI,Africa,Benin,1
+10323,Mali,MLI,Africa,Burkina Faso,1
+10324,Mali,MLI,Africa,Côte d'Ivoire,1
+10325,Mali,MLI,Africa,Ethiopia,1
+10326,Mali,MLI,Africa,France,1
+10327,Mali,MLI,Africa,Guinea,1
+10328,Mali,MLI,Africa,Kenya,1
+10329,Mali,MLI,Africa,Mauritania,1
+10330,Mali,MLI,Africa,Morocco,1
+10331,Mali,MLI,Africa,Nigeria,1
+10332,Mali,MLI,Africa,Portugal,1
+10333,Mali,MLI,Africa,Senegal,1
+10334,Mali,MLI,Africa,Togo,1
+10335,Mali,MLI,Africa,Tunisia,1
+10426,Malta,MLT,Europe,Algeria,1
+10427,Malta,MLT,Europe,Austria,1
+10428,Malta,MLT,Europe,Belgium,1
+10429,Malta,MLT,Europe,Cyprus,1
+10430,Malta,MLT,Europe,Czechia,1
+10431,Malta,MLT,Europe,Denmark,1
+10432,Malta,MLT,Europe,France,1
+10433,Malta,MLT,Europe,Germany,1
+10434,Malta,MLT,Europe,Greece,1
+10435,Malta,MLT,Europe,Hungary,1
+10436,Malta,MLT,Europe,Ireland,1
+10437,Malta,MLT,Europe,Italy,1
+10438,Malta,MLT,Europe,Latvia,1
+10439,Malta,MLT,Europe,Libya,1
+10440,Malta,MLT,Europe,Lithuania,1
+10441,Malta,MLT,Europe,Luxembourg,1
+10442,Malta,MLT,Europe,Netherlands,1
+10443,Malta,MLT,Europe,Norway,1
+10444,Malta,MLT,Europe,Poland,1
+10445,Malta,MLT,Europe,Russian Federation,1
+10446,Malta,MLT,Europe,Spain,1
+10447,Malta,MLT,Europe,Sweden,1
+10448,Malta,MLT,Europe,Switzerland,1
+10449,Malta,MLT,Europe,Tunisia,1
+10450,Malta,MLT,Europe,Turkey,1
+10451,Malta,MLT,Europe,United Kingdom of Great Britain and Northern Ireland,1
+10478,Marshall Islands,MHL,Oceania,Kiribati,1
+10479,Marshall Islands,MHL,Oceania,Micronesia (Federated States of),1
+10480,Marshall Islands,MHL,Oceania,Nauru,1
+10481,Marshall Islands,MHL,Oceania,United States of America,1
+10482,Martinique,MTQ,Americas,Barbados,1
+10483,Martinique,MTQ,Americas,Canada,1
+10484,Martinique,MTQ,Americas,Cuba,1
+10485,Martinique,MTQ,Americas,Dominican Republic,1
+10486,Martinique,MTQ,Americas,France,1
+10487,Martinique,MTQ,Americas,French Guiana,1
+10488,Martinique,MTQ,Americas,Guadeloupe,1
+10489,Martinique,MTQ,Americas,Puerto Rico,1
+10490,Martinique,MTQ,Americas,Saint Lucia,1
+10491,Martinique,MTQ,Americas,United States of America,1
+10492,Mauritania,MRT,Africa,France,1
+10493,Mauritania,MRT,Africa,Guinea,1
+10494,Mauritania,MRT,Africa,Mali,1
+10495,Mauritania,MRT,Africa,Morocco,1
+10496,Mauritania,MRT,Africa,Senegal,1
+10497,Mauritania,MRT,Africa,Spain,1
+10498,Mauritania,MRT,Africa,Tunisia,1
+10520,Mauritius,MUS,Africa,Australia,1
+10521,Mauritius,MUS,Africa,China,1
+10522,Mauritius,MUS,Africa,France,1
+10523,Mauritius,MUS,Africa,Germany,1
+10524,Mauritius,MUS,Africa,Hong Kong,1
+10525,Mauritius,MUS,Africa,India,1
+10526,Mauritius,MUS,Africa,Italy,1
+10527,Mauritius,MUS,Africa,Kenya,1
+10528,Mauritius,MUS,Africa,Madagascar,1
+10529,Mauritius,MUS,Africa,Malaysia,1
+10530,Mauritius,MUS,Africa,Réunion,1
+10531,Mauritius,MUS,Africa,Russian Federation,1
+10532,Mauritius,MUS,Africa,Seychelles,1
+10533,Mauritius,MUS,Africa,South Africa,1
+10534,Mauritius,MUS,Africa,United Arab Emirates,1
+10535,Mauritius,MUS,Africa,United Kingdom of Great Britain and Northern Ireland,1
+10536,Mayotte,MYT,Africa,Comoros,1
+10537,Mayotte,MYT,Africa,Madagascar,1
+10538,Mayotte,MYT,Africa,Réunion,1
+10539,Mayotte,MYT,Africa,"Tanzania, United Republic of",1
+10540,Mexico,MEX,Americas,Argentina,1
+10541,Mexico,MEX,Americas,Belize,1
+10542,Mexico,MEX,Americas,Brazil,1
+10543,Mexico,MEX,Americas,Canada,1
+10544,Mexico,MEX,Americas,Chile,1
+10545,Mexico,MEX,Americas,China,1
+10546,Mexico,MEX,Americas,Colombia,1
+10547,Mexico,MEX,Americas,Costa Rica,1
+10548,Mexico,MEX,Americas,Cuba,1
+10549,Mexico,MEX,Americas,Ecuador,1
+10550,Mexico,MEX,Americas,El Salvador,1
+10551,Mexico,MEX,Americas,France,1
+10552,Mexico,MEX,Americas,Germany,1
+10553,Mexico,MEX,Americas,Guatemala,1
+10554,Mexico,MEX,Americas,Honduras,1
+10555,Mexico,MEX,Americas,Italy,1
+10556,Mexico,MEX,Americas,Japan,1
+10557,Mexico,MEX,Americas,Netherlands,1
+10558,Mexico,MEX,Americas,Panama,1
+10559,Mexico,MEX,Americas,Peru,1
+10560,Mexico,MEX,Americas,Russian Federation,1
+10561,Mexico,MEX,Americas,Spain,1
+10562,Mexico,MEX,Americas,United Kingdom of Great Britain and Northern Ireland,1
+10563,Mexico,MEX,Americas,United States of America,1
+10564,Mexico,MEX,Americas,Venezuela (Bolivarian Republic of),1
+10615,Micronesia (Federated States of),FSM,Oceania,Guam,1
+10616,Micronesia (Federated States of),FSM,Oceania,Marshall Islands,1
+10617,Micronesia (Federated States of),FSM,Oceania,Palau,1
+10618,"Moldova, Republic of",MDA,Europe,Austria,1
+10619,"Moldova, Republic of",MDA,Europe,Cyprus,1
+10620,"Moldova, Republic of",MDA,Europe,France,1
+10621,"Moldova, Republic of",MDA,Europe,Germany,1
+10622,"Moldova, Republic of",MDA,Europe,Greece,1
+10623,"Moldova, Republic of",MDA,Europe,Ireland,1
+10624,"Moldova, Republic of",MDA,Europe,Italy,1
+10625,"Moldova, Republic of",MDA,Europe,Latvia,1
+10626,"Moldova, Republic of",MDA,Europe,Portugal,1
+10627,"Moldova, Republic of",MDA,Europe,Romania,1
+10628,"Moldova, Republic of",MDA,Europe,Russian Federation,1
+10629,"Moldova, Republic of",MDA,Europe,Turkey,1
+10630,"Moldova, Republic of",MDA,Europe,Ukraine,1
+10631,"Moldova, Republic of",MDA,Europe,United Arab Emirates,1
+10632,"Moldova, Republic of",MDA,Europe,United Kingdom of Great Britain and Northern Ireland,1
+10648,Mongolia,MNG,Asia,China,1
+10649,Mongolia,MNG,Asia,Hong Kong,1
+10650,Mongolia,MNG,Asia,Japan,1
+10651,Mongolia,MNG,Asia,Kyrgyzstan,1
+10652,Mongolia,MNG,Asia,Russian Federation,1
+10653,Mongolia,MNG,Asia,"Korea, Republic of",1
+10654,Mongolia,MNG,Asia,Thailand,1
+10662,Montenegro,MNE,Europe,Austria,1
+10663,Montenegro,MNE,Europe,Belgium,1
+10664,Montenegro,MNE,Europe,France,1
+10665,Montenegro,MNE,Europe,Germany,1
+10666,Montenegro,MNE,Europe,Italy,1
+10667,Montenegro,MNE,Europe,Russian Federation,1
+10668,Montenegro,MNE,Europe,Serbia,1
+10669,Montenegro,MNE,Europe,Slovenia,1
+10670,Montenegro,MNE,Europe,Switzerland,1
+10671,Montenegro,MNE,Europe,Turkey,1
+10672,Montenegro,MNE,Europe,United Kingdom of Great Britain and Northern Ireland,1
+10706,Morocco,MAR,Africa,Algeria,1
+10707,Morocco,MAR,Africa,Angola,1
+10708,Morocco,MAR,Africa,Belgium,1
+10709,Morocco,MAR,Africa,Benin,1
+10710,Morocco,MAR,Africa,Brazil,1
+10711,Morocco,MAR,Africa,Burkina Faso,1
+10712,Morocco,MAR,Africa,Cameroon,1
+10713,Morocco,MAR,Africa,Canada,1
+10714,Morocco,MAR,Africa,Cabo Verde,1
+10715,Morocco,MAR,Africa,Congo,1
+10716,Morocco,MAR,Africa,"Congo, Democratic Republic of the",1
+10717,Morocco,MAR,Africa,Côte d'Ivoire,1
+10718,Morocco,MAR,Africa,Denmark,1
+10719,Morocco,MAR,Africa,Egypt,1
+10720,Morocco,MAR,Africa,Equatorial Guinea,1
+10721,Morocco,MAR,Africa,France,1
+10722,Morocco,MAR,Africa,Gabon,1
+10723,Morocco,MAR,Africa,Gambia,1
+10724,Morocco,MAR,Africa,Germany,1
+10725,Morocco,MAR,Africa,Guinea,1
+10726,Morocco,MAR,Africa,Guinea-Bissau,1
+10727,Morocco,MAR,Africa,Ireland,1
+10728,Morocco,MAR,Africa,Italy,1
+10729,Morocco,MAR,Africa,Lebanon,1
+10730,Morocco,MAR,Africa,Liberia,1
+10731,Morocco,MAR,Africa,Libya,1
+10732,Morocco,MAR,Africa,Luxembourg,1
+10733,Morocco,MAR,Africa,Mali,1
+10734,Morocco,MAR,Africa,Mauritania,1
+10735,Morocco,MAR,Africa,Netherlands,1
+10736,Morocco,MAR,Africa,Niger,1
+10737,Morocco,MAR,Africa,Norway,1
+10738,Morocco,MAR,Africa,Portugal,1
+10739,Morocco,MAR,Africa,Qatar,1
+10740,Morocco,MAR,Africa,Russian Federation,1
+10741,Morocco,MAR,Africa,Saudi Arabia,1
+10742,Morocco,MAR,Africa,Senegal,1
+10743,Morocco,MAR,Africa,Sierra Leone,1
+10744,Morocco,MAR,Africa,Spain,1
+10745,Morocco,MAR,Africa,Sweden,1
+10746,Morocco,MAR,Africa,Switzerland,1
+10747,Morocco,MAR,Africa,Togo,1
+10748,Morocco,MAR,Africa,Tunisia,1
+10749,Morocco,MAR,Africa,Turkey,1
+10750,Morocco,MAR,Africa,United Arab Emirates,1
+10751,Morocco,MAR,Africa,United Kingdom of Great Britain and Northern Ireland,1
+10752,Morocco,MAR,Africa,United States of America,1
+10753,Morocco,MAR,Africa,Western Sahara,1
+10850,Mozambique,MOZ,Africa,Angola,1
+10851,Mozambique,MOZ,Africa,Ethiopia,1
+10852,Mozambique,MOZ,Africa,Kenya,1
+10853,Mozambique,MOZ,Africa,Portugal,1
+10854,Mozambique,MOZ,Africa,South Africa,1
+10855,Mozambique,MOZ,Africa,"Tanzania, United Republic of",1
+10892,Myanmar,MMR,Asia,Bangladesh,1
+10893,Myanmar,MMR,Asia,Cambodia,1
+10894,Myanmar,MMR,Asia,China,1
+10895,Myanmar,MMR,Asia,Hong Kong,1
+10896,Myanmar,MMR,Asia,India,1
+10897,Myanmar,MMR,Asia,Japan,1
+10898,Myanmar,MMR,Asia,Malaysia,1
+10899,Myanmar,MMR,Asia,Qatar,1
+10900,Myanmar,MMR,Asia,Singapore,1
+10901,Myanmar,MMR,Asia,"Korea, Republic of",1
+10902,Myanmar,MMR,Asia,Taiwan,1
+10903,Myanmar,MMR,Asia,Thailand,1
+10904,Myanmar,MMR,Asia,Viet Nam,1
+10957,Namibia,NAM,Africa,Angola,1
+10958,Namibia,NAM,Africa,Botswana,1
+10959,Namibia,NAM,Africa,Germany,1
+10960,Namibia,NAM,Africa,Ghana,1
+10961,Namibia,NAM,Africa,South Africa,1
+10962,Namibia,NAM,Africa,Zambia,1
+10963,Namibia,NAM,Africa,Zimbabwe,1
+10985,Nauru,NRU,Oceania,Australia,1
+10986,Nauru,NRU,Oceania,Kiribati,1
+10987,Nauru,NRU,Oceania,Marshall Islands,1
+10988,Nepal,NPL,Asia,Bangladesh,1
+10989,Nepal,NPL,Asia,Bhutan,1
+10990,Nepal,NPL,Asia,China,1
+10991,Nepal,NPL,Asia,Hong Kong,1
+10992,Nepal,NPL,Asia,India,1
+10993,Nepal,NPL,Asia,Malaysia,1
+10994,Nepal,NPL,Asia,Oman,1
+10995,Nepal,NPL,Asia,Pakistan,1
+10996,Nepal,NPL,Asia,Qatar,1
+10997,Nepal,NPL,Asia,Singapore,1
+10998,Nepal,NPL,Asia,"Korea, Republic of",1
+10999,Nepal,NPL,Asia,Thailand,1
+11000,Nepal,NPL,Asia,Turkey,1
+11001,Nepal,NPL,Asia,United Arab Emirates,1
+11016,Netherlands,NLD,Europe,Angola,1
+11017,Netherlands,NLD,Europe,Argentina,1
+11018,Netherlands,NLD,Europe,Aruba,1
+11019,Netherlands,NLD,Europe,Austria,1
+11020,Netherlands,NLD,Europe,Belarus,1
+11021,Netherlands,NLD,Europe,Belgium,1
+11022,Netherlands,NLD,Europe,Brazil,1
+11023,Netherlands,NLD,Europe,Bulgaria,1
+11024,Netherlands,NLD,Europe,Canada,1
+11025,Netherlands,NLD,Europe,Cabo Verde,1
+11026,Netherlands,NLD,Europe,China,1
+11027,Netherlands,NLD,Europe,Croatia,1
+11028,Netherlands,NLD,Europe,Cuba,1
+11029,Netherlands,NLD,Europe,Cyprus,1
+11030,Netherlands,NLD,Europe,Czechia,1
+11031,Netherlands,NLD,Europe,Denmark,1
+11032,Netherlands,NLD,Europe,Dominican Republic,1
+11033,Netherlands,NLD,Europe,Ecuador,1
+11034,Netherlands,NLD,Europe,Egypt,1
+11035,Netherlands,NLD,Europe,Estonia,1
+11036,Netherlands,NLD,Europe,Finland,1
+11037,Netherlands,NLD,Europe,France,1
+11038,Netherlands,NLD,Europe,Georgia,1
+11039,Netherlands,NLD,Europe,Germany,1
+11040,Netherlands,NLD,Europe,Ghana,1
+11041,Netherlands,NLD,Europe,Greece,1
+11042,Netherlands,NLD,Europe,Guernsey,1
+11043,Netherlands,NLD,Europe,Hong Kong,1
+11044,Netherlands,NLD,Europe,Hungary,1
+11045,Netherlands,NLD,Europe,Iceland,1
+11046,Netherlands,NLD,Europe,India,1
+11047,Netherlands,NLD,Europe,Iran (Islamic Republic of),1
+11048,Netherlands,NLD,Europe,Iraq,1
+11049,Netherlands,NLD,Europe,Ireland,1
+11050,Netherlands,NLD,Europe,Israel,1
+11051,Netherlands,NLD,Europe,Italy,1
+11052,Netherlands,NLD,Europe,Japan,1
+11053,Netherlands,NLD,Europe,Jersey,1
+11054,Netherlands,NLD,Europe,Jordan,1
+11055,Netherlands,NLD,Europe,Kazakhstan,1
+11056,Netherlands,NLD,Europe,Kenya,1
+11057,Netherlands,NLD,Europe,Kuwait,1
+11058,Netherlands,NLD,Europe,Latvia,1
+11059,Netherlands,NLD,Europe,Lithuania,1
+11060,Netherlands,NLD,Europe,Luxembourg,1
+11061,Netherlands,NLD,Europe,North Macedonia,1
+11062,Netherlands,NLD,Europe,Malaysia,1
+11063,Netherlands,NLD,Europe,Malta,1
+11064,Netherlands,NLD,Europe,Mexico,1
+11065,Netherlands,NLD,Europe,Morocco,1
+11066,Netherlands,NLD,Europe,Netherlands Antilles,1
+11067,Netherlands,NLD,Europe,Nigeria,1
+11068,Netherlands,NLD,Europe,Norway,1
+11069,Netherlands,NLD,Europe,Panama,1
+11070,Netherlands,NLD,Europe,Peru,1
+11071,Netherlands,NLD,Europe,Poland,1
+11072,Netherlands,NLD,Europe,Portugal,1
+11073,Netherlands,NLD,Europe,Qatar,1
+11074,Netherlands,NLD,Europe,Romania,1
+11075,Netherlands,NLD,Europe,Russian Federation,1
+11076,Netherlands,NLD,Europe,Rwanda,1
+11077,Netherlands,NLD,Europe,Saudi Arabia,1
+11078,Netherlands,NLD,Europe,Serbia,1
+11079,Netherlands,NLD,Europe,Singapore,1
+11080,Netherlands,NLD,Europe,Slovenia,1
+11081,Netherlands,NLD,Europe,South Africa,1
+11082,Netherlands,NLD,Europe,"Korea, Republic of",1
+11083,Netherlands,NLD,Europe,Spain,1
+11084,Netherlands,NLD,Europe,Suriname,1
+11085,Netherlands,NLD,Europe,Sweden,1
+11086,Netherlands,NLD,Europe,Switzerland,1
+11087,Netherlands,NLD,Europe,Taiwan,1
+11088,Netherlands,NLD,Europe,"Tanzania, United Republic of",1
+11089,Netherlands,NLD,Europe,Thailand,1
+11090,Netherlands,NLD,Europe,Tunisia,1
+11091,Netherlands,NLD,Europe,Turkey,1
+11092,Netherlands,NLD,Europe,Ukraine,1
+11093,Netherlands,NLD,Europe,United Arab Emirates,1
+11094,Netherlands,NLD,Europe,United Kingdom of Great Britain and Northern Ireland,1
+11095,Netherlands,NLD,Europe,United States of America,1
+11096,Netherlands,NLD,Europe,Zimbabwe,1
+11178,New Caledonia,NCL,Oceania,Australia,1
+11179,New Caledonia,NCL,Oceania,Fiji,1
+11180,New Caledonia,NCL,Oceania,French Polynesia,1
+11181,New Caledonia,NCL,Oceania,Japan,1
+11182,New Caledonia,NCL,Oceania,New Zealand,1
+11183,New Caledonia,NCL,Oceania,Vanuatu,1
+11184,New Caledonia,NCL,Oceania,Wallis and Futuna,1
+11192,New Zealand,NZL,Oceania,Australia,1
+11193,New Zealand,NZL,Oceania,Chile,1
+11194,New Zealand,NZL,Oceania,China,1
+11195,New Zealand,NZL,Oceania,Cook Islands,1
+11196,New Zealand,NZL,Oceania,Fiji,1
+11197,New Zealand,NZL,Oceania,French Polynesia,1
+11198,New Zealand,NZL,Oceania,Hong Kong,1
+11199,New Zealand,NZL,Oceania,Japan,1
+11200,New Zealand,NZL,Oceania,Malaysia,1
+11201,New Zealand,NZL,Oceania,New Caledonia,1
+11202,New Zealand,NZL,Oceania,Samoa,1
+11203,New Zealand,NZL,Oceania,Singapore,1
+11204,New Zealand,NZL,Oceania,"Korea, Republic of",1
+11205,New Zealand,NZL,Oceania,Thailand,1
+11206,New Zealand,NZL,Oceania,Tonga,1
+11207,New Zealand,NZL,Oceania,United States of America,1
+11208,New Zealand,NZL,Oceania,Vanuatu,1
+11209,Nicaragua,NIC,Americas,Costa Rica,1
+11210,Nicaragua,NIC,Americas,El Salvador,1
+11211,Nicaragua,NIC,Americas,Guatemala,1
+11212,Nicaragua,NIC,Americas,Panama,1
+11213,Nicaragua,NIC,Americas,United States of America,1
+11219,Niger,NER,Africa,Algeria,1
+11220,Niger,NER,Africa,Benin,1
+11221,Niger,NER,Africa,Burkina Faso,1
+11222,Niger,NER,Africa,Chad,1
+11223,Niger,NER,Africa,Ethiopia,1
+11224,Niger,NER,Africa,France,1
+11225,Niger,NER,Africa,Morocco,1
+11226,Niger,NER,Africa,Nigeria,1
+11275,Nigeria,NGA,Africa,Benin,1
+11276,Nigeria,NGA,Africa,Cameroon,1
+11277,Nigeria,NGA,Africa,Chad,1
+11278,Nigeria,NGA,Africa,Côte d'Ivoire,1
+11279,Nigeria,NGA,Africa,Egypt,1
+11280,Nigeria,NGA,Africa,Equatorial Guinea,1
+11281,Nigeria,NGA,Africa,Ethiopia,1
+11282,Nigeria,NGA,Africa,France,1
+11283,Nigeria,NGA,Africa,Gabon,1
+11284,Nigeria,NGA,Africa,Germany,1
+11285,Nigeria,NGA,Africa,Ghana,1
+11286,Nigeria,NGA,Africa,Jordan,1
+11287,Nigeria,NGA,Africa,Kenya,1
+11288,Nigeria,NGA,Africa,Lebanon,1
+11289,Nigeria,NGA,Africa,Liberia,1
+11290,Nigeria,NGA,Africa,Mali,1
+11291,Nigeria,NGA,Africa,Morocco,1
+11292,Nigeria,NGA,Africa,Netherlands,1
+11293,Nigeria,NGA,Africa,Niger,1
+11294,Nigeria,NGA,Africa,Qatar,1
+11295,Nigeria,NGA,Africa,Rwanda,1
+11296,Nigeria,NGA,Africa,Saudi Arabia,1
+11297,Nigeria,NGA,Africa,Senegal,1
+11298,Nigeria,NGA,Africa,Sierra Leone,1
+11299,Nigeria,NGA,Africa,South Africa,1
+11300,Nigeria,NGA,Africa,Spain,1
+11301,Nigeria,NGA,Africa,Sudan,1
+11302,Nigeria,NGA,Africa,Togo,1
+11303,Nigeria,NGA,Africa,Turkey,1
+11304,Nigeria,NGA,Africa,United Arab Emirates,1
+11305,Nigeria,NGA,Africa,United Kingdom of Great Britain and Northern Ireland,1
+11306,Nigeria,NGA,Africa,United States of America,1
+11403,Niue,NIU,Oceania,New Zealand,1
+11404,Norfolk Island,NFK,Oceania,Australia,1
+11405,Norfolk Island,NFK,Oceania,New Zealand,1
+11406,North Macedonia,MKD,Europe,Austria,1
+11407,North Macedonia,MKD,Europe,Belgium,1
+11408,North Macedonia,MKD,Europe,Croatia,1
+11409,North Macedonia,MKD,Europe,Germany,1
+11410,North Macedonia,MKD,Europe,Italy,1
+11411,North Macedonia,MKD,Europe,Netherlands,1
+11412,North Macedonia,MKD,Europe,Serbia,1
+11413,North Macedonia,MKD,Europe,Slovenia,1
+11414,North Macedonia,MKD,Europe,Sweden,1
+11415,North Macedonia,MKD,Europe,Switzerland,1
+11416,North Macedonia,MKD,Europe,Turkey,1
+11417,North Macedonia,MKD,Europe,United Arab Emirates,1
+11418,North Macedonia,MKD,Europe,United Kingdom of Great Britain and Northern Ireland,1
+11458,Northern Mariana Islands,MNP,Oceania,China,1
+11459,Northern Mariana Islands,MNP,Oceania,Guam,1
+11460,Northern Mariana Islands,MNP,Oceania,Japan,1
+11461,Northern Mariana Islands,MNP,Oceania,"Korea, Republic of",1
+11462,Norway,NOR,Europe,Austria,1
+11463,Norway,NOR,Europe,Belgium,1
+11464,Norway,NOR,Europe,Bulgaria,1
+11465,Norway,NOR,Europe,Croatia,1
+11466,Norway,NOR,Europe,Cyprus,1
+11467,Norway,NOR,Europe,Czechia,1
+11468,Norway,NOR,Europe,Denmark,1
+11469,Norway,NOR,Europe,Estonia,1
+11470,Norway,NOR,Europe,Faroe Islands,1
+11471,Norway,NOR,Europe,Finland,1
+11472,Norway,NOR,Europe,France,1
+11473,Norway,NOR,Europe,Germany,1
+11474,Norway,NOR,Europe,Greece,1
+11475,Norway,NOR,Europe,Hungary,1
+11476,Norway,NOR,Europe,Iceland,1
+11477,Norway,NOR,Europe,Ireland,1
+11478,Norway,NOR,Europe,Italy,1
+11479,Norway,NOR,Europe,Latvia,1
+11480,Norway,NOR,Europe,Lithuania,1
+11481,Norway,NOR,Europe,Malta,1
+11482,Norway,NOR,Europe,Morocco,1
+11483,Norway,NOR,Europe,Netherlands,1
+11484,Norway,NOR,Europe,Pakistan,1
+11485,Norway,NOR,Europe,Poland,1
+11486,Norway,NOR,Europe,Portugal,1
+11487,Norway,NOR,Europe,Qatar,1
+11488,Norway,NOR,Europe,Romania,1
+11489,Norway,NOR,Europe,Russian Federation,1
+11490,Norway,NOR,Europe,Serbia,1
+11491,Norway,NOR,Europe,Slovakia,1
+11492,Norway,NOR,Europe,Spain,1
+11493,Norway,NOR,Europe,Sweden,1
+11494,Norway,NOR,Europe,Switzerland,1
+11495,Norway,NOR,Europe,Thailand,1
+11496,Norway,NOR,Europe,Turkey,1
+11497,Norway,NOR,Europe,Ukraine,1
+11498,Norway,NOR,Europe,United Kingdom of Great Britain and Northern Ireland,1
+11499,Norway,NOR,Europe,United States of America,1
+11576,Oman,OMN,Asia,Bahrain,1
+11577,Oman,OMN,Asia,Bangladesh,1
+11578,Oman,OMN,Asia,Egypt,1
+11579,Oman,OMN,Asia,Ethiopia,1
+11580,Oman,OMN,Asia,France,1
+11581,Oman,OMN,Asia,Germany,1
+11582,Oman,OMN,Asia,India,1
+11583,Oman,OMN,Asia,Iran (Islamic Republic of),1
+11584,Oman,OMN,Asia,Italy,1
+11585,Oman,OMN,Asia,Jordan,1
+11586,Oman,OMN,Asia,Kuwait,1
+11587,Oman,OMN,Asia,Lebanon,1
+11588,Oman,OMN,Asia,Malaysia,1
+11589,Oman,OMN,Asia,Maldives,1
+11590,Oman,OMN,Asia,Nepal,1
+11591,Oman,OMN,Asia,Pakistan,1
+11592,Oman,OMN,Asia,Qatar,1
+11593,Oman,OMN,Asia,Saudi Arabia,1
+11594,Oman,OMN,Asia,Sri Lanka,1
+11595,Oman,OMN,Asia,Switzerland,1
+11596,Oman,OMN,Asia,"Tanzania, United Republic of",1
+11597,Oman,OMN,Asia,Thailand,1
+11598,Oman,OMN,Asia,Turkey,1
+11599,Oman,OMN,Asia,United Arab Emirates,1
+11600,Oman,OMN,Asia,United Kingdom of Great Britain and Northern Ireland,1
+11651,Pakistan,PAK,Asia,Afghanistan,1
+11652,Pakistan,PAK,Asia,Bahrain,1
+11653,Pakistan,PAK,Asia,Bangladesh,1
+11654,Pakistan,PAK,Asia,Canada,1
+11655,Pakistan,PAK,Asia,China,1
+11656,Pakistan,PAK,Asia,Denmark,1
+11657,Pakistan,PAK,Asia,France,1
+11658,Pakistan,PAK,Asia,India,1
+11659,Pakistan,PAK,Asia,Iran (Islamic Republic of),1
+11660,Pakistan,PAK,Asia,Italy,1
+11661,Pakistan,PAK,Asia,Kuwait,1
+11662,Pakistan,PAK,Asia,Malaysia,1
+11663,Pakistan,PAK,Asia,Nepal,1
+11664,Pakistan,PAK,Asia,Norway,1
+11665,Pakistan,PAK,Asia,Oman,1
+11666,Pakistan,PAK,Asia,Qatar,1
+11667,Pakistan,PAK,Asia,Saudi Arabia,1
+11668,Pakistan,PAK,Asia,Spain,1
+11669,Pakistan,PAK,Asia,Sri Lanka,1
+11670,Pakistan,PAK,Asia,Thailand,1
+11671,Pakistan,PAK,Asia,Turkey,1
+11672,Pakistan,PAK,Asia,United Arab Emirates,1
+11673,Pakistan,PAK,Asia,United Kingdom of Great Britain and Northern Ireland,1
+11743,Palau,PLW,Oceania,Guam,1
+11744,Palau,PLW,Oceania,Japan,1
+11745,Palau,PLW,Oceania,Micronesia (Federated States of),1
+11746,Palau,PLW,Oceania,Philippines,1
+11747,Palau,PLW,Oceania,"Korea, Republic of",1
+11748,Palau,PLW,Oceania,Taiwan,1
+11761,Panama,PAN,Americas,Argentina,1
+11762,Panama,PAN,Americas,Aruba,1
+11763,Panama,PAN,Americas,Bahamas,1
+11764,Panama,PAN,Americas,Bolivia,1
+11765,Panama,PAN,Americas,Brazil,1
+11766,Panama,PAN,Americas,Canada,1
+11767,Panama,PAN,Americas,Chile,1
+11768,Panama,PAN,Americas,Colombia,1
+11769,Panama,PAN,Americas,Costa Rica,1
+11770,Panama,PAN,Americas,Cuba,1
+11771,Panama,PAN,Americas,Dominican Republic,1
+11772,Panama,PAN,Americas,Ecuador,1
+11773,Panama,PAN,Americas,El Salvador,1
+11774,Panama,PAN,Americas,France,1
+11775,Panama,PAN,Americas,Guatemala,1
+11776,Panama,PAN,Americas,Haiti,1
+11777,Panama,PAN,Americas,Honduras,1
+11778,Panama,PAN,Americas,Jamaica,1
+11779,Panama,PAN,Americas,Mexico,1
+11780,Panama,PAN,Americas,Netherlands,1
+11781,Panama,PAN,Americas,Netherlands Antilles,1
+11782,Panama,PAN,Americas,Nicaragua,1
+11783,Panama,PAN,Americas,Paraguay,1
+11784,Panama,PAN,Americas,Peru,1
+11785,Panama,PAN,Americas,Puerto Rico,1
+11786,Panama,PAN,Americas,Spain,1
+11787,Panama,PAN,Americas,Trinidad and Tobago,1
+11788,Panama,PAN,Americas,United States of America,1
+11789,Panama,PAN,Americas,Uruguay,1
+11790,Panama,PAN,Americas,Venezuela (Bolivarian Republic of),1
+11821,Papua New Guinea,PNG,Oceania,Australia,1
+11822,Papua New Guinea,PNG,Oceania,Fiji,1
+11823,Papua New Guinea,PNG,Oceania,Hong Kong,1
+11824,Papua New Guinea,PNG,Oceania,Indonesia,1
+11825,Papua New Guinea,PNG,Oceania,Japan,1
+11826,Papua New Guinea,PNG,Oceania,Philippines,1
+11827,Papua New Guinea,PNG,Oceania,Singapore,1
+11828,Papua New Guinea,PNG,Oceania,Solomon Islands,1
+11845,Paraguay,PRY,Americas,Argentina,1
+11846,Paraguay,PRY,Americas,Bolivia,1
+11847,Paraguay,PRY,Americas,Brazil,1
+11848,Paraguay,PRY,Americas,Chile,1
+11849,Paraguay,PRY,Americas,Panama,1
+11850,Paraguay,PRY,Americas,Peru,1
+11851,Paraguay,PRY,Americas,United States of America,1
+11852,Paraguay,PRY,Americas,Uruguay,1
+11869,Peru,PER,Americas,Argentina,1
+11870,Peru,PER,Americas,Bolivia,1
+11871,Peru,PER,Americas,Brazil,1
+11872,Peru,PER,Americas,Canada,1
+11873,Peru,PER,Americas,Chile,1
+11874,Peru,PER,Americas,Colombia,1
+11875,Peru,PER,Americas,Costa Rica,1
+11876,Peru,PER,Americas,Cuba,1
+11877,Peru,PER,Americas,Dominican Republic,1
+11878,Peru,PER,Americas,Ecuador,1
+11879,Peru,PER,Americas,El Salvador,1
+11880,Peru,PER,Americas,France,1
+11881,Peru,PER,Americas,Mexico,1
+11882,Peru,PER,Americas,Netherlands,1
+11883,Peru,PER,Americas,Panama,1
+11884,Peru,PER,Americas,Paraguay,1
+11885,Peru,PER,Americas,Spain,1
+11886,Peru,PER,Americas,United States of America,1
+11887,Peru,PER,Americas,Uruguay,1
+11888,Peru,PER,Americas,Venezuela (Bolivarian Republic of),1
+11969,Philippines,PHL,Asia,Australia,1
+11970,Philippines,PHL,Asia,Bahrain,1
+11971,Philippines,PHL,Asia,Brunei,1
+11972,Philippines,PHL,Asia,Cambodia,1
+11973,Philippines,PHL,Asia,Canada,1
+11974,Philippines,PHL,Asia,China,1
+11975,Philippines,PHL,Asia,Guam,1
+11976,Philippines,PHL,Asia,Hong Kong,1
+11977,Philippines,PHL,Asia,Indonesia,1
+11978,Philippines,PHL,Asia,Japan,1
+11979,Philippines,PHL,Asia,Macao,1
+11980,Philippines,PHL,Asia,Malaysia,1
+11981,Philippines,PHL,Asia,Palau,1
+11982,Philippines,PHL,Asia,Papua New Guinea,1
+11983,Philippines,PHL,Asia,Qatar,1
+11984,Philippines,PHL,Asia,Saudi Arabia,1
+11985,Philippines,PHL,Asia,Singapore,1
+11986,Philippines,PHL,Asia,"Korea, Republic of",1
+11987,Philippines,PHL,Asia,Taiwan,1
+11988,Philippines,PHL,Asia,Thailand,1
+11989,Philippines,PHL,Asia,United Arab Emirates,1
+11990,Philippines,PHL,Asia,United Kingdom of Great Britain and Northern Ireland,1
+11991,Philippines,PHL,Asia,United States of America,1
+11992,Philippines,PHL,Asia,Viet Nam,1
+11993,Poland,POL,Europe,Armenia,1
+11994,Poland,POL,Europe,Austria,1
+11995,Poland,POL,Europe,Belarus,1
+11996,Poland,POL,Europe,Belgium,1
+11997,Poland,POL,Europe,Bulgaria,1
+11998,Poland,POL,Europe,Canada,1
+11999,Poland,POL,Europe,China,1
+12000,Poland,POL,Europe,Croatia,1
+12001,Poland,POL,Europe,Cyprus,1
+12002,Poland,POL,Europe,Czechia,1
+12003,Poland,POL,Europe,Denmark,1
+12004,Poland,POL,Europe,Estonia,1
+12005,Poland,POL,Europe,Finland,1
+12006,Poland,POL,Europe,France,1
+12007,Poland,POL,Europe,Georgia,1
+12008,Poland,POL,Europe,Germany,1
+12009,Poland,POL,Europe,Greece,1
+12010,Poland,POL,Europe,Hungary,1
+12011,Poland,POL,Europe,Ireland,1
+12012,Poland,POL,Europe,Israel,1
+12013,Poland,POL,Europe,Italy,1
+12014,Poland,POL,Europe,Latvia,1
+12015,Poland,POL,Europe,Lithuania,1
+12016,Poland,POL,Europe,Malta,1
+12017,Poland,POL,Europe,Netherlands,1
+12018,Poland,POL,Europe,Norway,1
+12019,Poland,POL,Europe,Portugal,1
+12020,Poland,POL,Europe,Qatar,1
+12021,Poland,POL,Europe,Romania,1
+12022,Poland,POL,Europe,Russian Federation,1
+12023,Poland,POL,Europe,Serbia,1
+12024,Poland,POL,Europe,Slovenia,1
+12025,Poland,POL,Europe,Spain,1
+12026,Poland,POL,Europe,Sweden,1
+12027,Poland,POL,Europe,Switzerland,1
+12028,Poland,POL,Europe,Turkey,1
+12029,Poland,POL,Europe,Ukraine,1
+12030,Poland,POL,Europe,United Arab Emirates,1
+12031,Poland,POL,Europe,United Kingdom of Great Britain and Northern Ireland,1
+12032,Poland,POL,Europe,United States of America,1
+12273,Portugal,PRT,Europe,Algeria,1
+12274,Portugal,PRT,Europe,Angola,1
+12275,Portugal,PRT,Europe,Austria,1
+12276,Portugal,PRT,Europe,Belgium,1
+12277,Portugal,PRT,Europe,Brazil,1
+12278,Portugal,PRT,Europe,Canada,1
+12279,Portugal,PRT,Europe,Cabo Verde,1
+12280,Portugal,PRT,Europe,Czechia,1
+12281,Portugal,PRT,Europe,Denmark,1
+12282,Portugal,PRT,Europe,Finland,1
+12283,Portugal,PRT,Europe,France,1
+12284,Portugal,PRT,Europe,Germany,1
+12285,Portugal,PRT,Europe,Ghana,1
+12286,Portugal,PRT,Europe,Hungary,1
+12287,Portugal,PRT,Europe,Ireland,1
+12288,Portugal,PRT,Europe,Italy,1
+12289,Portugal,PRT,Europe,Luxembourg,1
+12290,Portugal,PRT,Europe,Mali,1
+12291,Portugal,PRT,Europe,"Moldova, Republic of",1
+12292,Portugal,PRT,Europe,Morocco,1
+12293,Portugal,PRT,Europe,Mozambique,1
+12294,Portugal,PRT,Europe,Netherlands,1
+12295,Portugal,PRT,Europe,Norway,1
+12296,Portugal,PRT,Europe,Poland,1
+12297,Portugal,PRT,Europe,Romania,1
+12298,Portugal,PRT,Europe,Russian Federation,1
+12299,Portugal,PRT,Europe,Sao Tome and Principe,1
+12300,Portugal,PRT,Europe,Senegal,1
+12301,Portugal,PRT,Europe,Spain,1
+12302,Portugal,PRT,Europe,Sweden,1
+12303,Portugal,PRT,Europe,Switzerland,1
+12304,Portugal,PRT,Europe,Tunisia,1
+12305,Portugal,PRT,Europe,Turkey,1
+12306,Portugal,PRT,Europe,Ukraine,1
+12307,Portugal,PRT,Europe,United Arab Emirates,1
+12308,Portugal,PRT,Europe,United Kingdom of Great Britain and Northern Ireland,1
+12309,Portugal,PRT,Europe,United States of America,1
+12310,Portugal,PRT,Europe,Venezuela (Bolivarian Republic of),1
+12311,Puerto Rico,PRI,Americas,Anguilla,1
+12312,Puerto Rico,PRI,Americas,Antigua and Barbuda,1
+12313,Puerto Rico,PRI,Americas,Virgin Islands (British),1
+12314,Puerto Rico,PRI,Americas,Canada,1
+12315,Puerto Rico,PRI,Americas,Colombia,1
+12316,Puerto Rico,PRI,Americas,Dominica,1
+12317,Puerto Rico,PRI,Americas,Dominican Republic,1
+12318,Puerto Rico,PRI,Americas,France,1
+12319,Puerto Rico,PRI,Americas,Germany,1
+12320,Puerto Rico,PRI,Americas,Guadeloupe,1
+12321,Puerto Rico,PRI,Americas,Martinique,1
+12322,Puerto Rico,PRI,Americas,Netherlands Antilles,1
+12323,Puerto Rico,PRI,Americas,Panama,1
+12324,Puerto Rico,PRI,Americas,Saint Kitts and Nevis,1
+12325,Puerto Rico,PRI,Americas,Turks and Caicos Islands,1
+12326,Puerto Rico,PRI,Americas,United States of America,1
+12327,Puerto Rico,PRI,Americas,Venezuela (Bolivarian Republic of),1
+12329,Qatar,QAT,Asia,Algeria,1
+12330,Qatar,QAT,Asia,Australia,1
+12331,Qatar,QAT,Asia,Austria,1
+12332,Qatar,QAT,Asia,Azerbaijan,1
+12333,Qatar,QAT,Asia,Bahrain,1
+12334,Qatar,QAT,Asia,Bangladesh,1
+12335,Qatar,QAT,Asia,Belgium,1
+12336,Qatar,QAT,Asia,Brazil,1
+12337,Qatar,QAT,Asia,Myanmar,1
+12338,Qatar,QAT,Asia,Canada,1
+12339,Qatar,QAT,Asia,China,1
+12340,Qatar,QAT,Asia,Cyprus,1
+12341,Qatar,QAT,Asia,Denmark,1
+12342,Qatar,QAT,Asia,Egypt,1
+12343,Qatar,QAT,Asia,Ethiopia,1
+12344,Qatar,QAT,Asia,France,1
+12345,Qatar,QAT,Asia,Germany,1
+12346,Qatar,QAT,Asia,Greece,1
+12347,Qatar,QAT,Asia,Hong Kong,1
+12348,Qatar,QAT,Asia,Hungary,1
+12349,Qatar,QAT,Asia,India,1
+12350,Qatar,QAT,Asia,Indonesia,1
+12351,Qatar,QAT,Asia,Iran (Islamic Republic of),1
+12352,Qatar,QAT,Asia,Iraq,1
+12353,Qatar,QAT,Asia,Italy,1
+12354,Qatar,QAT,Asia,Japan,1
+12355,Qatar,QAT,Asia,Jordan,1
+12356,Qatar,QAT,Asia,Kenya,1
+12357,Qatar,QAT,Asia,Kuwait,1
+12358,Qatar,QAT,Asia,Lebanon,1
+12359,Qatar,QAT,Asia,Malaysia,1
+12360,Qatar,QAT,Asia,Maldives,1
+12361,Qatar,QAT,Asia,Morocco,1
+12362,Qatar,QAT,Asia,Nepal,1
+12363,Qatar,QAT,Asia,Netherlands,1
+12364,Qatar,QAT,Asia,Nigeria,1
+12365,Qatar,QAT,Asia,Norway,1
+12366,Qatar,QAT,Asia,Oman,1
+12367,Qatar,QAT,Asia,Pakistan,1
+12368,Qatar,QAT,Asia,Philippines,1
+12369,Qatar,QAT,Asia,Poland,1
+12370,Qatar,QAT,Asia,Romania,1
+12371,Qatar,QAT,Asia,Russian Federation,1
+12372,Qatar,QAT,Asia,Saudi Arabia,1
+12373,Qatar,QAT,Asia,Singapore,1
+12374,Qatar,QAT,Asia,South Africa,1
+12375,Qatar,QAT,Asia,"Korea, Republic of",1
+12376,Qatar,QAT,Asia,Spain,1
+12377,Qatar,QAT,Asia,Sri Lanka,1
+12378,Qatar,QAT,Asia,Sudan,1
+12379,Qatar,QAT,Asia,Sweden,1
+12380,Qatar,QAT,Asia,Switzerland,1
+12381,Qatar,QAT,Asia,"Tanzania, United Republic of",1
+12382,Qatar,QAT,Asia,Thailand,1
+12383,Qatar,QAT,Asia,Tunisia,1
+12384,Qatar,QAT,Asia,Turkey,1
+12385,Qatar,QAT,Asia,Uganda,1
+12386,Qatar,QAT,Asia,United Arab Emirates,1
+12387,Qatar,QAT,Asia,United Kingdom of Great Britain and Northern Ireland,1
+12388,Qatar,QAT,Asia,United States of America,1
+12389,Qatar,QAT,Asia,Viet Nam,1
+12390,Qatar,QAT,Asia,Yemen,1
+12391,Réunion,REU,Africa,Comoros,1
+12392,Réunion,REU,Africa,France,1
+12393,Réunion,REU,Africa,India,1
+12394,Réunion,REU,Africa,Madagascar,1
+12395,Réunion,REU,Africa,Mauritius,1
+12396,Réunion,REU,Africa,Mayotte,1
+12397,Réunion,REU,Africa,South Africa,1
+12398,Romania,ROU,Europe,Austria,1
+12399,Romania,ROU,Europe,Belgium,1
+12400,Romania,ROU,Europe,Bulgaria,1
+12401,Romania,ROU,Europe,Cyprus,1
+12402,Romania,ROU,Europe,Czechia,1
+12403,Romania,ROU,Europe,Denmark,1
+12404,Romania,ROU,Europe,France,1
+12405,Romania,ROU,Europe,Germany,1
+12406,Romania,ROU,Europe,Greece,1
+12407,Romania,ROU,Europe,Hungary,1
+12408,Romania,ROU,Europe,Ireland,1
+12409,Romania,ROU,Europe,Israel,1
+12410,Romania,ROU,Europe,Italy,1
+12411,Romania,ROU,Europe,Jordan,1
+12412,Romania,ROU,Europe,Lebanon,1
+12413,Romania,ROU,Europe,"Moldova, Republic of",1
+12414,Romania,ROU,Europe,Netherlands,1
+12415,Romania,ROU,Europe,Norway,1
+12416,Romania,ROU,Europe,Poland,1
+12417,Romania,ROU,Europe,Portugal,1
+12418,Romania,ROU,Europe,Qatar,1
+12419,Romania,ROU,Europe,Russian Federation,1
+12420,Romania,ROU,Europe,Serbia,1
+12421,Romania,ROU,Europe,Spain,1
+12422,Romania,ROU,Europe,Switzerland,1
+12423,Romania,ROU,Europe,Turkey,1
+12424,Romania,ROU,Europe,United Arab Emirates,1
+12425,Romania,ROU,Europe,United Kingdom of Great Britain and Northern Ireland,1
+12538,Russian Federation,RUS,Europe,Algeria,1
+12539,Russian Federation,RUS,Europe,Armenia,1
+12540,Russian Federation,RUS,Europe,Austria,1
+12541,Russian Federation,RUS,Europe,Azerbaijan,1
+12542,Russian Federation,RUS,Europe,Belarus,1
+12543,Russian Federation,RUS,Europe,Belgium,1
+12544,Russian Federation,RUS,Europe,Bulgaria,1
+12545,Russian Federation,RUS,Europe,Canada,1
+12546,Russian Federation,RUS,Europe,China,1
+12547,Russian Federation,RUS,Europe,Croatia,1
+12548,Russian Federation,RUS,Europe,Cuba,1
+12549,Russian Federation,RUS,Europe,Cyprus,1
+12550,Russian Federation,RUS,Europe,Czechia,1
+12551,Russian Federation,RUS,Europe,Denmark,1
+12552,Russian Federation,RUS,Europe,Dominican Republic,1
+12553,Russian Federation,RUS,Europe,Egypt,1
+12554,Russian Federation,RUS,Europe,Estonia,1
+12555,Russian Federation,RUS,Europe,Finland,1
+12556,Russian Federation,RUS,Europe,France,1
+12557,Russian Federation,RUS,Europe,Georgia,1
+12558,Russian Federation,RUS,Europe,Germany,1
+12559,Russian Federation,RUS,Europe,Greece,1
+12560,Russian Federation,RUS,Europe,Hong Kong,1
+12561,Russian Federation,RUS,Europe,Hungary,1
+12562,Russian Federation,RUS,Europe,India,1
+12563,Russian Federation,RUS,Europe,Iran (Islamic Republic of),1
+12564,Russian Federation,RUS,Europe,Israel,1
+12565,Russian Federation,RUS,Europe,Italy,1
+12566,Russian Federation,RUS,Europe,Japan,1
+12567,Russian Federation,RUS,Europe,Jordan,1
+12568,Russian Federation,RUS,Europe,Kazakhstan,1
+12569,Russian Federation,RUS,Europe,Kyrgyzstan,1
+12570,Russian Federation,RUS,Europe,Latvia,1
+12571,Russian Federation,RUS,Europe,Lebanon,1
+12572,Russian Federation,RUS,Europe,Lithuania,1
+12573,Russian Federation,RUS,Europe,Maldives,1
+12574,Russian Federation,RUS,Europe,Malta,1
+12575,Russian Federation,RUS,Europe,Mauritius,1
+12576,Russian Federation,RUS,Europe,Mexico,1
+12577,Russian Federation,RUS,Europe,"Moldova, Republic of",1
+12578,Russian Federation,RUS,Europe,Mongolia,1
+12579,Russian Federation,RUS,Europe,Montenegro,1
+12580,Russian Federation,RUS,Europe,Morocco,1
+12581,Russian Federation,RUS,Europe,Netherlands,1
+12582,Russian Federation,RUS,Europe,Korea (Democratic People's Republic of),1
+12583,Russian Federation,RUS,Europe,Norway,1
+12584,Russian Federation,RUS,Europe,Poland,1
+12585,Russian Federation,RUS,Europe,Portugal,1
+12586,Russian Federation,RUS,Europe,Qatar,1
+12587,Russian Federation,RUS,Europe,Romania,1
+12588,Russian Federation,RUS,Europe,Serbia,1
+12589,Russian Federation,RUS,Europe,Seychelles,1
+12590,Russian Federation,RUS,Europe,Singapore,1
+12591,Russian Federation,RUS,Europe,Slovenia,1
+12592,Russian Federation,RUS,Europe,"Korea, Republic of",1
+12593,Russian Federation,RUS,Europe,Spain,1
+12594,Russian Federation,RUS,Europe,Sri Lanka,1
+12595,Russian Federation,RUS,Europe,Sweden,1
+12596,Russian Federation,RUS,Europe,Switzerland,1
+12597,Russian Federation,RUS,Europe,Tajikistan,1
+12598,Russian Federation,RUS,Europe,Thailand,1
+12599,Russian Federation,RUS,Europe,Tunisia,1
+12600,Russian Federation,RUS,Europe,Turkey,1
+12601,Russian Federation,RUS,Europe,Turkmenistan,1
+12602,Russian Federation,RUS,Europe,Ukraine,1
+12603,Russian Federation,RUS,Europe,United Arab Emirates,1
+12604,Russian Federation,RUS,Europe,United Kingdom of Great Britain and Northern Ireland,1
+12605,Russian Federation,RUS,Europe,United States of America,1
+12606,Russian Federation,RUS,Europe,Uzbekistan,1
+12607,Russian Federation,RUS,Europe,Viet Nam,1
+13518,Rwanda,RWA,Africa,Belgium,1
+13519,Rwanda,RWA,Africa,Burundi,1
+13520,Rwanda,RWA,Africa,Congo,1
+13521,Rwanda,RWA,Africa,Ethiopia,1
+13522,Rwanda,RWA,Africa,Gabon,1
+13523,Rwanda,RWA,Africa,Kenya,1
+13524,Rwanda,RWA,Africa,Nigeria,1
+13525,Rwanda,RWA,Africa,South Africa,1
+13526,Rwanda,RWA,Africa,South Sudan,1
+13527,Rwanda,RWA,Africa,"Tanzania, United Republic of",1
+13528,Rwanda,RWA,Africa,Turkey,1
+13529,Rwanda,RWA,Africa,Uganda,1
+13530,Rwanda,RWA,Africa,United Arab Emirates,1
+13570,Saint Lucia,LCA,Americas,Antigua and Barbuda,1
+13571,Saint Lucia,LCA,Americas,Barbados,1
+13572,Saint Lucia,LCA,Americas,Canada,1
+13573,Saint Lucia,LCA,Americas,Dominica,1
+13574,Saint Lucia,LCA,Americas,Grenada,1
+13575,Saint Lucia,LCA,Americas,Martinique,1
+13576,Saint Lucia,LCA,Americas,Saint Vincent and the Grenadines,1
+13577,Saint Lucia,LCA,Americas,Trinidad and Tobago,1
+13578,Saint Lucia,LCA,Americas,United Kingdom of Great Britain and Northern Ireland,1
+13579,Saint Lucia,LCA,Americas,United States of America,1
+13600,Saint Pierre and Miquelon,SPM,Americas,Canada,1
+13601,Saint Vincent and the Grenadines,VCT,Americas,Barbados,1
+13602,Saint Vincent and the Grenadines,VCT,Americas,Grenada,1
+13603,Saint Vincent and the Grenadines,VCT,Americas,Saint Lucia,1
+13604,Saint Vincent and the Grenadines,VCT,Americas,Trinidad and Tobago,1
+13609,Sao Tome and Principe,STP,Africa,Angola,1
+13610,Sao Tome and Principe,STP,Africa,Cabo Verde,1
+13611,Sao Tome and Principe,STP,Africa,Portugal,1
+13612,Saudi Arabia,SAU,Asia,Algeria,1
+13613,Saudi Arabia,SAU,Asia,Bahrain,1
+13614,Saudi Arabia,SAU,Asia,Bangladesh,1
+13615,Saudi Arabia,SAU,Asia,Brunei,1
+13616,Saudi Arabia,SAU,Asia,Canada,1
+13617,Saudi Arabia,SAU,Asia,Chad,1
+13618,Saudi Arabia,SAU,Asia,China,1
+13619,Saudi Arabia,SAU,Asia,Egypt,1
+13620,Saudi Arabia,SAU,Asia,Eritrea,1
+13621,Saudi Arabia,SAU,Asia,Ethiopia,1
+13622,Saudi Arabia,SAU,Asia,France,1
+13623,Saudi Arabia,SAU,Asia,Germany,1
+13624,Saudi Arabia,SAU,Asia,Hong Kong,1
+13625,Saudi Arabia,SAU,Asia,India,1
+13626,Saudi Arabia,SAU,Asia,Indonesia,1
+13627,Saudi Arabia,SAU,Asia,Iran (Islamic Republic of),1
+13628,Saudi Arabia,SAU,Asia,Italy,1
+13629,Saudi Arabia,SAU,Asia,Jordan,1
+13630,Saudi Arabia,SAU,Asia,Kenya,1
+13631,Saudi Arabia,SAU,Asia,Kuwait,1
+13632,Saudi Arabia,SAU,Asia,Lebanon,1
+13633,Saudi Arabia,SAU,Asia,Libya,1
+13634,Saudi Arabia,SAU,Asia,Malaysia,1
+13635,Saudi Arabia,SAU,Asia,Morocco,1
+13636,Saudi Arabia,SAU,Asia,Netherlands,1
+13637,Saudi Arabia,SAU,Asia,Nigeria,1
+13638,Saudi Arabia,SAU,Asia,Oman,1
+13639,Saudi Arabia,SAU,Asia,Pakistan,1
+13640,Saudi Arabia,SAU,Asia,Philippines,1
+13641,Saudi Arabia,SAU,Asia,Qatar,1
+13642,Saudi Arabia,SAU,Asia,Singapore,1
+13643,Saudi Arabia,SAU,Asia,South Africa,1
+13644,Saudi Arabia,SAU,Asia,"Korea, Republic of",1
+13645,Saudi Arabia,SAU,Asia,Spain,1
+13646,Saudi Arabia,SAU,Asia,Sri Lanka,1
+13647,Saudi Arabia,SAU,Asia,Sudan,1
+13648,Saudi Arabia,SAU,Asia,Switzerland,1
+13649,Saudi Arabia,SAU,Asia,Tunisia,1
+13650,Saudi Arabia,SAU,Asia,Turkey,1
+13651,Saudi Arabia,SAU,Asia,United Arab Emirates,1
+13652,Saudi Arabia,SAU,Asia,United Kingdom of Great Britain and Northern Ireland,1
+13653,Saudi Arabia,SAU,Asia,United States of America,1
+13654,Saudi Arabia,SAU,Asia,Yemen,1
+13913,Senegal,SEN,Africa,Algeria,1
+13914,Senegal,SEN,Africa,Belgium,1
+13915,Senegal,SEN,Africa,Benin,1
+13916,Senegal,SEN,Africa,Burkina Faso,1
+13917,Senegal,SEN,Africa,Cameroon,1
+13918,Senegal,SEN,Africa,Cabo Verde,1
+13919,Senegal,SEN,Africa,Côte d'Ivoire,1
+13920,Senegal,SEN,Africa,France,1
+13921,Senegal,SEN,Africa,Gambia,1
+13922,Senegal,SEN,Africa,Ghana,1
+13923,Senegal,SEN,Africa,Guinea,1
+13924,Senegal,SEN,Africa,Guinea-Bissau,1
+13925,Senegal,SEN,Africa,Italy,1
+13926,Senegal,SEN,Africa,Mali,1
+13927,Senegal,SEN,Africa,Mauritania,1
+13928,Senegal,SEN,Africa,Morocco,1
+13929,Senegal,SEN,Africa,Nigeria,1
+13930,Senegal,SEN,Africa,Portugal,1
+13931,Senegal,SEN,Africa,Sierra Leone,1
+13932,Senegal,SEN,Africa,South Africa,1
+13933,Senegal,SEN,Africa,Spain,1
+13934,Senegal,SEN,Africa,Tunisia,1
+13935,Senegal,SEN,Africa,Turkey,1
+13936,Senegal,SEN,Africa,United Arab Emirates,1
+13937,Senegal,SEN,Africa,United States of America,1
+14038,Serbia,SRB,Europe,Austria,1
+14039,Serbia,SRB,Europe,Belgium,1
+14040,Serbia,SRB,Europe,Bosnia and Herzegovina,1
+14041,Serbia,SRB,Europe,Bulgaria,1
+14042,Serbia,SRB,Europe,Croatia,1
+14043,Serbia,SRB,Europe,Cyprus,1
+14044,Serbia,SRB,Europe,Czechia,1
+14045,Serbia,SRB,Europe,Denmark,1
+14046,Serbia,SRB,Europe,France,1
+14047,Serbia,SRB,Europe,Germany,1
+14048,Serbia,SRB,Europe,Greece,1
+14049,Serbia,SRB,Europe,Hungary,1
+14050,Serbia,SRB,Europe,Israel,1
+14051,Serbia,SRB,Europe,Italy,1
+14052,Serbia,SRB,Europe,North Macedonia,1
+14053,Serbia,SRB,Europe,Montenegro,1
+14054,Serbia,SRB,Europe,Netherlands,1
+14055,Serbia,SRB,Europe,Norway,1
+14056,Serbia,SRB,Europe,Poland,1
+14057,Serbia,SRB,Europe,Romania,1
+14058,Serbia,SRB,Europe,Russian Federation,1
+14059,Serbia,SRB,Europe,Slovenia,1
+14060,Serbia,SRB,Europe,Sweden,1
+14061,Serbia,SRB,Europe,Switzerland,1
+14062,Serbia,SRB,Europe,Tunisia,1
+14063,Serbia,SRB,Europe,Turkey,1
+14064,Serbia,SRB,Europe,United Arab Emirates,1
+14065,Serbia,SRB,Europe,United Kingdom of Great Britain and Northern Ireland,1
+14234,Seychelles,SYC,Africa,Germany,1
+14235,Seychelles,SYC,Africa,Kenya,1
+14236,Seychelles,SYC,Africa,Mauritius,1
+14237,Seychelles,SYC,Africa,Russian Federation,1
+14238,Seychelles,SYC,Africa,South Africa,1
+14239,Seychelles,SYC,Africa,Sri Lanka,1
+14240,Seychelles,SYC,Africa,United Arab Emirates,1
+14248,Sierra Leone,SLE,Africa,Côte d'Ivoire,1
+14249,Sierra Leone,SLE,Africa,France,1
+14250,Sierra Leone,SLE,Africa,Gambia,1
+14251,Sierra Leone,SLE,Africa,Ghana,1
+14252,Sierra Leone,SLE,Africa,Liberia,1
+14253,Sierra Leone,SLE,Africa,Morocco,1
+14254,Sierra Leone,SLE,Africa,Nigeria,1
+14255,Sierra Leone,SLE,Africa,Senegal,1
+14256,Sierra Leone,SLE,Africa,United Kingdom of Great Britain and Northern Ireland,1
+14266,Singapore,SGP,Asia,Australia,1
+14267,Singapore,SGP,Asia,Bangladesh,1
+14268,Singapore,SGP,Asia,Brunei,1
+14269,Singapore,SGP,Asia,Myanmar,1
+14270,Singapore,SGP,Asia,Cambodia,1
+14271,Singapore,SGP,Asia,China,1
+14272,Singapore,SGP,Asia,Denmark,1
+14273,Singapore,SGP,Asia,East Timor,1
+14274,Singapore,SGP,Asia,Finland,1
+14275,Singapore,SGP,Asia,France,1
+14276,Singapore,SGP,Asia,Germany,1
+14277,Singapore,SGP,Asia,Hong Kong,1
+14278,Singapore,SGP,Asia,India,1
+14279,Singapore,SGP,Asia,Indonesia,1
+14280,Singapore,SGP,Asia,Italy,1
+14281,Singapore,SGP,Asia,Japan,1
+14282,Singapore,SGP,Asia,Lao People's Democratic Republic,1
+14283,Singapore,SGP,Asia,Macao,1
+14284,Singapore,SGP,Asia,Malaysia,1
+14285,Singapore,SGP,Asia,Maldives,1
+14286,Singapore,SGP,Asia,Nepal,1
+14287,Singapore,SGP,Asia,Netherlands,1
+14288,Singapore,SGP,Asia,New Zealand,1
+14289,Singapore,SGP,Asia,Papua New Guinea,1
+14290,Singapore,SGP,Asia,Philippines,1
+14291,Singapore,SGP,Asia,Qatar,1
+14292,Singapore,SGP,Asia,Russian Federation,1
+14293,Singapore,SGP,Asia,Saudi Arabia,1
+14294,Singapore,SGP,Asia,South Africa,1
+14295,Singapore,SGP,Asia,"Korea, Republic of",1
+14296,Singapore,SGP,Asia,Spain,1
+14297,Singapore,SGP,Asia,Sri Lanka,1
+14298,Singapore,SGP,Asia,Switzerland,1
+14299,Singapore,SGP,Asia,Taiwan,1
+14300,Singapore,SGP,Asia,Thailand,1
+14301,Singapore,SGP,Asia,Turkey,1
+14302,Singapore,SGP,Asia,United Arab Emirates,1
+14303,Singapore,SGP,Asia,United Kingdom of Great Britain and Northern Ireland,1
+14304,Singapore,SGP,Asia,Uzbekistan,1
+14305,Singapore,SGP,Asia,Viet Nam,1
+14306,Slovakia,SVK,Europe,Austria,1
+14307,Slovakia,SVK,Europe,Belgium,1
+14308,Slovakia,SVK,Europe,Czechia,1
+14309,Slovakia,SVK,Europe,France,1
+14310,Slovakia,SVK,Europe,Ireland,1
+14311,Slovakia,SVK,Europe,Italy,1
+14312,Slovakia,SVK,Europe,Norway,1
+14313,Slovakia,SVK,Europe,Spain,1
+14314,Slovakia,SVK,Europe,United Kingdom of Great Britain and Northern Ireland,1
+14351,Slovenia,SVN,Europe,Albania,1
+14352,Slovenia,SVN,Europe,Austria,1
+14353,Slovenia,SVN,Europe,Belgium,1
+14354,Slovenia,SVN,Europe,Bosnia and Herzegovina,1
+14355,Slovenia,SVN,Europe,Czechia,1
+14356,Slovenia,SVN,Europe,Denmark,1
+14357,Slovenia,SVN,Europe,Finland,1
+14358,Slovenia,SVN,Europe,France,1
+14359,Slovenia,SVN,Europe,Germany,1
+14360,Slovenia,SVN,Europe,North Macedonia,1
+14361,Slovenia,SVN,Europe,Montenegro,1
+14362,Slovenia,SVN,Europe,Netherlands,1
+14363,Slovenia,SVN,Europe,Poland,1
+14364,Slovenia,SVN,Europe,Russian Federation,1
+14365,Slovenia,SVN,Europe,Serbia,1
+14366,Slovenia,SVN,Europe,Switzerland,1
+14367,Slovenia,SVN,Europe,Turkey,1
+14368,Slovenia,SVN,Europe,United Kingdom of Great Britain and Northern Ireland,1
+14423,Somalia,SOM,Africa,Djibouti,1
+14424,Somalia,SOM,Africa,Ethiopia,1
+14425,Somalia,SOM,Africa,Kenya,1
+14426,Somalia,SOM,Africa,Uganda,1
+14427,Somalia,SOM,Africa,United Arab Emirates,1
+14428,Somalia,SOM,Africa,Yemen,1
+14441,Solomon Islands,SLB,Oceania,Australia,1
+14442,Solomon Islands,SLB,Oceania,Fiji,1
+14443,Solomon Islands,SLB,Oceania,Papua New Guinea,1
+14444,Solomon Islands,SLB,Oceania,Vanuatu,1
+14445,South Africa,ZAF,Africa,Angola,1
+14446,South Africa,ZAF,Africa,Australia,1
+14447,South Africa,ZAF,Africa,Botswana,1
+14448,South Africa,ZAF,Africa,Brazil,1
+14449,South Africa,ZAF,Africa,Congo,1
+14450,South Africa,ZAF,Africa,"Congo, Democratic Republic of the",1
+14451,South Africa,ZAF,Africa,Egypt,1
+14452,South Africa,ZAF,Africa,Ethiopia,1
+14453,South Africa,ZAF,Africa,France,1
+14454,South Africa,ZAF,Africa,Gabon,1
+14455,South Africa,ZAF,Africa,Germany,1
+14456,South Africa,ZAF,Africa,Ghana,1
+14457,South Africa,ZAF,Africa,Hong Kong,1
+14458,South Africa,ZAF,Africa,India,1
+14459,South Africa,ZAF,Africa,Israel,1
+14460,South Africa,ZAF,Africa,Kenya,1
+14461,South Africa,ZAF,Africa,Lesotho,1
+14462,South Africa,ZAF,Africa,Madagascar,1
+14463,South Africa,ZAF,Africa,Malawi,1
+14464,South Africa,ZAF,Africa,Mauritius,1
+14465,South Africa,ZAF,Africa,Mozambique,1
+14466,South Africa,ZAF,Africa,Namibia,1
+14467,South Africa,ZAF,Africa,Netherlands,1
+14468,South Africa,ZAF,Africa,Nigeria,1
+14469,South Africa,ZAF,Africa,Qatar,1
+14470,South Africa,ZAF,Africa,Réunion,1
+14471,South Africa,ZAF,Africa,Rwanda,1
+14472,South Africa,ZAF,Africa,Saudi Arabia,1
+14473,South Africa,ZAF,Africa,Senegal,1
+14474,South Africa,ZAF,Africa,Seychelles,1
+14475,South Africa,ZAF,Africa,Singapore,1
+14476,South Africa,ZAF,Africa,Swaziland,1
+14477,South Africa,ZAF,Africa,Switzerland,1
+14478,South Africa,ZAF,Africa,"Tanzania, United Republic of",1
+14479,South Africa,ZAF,Africa,Thailand,1
+14480,South Africa,ZAF,Africa,Turkey,1
+14481,South Africa,ZAF,Africa,Uganda,1
+14482,South Africa,ZAF,Africa,United Arab Emirates,1
+14483,South Africa,ZAF,Africa,United Kingdom of Great Britain and Northern Ireland,1
+14484,South Africa,ZAF,Africa,United States of America,1
+14485,South Africa,ZAF,Africa,Zambia,1
+14486,South Africa,ZAF,Africa,Zimbabwe,1
+14697,South Sudan,SSD,Africa,Egypt,1
+14698,South Sudan,SSD,Africa,Ethiopia,1
+14699,South Sudan,SSD,Africa,Kenya,1
+14700,South Sudan,SSD,Africa,Rwanda,1
+14701,South Sudan,SSD,Africa,Sudan,1
+14702,South Sudan,SSD,Africa,Uganda,1
+14703,South Sudan,SSD,Africa,United Arab Emirates,1
+14746,Spain,ESP,Europe,Algeria,1
+14747,Spain,ESP,Europe,Angola,1
+14748,Spain,ESP,Europe,Argentina,1
+14749,Spain,ESP,Europe,Austria,1
+14750,Spain,ESP,Europe,Belarus,1
+14751,Spain,ESP,Europe,Belgium,1
+14752,Spain,ESP,Europe,Bolivia,1
+14753,Spain,ESP,Europe,Brazil,1
+14754,Spain,ESP,Europe,Bulgaria,1
+14755,Spain,ESP,Europe,Canada,1
+14756,Spain,ESP,Europe,Cabo Verde,1
+14757,Spain,ESP,Europe,Chile,1
+14758,Spain,ESP,Europe,China,1
+14759,Spain,ESP,Europe,Colombia,1
+14760,Spain,ESP,Europe,Costa Rica,1
+14761,Spain,ESP,Europe,Croatia,1
+14762,Spain,ESP,Europe,Cuba,1
+14763,Spain,ESP,Europe,Czechia,1
+14764,Spain,ESP,Europe,Denmark,1
+14765,Spain,ESP,Europe,Dominican Republic,1
+14766,Spain,ESP,Europe,Ecuador,1
+14767,Spain,ESP,Europe,Egypt,1
+14768,Spain,ESP,Europe,Equatorial Guinea,1
+14769,Spain,ESP,Europe,Estonia,1
+14770,Spain,ESP,Europe,Finland,1
+14771,Spain,ESP,Europe,France,1
+14772,Spain,ESP,Europe,Gambia,1
+14773,Spain,ESP,Europe,Germany,1
+14774,Spain,ESP,Europe,Ghana,1
+14775,Spain,ESP,Europe,Greece,1
+14776,Spain,ESP,Europe,Guatemala,1
+14777,Spain,ESP,Europe,Hungary,1
+14778,Spain,ESP,Europe,Iceland,1
+14779,Spain,ESP,Europe,Ireland,1
+14780,Spain,ESP,Europe,Israel,1
+14781,Spain,ESP,Europe,Italy,1
+14782,Spain,ESP,Europe,Jordan,1
+14783,Spain,ESP,Europe,Latvia,1
+14784,Spain,ESP,Europe,Libya,1
+14785,Spain,ESP,Europe,Lithuania,1
+14786,Spain,ESP,Europe,Luxembourg,1
+14787,Spain,ESP,Europe,Malta,1
+14788,Spain,ESP,Europe,Mauritania,1
+14789,Spain,ESP,Europe,Mexico,1
+14790,Spain,ESP,Europe,Morocco,1
+14791,Spain,ESP,Europe,Netherlands,1
+14792,Spain,ESP,Europe,Nigeria,1
+14793,Spain,ESP,Europe,Norway,1
+14794,Spain,ESP,Europe,Pakistan,1
+14795,Spain,ESP,Europe,Panama,1
+14796,Spain,ESP,Europe,Peru,1
+14797,Spain,ESP,Europe,Poland,1
+14798,Spain,ESP,Europe,Portugal,1
+14799,Spain,ESP,Europe,Qatar,1
+14800,Spain,ESP,Europe,Romania,1
+14801,Spain,ESP,Europe,Russian Federation,1
+14802,Spain,ESP,Europe,Saudi Arabia,1
+14803,Spain,ESP,Europe,Senegal,1
+14804,Spain,ESP,Europe,Singapore,1
+14805,Spain,ESP,Europe,Slovakia,1
+14806,Spain,ESP,Europe,"Korea, Republic of",1
+14807,Spain,ESP,Europe,Sweden,1
+14808,Spain,ESP,Europe,Switzerland,1
+14809,Spain,ESP,Europe,Thailand,1
+14810,Spain,ESP,Europe,Tunisia,1
+14811,Spain,ESP,Europe,Turkey,1
+14812,Spain,ESP,Europe,Ukraine,1
+14813,Spain,ESP,Europe,United Arab Emirates,1
+14814,Spain,ESP,Europe,United Kingdom of Great Britain and Northern Ireland,1
+14815,Spain,ESP,Europe,United States of America,1
+14816,Spain,ESP,Europe,Uruguay,1
+14817,Spain,ESP,Europe,Venezuela (Bolivarian Republic of),1
+14818,Spain,ESP,Europe,Western Sahara,1
+15038,Sri Lanka,LKA,Asia,Bahrain,1
+15039,Sri Lanka,LKA,Asia,Bangladesh,1
+15040,Sri Lanka,LKA,Asia,China,1
+15041,Sri Lanka,LKA,Asia,France,1
+15042,Sri Lanka,LKA,Asia,Germany,1
+15043,Sri Lanka,LKA,Asia,India,1
+15044,Sri Lanka,LKA,Asia,Indonesia,1
+15045,Sri Lanka,LKA,Asia,Italy,1
+15046,Sri Lanka,LKA,Asia,Japan,1
+15047,Sri Lanka,LKA,Asia,Kuwait,1
+15048,Sri Lanka,LKA,Asia,Malaysia,1
+15049,Sri Lanka,LKA,Asia,Maldives,1
+15050,Sri Lanka,LKA,Asia,Oman,1
+15051,Sri Lanka,LKA,Asia,Pakistan,1
+15052,Sri Lanka,LKA,Asia,Qatar,1
+15053,Sri Lanka,LKA,Asia,Russian Federation,1
+15054,Sri Lanka,LKA,Asia,Saudi Arabia,1
+15055,Sri Lanka,LKA,Asia,Seychelles,1
+15056,Sri Lanka,LKA,Asia,Singapore,1
+15057,Sri Lanka,LKA,Asia,"Korea, Republic of",1
+15058,Sri Lanka,LKA,Asia,Thailand,1
+15059,Sri Lanka,LKA,Asia,United Arab Emirates,1
+15060,Sri Lanka,LKA,Asia,United Kingdom of Great Britain and Northern Ireland,1
+15084,Sudan,SDN,Africa,Bahrain,1
+15085,Sudan,SDN,Africa,Chad,1
+15086,Sudan,SDN,Africa,Egypt,1
+15087,Sudan,SDN,Africa,Eritrea,1
+15088,Sudan,SDN,Africa,Ethiopia,1
+15089,Sudan,SDN,Africa,Jordan,1
+15090,Sudan,SDN,Africa,Kenya,1
+15091,Sudan,SDN,Africa,Qatar,1
+15092,Sudan,SDN,Africa,Saudi Arabia,1
+15093,Sudan,SDN,Africa,South Sudan,1
+15094,Sudan,SDN,Africa,Turkey,1
+15095,Sudan,SDN,Africa,United Arab Emirates,1
+15096,Sudan,SDN,Africa,Yemen,1
+15175,Suriname,SUR,Americas,Aruba,1
+15176,Suriname,SUR,Americas,Brazil,1
+15177,Suriname,SUR,Americas,French Guiana,1
+15178,Suriname,SUR,Americas,Guyana,1
+15179,Suriname,SUR,Americas,Netherlands,1
+15180,Suriname,SUR,Americas,Netherlands Antilles,1
+15181,Suriname,SUR,Americas,Trinidad and Tobago,1
+15196,Swaziland,SWZ,Africa,South Africa,1
+15198,Sweden,SWE,Europe,Austria,1
+15199,Sweden,SWE,Europe,Belarus,1
+15200,Sweden,SWE,Europe,Belgium,1
+15201,Sweden,SWE,Europe,Bosnia and Herzegovina,1
+15202,Sweden,SWE,Europe,China,1
+15203,Sweden,SWE,Europe,Croatia,1
+15204,Sweden,SWE,Europe,Cyprus,1
+15205,Sweden,SWE,Europe,Czechia,1
+15206,Sweden,SWE,Europe,Denmark,1
+15207,Sweden,SWE,Europe,Estonia,1
+15208,Sweden,SWE,Europe,Ethiopia,1
+15209,Sweden,SWE,Europe,Finland,1
+15210,Sweden,SWE,Europe,France,1
+15211,Sweden,SWE,Europe,Germany,1
+15212,Sweden,SWE,Europe,Greece,1
+15213,Sweden,SWE,Europe,Hungary,1
+15214,Sweden,SWE,Europe,Iceland,1
+15215,Sweden,SWE,Europe,Iran (Islamic Republic of),1
+15216,Sweden,SWE,Europe,Iraq,1
+15217,Sweden,SWE,Europe,Ireland,1
+15218,Sweden,SWE,Europe,Israel,1
+15219,Sweden,SWE,Europe,Italy,1
+15220,Sweden,SWE,Europe,Latvia,1
+15221,Sweden,SWE,Europe,Lithuania,1
+15222,Sweden,SWE,Europe,Luxembourg,1
+15223,Sweden,SWE,Europe,North Macedonia,1
+15224,Sweden,SWE,Europe,Malta,1
+15225,Sweden,SWE,Europe,Morocco,1
+15226,Sweden,SWE,Europe,Netherlands,1
+15227,Sweden,SWE,Europe,Norway,1
+15228,Sweden,SWE,Europe,Poland,1
+15229,Sweden,SWE,Europe,Portugal,1
+15230,Sweden,SWE,Europe,Qatar,1
+15231,Sweden,SWE,Europe,Russian Federation,1
+15232,Sweden,SWE,Europe,Serbia,1
+15233,Sweden,SWE,Europe,Spain,1
+15234,Sweden,SWE,Europe,Switzerland,1
+15235,Sweden,SWE,Europe,Thailand,1
+15236,Sweden,SWE,Europe,Turkey,1
+15237,Sweden,SWE,Europe,United Arab Emirates,1
+15238,Sweden,SWE,Europe,United Kingdom of Great Britain and Northern Ireland,1
+15239,Sweden,SWE,Europe,United States of America,1
+15324,Switzerland,CHE,Europe,Algeria,1
+15325,Switzerland,CHE,Europe,Austria,1
+15326,Switzerland,CHE,Europe,Belarus,1
+15327,Switzerland,CHE,Europe,Belgium,1
+15328,Switzerland,CHE,Europe,Bosnia and Herzegovina,1
+15329,Switzerland,CHE,Europe,Brazil,1
+15330,Switzerland,CHE,Europe,Bulgaria,1
+15331,Switzerland,CHE,Europe,Canada,1
+15332,Switzerland,CHE,Europe,China,1
+15333,Switzerland,CHE,Europe,Croatia,1
+15334,Switzerland,CHE,Europe,Cuba,1
+15335,Switzerland,CHE,Europe,Cyprus,1
+15336,Switzerland,CHE,Europe,Czechia,1
+15337,Switzerland,CHE,Europe,Denmark,1
+15338,Switzerland,CHE,Europe,Dominican Republic,1
+15339,Switzerland,CHE,Europe,Egypt,1
+15340,Switzerland,CHE,Europe,Finland,1
+15341,Switzerland,CHE,Europe,France,1
+15342,Switzerland,CHE,Europe,Germany,1
+15343,Switzerland,CHE,Europe,Greece,1
+15344,Switzerland,CHE,Europe,Hong Kong,1
+15345,Switzerland,CHE,Europe,Hungary,1
+15346,Switzerland,CHE,Europe,Iceland,1
+15347,Switzerland,CHE,Europe,India,1
+15348,Switzerland,CHE,Europe,Ireland,1
+15349,Switzerland,CHE,Europe,Israel,1
+15350,Switzerland,CHE,Europe,Italy,1
+15351,Switzerland,CHE,Europe,Japan,1
+15352,Switzerland,CHE,Europe,Jersey,1
+15353,Switzerland,CHE,Europe,Jordan,1
+15354,Switzerland,CHE,Europe,Kenya,1
+15355,Switzerland,CHE,Europe,Latvia,1
+15356,Switzerland,CHE,Europe,Lebanon,1
+15357,Switzerland,CHE,Europe,Luxembourg,1
+15358,Switzerland,CHE,Europe,North Macedonia,1
+15359,Switzerland,CHE,Europe,Malta,1
+15360,Switzerland,CHE,Europe,Montenegro,1
+15361,Switzerland,CHE,Europe,Morocco,1
+15362,Switzerland,CHE,Europe,Netherlands,1
+15363,Switzerland,CHE,Europe,Norway,1
+15364,Switzerland,CHE,Europe,Oman,1
+15365,Switzerland,CHE,Europe,Poland,1
+15366,Switzerland,CHE,Europe,Portugal,1
+15367,Switzerland,CHE,Europe,Qatar,1
+15368,Switzerland,CHE,Europe,Romania,1
+15369,Switzerland,CHE,Europe,Russian Federation,1
+15370,Switzerland,CHE,Europe,Saudi Arabia,1
+15371,Switzerland,CHE,Europe,Serbia,1
+15372,Switzerland,CHE,Europe,Singapore,1
+15373,Switzerland,CHE,Europe,Slovenia,1
+15374,Switzerland,CHE,Europe,South Africa,1
+15375,Switzerland,CHE,Europe,"Korea, Republic of",1
+15376,Switzerland,CHE,Europe,Spain,1
+15377,Switzerland,CHE,Europe,Sweden,1
+15378,Switzerland,CHE,Europe,Thailand,1
+15379,Switzerland,CHE,Europe,Tunisia,1
+15380,Switzerland,CHE,Europe,Turkey,1
+15381,Switzerland,CHE,Europe,Ukraine,1
+15382,Switzerland,CHE,Europe,United Arab Emirates,1
+15383,Switzerland,CHE,Europe,United Kingdom of Great Britain and Northern Ireland,1
+15384,Switzerland,CHE,Europe,United States of America,1
+15568,Taiwan,TWN,Asia,Australia,1
+15569,Taiwan,TWN,Asia,Austria,1
+15570,Taiwan,TWN,Asia,Myanmar,1
+15571,Taiwan,TWN,Asia,Cambodia,1
+15572,Taiwan,TWN,Asia,Canada,1
+15573,Taiwan,TWN,Asia,China,1
+15574,Taiwan,TWN,Asia,France,1
+15575,Taiwan,TWN,Asia,Germany,1
+15576,Taiwan,TWN,Asia,Guam,1
+15577,Taiwan,TWN,Asia,Hong Kong,1
+15578,Taiwan,TWN,Asia,India,1
+15579,Taiwan,TWN,Asia,Indonesia,1
+15580,Taiwan,TWN,Asia,Japan,1
+15581,Taiwan,TWN,Asia,Macao,1
+15582,Taiwan,TWN,Asia,Malaysia,1
+15583,Taiwan,TWN,Asia,Netherlands,1
+15584,Taiwan,TWN,Asia,Palau,1
+15585,Taiwan,TWN,Asia,Philippines,1
+15586,Taiwan,TWN,Asia,Singapore,1
+15587,Taiwan,TWN,Asia,"Korea, Republic of",1
+15588,Taiwan,TWN,Asia,Thailand,1
+15589,Taiwan,TWN,Asia,United Arab Emirates,1
+15590,Taiwan,TWN,Asia,United States of America,1
+15591,Taiwan,TWN,Asia,Viet Nam,1
+15616,Tajikistan,TJK,Asia,China,1
+15617,Tajikistan,TJK,Asia,Germany,1
+15618,Tajikistan,TJK,Asia,India,1
+15619,Tajikistan,TJK,Asia,Iran (Islamic Republic of),1
+15620,Tajikistan,TJK,Asia,Kazakhstan,1
+15621,Tajikistan,TJK,Asia,Kyrgyzstan,1
+15622,Tajikistan,TJK,Asia,Russian Federation,1
+15623,Tajikistan,TJK,Asia,Turkey,1
+15624,Tajikistan,TJK,Asia,United Arab Emirates,1
+15652,"Tanzania, United Republic of",TZA,Africa,Comoros,1
+15653,"Tanzania, United Republic of",TZA,Africa,Egypt,1
+15654,"Tanzania, United Republic of",TZA,Africa,Ethiopia,1
+15655,"Tanzania, United Republic of",TZA,Africa,Germany,1
+15656,"Tanzania, United Republic of",TZA,Africa,Kenya,1
+15657,"Tanzania, United Republic of",TZA,Africa,Malawi,1
+15658,"Tanzania, United Republic of",TZA,Africa,Mayotte,1
+15659,"Tanzania, United Republic of",TZA,Africa,Mozambique,1
+15660,"Tanzania, United Republic of",TZA,Africa,Netherlands,1
+15661,"Tanzania, United Republic of",TZA,Africa,Oman,1
+15662,"Tanzania, United Republic of",TZA,Africa,Qatar,1
+15663,"Tanzania, United Republic of",TZA,Africa,Rwanda,1
+15664,"Tanzania, United Republic of",TZA,Africa,South Africa,1
+15665,"Tanzania, United Republic of",TZA,Africa,Turkey,1
+15666,"Tanzania, United Republic of",TZA,Africa,Uganda,1
+15667,"Tanzania, United Republic of",TZA,Africa,United Arab Emirates,1
+15668,"Tanzania, United Republic of",TZA,Africa,Zimbabwe,1
+15788,Thailand,THA,Asia,Australia,1
+15789,Thailand,THA,Asia,Austria,1
+15790,Thailand,THA,Asia,Bahrain,1
+15791,Thailand,THA,Asia,Bangladesh,1
+15792,Thailand,THA,Asia,Belgium,1
+15793,Thailand,THA,Asia,Brunei,1
+15794,Thailand,THA,Asia,Myanmar,1
+15795,Thailand,THA,Asia,Cambodia,1
+15796,Thailand,THA,Asia,China,1
+15797,Thailand,THA,Asia,Denmark,1
+15798,Thailand,THA,Asia,Egypt,1
+15799,Thailand,THA,Asia,Ethiopia,1
+15800,Thailand,THA,Asia,Finland,1
+15801,Thailand,THA,Asia,France,1
+15802,Thailand,THA,Asia,Germany,1
+15803,Thailand,THA,Asia,Hong Kong,1
+15804,Thailand,THA,Asia,India,1
+15805,Thailand,THA,Asia,Indonesia,1
+15806,Thailand,THA,Asia,Iran (Islamic Republic of),1
+15807,Thailand,THA,Asia,Israel,1
+15808,Thailand,THA,Asia,Italy,1
+15809,Thailand,THA,Asia,Japan,1
+15810,Thailand,THA,Asia,Jordan,1
+15811,Thailand,THA,Asia,Kazakhstan,1
+15812,Thailand,THA,Asia,Kenya,1
+15813,Thailand,THA,Asia,Kuwait,1
+15814,Thailand,THA,Asia,Lao People's Democratic Republic,1
+15815,Thailand,THA,Asia,Macao,1
+15816,Thailand,THA,Asia,Madagascar,1
+15817,Thailand,THA,Asia,Malaysia,1
+15818,Thailand,THA,Asia,Maldives,1
+15819,Thailand,THA,Asia,Mongolia,1
+15820,Thailand,THA,Asia,Nepal,1
+15821,Thailand,THA,Asia,Netherlands,1
+15822,Thailand,THA,Asia,New Zealand,1
+15823,Thailand,THA,Asia,Norway,1
+15824,Thailand,THA,Asia,Oman,1
+15825,Thailand,THA,Asia,Pakistan,1
+15826,Thailand,THA,Asia,Philippines,1
+15827,Thailand,THA,Asia,Qatar,1
+15828,Thailand,THA,Asia,Russian Federation,1
+15829,Thailand,THA,Asia,Singapore,1
+15830,Thailand,THA,Asia,South Africa,1
+15831,Thailand,THA,Asia,"Korea, Republic of",1
+15832,Thailand,THA,Asia,Spain,1
+15833,Thailand,THA,Asia,Sri Lanka,1
+15834,Thailand,THA,Asia,Sweden,1
+15835,Thailand,THA,Asia,Switzerland,1
+15836,Thailand,THA,Asia,Taiwan,1
+15837,Thailand,THA,Asia,Turkey,1
+15838,Thailand,THA,Asia,Ukraine,1
+15839,Thailand,THA,Asia,United Arab Emirates,1
+15840,Thailand,THA,Asia,United Kingdom of Great Britain and Northern Ireland,1
+15841,Thailand,THA,Asia,Uzbekistan,1
+15842,Thailand,THA,Asia,Viet Nam,1
+16008,Togo,TGO,Africa,Belgium,1
+16009,Togo,TGO,Africa,Benin,1
+16010,Togo,TGO,Africa,Brazil,1
+16011,Togo,TGO,Africa,Burkina Faso,1
+16012,Togo,TGO,Africa,Cameroon,1
+16013,Togo,TGO,Africa,Côte d'Ivoire,1
+16014,Togo,TGO,Africa,Ethiopia,1
+16015,Togo,TGO,Africa,France,1
+16016,Togo,TGO,Africa,Gabon,1
+16017,Togo,TGO,Africa,Ghana,1
+16018,Togo,TGO,Africa,Guinea,1
+16019,Togo,TGO,Africa,Mali,1
+16020,Togo,TGO,Africa,Nigeria,1
+16047,Tonga,TON,Oceania,Australia,1
+16048,Tonga,TON,Oceania,Fiji,1
+16049,Tonga,TON,Oceania,New Zealand,1
+16053,Trinidad and Tobago,TTO,Americas,Antigua and Barbuda,1
+16054,Trinidad and Tobago,TTO,Americas,Barbados,1
+16055,Trinidad and Tobago,TTO,Americas,Canada,1
+16056,Trinidad and Tobago,TTO,Americas,Grenada,1
+16057,Trinidad and Tobago,TTO,Americas,Guyana,1
+16058,Trinidad and Tobago,TTO,Americas,Jamaica,1
+16059,Trinidad and Tobago,TTO,Americas,Netherlands Antilles,1
+16060,Trinidad and Tobago,TTO,Americas,Panama,1
+16061,Trinidad and Tobago,TTO,Americas,Saint Lucia,1
+16062,Trinidad and Tobago,TTO,Americas,Saint Vincent and the Grenadines,1
+16063,Trinidad and Tobago,TTO,Americas,Suriname,1
+16064,Trinidad and Tobago,TTO,Americas,United Kingdom of Great Britain and Northern Ireland,1
+16065,Trinidad and Tobago,TTO,Americas,United States of America,1
+16066,Trinidad and Tobago,TTO,Americas,Venezuela (Bolivarian Republic of),1
+16081,Tunisia,TUN,Africa,Algeria,1
+16082,Tunisia,TUN,Africa,Austria,1
+16083,Tunisia,TUN,Africa,Belgium,1
+16084,Tunisia,TUN,Africa,Burkina Faso,1
+16085,Tunisia,TUN,Africa,Côte d'Ivoire,1
+16086,Tunisia,TUN,Africa,Egypt,1
+16087,Tunisia,TUN,Africa,France,1
+16088,Tunisia,TUN,Africa,Germany,1
+16089,Tunisia,TUN,Africa,Italy,1
+16090,Tunisia,TUN,Africa,Jordan,1
+16091,Tunisia,TUN,Africa,Kuwait,1
+16092,Tunisia,TUN,Africa,Lebanon,1
+16093,Tunisia,TUN,Africa,Libya,1
+16094,Tunisia,TUN,Africa,Luxembourg,1
+16095,Tunisia,TUN,Africa,Mali,1
+16096,Tunisia,TUN,Africa,Malta,1
+16097,Tunisia,TUN,Africa,Mauritania,1
+16098,Tunisia,TUN,Africa,Morocco,1
+16099,Tunisia,TUN,Africa,Netherlands,1
+16100,Tunisia,TUN,Africa,Portugal,1
+16101,Tunisia,TUN,Africa,Qatar,1
+16102,Tunisia,TUN,Africa,Russian Federation,1
+16103,Tunisia,TUN,Africa,Saudi Arabia,1
+16104,Tunisia,TUN,Africa,Senegal,1
+16105,Tunisia,TUN,Africa,Serbia,1
+16106,Tunisia,TUN,Africa,Spain,1
+16107,Tunisia,TUN,Africa,Switzerland,1
+16108,Tunisia,TUN,Africa,Turkey,1
+16109,Tunisia,TUN,Africa,United Arab Emirates,1
+16110,Tunisia,TUN,Africa,United Kingdom of Great Britain and Northern Ireland,1
+16141,Turkey,TUR,Asia,Afghanistan,1
+16142,Turkey,TUR,Asia,Albania,1
+16143,Turkey,TUR,Asia,Algeria,1
+16144,Turkey,TUR,Asia,Austria,1
+16145,Turkey,TUR,Asia,Azerbaijan,1
+16146,Turkey,TUR,Asia,Bahrain,1
+16147,Turkey,TUR,Asia,Bangladesh,1
+16148,Turkey,TUR,Asia,Belarus,1
+16149,Turkey,TUR,Asia,Belgium,1
+16150,Turkey,TUR,Asia,Bosnia and Herzegovina,1
+16151,Turkey,TUR,Asia,Brazil,1
+16152,Turkey,TUR,Asia,Bulgaria,1
+16153,Turkey,TUR,Asia,Cameroon,1
+16154,Turkey,TUR,Asia,Canada,1
+16155,Turkey,TUR,Asia,China,1
+16156,Turkey,TUR,Asia,"Congo, Democratic Republic of the",1
+16157,Turkey,TUR,Asia,Croatia,1
+16158,Turkey,TUR,Asia,Cyprus,1
+16159,Turkey,TUR,Asia,Czechia,1
+16160,Turkey,TUR,Asia,Denmark,1
+16161,Turkey,TUR,Asia,Djibouti,1
+16162,Turkey,TUR,Asia,Egypt,1
+16163,Turkey,TUR,Asia,Estonia,1
+16164,Turkey,TUR,Asia,Ethiopia,1
+16165,Turkey,TUR,Asia,Finland,1
+16166,Turkey,TUR,Asia,France,1
+16167,Turkey,TUR,Asia,Georgia,1
+16168,Turkey,TUR,Asia,Germany,1
+16169,Turkey,TUR,Asia,Ghana,1
+16170,Turkey,TUR,Asia,Greece,1
+16171,Turkey,TUR,Asia,Hong Kong,1
+16172,Turkey,TUR,Asia,Hungary,1
+16173,Turkey,TUR,Asia,India,1
+16174,Turkey,TUR,Asia,Iran (Islamic Republic of),1
+16175,Turkey,TUR,Asia,Iraq,1
+16176,Turkey,TUR,Asia,Ireland,1
+16177,Turkey,TUR,Asia,Israel,1
+16178,Turkey,TUR,Asia,Italy,1
+16179,Turkey,TUR,Asia,Japan,1
+16180,Turkey,TUR,Asia,Jordan,1
+16181,Turkey,TUR,Asia,Kazakhstan,1
+16182,Turkey,TUR,Asia,Kenya,1
+16183,Turkey,TUR,Asia,Kuwait,1
+16184,Turkey,TUR,Asia,Kyrgyzstan,1
+16185,Turkey,TUR,Asia,Latvia,1
+16186,Turkey,TUR,Asia,Lebanon,1
+16187,Turkey,TUR,Asia,Libya,1
+16188,Turkey,TUR,Asia,Lithuania,1
+16189,Turkey,TUR,Asia,Luxembourg,1
+16190,Turkey,TUR,Asia,North Macedonia,1
+16191,Turkey,TUR,Asia,Malaysia,1
+16192,Turkey,TUR,Asia,Maldives,1
+16193,Turkey,TUR,Asia,Malta,1
+16194,Turkey,TUR,Asia,"Moldova, Republic of",1
+16195,Turkey,TUR,Asia,Montenegro,1
+16196,Turkey,TUR,Asia,Morocco,1
+16197,Turkey,TUR,Asia,Nepal,1
+16198,Turkey,TUR,Asia,Netherlands,1
+16199,Turkey,TUR,Asia,Niger,1
+16200,Turkey,TUR,Asia,Nigeria,1
+16201,Turkey,TUR,Asia,Norway,1
+16202,Turkey,TUR,Asia,Oman,1
+16203,Turkey,TUR,Asia,Pakistan,1
+16204,Turkey,TUR,Asia,Panama,1
+16205,Turkey,TUR,Asia,Poland,1
+16206,Turkey,TUR,Asia,Portugal,1
+16207,Turkey,TUR,Asia,Qatar,1
+16208,Turkey,TUR,Asia,Romania,1
+16209,Turkey,TUR,Asia,Russian Federation,1
+16210,Turkey,TUR,Asia,Rwanda,1
+16211,Turkey,TUR,Asia,Saudi Arabia,1
+16212,Turkey,TUR,Asia,Serbia,1
+16213,Turkey,TUR,Asia,Singapore,1
+16214,Turkey,TUR,Asia,Slovenia,1
+16215,Turkey,TUR,Asia,South Africa,1
+16216,Turkey,TUR,Asia,"Korea, Republic of",1
+16217,Turkey,TUR,Asia,Spain,1
+16218,Turkey,TUR,Asia,Sudan,1
+16219,Turkey,TUR,Asia,Sweden,1
+16220,Turkey,TUR,Asia,Switzerland,1
+16221,Turkey,TUR,Asia,Tajikistan,1
+16222,Turkey,TUR,Asia,"Tanzania, United Republic of",1
+16223,Turkey,TUR,Asia,Thailand,1
+16224,Turkey,TUR,Asia,Tunisia,1
+16225,Turkey,TUR,Asia,Turkmenistan,1
+16226,Turkey,TUR,Asia,Ukraine,1
+16227,Turkey,TUR,Asia,United Arab Emirates,1
+16228,Turkey,TUR,Asia,United Kingdom of Great Britain and Northern Ireland,1
+16229,Turkey,TUR,Asia,United States of America,1
+16230,Turkey,TUR,Asia,Uzbekistan,1
+16231,Turkey,TUR,Asia,Yemen,1
+16778,Turkmenistan,TKM,Asia,Azerbaijan,1
+16779,Turkmenistan,TKM,Asia,Belarus,1
+16780,Turkmenistan,TKM,Asia,China,1
+16781,Turkmenistan,TKM,Asia,Germany,1
+16782,Turkmenistan,TKM,Asia,India,1
+16783,Turkmenistan,TKM,Asia,Russian Federation,1
+16784,Turkmenistan,TKM,Asia,Turkey,1
+16785,Turkmenistan,TKM,Asia,United Arab Emirates,1
+16786,Turkmenistan,TKM,Asia,United Kingdom of Great Britain and Northern Ireland,1
+16814,Turks and Caicos Islands,TCA,Americas,Bahamas,1
+16815,Turks and Caicos Islands,TCA,Americas,Canada,1
+16816,Turks and Caicos Islands,TCA,Americas,Dominican Republic,1
+16817,Turks and Caicos Islands,TCA,Americas,Haiti,1
+16818,Turks and Caicos Islands,TCA,Americas,Jamaica,1
+16819,Turks and Caicos Islands,TCA,Americas,Puerto Rico,1
+16820,Turks and Caicos Islands,TCA,Americas,United States of America,1
+16821,Tuvalu,TUV,Oceania,Fiji,1
+16822,Uganda,UGA,Africa,Belgium,1
+16823,Uganda,UGA,Africa,Burundi,1
+16824,Uganda,UGA,Africa,Egypt,1
+16825,Uganda,UGA,Africa,Eritrea,1
+16826,Uganda,UGA,Africa,Ethiopia,1
+16827,Uganda,UGA,Africa,Kenya,1
+16828,Uganda,UGA,Africa,Netherlands,1
+16829,Uganda,UGA,Africa,Qatar,1
+16830,Uganda,UGA,Africa,Rwanda,1
+16831,Uganda,UGA,Africa,Somalia,1
+16832,Uganda,UGA,Africa,South Africa,1
+16833,Uganda,UGA,Africa,South Sudan,1
+16834,Uganda,UGA,Africa,"Tanzania, United Republic of",1
+16835,Uganda,UGA,Africa,Turkey,1
+16836,Uganda,UGA,Africa,United Arab Emirates,1
+16837,Uganda,UGA,Africa,United Kingdom of Great Britain and Northern Ireland,1
+16902,Ukraine,UKR,Europe,Armenia,1
+16903,Ukraine,UKR,Europe,Austria,1
+16904,Ukraine,UKR,Europe,Azerbaijan,1
+16905,Ukraine,UKR,Europe,Belarus,1
+16906,Ukraine,UKR,Europe,Belgium,1
+16907,Ukraine,UKR,Europe,Cyprus,1
+16908,Ukraine,UKR,Europe,Czechia,1
+16909,Ukraine,UKR,Europe,Estonia,1
+16910,Ukraine,UKR,Europe,Finland,1
+16911,Ukraine,UKR,Europe,France,1
+16912,Ukraine,UKR,Europe,Georgia,1
+16913,Ukraine,UKR,Europe,Germany,1
+16914,Ukraine,UKR,Europe,Greece,1
+16915,Ukraine,UKR,Europe,Hungary,1
+16916,Ukraine,UKR,Europe,Israel,1
+16917,Ukraine,UKR,Europe,Italy,1
+16918,Ukraine,UKR,Europe,Jordan,1
+16919,Ukraine,UKR,Europe,Kazakhstan,1
+16920,Ukraine,UKR,Europe,Latvia,1
+16921,Ukraine,UKR,Europe,Lithuania,1
+16922,Ukraine,UKR,Europe,"Moldova, Republic of",1
+16923,Ukraine,UKR,Europe,Netherlands,1
+16924,Ukraine,UKR,Europe,Norway,1
+16925,Ukraine,UKR,Europe,Poland,1
+16926,Ukraine,UKR,Europe,Portugal,1
+16927,Ukraine,UKR,Europe,Russian Federation,1
+16928,Ukraine,UKR,Europe,Spain,1
+16929,Ukraine,UKR,Europe,Switzerland,1
+16930,Ukraine,UKR,Europe,Thailand,1
+16931,Ukraine,UKR,Europe,Turkey,1
+16932,Ukraine,UKR,Europe,United Arab Emirates,1
+16933,Ukraine,UKR,Europe,United Kingdom of Great Britain and Northern Ireland,1
+16934,Ukraine,UKR,Europe,United States of America,1
+16935,Ukraine,UKR,Europe,Uzbekistan,1
+17140,United Arab Emirates,ARE,Asia,Afghanistan,1
+17141,United Arab Emirates,ARE,Asia,Algeria,1
+17142,United Arab Emirates,ARE,Asia,Angola,1
+17143,United Arab Emirates,ARE,Asia,Armenia,1
+17144,United Arab Emirates,ARE,Asia,Australia,1
+17145,United Arab Emirates,ARE,Asia,Austria,1
+17146,United Arab Emirates,ARE,Asia,Azerbaijan,1
+17147,United Arab Emirates,ARE,Asia,Bahrain,1
+17148,United Arab Emirates,ARE,Asia,Bangladesh,1
+17149,United Arab Emirates,ARE,Asia,Belarus,1
+17150,United Arab Emirates,ARE,Asia,Belgium,1
+17151,United Arab Emirates,ARE,Asia,Brazil,1
+17152,United Arab Emirates,ARE,Asia,Brunei,1
+17153,United Arab Emirates,ARE,Asia,Bulgaria,1
+17154,United Arab Emirates,ARE,Asia,Canada,1
+17155,United Arab Emirates,ARE,Asia,China,1
+17156,United Arab Emirates,ARE,Asia,Cyprus,1
+17157,United Arab Emirates,ARE,Asia,Czechia,1
+17158,United Arab Emirates,ARE,Asia,Denmark,1
+17159,United Arab Emirates,ARE,Asia,Djibouti,1
+17160,United Arab Emirates,ARE,Asia,Egypt,1
+17161,United Arab Emirates,ARE,Asia,Ethiopia,1
+17162,United Arab Emirates,ARE,Asia,France,1
+17163,United Arab Emirates,ARE,Asia,Georgia,1
+17164,United Arab Emirates,ARE,Asia,Germany,1
+17165,United Arab Emirates,ARE,Asia,Ghana,1
+17166,United Arab Emirates,ARE,Asia,Greece,1
+17167,United Arab Emirates,ARE,Asia,Hong Kong,1
+17168,United Arab Emirates,ARE,Asia,Hungary,1
+17169,United Arab Emirates,ARE,Asia,India,1
+17170,United Arab Emirates,ARE,Asia,Indonesia,1
+17171,United Arab Emirates,ARE,Asia,Iran (Islamic Republic of),1
+17172,United Arab Emirates,ARE,Asia,Iraq,1
+17173,United Arab Emirates,ARE,Asia,Ireland,1
+17174,United Arab Emirates,ARE,Asia,Italy,1
+17175,United Arab Emirates,ARE,Asia,Japan,1
+17176,United Arab Emirates,ARE,Asia,Jordan,1
+17177,United Arab Emirates,ARE,Asia,Kazakhstan,1
+17178,United Arab Emirates,ARE,Asia,Kenya,1
+17179,United Arab Emirates,ARE,Asia,Kuwait,1
+17180,United Arab Emirates,ARE,Asia,Kyrgyzstan,1
+17181,United Arab Emirates,ARE,Asia,Lebanon,1
+17182,United Arab Emirates,ARE,Asia,Libya,1
+17183,United Arab Emirates,ARE,Asia,North Macedonia,1
+17184,United Arab Emirates,ARE,Asia,Malaysia,1
+17185,United Arab Emirates,ARE,Asia,Maldives,1
+17186,United Arab Emirates,ARE,Asia,Malta,1
+17187,United Arab Emirates,ARE,Asia,Mauritius,1
+17188,United Arab Emirates,ARE,Asia,"Moldova, Republic of",1
+17189,United Arab Emirates,ARE,Asia,Morocco,1
+17190,United Arab Emirates,ARE,Asia,Nepal,1
+17191,United Arab Emirates,ARE,Asia,Netherlands,1
+17192,United Arab Emirates,ARE,Asia,Nigeria,1
+17193,United Arab Emirates,ARE,Asia,Oman,1
+17194,United Arab Emirates,ARE,Asia,Pakistan,1
+17195,United Arab Emirates,ARE,Asia,Philippines,1
+17196,United Arab Emirates,ARE,Asia,Poland,1
+17197,United Arab Emirates,ARE,Asia,Portugal,1
+17198,United Arab Emirates,ARE,Asia,Qatar,1
+17199,United Arab Emirates,ARE,Asia,Romania,1
+17200,United Arab Emirates,ARE,Asia,Russian Federation,1
+17201,United Arab Emirates,ARE,Asia,Rwanda,1
+17202,United Arab Emirates,ARE,Asia,Saudi Arabia,1
+17203,United Arab Emirates,ARE,Asia,Senegal,1
+17204,United Arab Emirates,ARE,Asia,Serbia,1
+17205,United Arab Emirates,ARE,Asia,Seychelles,1
+17206,United Arab Emirates,ARE,Asia,Singapore,1
+17207,United Arab Emirates,ARE,Asia,Somalia,1
+17208,United Arab Emirates,ARE,Asia,South Africa,1
+17209,United Arab Emirates,ARE,Asia,"Korea, Republic of",1
+17210,United Arab Emirates,ARE,Asia,South Sudan,1
+17211,United Arab Emirates,ARE,Asia,Spain,1
+17212,United Arab Emirates,ARE,Asia,Sri Lanka,1
+17213,United Arab Emirates,ARE,Asia,Sudan,1
+17214,United Arab Emirates,ARE,Asia,Sweden,1
+17215,United Arab Emirates,ARE,Asia,Switzerland,1
+17216,United Arab Emirates,ARE,Asia,Taiwan,1
+17217,United Arab Emirates,ARE,Asia,Tajikistan,1
+17218,United Arab Emirates,ARE,Asia,"Tanzania, United Republic of",1
+17219,United Arab Emirates,ARE,Asia,Thailand,1
+17220,United Arab Emirates,ARE,Asia,Tunisia,1
+17221,United Arab Emirates,ARE,Asia,Turkey,1
+17222,United Arab Emirates,ARE,Asia,Turkmenistan,1
+17223,United Arab Emirates,ARE,Asia,Uganda,1
+17224,United Arab Emirates,ARE,Asia,Ukraine,1
+17225,United Arab Emirates,ARE,Asia,United Kingdom of Great Britain and Northern Ireland,1
+17226,United Arab Emirates,ARE,Asia,United States of America,1
+17227,United Arab Emirates,ARE,Asia,Uzbekistan,1
+17228,United Arab Emirates,ARE,Asia,Viet Nam,1
+17229,United Arab Emirates,ARE,Asia,Yemen,1
+17230,United Arab Emirates,ARE,Asia,Zambia,1
+17322,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Albania,1
+17323,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Algeria,1
+17324,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Angola,1
+17325,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Antigua and Barbuda,1
+17326,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Argentina,1
+17327,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Austria,1
+17328,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Azerbaijan,1
+17329,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Bahamas,1
+17330,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Bahrain,1
+17331,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Bangladesh,1
+17332,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Barbados,1
+17333,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Belarus,1
+17334,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Belgium,1
+17335,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Bermuda,1
+17336,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Brazil,1
+17337,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Bulgaria,1
+17338,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Canada,1
+17339,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Cabo Verde,1
+17340,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,China,1
+17341,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Croatia,1
+17342,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Cuba,1
+17343,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Cyprus,1
+17344,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Czechia,1
+17345,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Denmark,1
+17346,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Dominican Republic,1
+17347,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Egypt,1
+17348,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Estonia,1
+17349,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Ethiopia,1
+17350,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Finland,1
+17351,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,France,1
+17352,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Germany,1
+17353,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Ghana,1
+17354,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Gibraltar,1
+17355,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Greece,1
+17356,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Guernsey,1
+17357,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Hong Kong,1
+17358,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Hungary,1
+17359,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Iceland,1
+17360,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,India,1
+17361,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Iran (Islamic Republic of),1
+17362,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Ireland,1
+17363,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Isle of Man,1
+17364,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Israel,1
+17365,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Italy,1
+17366,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Jamaica,1
+17367,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Japan,1
+17368,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Jersey,1
+17369,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Jordan,1
+17370,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Kazakhstan,1
+17371,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Kenya,1
+17372,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Kuwait,1
+17373,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Latvia,1
+17374,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Lebanon,1
+17375,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Libya,1
+17376,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Lithuania,1
+17377,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Luxembourg,1
+17378,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,North Macedonia,1
+17379,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Malaysia,1
+17380,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Maldives,1
+17381,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Malta,1
+17382,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Mauritius,1
+17383,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Mexico,1
+17384,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,"Moldova, Republic of",1
+17385,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Montenegro,1
+17386,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Morocco,1
+17387,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Netherlands,1
+17388,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Nigeria,1
+17389,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Norway,1
+17390,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Oman,1
+17391,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Pakistan,1
+17392,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Philippines,1
+17393,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Poland,1
+17394,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Portugal,1
+17395,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Qatar,1
+17396,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Romania,1
+17397,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Russian Federation,1
+17398,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Saint Lucia,1
+17399,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Saudi Arabia,1
+17400,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Serbia,1
+17401,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Sierra Leone,1
+17402,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Singapore,1
+17403,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Slovakia,1
+17404,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Slovenia,1
+17405,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,South Africa,1
+17406,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,"Korea, Republic of",1
+17407,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Spain,1
+17408,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Sri Lanka,1
+17409,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Sweden,1
+17410,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Switzerland,1
+17411,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Thailand,1
+17412,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Trinidad and Tobago,1
+17413,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Tunisia,1
+17414,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Turkey,1
+17415,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Turkmenistan,1
+17416,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Uganda,1
+17417,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Ukraine,1
+17418,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,United Arab Emirates,1
+17419,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,United States of America,1
+17420,United Kingdom of Great Britain and Northern Ireland,GBR,Europe,Uzbekistan,1
+17421,United States of America,USA,Americas,American Samoa,1
+17422,United States of America,USA,Americas,Antigua and Barbuda,1
+17423,United States of America,USA,Americas,Argentina,1
+17424,United States of America,USA,Americas,Aruba,1
+17425,United States of America,USA,Americas,Australia,1
+17426,United States of America,USA,Americas,Austria,1
+17427,United States of America,USA,Americas,Bahamas,1
+17428,United States of America,USA,Americas,Barbados,1
+17429,United States of America,USA,Americas,Belgium,1
+17430,United States of America,USA,Americas,Belize,1
+17431,United States of America,USA,Americas,Bermuda,1
+17432,United States of America,USA,Americas,Bolivia,1
+17433,United States of America,USA,Americas,Brazil,1
+17434,United States of America,USA,Americas,Canada,1
+17435,United States of America,USA,Americas,Cabo Verde,1
+17436,United States of America,USA,Americas,Cayman Islands,1
+17437,United States of America,USA,Americas,Chile,1
+17438,United States of America,USA,Americas,China,1
+17439,United States of America,USA,Americas,Colombia,1
+17440,United States of America,USA,Americas,Cook Islands,1
+17441,United States of America,USA,Americas,Costa Rica,1
+17442,United States of America,USA,Americas,Denmark,1
+17443,United States of America,USA,Americas,Dominican Republic,1
+17444,United States of America,USA,Americas,Ecuador,1
+17445,United States of America,USA,Americas,Egypt,1
+17446,United States of America,USA,Americas,El Salvador,1
+17447,United States of America,USA,Americas,Ethiopia,1
+17448,United States of America,USA,Americas,Fiji,1
+17449,United States of America,USA,Americas,Finland,1
+17450,United States of America,USA,Americas,France,1
+17451,United States of America,USA,Americas,French Polynesia,1
+17452,United States of America,USA,Americas,Germany,1
+17453,United States of America,USA,Americas,Ghana,1
+17454,United States of America,USA,Americas,Greece,1
+17455,United States of America,USA,Americas,Grenada,1
+17456,United States of America,USA,Americas,Guadeloupe,1
+17457,United States of America,USA,Americas,Guam,1
+17458,United States of America,USA,Americas,Guatemala,1
+17459,United States of America,USA,Americas,Guyana,1
+17460,United States of America,USA,Americas,Haiti,1
+17461,United States of America,USA,Americas,Honduras,1
+17462,United States of America,USA,Americas,Hong Kong,1
+17463,United States of America,USA,Americas,Iceland,1
+17464,United States of America,USA,Americas,India,1
+17465,United States of America,USA,Americas,Ireland,1
+17466,United States of America,USA,Americas,Israel,1
+17467,United States of America,USA,Americas,Italy,1
+17468,United States of America,USA,Americas,Jamaica,1
+17469,United States of America,USA,Americas,Japan,1
+17470,United States of America,USA,Americas,Jordan,1
+17471,United States of America,USA,Americas,Kiribati,1
+17472,United States of America,USA,Americas,Kuwait,1
+17473,United States of America,USA,Americas,Latvia,1
+17474,United States of America,USA,Americas,Marshall Islands,1
+17475,United States of America,USA,Americas,Martinique,1
+17476,United States of America,USA,Americas,Mexico,1
+17477,United States of America,USA,Americas,Morocco,1
+17478,United States of America,USA,Americas,Netherlands,1
+17479,United States of America,USA,Americas,Netherlands Antilles,1
+17480,United States of America,USA,Americas,New Zealand,1
+17481,United States of America,USA,Americas,Nicaragua,1
+17482,United States of America,USA,Americas,Nigeria,1
+17483,United States of America,USA,Americas,Norway,1
+17484,United States of America,USA,Americas,Pakistan,1
+17485,United States of America,USA,Americas,Panama,1
+17486,United States of America,USA,Americas,Paraguay,1
+17487,United States of America,USA,Americas,Peru,1
+17488,United States of America,USA,Americas,Philippines,1
+17489,United States of America,USA,Americas,Poland,1
+17490,United States of America,USA,Americas,Portugal,1
+17491,United States of America,USA,Americas,Puerto Rico,1
+17492,United States of America,USA,Americas,Qatar,1
+17493,United States of America,USA,Americas,Russian Federation,1
+17494,United States of America,USA,Americas,Saint Kitts and Nevis,1
+17495,United States of America,USA,Americas,Saint Lucia,1
+17496,United States of America,USA,Americas,Samoa,1
+17497,United States of America,USA,Americas,Saudi Arabia,1
+17498,United States of America,USA,Americas,Senegal,1
+17499,United States of America,USA,Americas,South Africa,1
+17500,United States of America,USA,Americas,"Korea, Republic of",1
+17501,United States of America,USA,Americas,Spain,1
+17502,United States of America,USA,Americas,Sweden,1
+17503,United States of America,USA,Americas,Switzerland,1
+17504,United States of America,USA,Americas,Taiwan,1
+17505,United States of America,USA,Americas,Trinidad and Tobago,1
+17506,United States of America,USA,Americas,Turkey,1
+17507,United States of America,USA,Americas,Turks and Caicos Islands,1
+17508,United States of America,USA,Americas,Ukraine,1
+17509,United States of America,USA,Americas,United Arab Emirates,1
+17510,United States of America,USA,Americas,United Kingdom of Great Britain and Northern Ireland,1
+17511,United States of America,USA,Americas,Uruguay,1
+17512,United States of America,USA,Americas,Venezuela (Bolivarian Republic of),1
+17513,United States of America,USA,Americas,Virgin Islands (British),1
+17607,Uruguay,URY,Americas,Argentina,1
+17608,Uruguay,URY,Americas,Brazil,1
+17609,Uruguay,URY,Americas,Chile,1
+17610,Uruguay,URY,Americas,Panama,1
+17611,Uruguay,URY,Americas,Paraguay,1
+17612,Uruguay,URY,Americas,Peru,1
+17613,Uruguay,URY,Americas,Spain,1
+17614,Uruguay,URY,Americas,United States of America,1
+17623,Uzbekistan,UZB,Asia,Azerbaijan,1
+17624,Uzbekistan,UZB,Asia,China,1
+17625,Uzbekistan,UZB,Asia,Czechia,1
+17626,Uzbekistan,UZB,Asia,France,1
+17627,Uzbekistan,UZB,Asia,Germany,1
+17628,Uzbekistan,UZB,Asia,India,1
+17629,Uzbekistan,UZB,Asia,Iran (Islamic Republic of),1
+17630,Uzbekistan,UZB,Asia,Israel,1
+17631,Uzbekistan,UZB,Asia,Italy,1
+17632,Uzbekistan,UZB,Asia,Japan,1
+17633,Uzbekistan,UZB,Asia,Kazakhstan,1
+17634,Uzbekistan,UZB,Asia,Kyrgyzstan,1
+17635,Uzbekistan,UZB,Asia,Latvia,1
+17636,Uzbekistan,UZB,Asia,Malaysia,1
+17637,Uzbekistan,UZB,Asia,Russian Federation,1
+17638,Uzbekistan,UZB,Asia,Singapore,1
+17639,Uzbekistan,UZB,Asia,"Korea, Republic of",1
+17640,Uzbekistan,UZB,Asia,Thailand,1
+17641,Uzbekistan,UZB,Asia,Turkey,1
+17642,Uzbekistan,UZB,Asia,Ukraine,1
+17643,Uzbekistan,UZB,Asia,United Arab Emirates,1
+17644,Uzbekistan,UZB,Asia,United Kingdom of Great Britain and Northern Ireland,1
+17733,Vanuatu,VUT,Oceania,Australia,1
+17734,Vanuatu,VUT,Oceania,Fiji,1
+17735,Vanuatu,VUT,Oceania,New Caledonia,1
+17736,Vanuatu,VUT,Oceania,New Zealand,1
+17737,Vanuatu,VUT,Oceania,Solomon Islands,1
+17743,Venezuela (Bolivarian Republic of),VEN,Americas,Argentina,1
+17744,Venezuela (Bolivarian Republic of),VEN,Americas,Aruba,1
+17745,Venezuela (Bolivarian Republic of),VEN,Americas,Brazil,1
+17746,Venezuela (Bolivarian Republic of),VEN,Americas,Chile,1
+17747,Venezuela (Bolivarian Republic of),VEN,Americas,Colombia,1
+17748,Venezuela (Bolivarian Republic of),VEN,Americas,Cuba,1
+17749,Venezuela (Bolivarian Republic of),VEN,Americas,Dominican Republic,1
+17750,Venezuela (Bolivarian Republic of),VEN,Americas,Ecuador,1
+17751,Venezuela (Bolivarian Republic of),VEN,Americas,France,1
+17752,Venezuela (Bolivarian Republic of),VEN,Americas,Germany,1
+17753,Venezuela (Bolivarian Republic of),VEN,Americas,Grenada,1
+17754,Venezuela (Bolivarian Republic of),VEN,Americas,Guyana,1
+17755,Venezuela (Bolivarian Republic of),VEN,Americas,Italy,1
+17756,Venezuela (Bolivarian Republic of),VEN,Americas,Mexico,1
+17757,Venezuela (Bolivarian Republic of),VEN,Americas,Netherlands Antilles,1
+17758,Venezuela (Bolivarian Republic of),VEN,Americas,Panama,1
+17759,Venezuela (Bolivarian Republic of),VEN,Americas,Peru,1
+17760,Venezuela (Bolivarian Republic of),VEN,Americas,Portugal,1
+17761,Venezuela (Bolivarian Republic of),VEN,Americas,Puerto Rico,1
+17762,Venezuela (Bolivarian Republic of),VEN,Americas,Spain,1
+17763,Venezuela (Bolivarian Republic of),VEN,Americas,Trinidad and Tobago,1
+17764,Venezuela (Bolivarian Republic of),VEN,Americas,United States of America,1
+17831,Viet Nam,VNM,Asia,Australia,1
+17832,Viet Nam,VNM,Asia,Myanmar,1
+17833,Viet Nam,VNM,Asia,Cambodia,1
+17834,Viet Nam,VNM,Asia,China,1
+17835,Viet Nam,VNM,Asia,France,1
+17836,Viet Nam,VNM,Asia,Germany,1
+17837,Viet Nam,VNM,Asia,Hong Kong,1
+17838,Viet Nam,VNM,Asia,Indonesia,1
+17839,Viet Nam,VNM,Asia,Japan,1
+17840,Viet Nam,VNM,Asia,Kazakhstan,1
+17841,Viet Nam,VNM,Asia,Lao People's Democratic Republic,1
+17842,Viet Nam,VNM,Asia,Macao,1
+17843,Viet Nam,VNM,Asia,Malaysia,1
+17844,Viet Nam,VNM,Asia,Philippines,1
+17845,Viet Nam,VNM,Asia,Qatar,1
+17846,Viet Nam,VNM,Asia,Russian Federation,1
+17847,Viet Nam,VNM,Asia,Singapore,1
+17848,Viet Nam,VNM,Asia,"Korea, Republic of",1
+17849,Viet Nam,VNM,Asia,Taiwan,1
+17850,Viet Nam,VNM,Asia,Thailand,1
+17851,Viet Nam,VNM,Asia,United Arab Emirates,1
+17894,Virgin Islands (British),VGB,Americas,Dominica,1
+17895,Virgin Islands (British),VGB,Americas,Netherlands Antilles,1
+17896,Virgin Islands (British),VGB,Americas,Puerto Rico,1
+17897,Virgin Islands (British),VGB,Americas,Saint Kitts and Nevis,1
+17898,Virgin Islands (British),VGB,Americas,Virgin Islands (British),1
+17899,Virgin Islands (British),VGB,Americas,Anguilla,1
+17902,Virgin Islands (British),VGB,Americas,France,1
+17906,Virgin Islands (British),VGB,Americas,United States of America,1
+17920,Wallis and Futuna,WLF,Oceania,Fiji,1
+17921,Wallis and Futuna,WLF,Oceania,New Caledonia,1
+17922,Western Sahara,ESH,Africa,Morocco,1
+17923,Western Sahara,ESH,Africa,Spain,1
+17928,Yemen,YEM,Asia,Bahrain,1
+17929,Yemen,YEM,Asia,Djibouti,1
+17930,Yemen,YEM,Asia,Egypt,1
+17931,Yemen,YEM,Asia,Eritrea,1
+17932,Yemen,YEM,Asia,Ethiopia,1
+17933,Yemen,YEM,Asia,India,1
+17934,Yemen,YEM,Asia,Jordan,1
+17935,Yemen,YEM,Asia,Kenya,1
+17936,Yemen,YEM,Asia,Kuwait,1
+17937,Yemen,YEM,Asia,Lebanon,1
+17938,Yemen,YEM,Asia,Qatar,1
+17939,Yemen,YEM,Asia,Saudi Arabia,1
+17940,Yemen,YEM,Asia,Somalia,1
+17941,Yemen,YEM,Asia,Sudan,1
+17942,Yemen,YEM,Asia,Turkey,1
+17943,Yemen,YEM,Asia,United Arab Emirates,1
+17960,Zambia,ZMB,Africa,Angola,1
+17961,Zambia,ZMB,Africa,Botswana,1
+17962,Zambia,ZMB,Africa,"Congo, Democratic Republic of the",1
+17963,Zambia,ZMB,Africa,Ethiopia,1
+17964,Zambia,ZMB,Africa,Kenya,1
+17965,Zambia,ZMB,Africa,Malawi,1
+17966,Zambia,ZMB,Africa,Namibia,1
+17967,Zambia,ZMB,Africa,Netherlands,1
+17968,Zambia,ZMB,Africa,South Africa,1
+17969,Zambia,ZMB,Africa,United Arab Emirates,1
+17970,Zambia,ZMB,Africa,Zimbabwe,1
+18048,Zimbabwe,ZWE,Africa,Botswana,1
+18049,Zimbabwe,ZWE,Africa,Ethiopia,1
+18050,Zimbabwe,ZWE,Africa,Kenya,1
+18051,Zimbabwe,ZWE,Africa,Malawi,1
+18052,Zimbabwe,ZWE,Africa,Namibia,1
+18053,Zimbabwe,ZWE,Africa,South Africa,1
+18054,Zimbabwe,ZWE,Africa,"Tanzania, United Republic of",1
+18055,Zimbabwe,ZWE,Africa,Zambia,1

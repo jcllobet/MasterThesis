@@ -1,0 +1,4559 @@
+src,trg,weights
+Afghanistan,Azerbaijan,1
+Afghanistan,India,1
+Afghanistan,Iran (Islamic Republic of),1
+Afghanistan,Kuwait,1
+Afghanistan,Pakistan,1
+Afghanistan,Tajikistan,1
+Afghanistan,Turkey,1
+Afghanistan,United Arab Emirates,1
+Albania,Austria,1
+Albania,Germany,1
+Albania,Greece,1
+Albania,Italy,1
+Albania,Slovenia,1
+Albania,Turkey,1
+Albania,United Kingdom,1
+Algeria,Austria,1
+Algeria,Belgium,1
+Algeria,Burkina Faso,1
+Algeria,Canada,1
+Algeria,China,1
+Algeria,Côte d'Ivoire,1
+Algeria,Egypt,1
+Algeria,France,1
+Algeria,Germany,1
+Algeria,Italy,1
+Algeria,Jordan,1
+Algeria,Lebanon,1
+Algeria,Libya,1
+Algeria,Mali,1
+Algeria,Malta,1
+Algeria,Morocco,1
+Algeria,Niger,1
+Algeria,Portugal,1
+Algeria,Qatar,1
+Algeria,Russia,1
+Algeria,Saudi Arabia,1
+Algeria,Senegal,1
+Algeria,Spain,1
+Algeria,Switzerland,1
+Algeria,Tunisia,1
+Algeria,Turkey,1
+Algeria,United Arab Emirates,1
+Algeria,United Kingdom,1
+American Samoa,United States,1
+Angola,Brazil,1
+Angola,China,1
+Angola,Congo,1
+Angola,"Congo, Democratic Republic of the",1
+Angola,Cuba,1
+Angola,Ethiopia,1
+Angola,France,1
+Angola,Germany,1
+Angola,Kenya,1
+Angola,Morocco,1
+Angola,Mozambique,1
+Angola,Namibia,1
+Angola,Netherlands,1
+Angola,Portugal,1
+Angola,Sao Tome and Principe,1
+Angola,South Africa,1
+Angola,Spain,1
+Angola,United Arab Emirates,1
+Angola,United Kingdom,1
+Angola,Zimbabwe,1
+Anguilla,Antigua and Barbuda,1
+Anguilla,Netherlands Antilles,1
+Anguilla,Puerto Rico,1
+Anguilla,Virgin Islands,1
+Antigua and Barbuda,Anguilla,1
+Antigua and Barbuda,Barbados,1
+Antigua and Barbuda,Canada,1
+Antigua and Barbuda,Dominica,1
+Antigua and Barbuda,Dominican Republic,1
+Antigua and Barbuda,France,1
+Antigua and Barbuda,Germany,1
+Antigua and Barbuda,Guadeloupe,1
+Antigua and Barbuda,Jamaica,1
+Antigua and Barbuda,Netherlands Antilles,1
+Antigua and Barbuda,Puerto Rico,1
+Antigua and Barbuda,Saint Kitts and Nevis,1
+Antigua and Barbuda,Saint Lucia,1
+Antigua and Barbuda,Trinidad and Tobago,1
+Antigua and Barbuda,United Kingdom,1
+Antigua and Barbuda,United States,1
+Argentina,Bolivia,1
+Argentina,Brazil,1
+Argentina,Chile,1
+Argentina,Colombia,1
+Argentina,Cuba,1
+Argentina,Dominican Republic,1
+Argentina,Ecuador,1
+Argentina,Falkland Islands (Malvinas),1
+Argentina,France,1
+Argentina,Germany,1
+Argentina,Italy,1
+Argentina,Mexico,1
+Argentina,Netherlands,1
+Argentina,Panama,1
+Argentina,Paraguay,1
+Argentina,Peru,1
+Argentina,Spain,1
+Argentina,United Kingdom,1
+Argentina,United States,1
+Argentina,Uruguay,1
+Argentina,Venezuela,1
+Armenia,Austria,1
+Armenia,Belarus,1
+Armenia,Czechia,1
+Armenia,France,1
+Armenia,Greece,1
+Armenia,Iran (Islamic Republic of),1
+Armenia,Italy,1
+Armenia,Kazakhstan,1
+Armenia,Lebanon,1
+Armenia,Poland,1
+Armenia,Russia,1
+Armenia,Ukraine,1
+Armenia,United Arab Emirates,1
+Aruba,Canada,1
+Aruba,Colombia,1
+Aruba,Dominican Republic,1
+Aruba,Netherlands,1
+Aruba,Netherlands Antilles,1
+Aruba,Panama,1
+Aruba,Suriname,1
+Aruba,United States,1
+Aruba,Venezuela,1
+Australia,Brunei,1
+Australia,Canada,1
+Australia,Chile,1
+Australia,China,1
+Australia,Christmas Island,1
+Australia,Cook Islands,1
+Australia,East Timor,1
+Australia,Fiji,1
+Australia,Guam,1
+Australia,Hong Kong,1
+Australia,India,1
+Australia,Indonesia,1
+Australia,Japan,1
+Australia,Malaysia,1
+Australia,Mauritius,1
+Australia,Nauru,1
+Australia,New Caledonia,1
+Australia,New Zealand,1
+Australia,Norfolk Island,1
+Australia,Papua New Guinea,1
+Australia,Philippines,1
+Australia,Qatar,1
+Australia,Samoa,1
+Australia,Singapore,1
+Australia,Solomon Islands,1
+Australia,South Africa,1
+Australia,South Korea,1
+Australia,Taiwan,1
+Australia,Thailand,1
+Australia,Tonga,1
+Australia,United Arab Emirates,1
+Australia,United States,1
+Australia,Vanuatu,1
+Australia,Vietnam,1
+Austria,Albania,1
+Austria,Algeria,1
+Austria,Armenia,1
+Austria,Azerbaijan,1
+Austria,Belarus,1
+Austria,Belgium,1
+Austria,Bosnia and Herzegovina,1
+Austria,Bulgaria,1
+Austria,Canada,1
+Austria,China,1
+Austria,Croatia,1
+Austria,Cyprus,1
+Austria,Czechia,1
+Austria,Denmark,1
+Austria,Egypt,1
+Austria,Finland,1
+Austria,France,1
+Austria,Georgia,1
+Austria,Germany,1
+Austria,Greece,1
+Austria,Hungary,1
+Austria,India,1
+Austria,Iran (Islamic Republic of),1
+Austria,Iraq,1
+Austria,Ireland,1
+Austria,Israel,1
+Austria,Italy,1
+Austria,Japan,1
+Austria,Jordan,1
+Austria,Kazakhstan,1
+Austria,Latvia,1
+Austria,Lithuania,1
+Austria,Luxembourg,1
+Austria,Macedonia,1
+Austria,Malta,1
+Austria,Moldova,1
+Austria,Montenegro,1
+Austria,Netherlands,1
+Austria,Norway,1
+Austria,Poland,1
+Austria,Portugal,1
+Austria,Qatar,1
+Austria,Romania,1
+Austria,Russia,1
+Austria,Serbia,1
+Austria,Slovakia,1
+Austria,Slovenia,1
+Austria,Spain,1
+Austria,Sweden,1
+Austria,Switzerland,1
+Austria,Taiwan,1
+Austria,Thailand,1
+Austria,Tunisia,1
+Austria,Turkey,1
+Austria,Ukraine,1
+Austria,United Arab Emirates,1
+Austria,United Kingdom,1
+Austria,United States,1
+Azerbaijan,Afghanistan,1
+Azerbaijan,Austria,1
+Azerbaijan,Belarus,1
+Azerbaijan,China,1
+Azerbaijan,Czechia,1
+Azerbaijan,France,1
+Azerbaijan,Georgia,1
+Azerbaijan,Germany,1
+Azerbaijan,Hungary,1
+Azerbaijan,Iran (Islamic Republic of),1
+Azerbaijan,Israel,1
+Azerbaijan,Italy,1
+Azerbaijan,Kazakhstan,1
+Azerbaijan,Latvia,1
+Azerbaijan,Qatar,1
+Azerbaijan,Russia,1
+Azerbaijan,Turkey,1
+Azerbaijan,Turkmenistan,1
+Azerbaijan,Ukraine,1
+Azerbaijan,United Arab Emirates,1
+Azerbaijan,United Kingdom,1
+Azerbaijan,Uzbekistan,1
+Bahamas,Canada,1
+Bahamas,Cayman Islands,1
+Bahamas,Cuba,1
+Bahamas,Jamaica,1
+Bahamas,Panama,1
+Bahamas,Turks and Caicos Islands,1
+Bahamas,United Kingdom,1
+Bahamas,United States,1
+Bahrain,Cyprus,1
+Bahrain,Egypt,1
+Bahrain,Ethiopia,1
+Bahrain,France,1
+Bahrain,Germany,1
+Bahrain,India,1
+Bahrain,Iran (Islamic Republic of),1
+Bahrain,Iraq,1
+Bahrain,Jordan,1
+Bahrain,Kuwait,1
+Bahrain,Lebanon,1
+Bahrain,Oman,1
+Bahrain,Pakistan,1
+Bahrain,Philippines,1
+Bahrain,Qatar,1
+Bahrain,Saudi Arabia,1
+Bahrain,Sri Lanka,1
+Bahrain,Sudan,1
+Bahrain,Thailand,1
+Bahrain,Turkey,1
+Bahrain,United Arab Emirates,1
+Bahrain,United Kingdom,1
+Bahrain,Yemen,1
+Bangladesh,Bhutan,1
+Bangladesh,Myanmar,1
+Bangladesh,China,1
+Bangladesh,Hong Kong,1
+Bangladesh,India,1
+Bangladesh,Italy,1
+Bangladesh,Kuwait,1
+Bangladesh,Malaysia,1
+Bangladesh,Nepal,1
+Bangladesh,Oman,1
+Bangladesh,Pakistan,1
+Bangladesh,Qatar,1
+Bangladesh,Saudi Arabia,1
+Bangladesh,Singapore,1
+Bangladesh,Sri Lanka,1
+Bangladesh,Thailand,1
+Bangladesh,Turkey,1
+Bangladesh,United Arab Emirates,1
+Bangladesh,United Kingdom,1
+Barbados,Antigua and Barbuda,1
+Barbados,Brazil,1
+Barbados,Canada,1
+Barbados,Dominica,1
+Barbados,Germany,1
+Barbados,Grenada,1
+Barbados,Guyana,1
+Barbados,Jamaica,1
+Barbados,Martinique,1
+Barbados,Netherlands Antilles,1
+Barbados,Saint Lucia,1
+Barbados,Saint Vincent and the Grenadines,1
+Barbados,Trinidad and Tobago,1
+Barbados,United Kingdom,1
+Barbados,United States,1
+Belarus,Armenia,1
+Belarus,Austria,1
+Belarus,Azerbaijan,1
+Belarus,Cyprus,1
+Belarus,Czechia,1
+Belarus,Finland,1
+Belarus,France,1
+Belarus,Georgia,1
+Belarus,Germany,1
+Belarus,Hungary,1
+Belarus,Iran (Islamic Republic of),1
+Belarus,Israel,1
+Belarus,Italy,1
+Belarus,Kazakhstan,1
+Belarus,Latvia,1
+Belarus,Lebanon,1
+Belarus,Lithuania,1
+Belarus,Netherlands,1
+Belarus,Poland,1
+Belarus,Russia,1
+Belarus,Spain,1
+Belarus,Sweden,1
+Belarus,Switzerland,1
+Belarus,Turkey,1
+Belarus,Turkmenistan,1
+Belarus,Ukraine,1
+Belarus,United Arab Emirates,1
+Belarus,United Kingdom,1
+Belgium,Algeria,1
+Belgium,Angola,1
+Belgium,Austria,1
+Belgium,Benin,1
+Belgium,Bulgaria,1
+Belgium,Burkina Faso,1
+Belgium,Burundi,1
+Belgium,Cameroon,1
+Belgium,Canada,1
+Belgium,China,1
+Belgium,"Congo, Democratic Republic of the",1
+Belgium,Côte d'Ivoire,1
+Belgium,Croatia,1
+Belgium,Cyprus,1
+Belgium,Czechia,1
+Belgium,Denmark,1
+Belgium,Egypt,1
+Belgium,Estonia,1
+Belgium,Finland,1
+Belgium,France,1
+Belgium,Germany,1
+Belgium,Greece,1
+Belgium,Hungary,1
+Belgium,Iceland,1
+Belgium,India,1
+Belgium,Ireland,1
+Belgium,Israel,1
+Belgium,Italy,1
+Belgium,Latvia,1
+Belgium,Lebanon,1
+Belgium,Lithuania,1
+Belgium,Macedonia,1
+Belgium,Malta,1
+Belgium,Montenegro,1
+Belgium,Morocco,1
+Belgium,Netherlands,1
+Belgium,Norway,1
+Belgium,Poland,1
+Belgium,Portugal,1
+Belgium,Qatar,1
+Belgium,Romania,1
+Belgium,Russia,1
+Belgium,Rwanda,1
+Belgium,Senegal,1
+Belgium,Serbia,1
+Belgium,Sierra Leone,1
+Belgium,Slovakia,1
+Belgium,Slovenia,1
+Belgium,Spain,1
+Belgium,Sweden,1
+Belgium,Switzerland,1
+Belgium,Thailand,1
+Belgium,Tunisia,1
+Belgium,Turkey,1
+Belgium,Ukraine,1
+Belgium,United Arab Emirates,1
+Belgium,United Kingdom,1
+Belgium,United States,1
+Belize,El Salvador,1
+Belize,Guatemala,1
+Belize,Honduras,1
+Belize,Mexico,1
+Belize,United States,1
+Benin,Burkina Faso,1
+Benin,Cameroon,1
+Benin,Congo,1
+Benin,Côte d'Ivoire,1
+Benin,Equatorial Guinea,1
+Benin,Ethiopia,1
+Benin,France,1
+Benin,Gabon,1
+Benin,Ghana,1
+Benin,Kenya,1
+Benin,Mali,1
+Benin,Niger,1
+Benin,Nigeria,1
+Benin,Senegal,1
+Benin,Togo,1
+Bermuda,Canada,1
+Bermuda,United Kingdom,1
+Bermuda,United States,1
+Bhutan,Bangladesh,1
+Bhutan,India,1
+Bhutan,Nepal,1
+Bolivia,Argentina,1
+Bolivia,Brazil,1
+Bolivia,Chile,1
+Bolivia,Colombia,1
+Bolivia,Panama,1
+Bolivia,Paraguay,1
+Bolivia,Peru,1
+Bolivia,Spain,1
+Bolivia,United States,1
+Bosnia and Herzegovina,Austria,1
+Bosnia and Herzegovina,Croatia,1
+Bosnia and Herzegovina,Denmark,1
+Bosnia and Herzegovina,Germany,1
+Bosnia and Herzegovina,Italy,1
+Bosnia and Herzegovina,Serbia,1
+Bosnia and Herzegovina,Slovenia,1
+Bosnia and Herzegovina,Sweden,1
+Bosnia and Herzegovina,Switzerland,1
+Bosnia and Herzegovina,Turkey,1
+Botswana,Kenya,1
+Botswana,Namibia,1
+Botswana,South Africa,1
+Botswana,Zambia,1
+Botswana,Zimbabwe,1
+Brazil,Angola,1
+Brazil,Argentina,1
+Brazil,Barbados,1
+Brazil,Bolivia,1
+Brazil,Canada,1
+Brazil,Cabo Verde,1
+Brazil,Chile,1
+Brazil,Colombia,1
+Brazil,Dominican Republic,1
+Brazil,Ecuador,1
+Brazil,France,1
+Brazil,French Guiana,1
+Brazil,Germany,1
+Brazil,Italy,1
+Brazil,Mexico,1
+Brazil,Morocco,1
+Brazil,Netherlands,1
+Brazil,Panama,1
+Brazil,Paraguay,1
+Brazil,Peru,1
+Brazil,Portugal,1
+Brazil,Qatar,1
+Brazil,South Africa,1
+Brazil,Spain,1
+Brazil,Suriname,1
+Brazil,Switzerland,1
+Brazil,Togo,1
+Brazil,Turkey,1
+Brazil,United Arab Emirates,1
+Brazil,United Kingdom,1
+Brazil,United States,1
+Brazil,Uruguay,1
+Brazil,Venezuela,1
+Virgin Islands (British),Dominica,1
+Virgin Islands (British),Netherlands Antilles,1
+Virgin Islands (British),Puerto Rico,1
+Virgin Islands (British),Saint Kitts and Nevis,1
+Virgin Islands (British),Virgin Islands,1
+Brunei,Australia,1
+Brunei,China,1
+Brunei,Hong Kong,1
+Brunei,Indonesia,1
+Brunei,Malaysia,1
+Brunei,Philippines,1
+Brunei,Saudi Arabia,1
+Brunei,Singapore,1
+Brunei,Thailand,1
+Brunei,United Arab Emirates,1
+Bulgaria,Austria,1
+Bulgaria,Belgium,1
+Bulgaria,Cyprus,1
+Bulgaria,Czechia,1
+Bulgaria,Denmark,1
+Bulgaria,Finland,1
+Bulgaria,France,1
+Bulgaria,Germany,1
+Bulgaria,Greece,1
+Bulgaria,Ireland,1
+Bulgaria,Israel,1
+Bulgaria,Italy,1
+Bulgaria,Luxembourg,1
+Bulgaria,Netherlands,1
+Bulgaria,Norway,1
+Bulgaria,Poland,1
+Bulgaria,Romania,1
+Bulgaria,Russia,1
+Bulgaria,Serbia,1
+Bulgaria,Spain,1
+Bulgaria,Switzerland,1
+Bulgaria,Turkey,1
+Bulgaria,United Arab Emirates,1
+Bulgaria,United Kingdom,1
+Burkina Faso,Algeria,1
+Burkina Faso,Belgium,1
+Burkina Faso,Benin,1
+Burkina Faso,Côte d'Ivoire,1
+Burkina Faso,Ethiopia,1
+Burkina Faso,France,1
+Burkina Faso,Ghana,1
+Burkina Faso,Mali,1
+Burkina Faso,Morocco,1
+Burkina Faso,Niger,1
+Burkina Faso,Senegal,1
+Burkina Faso,Togo,1
+Burkina Faso,Tunisia,1
+Burkina Faso,Turkey,1
+Myanmar,Bangladesh,1
+Myanmar,Cambodia,1
+Myanmar,China,1
+Myanmar,Hong Kong,1
+Myanmar,India,1
+Myanmar,Japan,1
+Myanmar,Malaysia,1
+Myanmar,Qatar,1
+Myanmar,Singapore,1
+Myanmar,South Korea,1
+Myanmar,Taiwan,1
+Myanmar,Thailand,1
+Myanmar,Vietnam,1
+Burundi,Kenya,1
+Burundi,Rwanda,1
+Burundi,Uganda,1
+Cambodia,Myanmar,1
+Cambodia,China,1
+Cambodia,Hong Kong,1
+Cambodia,Lao People's Democratic Republic,1
+Cambodia,Malaysia,1
+Cambodia,Philippines,1
+Cambodia,Singapore,1
+Cambodia,South Korea,1
+Cambodia,Taiwan,1
+Cambodia,Thailand,1
+Cambodia,Vietnam,1
+Cameroon,Belgium,1
+Cameroon,Benin,1
+Cameroon,Central African Republic,1
+Cameroon,Chad,1
+Cameroon,Congo,1
+Cameroon,"Congo, Democratic Republic of the",1
+Cameroon,Côte d'Ivoire,1
+Cameroon,Equatorial Guinea,1
+Cameroon,Ethiopia,1
+Cameroon,France,1
+Cameroon,Gabon,1
+Cameroon,Kenya,1
+Cameroon,Morocco,1
+Cameroon,Nigeria,1
+Cameroon,Senegal,1
+Cameroon,Togo,1
+Cameroon,Turkey,1
+Canada,Algeria,1
+Canada,Antigua and Barbuda,1
+Canada,Aruba,1
+Canada,Australia,1
+Canada,Austria,1
+Canada,Bahamas,1
+Canada,Barbados,1
+Canada,Belgium,1
+Canada,Bermuda,1
+Canada,Brazil,1
+Canada,Cayman Islands,1
+Canada,Chile,1
+Canada,China,1
+Canada,Colombia,1
+Canada,Costa Rica,1
+Canada,Cuba,1
+Canada,Denmark,1
+Canada,Dominican Republic,1
+Canada,Egypt,1
+Canada,El Salvador,1
+Canada,Ethiopia,1
+Canada,France,1
+Canada,Germany,1
+Canada,Greece,1
+Canada,Grenada,1
+Canada,Guadeloupe,1
+Canada,Guyana,1
+Canada,Haiti,1
+Canada,Hong Kong,1
+Canada,Iceland,1
+Canada,Ireland,1
+Canada,Israel,1
+Canada,Italy,1
+Canada,Jamaica,1
+Canada,Japan,1
+Canada,Jordan,1
+Canada,Martinique,1
+Canada,Mexico,1
+Canada,Morocco,1
+Canada,Netherlands,1
+Canada,Netherlands Antilles,1
+Canada,New Zealand,1
+Canada,Pakistan,1
+Canada,Panama,1
+Canada,Peru,1
+Canada,Philippines,1
+Canada,Poland,1
+Canada,Portugal,1
+Canada,Puerto Rico,1
+Canada,Qatar,1
+Canada,Russia,1
+Canada,Saint Lucia,1
+Canada,Saint Pierre and Miquelon,1
+Canada,Saudi Arabia,1
+Canada,South Korea,1
+Canada,Spain,1
+Canada,Switzerland,1
+Canada,Taiwan,1
+Canada,Trinidad and Tobago,1
+Canada,Tunisia,1
+Canada,Turkey,1
+Canada,Turks and Caicos Islands,1
+Canada,United Arab Emirates,1
+Canada,United Kingdom,1
+Canada,United States,1
+Cabo Verde,Brazil,1
+Cabo Verde,France,1
+Cabo Verde,Gambia,1
+Cabo Verde,Germany,1
+Cabo Verde,Guinea-Bissau,1
+Cabo Verde,Luxembourg,1
+Cabo Verde,Morocco,1
+Cabo Verde,Netherlands,1
+Cabo Verde,Portugal,1
+Cabo Verde,Sao Tome and Principe,1
+Cabo Verde,Senegal,1
+Cabo Verde,Spain,1
+Cabo Verde,United Kingdom,1
+Cabo Verde,United States,1
+Cayman Islands,Bahamas,1
+Cayman Islands,Canada,1
+Cayman Islands,Cuba,1
+Cayman Islands,Honduras,1
+Cayman Islands,Jamaica,1
+Cayman Islands,United States,1
+Central African Republic,Cameroon,1
+Central African Republic,Morocco,1
+Chad,Cameroon,1
+Chad,Ethiopia,1
+Chad,France,1
+Chad,Niger,1
+Chad,Nigeria,1
+Chad,Turkey,1
+Chile,Argentina,1
+Chile,Australia,1
+Chile,Bolivia,1
+Chile,Brazil,1
+Chile,Canada,1
+Chile,Colombia,1
+Chile,Dominican Republic,1
+Chile,Ecuador,1
+Chile,France,1
+Chile,French Polynesia,1
+Chile,Mexico,1
+Chile,New Zealand,1
+Chile,Panama,1
+Chile,Paraguay,1
+Chile,Peru,1
+Chile,Spain,1
+Chile,United States,1
+Chile,Uruguay,1
+Chile,Venezuela,1
+China,Algeria,1
+China,Angola,1
+China,Australia,1
+China,Austria,1
+China,Azerbaijan,1
+China,Bangladesh,1
+China,Belgium,1
+China,Brunei,1
+China,Myanmar,1
+China,Cambodia,1
+China,Canada,1
+China,Denmark,1
+China,Egypt,1
+China,Ethiopia,1
+China,Finland,1
+China,France,1
+China,Georgia,1
+China,Germany,1
+China,Hong Kong,1
+China,India,1
+China,Indonesia,1
+China,Iran (Islamic Republic of),1
+China,Israel,1
+China,Italy,1
+China,Japan,1
+China,Kazakhstan,1
+China,Kenya,1
+China,Kyrgyzstan,1
+China,Lao People's Democratic Republic,1
+China,Macao,1
+China,Malaysia,1
+China,Maldives,1
+China,Mauritius,1
+China,Mexico,1
+China,Mongolia,1
+China,Nepal,1
+China,Netherlands,1
+China,New Zealand,1
+China,North Korea,1
+China,Northern Mariana Islands,1
+China,Pakistan,1
+China,Philippines,1
+China,Poland,1
+China,Qatar,1
+China,Russia,1
+China,Saudi Arabia,1
+China,Singapore,1
+China,South Africa,1
+China,South Korea,1
+China,Spain,1
+China,Sri Lanka,1
+China,Sweden,1
+China,Switzerland,1
+China,Taiwan,1
+China,Tajikistan,1
+China,Thailand,1
+China,Turkey,1
+China,Turkmenistan,1
+China,United Arab Emirates,1
+China,United Kingdom,1
+China,United States,1
+China,Uzbekistan,1
+China,Vietnam,1
+Christmas Island,Australia,1
+Christmas Island,Cocos (Keeling) Islands,1
+Cocos (Keeling) Islands,Christmas Island,1
+Colombia,Argentina,1
+Colombia,Aruba,1
+Colombia,Bolivia,1
+Colombia,Brazil,1
+Colombia,Canada,1
+Colombia,Chile,1
+Colombia,Costa Rica,1
+Colombia,Cuba,1
+Colombia,Dominican Republic,1
+Colombia,Ecuador,1
+Colombia,El Salvador,1
+Colombia,France,1
+Colombia,Germany,1
+Colombia,Guatemala,1
+Colombia,Mexico,1
+Colombia,Netherlands Antilles,1
+Colombia,Panama,1
+Colombia,Peru,1
+Colombia,Puerto Rico,1
+Colombia,Spain,1
+Colombia,United States,1
+Colombia,Venezuela,1
+Comoros,Djibouti,1
+Comoros,Kenya,1
+Comoros,Madagascar,1
+Comoros,Mayotte,1
+Comoros,Reunion,1
+Comoros,Tanzania,1
+Congo,Angola,1
+Congo,Benin,1
+Congo,Cameroon,1
+Congo,"Congo, Democratic Republic of the",1
+Congo,Ethiopia,1
+Congo,France,1
+Congo,Gabon,1
+Congo,Kenya,1
+Congo,Morocco,1
+Congo,Rwanda,1
+Congo,South Africa,1
+"Congo, Democratic Republic of the",Belgium,1
+"Congo, Democratic Republic of the",Cameroon,1
+"Congo, Democratic Republic of the",Congo,1
+"Congo, Democratic Republic of the",France,1
+"Congo, Democratic Republic of the",Gabon,1
+"Congo, Democratic Republic of the",Kenya,1
+"Congo, Democratic Republic of the",South Africa,1
+"Congo, Democratic Republic of the",Turkey,1
+"Congo, Democratic Republic of the",Zambia,1
+Cook Islands,Australia,1
+Cook Islands,French Polynesia,1
+Cook Islands,New Zealand,1
+Cook Islands,United States,1
+Costa Rica,Canada,1
+Costa Rica,Colombia,1
+Costa Rica,Dominican Republic,1
+Costa Rica,El Salvador,1
+Costa Rica,Guatemala,1
+Costa Rica,Honduras,1
+Costa Rica,Mexico,1
+Costa Rica,Nicaragua,1
+Costa Rica,Panama,1
+Costa Rica,Peru,1
+Costa Rica,Spain,1
+Costa Rica,United States,1
+Côte d'Ivoire,Algeria,1
+Côte d'Ivoire,Belgium,1
+Côte d'Ivoire,Benin,1
+Côte d'Ivoire,Burkina Faso,1
+Côte d'Ivoire,Cameroon,1
+Côte d'Ivoire,France,1
+Côte d'Ivoire,Gabon,1
+Côte d'Ivoire,Ghana,1
+Côte d'Ivoire,Guinea,1
+Côte d'Ivoire,Kenya,1
+Côte d'Ivoire,Liberia,1
+Côte d'Ivoire,Mali,1
+Côte d'Ivoire,Morocco,1
+Côte d'Ivoire,Nigeria,1
+Côte d'Ivoire,Senegal,1
+Côte d'Ivoire,Sierra Leone,1
+Côte d'Ivoire,Togo,1
+Côte d'Ivoire,Tunisia,1
+Côte d'Ivoire,Turkey,1
+Croatia,Austria,1
+Croatia,Belgium,1
+Croatia,Bosnia and Herzegovina,1
+Croatia,Czechia,1
+Croatia,Denmark,1
+Croatia,Estonia,1
+Croatia,Finland,1
+Croatia,France,1
+Croatia,Germany,1
+Croatia,Greece,1
+Croatia,Hungary,1
+Croatia,Ireland,1
+Croatia,Italy,1
+Croatia,Luxembourg,1
+Croatia,Macedonia,1
+Croatia,Netherlands,1
+Croatia,Norway,1
+Croatia,Poland,1
+Croatia,Russia,1
+Croatia,Serbia,1
+Croatia,Spain,1
+Croatia,Sweden,1
+Croatia,Switzerland,1
+Croatia,Turkey,1
+Croatia,United Kingdom,1
+Cuba,Angola,1
+Cuba,Argentina,1
+Cuba,Bahamas,1
+Cuba,Canada,1
+Cuba,Cayman Islands,1
+Cuba,Colombia,1
+Cuba,Dominican Republic,1
+Cuba,Ecuador,1
+Cuba,El Salvador,1
+Cuba,France,1
+Cuba,Germany,1
+Cuba,Italy,1
+Cuba,Jamaica,1
+Cuba,Martinique,1
+Cuba,Mexico,1
+Cuba,Netherlands,1
+Cuba,Panama,1
+Cuba,Peru,1
+Cuba,Russia,1
+Cuba,Spain,1
+Cuba,Switzerland,1
+Cuba,United Kingdom,1
+Cuba,Venezuela,1
+Cyprus,Austria,1
+Cyprus,Bahrain,1
+Cyprus,Belarus,1
+Cyprus,Belgium,1
+Cyprus,Bulgaria,1
+Cyprus,Egypt,1
+Cyprus,France,1
+Cyprus,Germany,1
+Cyprus,Greece,1
+Cyprus,Hungary,1
+Cyprus,Israel,1
+Cyprus,Italy,1
+Cyprus,Jordan,1
+Cyprus,Latvia,1
+Cyprus,Lebanon,1
+Cyprus,Lithuania,1
+Cyprus,Malta,1
+Cyprus,Moldova,1
+Cyprus,Netherlands,1
+Cyprus,Norway,1
+Cyprus,Poland,1
+Cyprus,Qatar,1
+Cyprus,Romania,1
+Cyprus,Russia,1
+Cyprus,Serbia,1
+Cyprus,Sweden,1
+Cyprus,Switzerland,1
+Cyprus,Turkey,1
+Cyprus,Ukraine,1
+Cyprus,United Arab Emirates,1
+Cyprus,United Kingdom,1
+Czechia,Armenia,1
+Czechia,Austria,1
+Czechia,Azerbaijan,1
+Czechia,Belarus,1
+Czechia,Belgium,1
+Czechia,Bulgaria,1
+Czechia,Croatia,1
+Czechia,Denmark,1
+Czechia,Finland,1
+Czechia,France,1
+Czechia,Germany,1
+Czechia,Greece,1
+Czechia,Hungary,1
+Czechia,Ireland,1
+Czechia,Israel,1
+Czechia,Italy,1
+Czechia,Kazakhstan,1
+Czechia,Latvia,1
+Czechia,Lithuania,1
+Czechia,Malta,1
+Czechia,Netherlands,1
+Czechia,Norway,1
+Czechia,Poland,1
+Czechia,Portugal,1
+Czechia,Romania,1
+Czechia,Russia,1
+Czechia,Serbia,1
+Czechia,Slovakia,1
+Czechia,Slovenia,1
+Czechia,South Korea,1
+Czechia,Spain,1
+Czechia,Sweden,1
+Czechia,Switzerland,1
+Czechia,Turkey,1
+Czechia,Ukraine,1
+Czechia,United Arab Emirates,1
+Czechia,United Kingdom,1
+Czechia,Uzbekistan,1
+Denmark,Austria,1
+Denmark,Belgium,1
+Denmark,Bosnia and Herzegovina,1
+Denmark,Bulgaria,1
+Denmark,Canada,1
+Denmark,China,1
+Denmark,Croatia,1
+Denmark,Czechia,1
+Denmark,Egypt,1
+Denmark,Estonia,1
+Denmark,Faroe Islands,1
+Denmark,Finland,1
+Denmark,France,1
+Denmark,Germany,1
+Denmark,Greece,1
+Denmark,Greenland,1
+Denmark,Hungary,1
+Denmark,Iceland,1
+Denmark,Ireland,1
+Denmark,Israel,1
+Denmark,Italy,1
+Denmark,Japan,1
+Denmark,Latvia,1
+Denmark,Lithuania,1
+Denmark,Luxembourg,1
+Denmark,Malta,1
+Denmark,Morocco,1
+Denmark,Netherlands,1
+Denmark,Norway,1
+Denmark,Pakistan,1
+Denmark,Poland,1
+Denmark,Portugal,1
+Denmark,Qatar,1
+Denmark,Romania,1
+Denmark,Russia,1
+Denmark,Serbia,1
+Denmark,Singapore,1
+Denmark,Slovenia,1
+Denmark,Spain,1
+Denmark,Sweden,1
+Denmark,Switzerland,1
+Denmark,Thailand,1
+Denmark,Turkey,1
+Denmark,United Arab Emirates,1
+Denmark,United Kingdom,1
+Denmark,United States,1
+Djibouti,Comoros,1
+Djibouti,Ethiopia,1
+Djibouti,France,1
+Djibouti,Kenya,1
+Djibouti,Saudi Arabia,1
+Djibouti,Somalia,1
+Djibouti,Turkey,1
+Djibouti,United Arab Emirates,1
+Djibouti,Yemen,1
+Dominica,Antigua and Barbuda,1
+Dominica,Barbados,1
+Dominica,Virgin Islands (British),1
+Dominica,Guadeloupe,1
+Dominica,Netherlands Antilles,1
+Dominica,Puerto Rico,1
+Dominica,Saint Vincent and the Grenadines,1
+Dominica,Virgin Islands,1
+Dominican Republic,Antigua and Barbuda,1
+Dominican Republic,Argentina,1
+Dominican Republic,Aruba,1
+Dominican Republic,Brazil,1
+Dominican Republic,Canada,1
+Dominican Republic,Chile,1
+Dominican Republic,Colombia,1
+Dominican Republic,Costa Rica,1
+Dominican Republic,Cuba,1
+Dominican Republic,France,1
+Dominican Republic,Germany,1
+Dominican Republic,Guadeloupe,1
+Dominican Republic,Haiti,1
+Dominican Republic,Italy,1
+Dominican Republic,Jamaica,1
+Dominican Republic,Netherlands,1
+Dominican Republic,Netherlands Antilles,1
+Dominican Republic,Panama,1
+Dominican Republic,Peru,1
+Dominican Republic,Puerto Rico,1
+Dominican Republic,Russia,1
+Dominican Republic,Spain,1
+Dominican Republic,Switzerland,1
+Dominican Republic,Turks and Caicos Islands,1
+Dominican Republic,United Kingdom,1
+Dominican Republic,United States,1
+Dominican Republic,Venezuela,1
+East Timor,Australia,1
+East Timor,Indonesia,1
+East Timor,Singapore,1
+Ecuador,Argentina,1
+Ecuador,Brazil,1
+Ecuador,Chile,1
+Ecuador,Colombia,1
+Ecuador,Cuba,1
+Ecuador,El Salvador,1
+Ecuador,Mexico,1
+Ecuador,Netherlands,1
+Ecuador,Panama,1
+Ecuador,Peru,1
+Ecuador,Spain,1
+Ecuador,United States,1
+Ecuador,Venezuela,1
+Egypt,Algeria,1
+Egypt,Austria,1
+Egypt,Bahrain,1
+Egypt,Belgium,1
+Egypt,Canada,1
+Egypt,China,1
+Egypt,Cyprus,1
+Egypt,Denmark,1
+Egypt,Eritrea,1
+Egypt,Ethiopia,1
+Egypt,France,1
+Egypt,Germany,1
+Egypt,Ghana,1
+Egypt,Greece,1
+Egypt,Hungary,1
+Egypt,India,1
+Egypt,Indonesia,1
+Egypt,Iraq,1
+Egypt,Israel,1
+Egypt,Italy,1
+Egypt,Jordan,1
+Egypt,Kenya,1
+Egypt,Kuwait,1
+Egypt,Lebanon,1
+Egypt,Libya,1
+Egypt,Morocco,1
+Egypt,Netherlands,1
+Egypt,Nigeria,1
+Egypt,Oman,1
+Egypt,Qatar,1
+Egypt,Russia,1
+Egypt,Saudi Arabia,1
+Egypt,South Africa,1
+Egypt,South Sudan,1
+Egypt,Spain,1
+Egypt,Sudan,1
+Egypt,Switzerland,1
+Egypt,Tanzania,1
+Egypt,Thailand,1
+Egypt,Tunisia,1
+Egypt,Turkey,1
+Egypt,Uganda,1
+Egypt,United Arab Emirates,1
+Egypt,United Kingdom,1
+Egypt,United States,1
+Egypt,Yemen,1
+El Salvador,Belize,1
+El Salvador,Canada,1
+El Salvador,Colombia,1
+El Salvador,Costa Rica,1
+El Salvador,Cuba,1
+El Salvador,Ecuador,1
+El Salvador,Guatemala,1
+El Salvador,Honduras,1
+El Salvador,Mexico,1
+El Salvador,Nicaragua,1
+El Salvador,Panama,1
+El Salvador,Peru,1
+El Salvador,Spain,1
+El Salvador,United States,1
+Equatorial Guinea,Benin,1
+Equatorial Guinea,Cameroon,1
+Equatorial Guinea,Ethiopia,1
+Equatorial Guinea,Gabon,1
+Equatorial Guinea,Morocco,1
+Equatorial Guinea,Nigeria,1
+Equatorial Guinea,Spain,1
+Eritrea,Egypt,1
+Eritrea,Kenya,1
+Eritrea,Saudi Arabia,1
+Eritrea,South Sudan,1
+Eritrea,Sudan,1
+Eritrea,Yemen,1
+Estonia,Belgium,1
+Estonia,Croatia,1
+Estonia,Denmark,1
+Estonia,Finland,1
+Estonia,France,1
+Estonia,Germany,1
+Estonia,Greece,1
+Estonia,Italy,1
+Estonia,Latvia,1
+Estonia,Lithuania,1
+Estonia,Netherlands,1
+Estonia,Norway,1
+Estonia,Poland,1
+Estonia,Russia,1
+Estonia,Spain,1
+Estonia,Sweden,1
+Estonia,Turkey,1
+Estonia,Ukraine,1
+Estonia,United Kingdom,1
+Ethiopia,Angola,1
+Ethiopia,Bahrain,1
+Ethiopia,Benin,1
+Ethiopia,Burkina Faso,1
+Ethiopia,Cameroon,1
+Ethiopia,Chad,1
+Ethiopia,China,1
+Ethiopia,Congo,1
+Ethiopia,"Congo, Democratic Republic of the",1
+Ethiopia,Djibouti,1
+Ethiopia,Egypt,1
+Ethiopia,Equatorial Guinea,1
+Ethiopia,France,1
+Ethiopia,Gabon,1
+Ethiopia,Germany,1
+Ethiopia,Ghana,1
+Ethiopia,Hong Kong,1
+Ethiopia,India,1
+Ethiopia,Israel,1
+Ethiopia,Italy,1
+Ethiopia,Kenya,1
+Ethiopia,Kuwait,1
+Ethiopia,Lebanon,1
+Ethiopia,Malawi,1
+Ethiopia,Mali,1
+Ethiopia,Mozambique,1
+Ethiopia,Niger,1
+Ethiopia,Nigeria,1
+Ethiopia,Oman,1
+Ethiopia,Qatar,1
+Ethiopia,Rwanda,1
+Ethiopia,Saudi Arabia,1
+Ethiopia,Somalia,1
+Ethiopia,South Africa,1
+Ethiopia,South Sudan,1
+Ethiopia,Sudan,1
+Ethiopia,Tanzania,1
+Ethiopia,Thailand,1
+Ethiopia,Togo,1
+Ethiopia,Turkey,1
+Ethiopia,Uganda,1
+Ethiopia,United Arab Emirates,1
+Ethiopia,United Kingdom,1
+Ethiopia,Yemen,1
+Ethiopia,Zambia,1
+Ethiopia,Zimbabwe,1
+Falkland Islands (Malvinas),Chile,1
+Faroe Islands,Denmark,1
+Faroe Islands,Norway,1
+Fiji,Australia,1
+Fiji,Hong Kong,1
+Fiji,Kiribati,1
+Fiji,New Caledonia,1
+Fiji,New Zealand,1
+Fiji,Papua New Guinea,1
+Fiji,Samoa,1
+Fiji,Solomon Islands,1
+Fiji,South Korea,1
+Fiji,Tonga,1
+Fiji,Tuvalu,1
+Fiji,United States,1
+Fiji,Vanuatu,1
+Fiji,Wallis and Futuna,1
+Finland,Austria,1
+Finland,Belarus,1
+Finland,Belgium,1
+Finland,Bulgaria,1
+Finland,China,1
+Finland,Croatia,1
+Finland,Czechia,1
+Finland,Denmark,1
+Finland,Estonia,1
+Finland,France,1
+Finland,Germany,1
+Finland,Greece,1
+Finland,Hong Kong,1
+Finland,Hungary,1
+Finland,Iceland,1
+Finland,India,1
+Finland,Ireland,1
+Finland,Israel,1
+Finland,Italy,1
+Finland,Japan,1
+Finland,Latvia,1
+Finland,Lithuania,1
+Finland,Netherlands,1
+Finland,Norway,1
+Finland,Poland,1
+Finland,Portugal,1
+Finland,Russia,1
+Finland,Singapore,1
+Finland,Slovenia,1
+Finland,South Korea,1
+Finland,Spain,1
+Finland,Sweden,1
+Finland,Switzerland,1
+Finland,Thailand,1
+Finland,Turkey,1
+Finland,Ukraine,1
+Finland,United Kingdom,1
+Finland,United States,1
+France,Algeria,1
+France,Angola,1
+France,Antigua and Barbuda,1
+France,Argentina,1
+France,Armenia,1
+France,Austria,1
+France,Azerbaijan,1
+France,Bahrain,1
+France,Belarus,1
+France,Belgium,1
+France,Benin,1
+France,Brazil,1
+France,Bulgaria,1
+France,Burkina Faso,1
+France,Cameroon,1
+France,Canada,1
+France,Cabo Verde,1
+France,Central African Republic,1
+France,Chad,1
+France,Chile,1
+France,China,1
+France,Colombia,1
+France,Congo,1
+France,"Congo, Democratic Republic of the",1
+France,Côte d'Ivoire,1
+France,Croatia,1
+France,Cuba,1
+France,Cyprus,1
+France,Czechia,1
+France,Denmark,1
+France,Djibouti,1
+France,Dominican Republic,1
+France,Egypt,1
+France,Estonia,1
+France,Ethiopia,1
+France,Finland,1
+France,French Guiana,1
+France,Gabon,1
+France,Georgia,1
+France,Germany,1
+France,Greece,1
+France,Guadeloupe,1
+France,Guernsey,1
+France,Guinea,1
+France,Haiti,1
+France,Hong Kong,1
+France,Hungary,1
+France,Iceland,1
+France,India,1
+France,Iran (Islamic Republic of),1
+France,Ireland,1
+France,Israel,1
+France,Italy,1
+France,Japan,1
+France,Jersey,1
+France,Jordan,1
+France,Kenya,1
+France,Latvia,1
+France,Lebanon,1
+France,Liberia,1
+France,Lithuania,1
+France,Luxembourg,1
+France,Madagascar,1
+France,Malaysia,1
+France,Mali,1
+France,Malta,1
+France,Martinique,1
+France,Mauritania,1
+France,Mauritius,1
+France,Mayotte,1
+France,Mexico,1
+France,Moldova,1
+France,Montenegro,1
+France,Morocco,1
+France,Netherlands,1
+France,Netherlands Antilles,1
+France,Niger,1
+France,Nigeria,1
+France,Norway,1
+France,Oman,1
+France,Pakistan,1
+France,Panama,1
+France,Peru,1
+France,Poland,1
+France,Portugal,1
+France,Puerto Rico,1
+France,Qatar,1
+France,Reunion,1
+France,Romania,1
+France,Russia,1
+France,Saudi Arabia,1
+France,Senegal,1
+France,Serbia,1
+France,Singapore,1
+France,Slovakia,1
+France,Slovenia,1
+France,South Africa,1
+France,South Korea,1
+France,Spain,1
+France,Sri Lanka,1
+France,Sweden,1
+France,Switzerland,1
+France,Taiwan,1
+France,Thailand,1
+France,Togo,1
+France,Tunisia,1
+France,Turkey,1
+France,Ukraine,1
+France,United Arab Emirates,1
+France,United Kingdom,1
+France,United States,1
+France,Uzbekistan,1
+France,Venezuela,1
+France,Vietnam,1
+France,Virgin Islands,1
+French Guiana,Brazil,1
+French Guiana,France,1
+French Guiana,Martinique,1
+French Guiana,Suriname,1
+French Polynesia,Chile,1
+French Polynesia,Cook Islands,1
+French Polynesia,Japan,1
+French Polynesia,New Caledonia,1
+French Polynesia,New Zealand,1
+French Polynesia,United States,1
+Gabon,Benin,1
+Gabon,Cameroon,1
+Gabon,Congo,1
+Gabon,"Congo, Democratic Republic of the",1
+Gabon,Côte d'Ivoire,1
+Gabon,Equatorial Guinea,1
+Gabon,Ethiopia,1
+Gabon,France,1
+Gabon,Morocco,1
+Gabon,Nigeria,1
+Gabon,Rwanda,1
+Gabon,South Africa,1
+Gabon,Togo,1
+Gabon,Turkey,1
+Gambia,Cabo Verde,1
+Gambia,Guinea-Bissau,1
+Gambia,Morocco,1
+Gambia,Senegal,1
+Gambia,Sierra Leone,1
+Gambia,Spain,1
+Georgia,Austria,1
+Georgia,Azerbaijan,1
+Georgia,Belarus,1
+Georgia,China,1
+Georgia,France,1
+Georgia,Germany,1
+Georgia,Greece,1
+Georgia,Iraq,1
+Georgia,Israel,1
+Georgia,Italy,1
+Georgia,Kazakhstan,1
+Georgia,Latvia,1
+Georgia,Lithuania,1
+Georgia,Netherlands,1
+Georgia,Poland,1
+Georgia,Russia,1
+Georgia,Turkey,1
+Georgia,Ukraine,1
+Georgia,United Arab Emirates,1
+Germany,Albania,1
+Germany,Algeria,1
+Germany,Angola,1
+Germany,Argentina,1
+Germany,Austria,1
+Germany,Azerbaijan,1
+Germany,Bahrain,1
+Germany,Belarus,1
+Germany,Belgium,1
+Germany,Bosnia and Herzegovina,1
+Germany,Brazil,1
+Germany,Bulgaria,1
+Germany,Canada,1
+Germany,Cabo Verde,1
+Germany,China,1
+Germany,Colombia,1
+Germany,Croatia,1
+Germany,Cuba,1
+Germany,Cyprus,1
+Germany,Czechia,1
+Germany,Denmark,1
+Germany,Dominican Republic,1
+Germany,Egypt,1
+Germany,Estonia,1
+Germany,Ethiopia,1
+Germany,Finland,1
+Germany,France,1
+Germany,Georgia,1
+Germany,Ghana,1
+Germany,Greece,1
+Germany,Guernsey,1
+Germany,Hong Kong,1
+Germany,Hungary,1
+Germany,Iceland,1
+Germany,India,1
+Germany,Iran (Islamic Republic of),1
+Germany,Iraq,1
+Germany,Ireland,1
+Germany,Israel,1
+Germany,Italy,1
+Germany,Jamaica,1
+Germany,Japan,1
+Germany,Jersey,1
+Germany,Jordan,1
+Germany,Kazakhstan,1
+Germany,Kenya,1
+Germany,Kuwait,1
+Germany,Latvia,1
+Germany,Lebanon,1
+Germany,Lithuania,1
+Germany,Luxembourg,1
+Germany,Macedonia,1
+Germany,Malaysia,1
+Germany,Maldives,1
+Germany,Malta,1
+Germany,Mauritius,1
+Germany,Mexico,1
+Germany,Moldova,1
+Germany,Montenegro,1
+Germany,Morocco,1
+Germany,Namibia,1
+Germany,Netherlands,1
+Germany,Netherlands Antilles,1
+Germany,Nigeria,1
+Germany,Norway,1
+Germany,Oman,1
+Germany,Poland,1
+Germany,Portugal,1
+Germany,Puerto Rico,1
+Germany,Qatar,1
+Germany,Romania,1
+Germany,Russia,1
+Germany,Saudi Arabia,1
+Germany,Serbia,1
+Germany,Seychelles,1
+Germany,Singapore,1
+Germany,Slovenia,1
+Germany,South Africa,1
+Germany,South Korea,1
+Germany,Spain,1
+Germany,Sri Lanka,1
+Germany,Sweden,1
+Germany,Switzerland,1
+Germany,Taiwan,1
+Germany,Tajikistan,1
+Germany,Thailand,1
+Germany,Trinidad and Tobago,1
+Germany,Tunisia,1
+Germany,Turkey,1
+Germany,Turkmenistan,1
+Germany,Ukraine,1
+Germany,United Arab Emirates,1
+Germany,United Kingdom,1
+Germany,United States,1
+Germany,Uzbekistan,1
+Germany,Venezuela,1
+Germany,Vietnam,1
+Ghana,Benin,1
+Ghana,Burkina Faso,1
+Ghana,Côte d'Ivoire,1
+Ghana,Egypt,1
+Ghana,Ethiopia,1
+Ghana,Germany,1
+Ghana,Italy,1
+Ghana,Kenya,1
+Ghana,Lebanon,1
+Ghana,Liberia,1
+Ghana,Morocco,1
+Ghana,Namibia,1
+Ghana,Netherlands,1
+Ghana,Nigeria,1
+Ghana,Portugal,1
+Ghana,Senegal,1
+Ghana,Sierra Leone,1
+Ghana,South Africa,1
+Ghana,Spain,1
+Ghana,Togo,1
+Ghana,Turkey,1
+Ghana,United Arab Emirates,1
+Ghana,United Kingdom,1
+Ghana,United States,1
+Gibraltar,United Kingdom,1
+Greece,Albania,1
+Greece,Armenia,1
+Greece,Austria,1
+Greece,Belgium,1
+Greece,Bulgaria,1
+Greece,Canada,1
+Greece,Croatia,1
+Greece,Cyprus,1
+Greece,Czechia,1
+Greece,Denmark,1
+Greece,Egypt,1
+Greece,Estonia,1
+Greece,Finland,1
+Greece,France,1
+Greece,Georgia,1
+Greece,Germany,1
+Greece,Hungary,1
+Greece,Ireland,1
+Greece,Israel,1
+Greece,Italy,1
+Greece,Jordan,1
+Greece,Latvia,1
+Greece,Lebanon,1
+Greece,Lithuania,1
+Greece,Luxembourg,1
+Greece,Malta,1
+Greece,Moldova,1
+Greece,Netherlands,1
+Greece,Norway,1
+Greece,Poland,1
+Greece,Qatar,1
+Greece,Romania,1
+Greece,Russia,1
+Greece,Serbia,1
+Greece,Spain,1
+Greece,Sweden,1
+Greece,Switzerland,1
+Greece,Turkey,1
+Greece,Ukraine,1
+Greece,United Arab Emirates,1
+Greece,United Kingdom,1
+Greece,United States,1
+Greenland,Denmark,1
+Greenland,Iceland,1
+Grenada,Barbados,1
+Grenada,Canada,1
+Grenada,Saint Lucia,1
+Grenada,Saint Vincent and the Grenadines,1
+Grenada,Trinidad and Tobago,1
+Grenada,United States,1
+Grenada,Venezuela,1
+Guadeloupe,Antigua and Barbuda,1
+Guadeloupe,Canada,1
+Guadeloupe,Dominica,1
+Guadeloupe,Dominican Republic,1
+Guadeloupe,France,1
+Guadeloupe,Haiti,1
+Guadeloupe,Martinique,1
+Guadeloupe,Netherlands Antilles,1
+Guadeloupe,Puerto Rico,1
+Guadeloupe,United States,1
+Guam,Australia,1
+Guam,Hong Kong,1
+Guam,Japan,1
+Guam,Micronesia,1
+Guam,Northern Mariana Islands,1
+Guam,Palau,1
+Guam,Philippines,1
+Guam,South Korea,1
+Guam,Taiwan,1
+Guam,United States,1
+Guatemala,Belize,1
+Guatemala,Colombia,1
+Guatemala,Costa Rica,1
+Guatemala,El Salvador,1
+Guatemala,Honduras,1
+Guatemala,Mexico,1
+Guatemala,Nicaragua,1
+Guatemala,Panama,1
+Guatemala,United States,1
+Guernsey,France,1
+Guernsey,Germany,1
+Guernsey,Jersey,1
+Guernsey,Netherlands,1
+Guernsey,United Kingdom,1
+Guinea,Côte d'Ivoire,1
+Guinea,France,1
+Guinea,Guinea-Bissau,1
+Guinea,Mali,1
+Guinea,Mauritania,1
+Guinea,Morocco,1
+Guinea,Senegal,1
+Guinea,Togo,1
+Guinea-Bissau,Cabo Verde,1
+Guinea-Bissau,Gambia,1
+Guinea-Bissau,Guinea,1
+Guinea-Bissau,Morocco,1
+Guinea-Bissau,Senegal,1
+Guyana,Barbados,1
+Guyana,Canada,1
+Guyana,Jamaica,1
+Guyana,Suriname,1
+Guyana,Trinidad and Tobago,1
+Guyana,United States,1
+Guyana,Venezuela,1
+Haiti,Canada,1
+Haiti,Dominican Republic,1
+Haiti,Guadeloupe,1
+Haiti,Netherlands Antilles,1
+Haiti,Panama,1
+Haiti,Turks and Caicos Islands,1
+Haiti,United States,1
+Honduras,Belize,1
+Honduras,Cayman Islands,1
+Honduras,Costa Rica,1
+Honduras,El Salvador,1
+Honduras,Guatemala,1
+Honduras,Mexico,1
+Honduras,Panama,1
+Honduras,United States,1
+Hong Kong,Australia,1
+Hong Kong,Bangladesh,1
+Hong Kong,Brunei,1
+Hong Kong,Myanmar,1
+Hong Kong,Cambodia,1
+Hong Kong,Canada,1
+Hong Kong,China,1
+Hong Kong,Ethiopia,1
+Hong Kong,Fiji,1
+Hong Kong,Finland,1
+Hong Kong,France,1
+Hong Kong,Germany,1
+Hong Kong,Guam,1
+Hong Kong,India,1
+Hong Kong,Indonesia,1
+Hong Kong,Israel,1
+Hong Kong,Italy,1
+Hong Kong,Japan,1
+Hong Kong,Kazakhstan,1
+Hong Kong,Malaysia,1
+Hong Kong,Maldives,1
+Hong Kong,Mauritius,1
+Hong Kong,Mongolia,1
+Hong Kong,Nepal,1
+Hong Kong,Netherlands,1
+Hong Kong,New Zealand,1
+Hong Kong,Papua New Guinea,1
+Hong Kong,Philippines,1
+Hong Kong,Qatar,1
+Hong Kong,Russia,1
+Hong Kong,Saudi Arabia,1
+Hong Kong,Singapore,1
+Hong Kong,South Africa,1
+Hong Kong,South Korea,1
+Hong Kong,Switzerland,1
+Hong Kong,Taiwan,1
+Hong Kong,Thailand,1
+Hong Kong,Turkey,1
+Hong Kong,United Arab Emirates,1
+Hong Kong,United Kingdom,1
+Hong Kong,United States,1
+Hong Kong,Vietnam,1
+Hungary,Austria,1
+Hungary,Azerbaijan,1
+Hungary,Belarus,1
+Hungary,Belgium,1
+Hungary,Croatia,1
+Hungary,Cyprus,1
+Hungary,Czechia,1
+Hungary,Denmark,1
+Hungary,Egypt,1
+Hungary,Finland,1
+Hungary,France,1
+Hungary,Germany,1
+Hungary,Greece,1
+Hungary,Ireland,1
+Hungary,Israel,1
+Hungary,Italy,1
+Hungary,Latvia,1
+Hungary,Malta,1
+Hungary,Netherlands,1
+Hungary,Norway,1
+Hungary,Poland,1
+Hungary,Portugal,1
+Hungary,Qatar,1
+Hungary,Romania,1
+Hungary,Russia,1
+Hungary,Serbia,1
+Hungary,Spain,1
+Hungary,Sweden,1
+Hungary,Switzerland,1
+Hungary,Turkey,1
+Hungary,Ukraine,1
+Hungary,United Arab Emirates,1
+Hungary,United Kingdom,1
+Iceland,Belgium,1
+Iceland,Canada,1
+Iceland,Denmark,1
+Iceland,Finland,1
+Iceland,France,1
+Iceland,Germany,1
+Iceland,Greenland,1
+Iceland,Netherlands,1
+Iceland,Norway,1
+Iceland,Spain,1
+Iceland,Sweden,1
+Iceland,Switzerland,1
+Iceland,United Kingdom,1
+Iceland,United States,1
+India,Afghanistan,1
+India,Australia,1
+India,Austria,1
+India,Bahrain,1
+India,Bangladesh,1
+India,Belgium,1
+India,Bhutan,1
+India,Myanmar,1
+India,China,1
+India,Egypt,1
+India,Ethiopia,1
+India,Finland,1
+India,France,1
+India,Germany,1
+India,Hong Kong,1
+India,Iran (Islamic Republic of),1
+India,Israel,1
+India,Italy,1
+India,Japan,1
+India,Jordan,1
+India,Kazakhstan,1
+India,Kenya,1
+India,Kuwait,1
+India,Malaysia,1
+India,Maldives,1
+India,Mauritius,1
+India,Nepal,1
+India,Netherlands,1
+India,Oman,1
+India,Pakistan,1
+India,Qatar,1
+India,Reunion,1
+India,Russia,1
+India,Saudi Arabia,1
+India,Singapore,1
+India,South Africa,1
+India,South Korea,1
+India,Sri Lanka,1
+India,Switzerland,1
+India,Taiwan,1
+India,Tajikistan,1
+India,Thailand,1
+India,Turkey,1
+India,Turkmenistan,1
+India,United Arab Emirates,1
+India,United Kingdom,1
+India,United States,1
+India,Uzbekistan,1
+India,Yemen,1
+Indonesia,Australia,1
+Indonesia,Brunei,1
+Indonesia,China,1
+Indonesia,East Timor,1
+Indonesia,Egypt,1
+Indonesia,Hong Kong,1
+Indonesia,Japan,1
+Indonesia,Malaysia,1
+Indonesia,Papua New Guinea,1
+Indonesia,Philippines,1
+Indonesia,Qatar,1
+Indonesia,Saudi Arabia,1
+Indonesia,Singapore,1
+Indonesia,South Korea,1
+Indonesia,Sri Lanka,1
+Indonesia,Taiwan,1
+Indonesia,Thailand,1
+Indonesia,United Arab Emirates,1
+Indonesia,Vietnam,1
+Iran (Islamic Republic of),Afghanistan,1
+Iran (Islamic Republic of),Armenia,1
+Iran (Islamic Republic of),Austria,1
+Iran (Islamic Republic of),Azerbaijan,1
+Iran (Islamic Republic of),Bahrain,1
+Iran (Islamic Republic of),Belarus,1
+Iran (Islamic Republic of),China,1
+Iran (Islamic Republic of),France,1
+Iran (Islamic Republic of),Germany,1
+Iran (Islamic Republic of),India,1
+Iran (Islamic Republic of),Iraq,1
+Iran (Islamic Republic of),Italy,1
+Iran (Islamic Republic of),Kazakhstan,1
+Iran (Islamic Republic of),Kuwait,1
+Iran (Islamic Republic of),Lebanon,1
+Iran (Islamic Republic of),Malaysia,1
+Iran (Islamic Republic of),Netherlands,1
+Iran (Islamic Republic of),Oman,1
+Iran (Islamic Republic of),Pakistan,1
+Iran (Islamic Republic of),Qatar,1
+Iran (Islamic Republic of),Russia,1
+Iran (Islamic Republic of),Saudi Arabia,1
+Iran (Islamic Republic of),Sweden,1
+Iran (Islamic Republic of),Tajikistan,1
+Iran (Islamic Republic of),Thailand,1
+Iran (Islamic Republic of),Turkey,1
+Iran (Islamic Republic of),United Arab Emirates,1
+Iran (Islamic Republic of),United Kingdom,1
+Iran (Islamic Republic of),Uzbekistan,1
+Iraq,Austria,1
+Iraq,Bahrain,1
+Iraq,Egypt,1
+Iraq,Georgia,1
+Iraq,Germany,1
+Iraq,Iran (Islamic Republic of),1
+Iraq,Jordan,1
+Iraq,Kuwait,1
+Iraq,Lebanon,1
+Iraq,Netherlands,1
+Iraq,Qatar,1
+Iraq,Sweden,1
+Iraq,Turkey,1
+Iraq,United Arab Emirates,1
+Ireland,Austria,1
+Ireland,Belgium,1
+Ireland,Bulgaria,1
+Ireland,Canada,1
+Ireland,Croatia,1
+Ireland,Czechia,1
+Ireland,Denmark,1
+Ireland,Finland,1
+Ireland,France,1
+Ireland,Germany,1
+Ireland,Greece,1
+Ireland,Hungary,1
+Ireland,Isle of Man,1
+Ireland,Italy,1
+Ireland,Jersey,1
+Ireland,Latvia,1
+Ireland,Lithuania,1
+Ireland,Luxembourg,1
+Ireland,Malta,1
+Ireland,Moldova,1
+Ireland,Morocco,1
+Ireland,Netherlands,1
+Ireland,Norway,1
+Ireland,Poland,1
+Ireland,Portugal,1
+Ireland,Romania,1
+Ireland,Slovakia,1
+Ireland,Spain,1
+Ireland,Sweden,1
+Ireland,Switzerland,1
+Ireland,Turkey,1
+Ireland,United Arab Emirates,1
+Ireland,United Kingdom,1
+Ireland,United States,1
+Isle of Man,Ireland,1
+Isle of Man,United Kingdom,1
+Israel,Austria,1
+Israel,Azerbaijan,1
+Israel,Belarus,1
+Israel,Belgium,1
+Israel,Bulgaria,1
+Israel,Canada,1
+Israel,China,1
+Israel,Cyprus,1
+Israel,Czechia,1
+Israel,Denmark,1
+Israel,Egypt,1
+Israel,Ethiopia,1
+Israel,Finland,1
+Israel,France,1
+Israel,Georgia,1
+Israel,Germany,1
+Israel,Greece,1
+Israel,Hong Kong,1
+Israel,Hungary,1
+Israel,India,1
+Israel,Italy,1
+Israel,Jordan,1
+Israel,Latvia,1
+Israel,Lithuania,1
+Israel,Netherlands,1
+Israel,Poland,1
+Israel,Romania,1
+Israel,Russia,1
+Israel,Serbia,1
+Israel,South Africa,1
+Israel,South Korea,1
+Israel,Spain,1
+Israel,Sweden,1
+Israel,Switzerland,1
+Israel,Thailand,1
+Israel,Turkey,1
+Israel,Ukraine,1
+Israel,United Kingdom,1
+Israel,United States,1
+Israel,Uzbekistan,1
+Italy,Albania,1
+Italy,Algeria,1
+Italy,Argentina,1
+Italy,Armenia,1
+Italy,Austria,1
+Italy,Azerbaijan,1
+Italy,Bangladesh,1
+Italy,Belarus,1
+Italy,Belgium,1
+Italy,Bosnia and Herzegovina,1
+Italy,Brazil,1
+Italy,Bulgaria,1
+Italy,Canada,1
+Italy,China,1
+Italy,Croatia,1
+Italy,Cuba,1
+Italy,Cyprus,1
+Italy,Czechia,1
+Italy,Denmark,1
+Italy,Dominican Republic,1
+Italy,Egypt,1
+Italy,Estonia,1
+Italy,Ethiopia,1
+Italy,Finland,1
+Italy,France,1
+Italy,Georgia,1
+Italy,Germany,1
+Italy,Greece,1
+Italy,Hong Kong,1
+Italy,Hungary,1
+Italy,India,1
+Italy,Iran (Islamic Republic of),1
+Italy,Ireland,1
+Italy,Israel,1
+Italy,Japan,1
+Italy,Jordan,1
+Italy,Kuwait,1
+Italy,Latvia,1
+Italy,Lebanon,1
+Italy,Libya,1
+Italy,Lithuania,1
+Italy,Luxembourg,1
+Italy,Macedonia,1
+Italy,Malta,1
+Italy,Mauritius,1
+Italy,Mexico,1
+Italy,Moldova,1
+Italy,Montenegro,1
+Italy,Morocco,1
+Italy,Netherlands,1
+Italy,Nigeria,1
+Italy,Norway,1
+Italy,Oman,1
+Italy,Pakistan,1
+Italy,Poland,1
+Italy,Portugal,1
+Italy,Qatar,1
+Italy,Romania,1
+Italy,Russia,1
+Italy,Saudi Arabia,1
+Italy,Senegal,1
+Italy,Serbia,1
+Italy,Singapore,1
+Italy,Slovakia,1
+Italy,South Korea,1
+Italy,Spain,1
+Italy,Sri Lanka,1
+Italy,Sweden,1
+Italy,Switzerland,1
+Italy,Thailand,1
+Italy,Tunisia,1
+Italy,Turkey,1
+Italy,Ukraine,1
+Italy,United Arab Emirates,1
+Italy,United Kingdom,1
+Italy,United States,1
+Italy,Uzbekistan,1
+Italy,Venezuela,1
+Jamaica,Antigua and Barbuda,1
+Jamaica,Bahamas,1
+Jamaica,Barbados,1
+Jamaica,Canada,1
+Jamaica,Cayman Islands,1
+Jamaica,Dominican Republic,1
+Jamaica,Germany,1
+Jamaica,Guyana,1
+Jamaica,Netherlands,1
+Jamaica,Netherlands Antilles,1
+Jamaica,Panama,1
+Jamaica,Trinidad and Tobago,1
+Jamaica,Turks and Caicos Islands,1
+Jamaica,United Kingdom,1
+Jamaica,United States,1
+Japan,Australia,1
+Japan,Austria,1
+Japan,Myanmar,1
+Japan,Canada,1
+Japan,China,1
+Japan,Denmark,1
+Japan,Finland,1
+Japan,France,1
+Japan,French Polynesia,1
+Japan,Germany,1
+Japan,Guam,1
+Japan,Hong Kong,1
+Japan,India,1
+Japan,Indonesia,1
+Japan,Italy,1
+Japan,Macao,1
+Japan,Malaysia,1
+Japan,Mexico,1
+Japan,Mongolia,1
+Japan,Netherlands,1
+Japan,New Caledonia,1
+Japan,New Zealand,1
+Japan,Northern Mariana Islands,1
+Japan,Palau,1
+Japan,Papua New Guinea,1
+Japan,Philippines,1
+Japan,Qatar,1
+Japan,Russia,1
+Japan,Singapore,1
+Japan,South Korea,1
+Japan,Sri Lanka,1
+Japan,Switzerland,1
+Japan,Taiwan,1
+Japan,Thailand,1
+Japan,Turkey,1
+Japan,United Arab Emirates,1
+Japan,United Kingdom,1
+Japan,United States,1
+Japan,Uzbekistan,1
+Japan,Vietnam,1
+Jersey,France,1
+Jersey,Germany,1
+Jersey,Guernsey,1
+Jersey,Ireland,1
+Jersey,Netherlands,1
+Jersey,Switzerland,1
+Jersey,United Kingdom,1
+Jordan,Algeria,1
+Jordan,Austria,1
+Jordan,Bahrain,1
+Jordan,Canada,1
+Jordan,Cyprus,1
+Jordan,Egypt,1
+Jordan,France,1
+Jordan,Germany,1
+Jordan,Greece,1
+Jordan,India,1
+Jordan,Iraq,1
+Jordan,Israel,1
+Jordan,Italy,1
+Jordan,Kuwait,1
+Jordan,Lebanon,1
+Jordan,Libya,1
+Jordan,Netherlands,1
+Jordan,Nigeria,1
+Jordan,Oman,1
+Jordan,Qatar,1
+Jordan,Romania,1
+Jordan,Russia,1
+Jordan,Saudi Arabia,1
+Jordan,Spain,1
+Jordan,Sudan,1
+Jordan,Switzerland,1
+Jordan,Thailand,1
+Jordan,Tunisia,1
+Jordan,Turkey,1
+Jordan,Ukraine,1
+Jordan,United Arab Emirates,1
+Jordan,United Kingdom,1
+Jordan,United States,1
+Jordan,Yemen,1
+Kazakhstan,Armenia,1
+Kazakhstan,Austria,1
+Kazakhstan,Azerbaijan,1
+Kazakhstan,Belarus,1
+Kazakhstan,China,1
+Kazakhstan,Czechia,1
+Kazakhstan,Georgia,1
+Kazakhstan,Germany,1
+Kazakhstan,Hong Kong,1
+Kazakhstan,India,1
+Kazakhstan,Iran (Islamic Republic of),1
+Kazakhstan,Kyrgyzstan,1
+Kazakhstan,Malaysia,1
+Kazakhstan,Netherlands,1
+Kazakhstan,Russia,1
+Kazakhstan,South Korea,1
+Kazakhstan,Tajikistan,1
+Kazakhstan,Thailand,1
+Kazakhstan,Turkey,1
+Kazakhstan,Ukraine,1
+Kazakhstan,United Arab Emirates,1
+Kazakhstan,United Kingdom,1
+Kazakhstan,Uzbekistan,1
+Kazakhstan,Vietnam,1
+Kenya,Angola,1
+Kenya,Belgium,1
+Kenya,Botswana,1
+Kenya,Burundi,1
+Kenya,Cameroon,1
+Kenya,China,1
+Kenya,Comoros,1
+Kenya,Congo,1
+Kenya,"Congo, Democratic Republic of the",1
+Kenya,Côte d'Ivoire,1
+Kenya,Djibouti,1
+Kenya,Egypt,1
+Kenya,Eritrea,1
+Kenya,Ethiopia,1
+Kenya,France,1
+Kenya,Germany,1
+Kenya,Ghana,1
+Kenya,India,1
+Kenya,Madagascar,1
+Kenya,Malawi,1
+Kenya,Mali,1
+Kenya,Mauritius,1
+Kenya,Mayotte,1
+Kenya,Mozambique,1
+Kenya,Netherlands,1
+Kenya,Nigeria,1
+Kenya,Qatar,1
+Kenya,Rwanda,1
+Kenya,Saudi Arabia,1
+Kenya,Seychelles,1
+Kenya,Somalia,1
+Kenya,South Africa,1
+Kenya,South Korea,1
+Kenya,South Sudan,1
+Kenya,Sudan,1
+Kenya,Switzerland,1
+Kenya,Tanzania,1
+Kenya,Thailand,1
+Kenya,Turkey,1
+Kenya,Uganda,1
+Kenya,United Arab Emirates,1
+Kenya,United Kingdom,1
+Kenya,Yemen,1
+Kenya,Zambia,1
+Kenya,Zimbabwe,1
+Kiribati,Fiji,1
+Kiribati,Marshall Islands,1
+Kiribati,Nauru,1
+Kiribati,United States,1
+Kuwait,Afghanistan,1
+Kuwait,Bahrain,1
+Kuwait,Bangladesh,1
+Kuwait,Egypt,1
+Kuwait,Ethiopia,1
+Kuwait,Germany,1
+Kuwait,India,1
+Kuwait,Iran (Islamic Republic of),1
+Kuwait,Iraq,1
+Kuwait,Italy,1
+Kuwait,Jordan,1
+Kuwait,Lebanon,1
+Kuwait,Malaysia,1
+Kuwait,Netherlands,1
+Kuwait,Oman,1
+Kuwait,Pakistan,1
+Kuwait,Qatar,1
+Kuwait,Saudi Arabia,1
+Kuwait,Sri Lanka,1
+Kuwait,Thailand,1
+Kuwait,Tunisia,1
+Kuwait,Turkey,1
+Kuwait,United Arab Emirates,1
+Kuwait,United Kingdom,1
+Kuwait,United States,1
+Kuwait,Yemen,1
+Kyrgyzstan,China,1
+Kyrgyzstan,Kazakhstan,1
+Kyrgyzstan,Mongolia,1
+Kyrgyzstan,Russia,1
+Kyrgyzstan,Tajikistan,1
+Kyrgyzstan,Turkey,1
+Kyrgyzstan,United Arab Emirates,1
+Kyrgyzstan,Uzbekistan,1
+Lao People's Democratic Republic,Cambodia,1
+Lao People's Democratic Republic,China,1
+Lao People's Democratic Republic,Malaysia,1
+Lao People's Democratic Republic,Singapore,1
+Lao People's Democratic Republic,South Korea,1
+Lao People's Democratic Republic,Thailand,1
+Lao People's Democratic Republic,Vietnam,1
+Latvia,Austria,1
+Latvia,Azerbaijan,1
+Latvia,Belarus,1
+Latvia,Belgium,1
+Latvia,Cyprus,1
+Latvia,Czechia,1
+Latvia,Denmark,1
+Latvia,Estonia,1
+Latvia,Finland,1
+Latvia,France,1
+Latvia,Georgia,1
+Latvia,Germany,1
+Latvia,Greece,1
+Latvia,Hungary,1
+Latvia,Ireland,1
+Latvia,Israel,1
+Latvia,Italy,1
+Latvia,Lithuania,1
+Latvia,Malta,1
+Latvia,Moldova,1
+Latvia,Netherlands,1
+Latvia,Norway,1
+Latvia,Poland,1
+Latvia,Russia,1
+Latvia,Spain,1
+Latvia,Sweden,1
+Latvia,Switzerland,1
+Latvia,Turkey,1
+Latvia,Ukraine,1
+Latvia,United Kingdom,1
+Latvia,United States,1
+Latvia,Uzbekistan,1
+Lebanon,Algeria,1
+Lebanon,Armenia,1
+Lebanon,Bahrain,1
+Lebanon,Belarus,1
+Lebanon,Belgium,1
+Lebanon,Cyprus,1
+Lebanon,Egypt,1
+Lebanon,Ethiopia,1
+Lebanon,France,1
+Lebanon,Germany,1
+Lebanon,Ghana,1
+Lebanon,Greece,1
+Lebanon,Iran (Islamic Republic of),1
+Lebanon,Iraq,1
+Lebanon,Italy,1
+Lebanon,Jordan,1
+Lebanon,Kuwait,1
+Lebanon,Morocco,1
+Lebanon,Nigeria,1
+Lebanon,Oman,1
+Lebanon,Qatar,1
+Lebanon,Romania,1
+Lebanon,Russia,1
+Lebanon,Saudi Arabia,1
+Lebanon,Switzerland,1
+Lebanon,Tunisia,1
+Lebanon,Turkey,1
+Lebanon,United Arab Emirates,1
+Lebanon,United Kingdom,1
+Lebanon,Yemen,1
+Lesotho,South Africa,1
+Liberia,Belgium,1
+Liberia,Côte d'Ivoire,1
+Liberia,Ghana,1
+Liberia,Morocco,1
+Liberia,Nigeria,1
+Liberia,Sierra Leone,1
+Libya,Algeria,1
+Libya,Egypt,1
+Libya,Italy,1
+Libya,Jordan,1
+Libya,Malta,1
+Libya,Morocco,1
+Libya,Saudi Arabia,1
+Libya,Spain,1
+Libya,Tunisia,1
+Libya,Turkey,1
+Libya,United Arab Emirates,1
+Libya,United Kingdom,1
+Lithuania,Austria,1
+Lithuania,Belarus,1
+Lithuania,Belgium,1
+Lithuania,Cyprus,1
+Lithuania,Czechia,1
+Lithuania,Denmark,1
+Lithuania,Estonia,1
+Lithuania,Finland,1
+Lithuania,France,1
+Lithuania,Georgia,1
+Lithuania,Germany,1
+Lithuania,Greece,1
+Lithuania,Ireland,1
+Lithuania,Israel,1
+Lithuania,Italy,1
+Lithuania,Latvia,1
+Lithuania,Malta,1
+Lithuania,Netherlands,1
+Lithuania,Norway,1
+Lithuania,Poland,1
+Lithuania,Russia,1
+Lithuania,Spain,1
+Lithuania,Sweden,1
+Lithuania,Turkey,1
+Lithuania,Ukraine,1
+Lithuania,United Kingdom,1
+Luxembourg,Austria,1
+Luxembourg,Bulgaria,1
+Luxembourg,Cabo Verde,1
+Luxembourg,Croatia,1
+Luxembourg,Denmark,1
+Luxembourg,France,1
+Luxembourg,Germany,1
+Luxembourg,Greece,1
+Luxembourg,Ireland,1
+Luxembourg,Italy,1
+Luxembourg,Malta,1
+Luxembourg,Morocco,1
+Luxembourg,Netherlands,1
+Luxembourg,Portugal,1
+Luxembourg,Spain,1
+Luxembourg,Sweden,1
+Luxembourg,Switzerland,1
+Luxembourg,Tunisia,1
+Luxembourg,Turkey,1
+Luxembourg,United Kingdom,1
+Macao,China,1
+Macao,Japan,1
+Macao,Malaysia,1
+Macao,Philippines,1
+Macao,Singapore,1
+Macao,South Korea,1
+Macao,Taiwan,1
+Macao,Thailand,1
+Macao,Vietnam,1
+Macedonia,Austria,1
+Macedonia,Belgium,1
+Macedonia,Croatia,1
+Macedonia,Germany,1
+Macedonia,Italy,1
+Macedonia,Netherlands,1
+Macedonia,Serbia,1
+Macedonia,Slovenia,1
+Macedonia,Sweden,1
+Macedonia,Switzerland,1
+Macedonia,Turkey,1
+Macedonia,United Arab Emirates,1
+Macedonia,United Kingdom,1
+Madagascar,Comoros,1
+Madagascar,France,1
+Madagascar,Kenya,1
+Madagascar,Mauritius,1
+Madagascar,Mayotte,1
+Madagascar,Reunion,1
+Madagascar,South Africa,1
+Madagascar,Thailand,1
+Malawi,Ethiopia,1
+Malawi,Kenya,1
+Malawi,South Africa,1
+Malawi,Tanzania,1
+Malawi,Zambia,1
+Malawi,Zimbabwe,1
+Malaysia,Australia,1
+Malaysia,Bangladesh,1
+Malaysia,Brunei,1
+Malaysia,Myanmar,1
+Malaysia,Cambodia,1
+Malaysia,China,1
+Malaysia,France,1
+Malaysia,Germany,1
+Malaysia,Hong Kong,1
+Malaysia,India,1
+Malaysia,Indonesia,1
+Malaysia,Iran (Islamic Republic of),1
+Malaysia,Japan,1
+Malaysia,Kazakhstan,1
+Malaysia,Kuwait,1
+Malaysia,Lao People's Democratic Republic,1
+Malaysia,Macao,1
+Malaysia,Maldives,1
+Malaysia,Mauritius,1
+Malaysia,Nepal,1
+Malaysia,Netherlands,1
+Malaysia,New Zealand,1
+Malaysia,North Korea,1
+Malaysia,Oman,1
+Malaysia,Pakistan,1
+Malaysia,Philippines,1
+Malaysia,Qatar,1
+Malaysia,Saudi Arabia,1
+Malaysia,Singapore,1
+Malaysia,South Korea,1
+Malaysia,Sri Lanka,1
+Malaysia,Taiwan,1
+Malaysia,Thailand,1
+Malaysia,Turkey,1
+Malaysia,United Arab Emirates,1
+Malaysia,United Kingdom,1
+Malaysia,Uzbekistan,1
+Malaysia,Vietnam,1
+Maldives,China,1
+Maldives,Germany,1
+Maldives,Hong Kong,1
+Maldives,India,1
+Maldives,Italy,1
+Maldives,Malaysia,1
+Maldives,Oman,1
+Maldives,Qatar,1
+Maldives,Russia,1
+Maldives,Singapore,1
+Maldives,Sri Lanka,1
+Maldives,Thailand,1
+Maldives,Turkey,1
+Maldives,United Arab Emirates,1
+Maldives,United Kingdom,1
+Mali,Algeria,1
+Mali,Benin,1
+Mali,Burkina Faso,1
+Mali,Côte d'Ivoire,1
+Mali,Ethiopia,1
+Mali,France,1
+Mali,Guinea,1
+Mali,Kenya,1
+Mali,Mauritania,1
+Mali,Morocco,1
+Mali,Nigeria,1
+Mali,Portugal,1
+Mali,Senegal,1
+Mali,Togo,1
+Mali,Tunisia,1
+Malta,Algeria,1
+Malta,Austria,1
+Malta,Belgium,1
+Malta,Cyprus,1
+Malta,Czechia,1
+Malta,Denmark,1
+Malta,France,1
+Malta,Germany,1
+Malta,Greece,1
+Malta,Hungary,1
+Malta,Ireland,1
+Malta,Italy,1
+Malta,Latvia,1
+Malta,Libya,1
+Malta,Lithuania,1
+Malta,Luxembourg,1
+Malta,Netherlands,1
+Malta,Norway,1
+Malta,Poland,1
+Malta,Russia,1
+Malta,Spain,1
+Malta,Sweden,1
+Malta,Switzerland,1
+Malta,Tunisia,1
+Malta,Turkey,1
+Malta,United Kingdom,1
+Marshall Islands,Kiribati,1
+Marshall Islands,Micronesia,1
+Marshall Islands,Nauru,1
+Marshall Islands,United States,1
+Martinique,Barbados,1
+Martinique,Canada,1
+Martinique,Cuba,1
+Martinique,Dominican Republic,1
+Martinique,France,1
+Martinique,French Guiana,1
+Martinique,Guadeloupe,1
+Martinique,Puerto Rico,1
+Martinique,Saint Lucia,1
+Martinique,United States,1
+Mauritania,France,1
+Mauritania,Guinea,1
+Mauritania,Mali,1
+Mauritania,Morocco,1
+Mauritania,Senegal,1
+Mauritania,Spain,1
+Mauritania,Tunisia,1
+Mauritius,Australia,1
+Mauritius,China,1
+Mauritius,France,1
+Mauritius,Germany,1
+Mauritius,Hong Kong,1
+Mauritius,India,1
+Mauritius,Italy,1
+Mauritius,Kenya,1
+Mauritius,Madagascar,1
+Mauritius,Malaysia,1
+Mauritius,Reunion,1
+Mauritius,Russia,1
+Mauritius,Seychelles,1
+Mauritius,South Africa,1
+Mauritius,United Arab Emirates,1
+Mauritius,United Kingdom,1
+Mayotte,Comoros,1
+Mayotte,Madagascar,1
+Mayotte,Reunion,1
+Mayotte,Tanzania,1
+Mexico,Argentina,1
+Mexico,Belize,1
+Mexico,Brazil,1
+Mexico,Canada,1
+Mexico,Chile,1
+Mexico,China,1
+Mexico,Colombia,1
+Mexico,Costa Rica,1
+Mexico,Cuba,1
+Mexico,Ecuador,1
+Mexico,El Salvador,1
+Mexico,France,1
+Mexico,Germany,1
+Mexico,Guatemala,1
+Mexico,Honduras,1
+Mexico,Italy,1
+Mexico,Japan,1
+Mexico,Netherlands,1
+Mexico,Panama,1
+Mexico,Peru,1
+Mexico,Russia,1
+Mexico,Spain,1
+Mexico,United Kingdom,1
+Mexico,United States,1
+Mexico,Venezuela,1
+Micronesia,Guam,1
+Micronesia,Marshall Islands,1
+Micronesia,Palau,1
+Moldova,Austria,1
+Moldova,Cyprus,1
+Moldova,France,1
+Moldova,Germany,1
+Moldova,Greece,1
+Moldova,Ireland,1
+Moldova,Italy,1
+Moldova,Latvia,1
+Moldova,Portugal,1
+Moldova,Romania,1
+Moldova,Russia,1
+Moldova,Turkey,1
+Moldova,Ukraine,1
+Moldova,United Arab Emirates,1
+Moldova,United Kingdom,1
+Mongolia,China,1
+Mongolia,Hong Kong,1
+Mongolia,Japan,1
+Mongolia,Kyrgyzstan,1
+Mongolia,Russia,1
+Mongolia,South Korea,1
+Mongolia,Thailand,1
+Montenegro,Austria,1
+Montenegro,Belgium,1
+Montenegro,France,1
+Montenegro,Germany,1
+Montenegro,Italy,1
+Montenegro,Russia,1
+Montenegro,Serbia,1
+Montenegro,Slovenia,1
+Montenegro,Switzerland,1
+Montenegro,Turkey,1
+Montenegro,United Kingdom,1
+Morocco,Algeria,1
+Morocco,Angola,1
+Morocco,Belgium,1
+Morocco,Benin,1
+Morocco,Brazil,1
+Morocco,Burkina Faso,1
+Morocco,Cameroon,1
+Morocco,Canada,1
+Morocco,Cabo Verde,1
+Morocco,Congo,1
+Morocco,"Congo, Democratic Republic of the",1
+Morocco,Côte d'Ivoire,1
+Morocco,Denmark,1
+Morocco,Egypt,1
+Morocco,Equatorial Guinea,1
+Morocco,France,1
+Morocco,Gabon,1
+Morocco,Gambia,1
+Morocco,Germany,1
+Morocco,Guinea,1
+Morocco,Guinea-Bissau,1
+Morocco,Ireland,1
+Morocco,Italy,1
+Morocco,Lebanon,1
+Morocco,Liberia,1
+Morocco,Libya,1
+Morocco,Luxembourg,1
+Morocco,Mali,1
+Morocco,Mauritania,1
+Morocco,Netherlands,1
+Morocco,Niger,1
+Morocco,Norway,1
+Morocco,Portugal,1
+Morocco,Qatar,1
+Morocco,Russia,1
+Morocco,Saudi Arabia,1
+Morocco,Senegal,1
+Morocco,Sierra Leone,1
+Morocco,Spain,1
+Morocco,Sweden,1
+Morocco,Switzerland,1
+Morocco,Togo,1
+Morocco,Tunisia,1
+Morocco,Turkey,1
+Morocco,United Arab Emirates,1
+Morocco,United Kingdom,1
+Morocco,United States,1
+Morocco,Western Sahara,1
+Mozambique,Angola,1
+Mozambique,Ethiopia,1
+Mozambique,Kenya,1
+Mozambique,Portugal,1
+Mozambique,South Africa,1
+Mozambique,Tanzania,1
+Namibia,Angola,1
+Namibia,Botswana,1
+Namibia,Germany,1
+Namibia,Ghana,1
+Namibia,South Africa,1
+Namibia,Zambia,1
+Namibia,Zimbabwe,1
+Nauru,Australia,1
+Nauru,Kiribati,1
+Nauru,Marshall Islands,1
+Nepal,Bangladesh,1
+Nepal,Bhutan,1
+Nepal,China,1
+Nepal,Hong Kong,1
+Nepal,India,1
+Nepal,Malaysia,1
+Nepal,Oman,1
+Nepal,Pakistan,1
+Nepal,Qatar,1
+Nepal,Singapore,1
+Nepal,South Korea,1
+Nepal,Thailand,1
+Nepal,Turkey,1
+Nepal,United Arab Emirates,1
+Netherlands,Angola,1
+Netherlands,Argentina,1
+Netherlands,Aruba,1
+Netherlands,Austria,1
+Netherlands,Belarus,1
+Netherlands,Belgium,1
+Netherlands,Brazil,1
+Netherlands,Bulgaria,1
+Netherlands,Canada,1
+Netherlands,Cabo Verde,1
+Netherlands,China,1
+Netherlands,Croatia,1
+Netherlands,Cuba,1
+Netherlands,Cyprus,1
+Netherlands,Czechia,1
+Netherlands,Denmark,1
+Netherlands,Dominican Republic,1
+Netherlands,Ecuador,1
+Netherlands,Egypt,1
+Netherlands,Estonia,1
+Netherlands,Finland,1
+Netherlands,France,1
+Netherlands,Georgia,1
+Netherlands,Germany,1
+Netherlands,Ghana,1
+Netherlands,Greece,1
+Netherlands,Guernsey,1
+Netherlands,Hong Kong,1
+Netherlands,Hungary,1
+Netherlands,Iceland,1
+Netherlands,India,1
+Netherlands,Iran (Islamic Republic of),1
+Netherlands,Iraq,1
+Netherlands,Ireland,1
+Netherlands,Israel,1
+Netherlands,Italy,1
+Netherlands,Japan,1
+Netherlands,Jersey,1
+Netherlands,Jordan,1
+Netherlands,Kazakhstan,1
+Netherlands,Kenya,1
+Netherlands,Kuwait,1
+Netherlands,Latvia,1
+Netherlands,Lithuania,1
+Netherlands,Luxembourg,1
+Netherlands,Macedonia,1
+Netherlands,Malaysia,1
+Netherlands,Malta,1
+Netherlands,Mexico,1
+Netherlands,Morocco,1
+Netherlands,Netherlands Antilles,1
+Netherlands,Nigeria,1
+Netherlands,Norway,1
+Netherlands,Panama,1
+Netherlands,Peru,1
+Netherlands,Poland,1
+Netherlands,Portugal,1
+Netherlands,Qatar,1
+Netherlands,Romania,1
+Netherlands,Russia,1
+Netherlands,Rwanda,1
+Netherlands,Saudi Arabia,1
+Netherlands,Serbia,1
+Netherlands,Singapore,1
+Netherlands,Slovenia,1
+Netherlands,South Africa,1
+Netherlands,South Korea,1
+Netherlands,Spain,1
+Netherlands,Suriname,1
+Netherlands,Sweden,1
+Netherlands,Switzerland,1
+Netherlands,Taiwan,1
+Netherlands,Tanzania,1
+Netherlands,Thailand,1
+Netherlands,Tunisia,1
+Netherlands,Turkey,1
+Netherlands,Ukraine,1
+Netherlands,United Arab Emirates,1
+Netherlands,United Kingdom,1
+Netherlands,United States,1
+Netherlands,Zimbabwe,1
+Netherlands Antilles,Anguilla,1
+Netherlands Antilles,Antigua and Barbuda,1
+Netherlands Antilles,Aruba,1
+Netherlands Antilles,Barbados,1
+Netherlands Antilles,Virgin Islands (British),1
+Netherlands Antilles,Canada,1
+Netherlands Antilles,Colombia,1
+Netherlands Antilles,Dominica,1
+Netherlands Antilles,Dominican Republic,1
+Netherlands Antilles,France,1
+Netherlands Antilles,Germany,1
+Netherlands Antilles,Guadeloupe,1
+Netherlands Antilles,Haiti,1
+Netherlands Antilles,Jamaica,1
+Netherlands Antilles,Netherlands,1
+Netherlands Antilles,Panama,1
+Netherlands Antilles,Puerto Rico,1
+Netherlands Antilles,Saint Kitts and Nevis,1
+Netherlands Antilles,Saint Lucia,1
+Netherlands Antilles,Suriname,1
+Netherlands Antilles,Trinidad and Tobago,1
+Netherlands Antilles,United States,1
+Netherlands Antilles,Venezuela,1
+Netherlands Antilles,Virgin Islands,1
+New Caledonia,Australia,1
+New Caledonia,Fiji,1
+New Caledonia,French Polynesia,1
+New Caledonia,Japan,1
+New Caledonia,New Zealand,1
+New Caledonia,Vanuatu,1
+New Caledonia,Wallis and Futuna,1
+New Zealand,Australia,1
+New Zealand,Chile,1
+New Zealand,China,1
+New Zealand,Cook Islands,1
+New Zealand,Fiji,1
+New Zealand,French Polynesia,1
+New Zealand,Hong Kong,1
+New Zealand,Japan,1
+New Zealand,Malaysia,1
+New Zealand,New Caledonia,1
+New Zealand,Samoa,1
+New Zealand,Singapore,1
+New Zealand,South Korea,1
+New Zealand,Thailand,1
+New Zealand,Tonga,1
+New Zealand,United States,1
+New Zealand,Vanuatu,1
+Nicaragua,Costa Rica,1
+Nicaragua,El Salvador,1
+Nicaragua,Guatemala,1
+Nicaragua,Panama,1
+Nicaragua,United States,1
+Niger,Algeria,1
+Niger,Benin,1
+Niger,Burkina Faso,1
+Niger,Chad,1
+Niger,Ethiopia,1
+Niger,France,1
+Niger,Morocco,1
+Niger,Nigeria,1
+Nigeria,Benin,1
+Nigeria,Cameroon,1
+Nigeria,Chad,1
+Nigeria,Côte d'Ivoire,1
+Nigeria,Egypt,1
+Nigeria,Equatorial Guinea,1
+Nigeria,Ethiopia,1
+Nigeria,France,1
+Nigeria,Gabon,1
+Nigeria,Germany,1
+Nigeria,Ghana,1
+Nigeria,Jordan,1
+Nigeria,Kenya,1
+Nigeria,Lebanon,1
+Nigeria,Liberia,1
+Nigeria,Mali,1
+Nigeria,Morocco,1
+Nigeria,Netherlands,1
+Nigeria,Niger,1
+Nigeria,Qatar,1
+Nigeria,Rwanda,1
+Nigeria,Saudi Arabia,1
+Nigeria,Senegal,1
+Nigeria,Sierra Leone,1
+Nigeria,South Africa,1
+Nigeria,Spain,1
+Nigeria,Sudan,1
+Nigeria,Togo,1
+Nigeria,Turkey,1
+Nigeria,United Arab Emirates,1
+Nigeria,United Kingdom,1
+Nigeria,United States,1
+Niue,New Zealand,1
+Norfolk Island,Australia,1
+Norfolk Island,New Zealand,1
+North Korea,China,1
+North Korea,Malaysia,1
+North Korea,Russia,1
+Northern Mariana Islands,China,1
+Northern Mariana Islands,Guam,1
+Northern Mariana Islands,Japan,1
+Northern Mariana Islands,South Korea,1
+Norway,Austria,1
+Norway,Belgium,1
+Norway,Bulgaria,1
+Norway,Croatia,1
+Norway,Cyprus,1
+Norway,Czechia,1
+Norway,Denmark,1
+Norway,Estonia,1
+Norway,Faroe Islands,1
+Norway,Finland,1
+Norway,France,1
+Norway,Germany,1
+Norway,Greece,1
+Norway,Hungary,1
+Norway,Iceland,1
+Norway,Ireland,1
+Norway,Italy,1
+Norway,Latvia,1
+Norway,Lithuania,1
+Norway,Malta,1
+Norway,Morocco,1
+Norway,Netherlands,1
+Norway,Pakistan,1
+Norway,Poland,1
+Norway,Portugal,1
+Norway,Qatar,1
+Norway,Romania,1
+Norway,Russia,1
+Norway,Serbia,1
+Norway,Slovakia,1
+Norway,Spain,1
+Norway,Sweden,1
+Norway,Switzerland,1
+Norway,Thailand,1
+Norway,Turkey,1
+Norway,Ukraine,1
+Norway,United Kingdom,1
+Norway,United States,1
+Oman,Bahrain,1
+Oman,Bangladesh,1
+Oman,Egypt,1
+Oman,Ethiopia,1
+Oman,France,1
+Oman,Germany,1
+Oman,India,1
+Oman,Iran (Islamic Republic of),1
+Oman,Italy,1
+Oman,Jordan,1
+Oman,Kuwait,1
+Oman,Lebanon,1
+Oman,Malaysia,1
+Oman,Maldives,1
+Oman,Nepal,1
+Oman,Pakistan,1
+Oman,Qatar,1
+Oman,Saudi Arabia,1
+Oman,Sri Lanka,1
+Oman,Switzerland,1
+Oman,Tanzania,1
+Oman,Thailand,1
+Oman,Turkey,1
+Oman,United Arab Emirates,1
+Oman,United Kingdom,1
+Pakistan,Afghanistan,1
+Pakistan,Bahrain,1
+Pakistan,Bangladesh,1
+Pakistan,Canada,1
+Pakistan,China,1
+Pakistan,Denmark,1
+Pakistan,France,1
+Pakistan,India,1
+Pakistan,Iran (Islamic Republic of),1
+Pakistan,Italy,1
+Pakistan,Kuwait,1
+Pakistan,Malaysia,1
+Pakistan,Nepal,1
+Pakistan,Norway,1
+Pakistan,Oman,1
+Pakistan,Qatar,1
+Pakistan,Saudi Arabia,1
+Pakistan,Spain,1
+Pakistan,Sri Lanka,1
+Pakistan,Thailand,1
+Pakistan,Turkey,1
+Pakistan,United Arab Emirates,1
+Pakistan,United Kingdom,1
+Palau,Guam,1
+Palau,Japan,1
+Palau,Micronesia,1
+Palau,Philippines,1
+Palau,South Korea,1
+Palau,Taiwan,1
+Panama,Argentina,1
+Panama,Aruba,1
+Panama,Bahamas,1
+Panama,Bolivia,1
+Panama,Brazil,1
+Panama,Canada,1
+Panama,Chile,1
+Panama,Colombia,1
+Panama,Costa Rica,1
+Panama,Cuba,1
+Panama,Dominican Republic,1
+Panama,Ecuador,1
+Panama,El Salvador,1
+Panama,France,1
+Panama,Guatemala,1
+Panama,Haiti,1
+Panama,Honduras,1
+Panama,Jamaica,1
+Panama,Mexico,1
+Panama,Netherlands,1
+Panama,Netherlands Antilles,1
+Panama,Nicaragua,1
+Panama,Paraguay,1
+Panama,Peru,1
+Panama,Puerto Rico,1
+Panama,Spain,1
+Panama,Trinidad and Tobago,1
+Panama,United States,1
+Panama,Uruguay,1
+Panama,Venezuela,1
+Papua New Guinea,Australia,1
+Papua New Guinea,Fiji,1
+Papua New Guinea,Hong Kong,1
+Papua New Guinea,Indonesia,1
+Papua New Guinea,Japan,1
+Papua New Guinea,Philippines,1
+Papua New Guinea,Singapore,1
+Papua New Guinea,Solomon Islands,1
+Paraguay,Argentina,1
+Paraguay,Bolivia,1
+Paraguay,Brazil,1
+Paraguay,Chile,1
+Paraguay,Panama,1
+Paraguay,Peru,1
+Paraguay,United States,1
+Paraguay,Uruguay,1
+Peru,Argentina,1
+Peru,Bolivia,1
+Peru,Brazil,1
+Peru,Canada,1
+Peru,Chile,1
+Peru,Colombia,1
+Peru,Costa Rica,1
+Peru,Cuba,1
+Peru,Dominican Republic,1
+Peru,Ecuador,1
+Peru,El Salvador,1
+Peru,France,1
+Peru,Mexico,1
+Peru,Netherlands,1
+Peru,Panama,1
+Peru,Paraguay,1
+Peru,Spain,1
+Peru,United States,1
+Peru,Uruguay,1
+Peru,Venezuela,1
+Philippines,Australia,1
+Philippines,Bahrain,1
+Philippines,Brunei,1
+Philippines,Cambodia,1
+Philippines,Canada,1
+Philippines,China,1
+Philippines,Guam,1
+Philippines,Hong Kong,1
+Philippines,Indonesia,1
+Philippines,Japan,1
+Philippines,Macao,1
+Philippines,Malaysia,1
+Philippines,Palau,1
+Philippines,Papua New Guinea,1
+Philippines,Qatar,1
+Philippines,Saudi Arabia,1
+Philippines,Singapore,1
+Philippines,South Korea,1
+Philippines,Taiwan,1
+Philippines,Thailand,1
+Philippines,United Arab Emirates,1
+Philippines,United Kingdom,1
+Philippines,United States,1
+Philippines,Vietnam,1
+Poland,Armenia,1
+Poland,Austria,1
+Poland,Belarus,1
+Poland,Belgium,1
+Poland,Bulgaria,1
+Poland,Canada,1
+Poland,China,1
+Poland,Croatia,1
+Poland,Cyprus,1
+Poland,Czechia,1
+Poland,Denmark,1
+Poland,Estonia,1
+Poland,Finland,1
+Poland,France,1
+Poland,Georgia,1
+Poland,Germany,1
+Poland,Greece,1
+Poland,Hungary,1
+Poland,Ireland,1
+Poland,Israel,1
+Poland,Italy,1
+Poland,Latvia,1
+Poland,Lithuania,1
+Poland,Malta,1
+Poland,Netherlands,1
+Poland,Norway,1
+Poland,Portugal,1
+Poland,Qatar,1
+Poland,Romania,1
+Poland,Russia,1
+Poland,Serbia,1
+Poland,Slovenia,1
+Poland,Spain,1
+Poland,Sweden,1
+Poland,Switzerland,1
+Poland,Turkey,1
+Poland,Ukraine,1
+Poland,United Arab Emirates,1
+Poland,United Kingdom,1
+Poland,United States,1
+Portugal,Algeria,1
+Portugal,Angola,1
+Portugal,Austria,1
+Portugal,Belgium,1
+Portugal,Brazil,1
+Portugal,Canada,1
+Portugal,Cabo Verde,1
+Portugal,Czechia,1
+Portugal,Denmark,1
+Portugal,Finland,1
+Portugal,France,1
+Portugal,Germany,1
+Portugal,Ghana,1
+Portugal,Hungary,1
+Portugal,Ireland,1
+Portugal,Italy,1
+Portugal,Luxembourg,1
+Portugal,Mali,1
+Portugal,Moldova,1
+Portugal,Morocco,1
+Portugal,Mozambique,1
+Portugal,Netherlands,1
+Portugal,Norway,1
+Portugal,Poland,1
+Portugal,Romania,1
+Portugal,Russia,1
+Portugal,Sao Tome and Principe,1
+Portugal,Senegal,1
+Portugal,Spain,1
+Portugal,Sweden,1
+Portugal,Switzerland,1
+Portugal,Tunisia,1
+Portugal,Turkey,1
+Portugal,Ukraine,1
+Portugal,United Arab Emirates,1
+Portugal,United Kingdom,1
+Portugal,United States,1
+Portugal,Venezuela,1
+Puerto Rico,Anguilla,1
+Puerto Rico,Antigua and Barbuda,1
+Puerto Rico,Virgin Islands (British),1
+Puerto Rico,Canada,1
+Puerto Rico,Colombia,1
+Puerto Rico,Dominica,1
+Puerto Rico,Dominican Republic,1
+Puerto Rico,France,1
+Puerto Rico,Germany,1
+Puerto Rico,Guadeloupe,1
+Puerto Rico,Martinique,1
+Puerto Rico,Netherlands Antilles,1
+Puerto Rico,Panama,1
+Puerto Rico,Saint Kitts and Nevis,1
+Puerto Rico,Turks and Caicos Islands,1
+Puerto Rico,United States,1
+Puerto Rico,Venezuela,1
+Puerto Rico,Virgin Islands,1
+Qatar,Algeria,1
+Qatar,Australia,1
+Qatar,Austria,1
+Qatar,Azerbaijan,1
+Qatar,Bahrain,1
+Qatar,Bangladesh,1
+Qatar,Belgium,1
+Qatar,Brazil,1
+Qatar,Myanmar,1
+Qatar,Canada,1
+Qatar,China,1
+Qatar,Cyprus,1
+Qatar,Denmark,1
+Qatar,Egypt,1
+Qatar,Ethiopia,1
+Qatar,France,1
+Qatar,Germany,1
+Qatar,Greece,1
+Qatar,Hong Kong,1
+Qatar,Hungary,1
+Qatar,India,1
+Qatar,Indonesia,1
+Qatar,Iran (Islamic Republic of),1
+Qatar,Iraq,1
+Qatar,Italy,1
+Qatar,Japan,1
+Qatar,Jordan,1
+Qatar,Kenya,1
+Qatar,Kuwait,1
+Qatar,Lebanon,1
+Qatar,Malaysia,1
+Qatar,Maldives,1
+Qatar,Morocco,1
+Qatar,Nepal,1
+Qatar,Netherlands,1
+Qatar,Nigeria,1
+Qatar,Norway,1
+Qatar,Oman,1
+Qatar,Pakistan,1
+Qatar,Philippines,1
+Qatar,Poland,1
+Qatar,Romania,1
+Qatar,Russia,1
+Qatar,Saudi Arabia,1
+Qatar,Singapore,1
+Qatar,South Africa,1
+Qatar,South Korea,1
+Qatar,Spain,1
+Qatar,Sri Lanka,1
+Qatar,Sudan,1
+Qatar,Sweden,1
+Qatar,Switzerland,1
+Qatar,Tanzania,1
+Qatar,Thailand,1
+Qatar,Tunisia,1
+Qatar,Turkey,1
+Qatar,Uganda,1
+Qatar,United Arab Emirates,1
+Qatar,United Kingdom,1
+Qatar,United States,1
+Qatar,Vietnam,1
+Qatar,Yemen,1
+Reunion,Comoros,1
+Reunion,France,1
+Reunion,India,1
+Reunion,Madagascar,1
+Reunion,Mauritius,1
+Reunion,Mayotte,1
+Reunion,South Africa,1
+Romania,Austria,1
+Romania,Belgium,1
+Romania,Bulgaria,1
+Romania,Cyprus,1
+Romania,Czechia,1
+Romania,Denmark,1
+Romania,France,1
+Romania,Germany,1
+Romania,Greece,1
+Romania,Hungary,1
+Romania,Ireland,1
+Romania,Israel,1
+Romania,Italy,1
+Romania,Jordan,1
+Romania,Lebanon,1
+Romania,Moldova,1
+Romania,Netherlands,1
+Romania,Norway,1
+Romania,Poland,1
+Romania,Portugal,1
+Romania,Qatar,1
+Romania,Russia,1
+Romania,Serbia,1
+Romania,Spain,1
+Romania,Switzerland,1
+Romania,Turkey,1
+Romania,United Arab Emirates,1
+Romania,United Kingdom,1
+Russia,Algeria,1
+Russia,Armenia,1
+Russia,Austria,1
+Russia,Azerbaijan,1
+Russia,Belarus,1
+Russia,Belgium,1
+Russia,Bulgaria,1
+Russia,Canada,1
+Russia,China,1
+Russia,Croatia,1
+Russia,Cuba,1
+Russia,Cyprus,1
+Russia,Czechia,1
+Russia,Denmark,1
+Russia,Dominican Republic,1
+Russia,Egypt,1
+Russia,Estonia,1
+Russia,Finland,1
+Russia,France,1
+Russia,Georgia,1
+Russia,Germany,1
+Russia,Greece,1
+Russia,Hong Kong,1
+Russia,Hungary,1
+Russia,India,1
+Russia,Iran (Islamic Republic of),1
+Russia,Israel,1
+Russia,Italy,1
+Russia,Japan,1
+Russia,Jordan,1
+Russia,Kazakhstan,1
+Russia,Kyrgyzstan,1
+Russia,Latvia,1
+Russia,Lebanon,1
+Russia,Lithuania,1
+Russia,Maldives,1
+Russia,Malta,1
+Russia,Mauritius,1
+Russia,Mexico,1
+Russia,Moldova,1
+Russia,Mongolia,1
+Russia,Montenegro,1
+Russia,Morocco,1
+Russia,Netherlands,1
+Russia,North Korea,1
+Russia,Norway,1
+Russia,Poland,1
+Russia,Portugal,1
+Russia,Qatar,1
+Russia,Romania,1
+Russia,Serbia,1
+Russia,Seychelles,1
+Russia,Singapore,1
+Russia,Slovenia,1
+Russia,South Korea,1
+Russia,Spain,1
+Russia,Sri Lanka,1
+Russia,Sweden,1
+Russia,Switzerland,1
+Russia,Tajikistan,1
+Russia,Thailand,1
+Russia,Tunisia,1
+Russia,Turkey,1
+Russia,Turkmenistan,1
+Russia,Ukraine,1
+Russia,United Arab Emirates,1
+Russia,United Kingdom,1
+Russia,United States,1
+Russia,Uzbekistan,1
+Russia,Vietnam,1
+Rwanda,Belgium,1
+Rwanda,Burundi,1
+Rwanda,Congo,1
+Rwanda,Ethiopia,1
+Rwanda,Gabon,1
+Rwanda,Kenya,1
+Rwanda,Nigeria,1
+Rwanda,South Africa,1
+Rwanda,South Sudan,1
+Rwanda,Tanzania,1
+Rwanda,Turkey,1
+Rwanda,Uganda,1
+Rwanda,United Arab Emirates,1
+Saint Kitts and Nevis,Antigua and Barbuda,1
+Saint Kitts and Nevis,Bahamas,1
+Saint Kitts and Nevis,Netherlands Antilles,1
+Saint Kitts and Nevis,Puerto Rico,1
+Saint Kitts and Nevis,United States,1
+Saint Kitts and Nevis,Virgin Islands,1
+Saint Lucia,Antigua and Barbuda,1
+Saint Lucia,Barbados,1
+Saint Lucia,Canada,1
+Saint Lucia,Dominica,1
+Saint Lucia,Grenada,1
+Saint Lucia,Martinique,1
+Saint Lucia,Saint Vincent and the Grenadines,1
+Saint Lucia,Trinidad and Tobago,1
+Saint Lucia,United Kingdom,1
+Saint Lucia,United States,1
+Saint Pierre and Miquelon,Canada,1
+Saint Vincent and the Grenadines,Barbados,1
+Saint Vincent and the Grenadines,Grenada,1
+Saint Vincent and the Grenadines,Saint Lucia,1
+Saint Vincent and the Grenadines,Trinidad and Tobago,1
+Samoa,Fiji,1
+Samoa,New Zealand,1
+Samoa,United States,1
+Sao Tome and Principe,Angola,1
+Sao Tome and Principe,Cabo Verde,1
+Sao Tome and Principe,Portugal,1
+Saudi Arabia,Algeria,1
+Saudi Arabia,Bahrain,1
+Saudi Arabia,Bangladesh,1
+Saudi Arabia,Brunei,1
+Saudi Arabia,Canada,1
+Saudi Arabia,Chad,1
+Saudi Arabia,China,1
+Saudi Arabia,Egypt,1
+Saudi Arabia,Eritrea,1
+Saudi Arabia,Ethiopia,1
+Saudi Arabia,France,1
+Saudi Arabia,Germany,1
+Saudi Arabia,Hong Kong,1
+Saudi Arabia,India,1
+Saudi Arabia,Indonesia,1
+Saudi Arabia,Iran (Islamic Republic of),1
+Saudi Arabia,Italy,1
+Saudi Arabia,Jordan,1
+Saudi Arabia,Kenya,1
+Saudi Arabia,Kuwait,1
+Saudi Arabia,Lebanon,1
+Saudi Arabia,Libya,1
+Saudi Arabia,Malaysia,1
+Saudi Arabia,Morocco,1
+Saudi Arabia,Netherlands,1
+Saudi Arabia,Nigeria,1
+Saudi Arabia,Oman,1
+Saudi Arabia,Pakistan,1
+Saudi Arabia,Philippines,1
+Saudi Arabia,Qatar,1
+Saudi Arabia,Singapore,1
+Saudi Arabia,South Africa,1
+Saudi Arabia,South Korea,1
+Saudi Arabia,Spain,1
+Saudi Arabia,Sri Lanka,1
+Saudi Arabia,Sudan,1
+Saudi Arabia,Switzerland,1
+Saudi Arabia,Tunisia,1
+Saudi Arabia,Turkey,1
+Saudi Arabia,United Arab Emirates,1
+Saudi Arabia,United Kingdom,1
+Saudi Arabia,United States,1
+Saudi Arabia,Yemen,1
+Senegal,Algeria,1
+Senegal,Belgium,1
+Senegal,Benin,1
+Senegal,Burkina Faso,1
+Senegal,Cameroon,1
+Senegal,Cabo Verde,1
+Senegal,Côte d'Ivoire,1
+Senegal,France,1
+Senegal,Gambia,1
+Senegal,Ghana,1
+Senegal,Guinea,1
+Senegal,Guinea-Bissau,1
+Senegal,Italy,1
+Senegal,Mali,1
+Senegal,Mauritania,1
+Senegal,Morocco,1
+Senegal,Nigeria,1
+Senegal,Portugal,1
+Senegal,Sierra Leone,1
+Senegal,South Africa,1
+Senegal,Spain,1
+Senegal,Tunisia,1
+Senegal,Turkey,1
+Senegal,United Arab Emirates,1
+Senegal,United States,1
+Serbia,Austria,1
+Serbia,Belgium,1
+Serbia,Bosnia and Herzegovina,1
+Serbia,Bulgaria,1
+Serbia,Croatia,1
+Serbia,Cyprus,1
+Serbia,Czechia,1
+Serbia,Denmark,1
+Serbia,France,1
+Serbia,Germany,1
+Serbia,Greece,1
+Serbia,Hungary,1
+Serbia,Israel,1
+Serbia,Italy,1
+Serbia,Macedonia,1
+Serbia,Montenegro,1
+Serbia,Netherlands,1
+Serbia,Norway,1
+Serbia,Poland,1
+Serbia,Romania,1
+Serbia,Russia,1
+Serbia,Slovenia,1
+Serbia,Sweden,1
+Serbia,Switzerland,1
+Serbia,Tunisia,1
+Serbia,Turkey,1
+Serbia,United Arab Emirates,1
+Serbia,United Kingdom,1
+Seychelles,Germany,1
+Seychelles,Kenya,1
+Seychelles,Mauritius,1
+Seychelles,Russia,1
+Seychelles,South Africa,1
+Seychelles,Sri Lanka,1
+Seychelles,United Arab Emirates,1
+Sierra Leone,Côte d'Ivoire,1
+Sierra Leone,France,1
+Sierra Leone,Gambia,1
+Sierra Leone,Ghana,1
+Sierra Leone,Liberia,1
+Sierra Leone,Morocco,1
+Sierra Leone,Nigeria,1
+Sierra Leone,Senegal,1
+Sierra Leone,United Kingdom,1
+Singapore,Australia,1
+Singapore,Bangladesh,1
+Singapore,Brunei,1
+Singapore,Myanmar,1
+Singapore,Cambodia,1
+Singapore,China,1
+Singapore,Denmark,1
+Singapore,East Timor,1
+Singapore,Finland,1
+Singapore,France,1
+Singapore,Germany,1
+Singapore,Hong Kong,1
+Singapore,India,1
+Singapore,Indonesia,1
+Singapore,Italy,1
+Singapore,Japan,1
+Singapore,Lao People's Democratic Republic,1
+Singapore,Macao,1
+Singapore,Malaysia,1
+Singapore,Maldives,1
+Singapore,Nepal,1
+Singapore,Netherlands,1
+Singapore,New Zealand,1
+Singapore,Papua New Guinea,1
+Singapore,Philippines,1
+Singapore,Qatar,1
+Singapore,Russia,1
+Singapore,Saudi Arabia,1
+Singapore,South Africa,1
+Singapore,South Korea,1
+Singapore,Spain,1
+Singapore,Sri Lanka,1
+Singapore,Switzerland,1
+Singapore,Taiwan,1
+Singapore,Thailand,1
+Singapore,Turkey,1
+Singapore,United Arab Emirates,1
+Singapore,United Kingdom,1
+Singapore,Uzbekistan,1
+Singapore,Vietnam,1
+Slovakia,Austria,1
+Slovakia,Belgium,1
+Slovakia,Czechia,1
+Slovakia,France,1
+Slovakia,Ireland,1
+Slovakia,Italy,1
+Slovakia,Norway,1
+Slovakia,Spain,1
+Slovakia,United Kingdom,1
+Slovenia,Albania,1
+Slovenia,Austria,1
+Slovenia,Belgium,1
+Slovenia,Bosnia and Herzegovina,1
+Slovenia,Czechia,1
+Slovenia,Denmark,1
+Slovenia,Finland,1
+Slovenia,France,1
+Slovenia,Germany,1
+Slovenia,Macedonia,1
+Slovenia,Montenegro,1
+Slovenia,Netherlands,1
+Slovenia,Poland,1
+Slovenia,Russia,1
+Slovenia,Serbia,1
+Slovenia,Switzerland,1
+Slovenia,Turkey,1
+Slovenia,United Kingdom,1
+Solomon Islands,Australia,1
+Solomon Islands,Fiji,1
+Solomon Islands,Papua New Guinea,1
+Solomon Islands,Vanuatu,1
+Somalia,Djibouti,1
+Somalia,Ethiopia,1
+Somalia,Kenya,1
+Somalia,Uganda,1
+Somalia,United Arab Emirates,1
+Somalia,Yemen,1
+South Africa,Angola,1
+South Africa,Australia,1
+South Africa,Botswana,1
+South Africa,Brazil,1
+South Africa,Congo,1
+South Africa,"Congo, Democratic Republic of the",1
+South Africa,Egypt,1
+South Africa,Ethiopia,1
+South Africa,France,1
+South Africa,Gabon,1
+South Africa,Germany,1
+South Africa,Ghana,1
+South Africa,Hong Kong,1
+South Africa,India,1
+South Africa,Israel,1
+South Africa,Kenya,1
+South Africa,Lesotho,1
+South Africa,Madagascar,1
+South Africa,Malawi,1
+South Africa,Mauritius,1
+South Africa,Mozambique,1
+South Africa,Namibia,1
+South Africa,Netherlands,1
+South Africa,Nigeria,1
+South Africa,Qatar,1
+South Africa,Reunion,1
+South Africa,Rwanda,1
+South Africa,Saudi Arabia,1
+South Africa,Senegal,1
+South Africa,Seychelles,1
+South Africa,Singapore,1
+South Africa,Swaziland,1
+South Africa,Switzerland,1
+South Africa,Tanzania,1
+South Africa,Thailand,1
+South Africa,Turkey,1
+South Africa,Uganda,1
+South Africa,United Arab Emirates,1
+South Africa,United Kingdom,1
+South Africa,United States,1
+South Africa,Zambia,1
+South Africa,Zimbabwe,1
+South Korea,Australia,1
+South Korea,Austria,1
+South Korea,Myanmar,1
+South Korea,Cambodia,1
+South Korea,Canada,1
+South Korea,China,1
+South Korea,Czechia,1
+South Korea,Fiji,1
+South Korea,Finland,1
+South Korea,France,1
+South Korea,Germany,1
+South Korea,Guam,1
+South Korea,Hong Kong,1
+South Korea,India,1
+South Korea,Indonesia,1
+South Korea,Israel,1
+South Korea,Italy,1
+South Korea,Japan,1
+South Korea,Kazakhstan,1
+South Korea,Kenya,1
+South Korea,Lao People's Democratic Republic,1
+South Korea,Macao,1
+South Korea,Malaysia,1
+South Korea,Mongolia,1
+South Korea,Nepal,1
+South Korea,Netherlands,1
+South Korea,New Zealand,1
+South Korea,Northern Mariana Islands,1
+South Korea,Palau,1
+South Korea,Philippines,1
+South Korea,Qatar,1
+South Korea,Russia,1
+South Korea,Saudi Arabia,1
+South Korea,Singapore,1
+South Korea,Spain,1
+South Korea,Sri Lanka,1
+South Korea,Taiwan,1
+South Korea,Thailand,1
+South Korea,Turkey,1
+South Korea,United Arab Emirates,1
+South Korea,United Kingdom,1
+South Korea,United States,1
+South Korea,Uzbekistan,1
+South Korea,Vietnam,1
+South Sudan,Egypt,1
+South Sudan,Ethiopia,1
+South Sudan,Kenya,1
+South Sudan,Rwanda,1
+South Sudan,Sudan,1
+South Sudan,Uganda,1
+South Sudan,United Arab Emirates,1
+Spain,Algeria,1
+Spain,Angola,1
+Spain,Argentina,1
+Spain,Austria,1
+Spain,Belarus,1
+Spain,Belgium,1
+Spain,Bolivia,1
+Spain,Brazil,1
+Spain,Bulgaria,1
+Spain,Canada,1
+Spain,Cabo Verde,1
+Spain,Chile,1
+Spain,China,1
+Spain,Colombia,1
+Spain,Costa Rica,1
+Spain,Croatia,1
+Spain,Cuba,1
+Spain,Czechia,1
+Spain,Denmark,1
+Spain,Dominican Republic,1
+Spain,Ecuador,1
+Spain,Egypt,1
+Spain,Equatorial Guinea,1
+Spain,Estonia,1
+Spain,Finland,1
+Spain,France,1
+Spain,Gambia,1
+Spain,Germany,1
+Spain,Ghana,1
+Spain,Greece,1
+Spain,Guatemala,1
+Spain,Hungary,1
+Spain,Iceland,1
+Spain,Ireland,1
+Spain,Israel,1
+Spain,Italy,1
+Spain,Jordan,1
+Spain,Latvia,1
+Spain,Libya,1
+Spain,Lithuania,1
+Spain,Luxembourg,1
+Spain,Malta,1
+Spain,Mauritania,1
+Spain,Mexico,1
+Spain,Morocco,1
+Spain,Netherlands,1
+Spain,Nigeria,1
+Spain,Norway,1
+Spain,Pakistan,1
+Spain,Panama,1
+Spain,Peru,1
+Spain,Poland,1
+Spain,Portugal,1
+Spain,Qatar,1
+Spain,Romania,1
+Spain,Russia,1
+Spain,Saudi Arabia,1
+Spain,Senegal,1
+Spain,Singapore,1
+Spain,Slovakia,1
+Spain,South Korea,1
+Spain,Sweden,1
+Spain,Switzerland,1
+Spain,Thailand,1
+Spain,Tunisia,1
+Spain,Turkey,1
+Spain,Ukraine,1
+Spain,United Arab Emirates,1
+Spain,United Kingdom,1
+Spain,United States,1
+Spain,Uruguay,1
+Spain,Venezuela,1
+Spain,Western Sahara,1
+Sri Lanka,Bahrain,1
+Sri Lanka,Bangladesh,1
+Sri Lanka,China,1
+Sri Lanka,France,1
+Sri Lanka,Germany,1
+Sri Lanka,India,1
+Sri Lanka,Indonesia,1
+Sri Lanka,Italy,1
+Sri Lanka,Japan,1
+Sri Lanka,Kuwait,1
+Sri Lanka,Malaysia,1
+Sri Lanka,Maldives,1
+Sri Lanka,Oman,1
+Sri Lanka,Pakistan,1
+Sri Lanka,Qatar,1
+Sri Lanka,Russia,1
+Sri Lanka,Saudi Arabia,1
+Sri Lanka,Seychelles,1
+Sri Lanka,Singapore,1
+Sri Lanka,South Korea,1
+Sri Lanka,Thailand,1
+Sri Lanka,United Arab Emirates,1
+Sri Lanka,United Kingdom,1
+Sudan,Bahrain,1
+Sudan,Chad,1
+Sudan,Egypt,1
+Sudan,Eritrea,1
+Sudan,Ethiopia,1
+Sudan,Jordan,1
+Sudan,Kenya,1
+Sudan,Qatar,1
+Sudan,Saudi Arabia,1
+Sudan,South Sudan,1
+Sudan,Turkey,1
+Sudan,United Arab Emirates,1
+Sudan,Yemen,1
+Suriname,Aruba,1
+Suriname,Brazil,1
+Suriname,French Guiana,1
+Suriname,Guyana,1
+Suriname,Netherlands,1
+Suriname,Netherlands Antilles,1
+Suriname,Trinidad and Tobago,1
+Swaziland,South Africa,1
+Sweden,Austria,1
+Sweden,Belarus,1
+Sweden,Belgium,1
+Sweden,Bosnia and Herzegovina,1
+Sweden,China,1
+Sweden,Croatia,1
+Sweden,Cyprus,1
+Sweden,Czechia,1
+Sweden,Denmark,1
+Sweden,Estonia,1
+Sweden,Ethiopia,1
+Sweden,Finland,1
+Sweden,France,1
+Sweden,Germany,1
+Sweden,Greece,1
+Sweden,Hungary,1
+Sweden,Iceland,1
+Sweden,Iran (Islamic Republic of),1
+Sweden,Iraq,1
+Sweden,Ireland,1
+Sweden,Israel,1
+Sweden,Italy,1
+Sweden,Latvia,1
+Sweden,Lithuania,1
+Sweden,Luxembourg,1
+Sweden,Macedonia,1
+Sweden,Malta,1
+Sweden,Morocco,1
+Sweden,Netherlands,1
+Sweden,Norway,1
+Sweden,Poland,1
+Sweden,Portugal,1
+Sweden,Qatar,1
+Sweden,Russia,1
+Sweden,Serbia,1
+Sweden,Spain,1
+Sweden,Switzerland,1
+Sweden,Thailand,1
+Sweden,Turkey,1
+Sweden,United Arab Emirates,1
+Sweden,United Kingdom,1
+Sweden,United States,1
+Switzerland,Algeria,1
+Switzerland,Austria,1
+Switzerland,Belarus,1
+Switzerland,Belgium,1
+Switzerland,Bosnia and Herzegovina,1
+Switzerland,Brazil,1
+Switzerland,Bulgaria,1
+Switzerland,Canada,1
+Switzerland,China,1
+Switzerland,Croatia,1
+Switzerland,Cuba,1
+Switzerland,Cyprus,1
+Switzerland,Czechia,1
+Switzerland,Denmark,1
+Switzerland,Dominican Republic,1
+Switzerland,Egypt,1
+Switzerland,Finland,1
+Switzerland,France,1
+Switzerland,Germany,1
+Switzerland,Greece,1
+Switzerland,Hong Kong,1
+Switzerland,Hungary,1
+Switzerland,Iceland,1
+Switzerland,India,1
+Switzerland,Ireland,1
+Switzerland,Israel,1
+Switzerland,Italy,1
+Switzerland,Japan,1
+Switzerland,Jersey,1
+Switzerland,Jordan,1
+Switzerland,Kenya,1
+Switzerland,Latvia,1
+Switzerland,Lebanon,1
+Switzerland,Luxembourg,1
+Switzerland,Macedonia,1
+Switzerland,Malta,1
+Switzerland,Montenegro,1
+Switzerland,Morocco,1
+Switzerland,Netherlands,1
+Switzerland,Norway,1
+Switzerland,Oman,1
+Switzerland,Poland,1
+Switzerland,Portugal,1
+Switzerland,Qatar,1
+Switzerland,Romania,1
+Switzerland,Russia,1
+Switzerland,Saudi Arabia,1
+Switzerland,Serbia,1
+Switzerland,Singapore,1
+Switzerland,Slovenia,1
+Switzerland,South Africa,1
+Switzerland,South Korea,1
+Switzerland,Spain,1
+Switzerland,Sweden,1
+Switzerland,Thailand,1
+Switzerland,Tunisia,1
+Switzerland,Turkey,1
+Switzerland,Ukraine,1
+Switzerland,United Arab Emirates,1
+Switzerland,United Kingdom,1
+Switzerland,United States,1
+Taiwan,Australia,1
+Taiwan,Austria,1
+Taiwan,Myanmar,1
+Taiwan,Cambodia,1
+Taiwan,Canada,1
+Taiwan,China,1
+Taiwan,France,1
+Taiwan,Germany,1
+Taiwan,Guam,1
+Taiwan,Hong Kong,1
+Taiwan,India,1
+Taiwan,Indonesia,1
+Taiwan,Japan,1
+Taiwan,Macao,1
+Taiwan,Malaysia,1
+Taiwan,Netherlands,1
+Taiwan,Palau,1
+Taiwan,Philippines,1
+Taiwan,Singapore,1
+Taiwan,South Korea,1
+Taiwan,Thailand,1
+Taiwan,United Arab Emirates,1
+Taiwan,United States,1
+Taiwan,Vietnam,1
+Tajikistan,China,1
+Tajikistan,Germany,1
+Tajikistan,India,1
+Tajikistan,Iran (Islamic Republic of),1
+Tajikistan,Kazakhstan,1
+Tajikistan,Kyrgyzstan,1
+Tajikistan,Russia,1
+Tajikistan,Turkey,1
+Tajikistan,United Arab Emirates,1
+Tanzania,Comoros,1
+Tanzania,Egypt,1
+Tanzania,Ethiopia,1
+Tanzania,Germany,1
+Tanzania,Kenya,1
+Tanzania,Malawi,1
+Tanzania,Mayotte,1
+Tanzania,Mozambique,1
+Tanzania,Netherlands,1
+Tanzania,Oman,1
+Tanzania,Qatar,1
+Tanzania,Rwanda,1
+Tanzania,South Africa,1
+Tanzania,Turkey,1
+Tanzania,Uganda,1
+Tanzania,United Arab Emirates,1
+Tanzania,Zimbabwe,1
+Thailand,Australia,1
+Thailand,Austria,1
+Thailand,Bahrain,1
+Thailand,Bangladesh,1
+Thailand,Belgium,1
+Thailand,Brunei,1
+Thailand,Myanmar,1
+Thailand,Cambodia,1
+Thailand,China,1
+Thailand,Denmark,1
+Thailand,Egypt,1
+Thailand,Ethiopia,1
+Thailand,Finland,1
+Thailand,France,1
+Thailand,Germany,1
+Thailand,Hong Kong,1
+Thailand,India,1
+Thailand,Indonesia,1
+Thailand,Iran (Islamic Republic of),1
+Thailand,Israel,1
+Thailand,Italy,1
+Thailand,Japan,1
+Thailand,Jordan,1
+Thailand,Kazakhstan,1
+Thailand,Kenya,1
+Thailand,Kuwait,1
+Thailand,Lao People's Democratic Republic,1
+Thailand,Macao,1
+Thailand,Madagascar,1
+Thailand,Malaysia,1
+Thailand,Maldives,1
+Thailand,Mongolia,1
+Thailand,Nepal,1
+Thailand,Netherlands,1
+Thailand,New Zealand,1
+Thailand,Norway,1
+Thailand,Oman,1
+Thailand,Pakistan,1
+Thailand,Philippines,1
+Thailand,Qatar,1
+Thailand,Russia,1
+Thailand,Singapore,1
+Thailand,South Africa,1
+Thailand,South Korea,1
+Thailand,Spain,1
+Thailand,Sri Lanka,1
+Thailand,Sweden,1
+Thailand,Switzerland,1
+Thailand,Taiwan,1
+Thailand,Turkey,1
+Thailand,Ukraine,1
+Thailand,United Arab Emirates,1
+Thailand,United Kingdom,1
+Thailand,Uzbekistan,1
+Thailand,Vietnam,1
+Togo,Belgium,1
+Togo,Benin,1
+Togo,Brazil,1
+Togo,Burkina Faso,1
+Togo,Cameroon,1
+Togo,Côte d'Ivoire,1
+Togo,Ethiopia,1
+Togo,France,1
+Togo,Gabon,1
+Togo,Ghana,1
+Togo,Guinea,1
+Togo,Mali,1
+Togo,Nigeria,1
+Tonga,Australia,1
+Tonga,Fiji,1
+Tonga,New Zealand,1
+Trinidad and Tobago,Antigua and Barbuda,1
+Trinidad and Tobago,Barbados,1
+Trinidad and Tobago,Canada,1
+Trinidad and Tobago,Grenada,1
+Trinidad and Tobago,Guyana,1
+Trinidad and Tobago,Jamaica,1
+Trinidad and Tobago,Netherlands Antilles,1
+Trinidad and Tobago,Panama,1
+Trinidad and Tobago,Saint Lucia,1
+Trinidad and Tobago,Saint Vincent and the Grenadines,1
+Trinidad and Tobago,Suriname,1
+Trinidad and Tobago,United Kingdom,1
+Trinidad and Tobago,United States,1
+Trinidad and Tobago,Venezuela,1
+Tunisia,Algeria,1
+Tunisia,Austria,1
+Tunisia,Belgium,1
+Tunisia,Burkina Faso,1
+Tunisia,Côte d'Ivoire,1
+Tunisia,Egypt,1
+Tunisia,France,1
+Tunisia,Germany,1
+Tunisia,Italy,1
+Tunisia,Jordan,1
+Tunisia,Kuwait,1
+Tunisia,Lebanon,1
+Tunisia,Libya,1
+Tunisia,Luxembourg,1
+Tunisia,Mali,1
+Tunisia,Malta,1
+Tunisia,Mauritania,1
+Tunisia,Morocco,1
+Tunisia,Netherlands,1
+Tunisia,Portugal,1
+Tunisia,Qatar,1
+Tunisia,Russia,1
+Tunisia,Saudi Arabia,1
+Tunisia,Senegal,1
+Tunisia,Serbia,1
+Tunisia,Spain,1
+Tunisia,Switzerland,1
+Tunisia,Turkey,1
+Tunisia,United Arab Emirates,1
+Tunisia,United Kingdom,1
+Turkey,Afghanistan,1
+Turkey,Albania,1
+Turkey,Algeria,1
+Turkey,Austria,1
+Turkey,Azerbaijan,1
+Turkey,Bahrain,1
+Turkey,Bangladesh,1
+Turkey,Belarus,1
+Turkey,Belgium,1
+Turkey,Bosnia and Herzegovina,1
+Turkey,Brazil,1
+Turkey,Bulgaria,1
+Turkey,Cameroon,1
+Turkey,Canada,1
+Turkey,China,1
+Turkey,"Congo, Democratic Republic of the",1
+Turkey,Croatia,1
+Turkey,Cyprus,1
+Turkey,Czechia,1
+Turkey,Denmark,1
+Turkey,Djibouti,1
+Turkey,Egypt,1
+Turkey,Estonia,1
+Turkey,Ethiopia,1
+Turkey,Finland,1
+Turkey,France,1
+Turkey,Georgia,1
+Turkey,Germany,1
+Turkey,Ghana,1
+Turkey,Greece,1
+Turkey,Hong Kong,1
+Turkey,Hungary,1
+Turkey,India,1
+Turkey,Iran (Islamic Republic of),1
+Turkey,Iraq,1
+Turkey,Ireland,1
+Turkey,Israel,1
+Turkey,Italy,1
+Turkey,Japan,1
+Turkey,Jordan,1
+Turkey,Kazakhstan,1
+Turkey,Kenya,1
+Turkey,Kuwait,1
+Turkey,Kyrgyzstan,1
+Turkey,Latvia,1
+Turkey,Lebanon,1
+Turkey,Libya,1
+Turkey,Lithuania,1
+Turkey,Luxembourg,1
+Turkey,Macedonia,1
+Turkey,Malaysia,1
+Turkey,Maldives,1
+Turkey,Malta,1
+Turkey,Moldova,1
+Turkey,Montenegro,1
+Turkey,Morocco,1
+Turkey,Nepal,1
+Turkey,Netherlands,1
+Turkey,Niger,1
+Turkey,Nigeria,1
+Turkey,Norway,1
+Turkey,Oman,1
+Turkey,Pakistan,1
+Turkey,Panama,1
+Turkey,Poland,1
+Turkey,Portugal,1
+Turkey,Qatar,1
+Turkey,Romania,1
+Turkey,Russia,1
+Turkey,Rwanda,1
+Turkey,Saudi Arabia,1
+Turkey,Serbia,1
+Turkey,Singapore,1
+Turkey,Slovenia,1
+Turkey,South Africa,1
+Turkey,South Korea,1
+Turkey,Spain,1
+Turkey,Sudan,1
+Turkey,Sweden,1
+Turkey,Switzerland,1
+Turkey,Tajikistan,1
+Turkey,Tanzania,1
+Turkey,Thailand,1
+Turkey,Tunisia,1
+Turkey,Turkmenistan,1
+Turkey,Ukraine,1
+Turkey,United Arab Emirates,1
+Turkey,United Kingdom,1
+Turkey,United States,1
+Turkey,Uzbekistan,1
+Turkey,Yemen,1
+Turkmenistan,Azerbaijan,1
+Turkmenistan,Belarus,1
+Turkmenistan,China,1
+Turkmenistan,Germany,1
+Turkmenistan,India,1
+Turkmenistan,Russia,1
+Turkmenistan,Turkey,1
+Turkmenistan,United Arab Emirates,1
+Turkmenistan,United Kingdom,1
+Turks and Caicos Islands,Bahamas,1
+Turks and Caicos Islands,Canada,1
+Turks and Caicos Islands,Dominican Republic,1
+Turks and Caicos Islands,Haiti,1
+Turks and Caicos Islands,Jamaica,1
+Turks and Caicos Islands,Puerto Rico,1
+Turks and Caicos Islands,United States,1
+Tuvalu,Fiji,1
+Uganda,Belgium,1
+Uganda,Burundi,1
+Uganda,Egypt,1
+Uganda,Eritrea,1
+Uganda,Ethiopia,1
+Uganda,Kenya,1
+Uganda,Netherlands,1
+Uganda,Qatar,1
+Uganda,Rwanda,1
+Uganda,Somalia,1
+Uganda,South Africa,1
+Uganda,South Sudan,1
+Uganda,Tanzania,1
+Uganda,Turkey,1
+Uganda,United Arab Emirates,1
+Uganda,United Kingdom,1
+Ukraine,Armenia,1
+Ukraine,Austria,1
+Ukraine,Azerbaijan,1
+Ukraine,Belarus,1
+Ukraine,Belgium,1
+Ukraine,Cyprus,1
+Ukraine,Czechia,1
+Ukraine,Estonia,1
+Ukraine,Finland,1
+Ukraine,France,1
+Ukraine,Georgia,1
+Ukraine,Germany,1
+Ukraine,Greece,1
+Ukraine,Hungary,1
+Ukraine,Israel,1
+Ukraine,Italy,1
+Ukraine,Jordan,1
+Ukraine,Kazakhstan,1
+Ukraine,Latvia,1
+Ukraine,Lithuania,1
+Ukraine,Moldova,1
+Ukraine,Netherlands,1
+Ukraine,Norway,1
+Ukraine,Poland,1
+Ukraine,Portugal,1
+Ukraine,Russia,1
+Ukraine,Spain,1
+Ukraine,Switzerland,1
+Ukraine,Thailand,1
+Ukraine,Turkey,1
+Ukraine,United Arab Emirates,1
+Ukraine,United Kingdom,1
+Ukraine,United States,1
+Ukraine,Uzbekistan,1
+United Arab Emirates,Afghanistan,1
+United Arab Emirates,Algeria,1
+United Arab Emirates,Angola,1
+United Arab Emirates,Armenia,1
+United Arab Emirates,Australia,1
+United Arab Emirates,Austria,1
+United Arab Emirates,Azerbaijan,1
+United Arab Emirates,Bahrain,1
+United Arab Emirates,Bangladesh,1
+United Arab Emirates,Belarus,1
+United Arab Emirates,Belgium,1
+United Arab Emirates,Brazil,1
+United Arab Emirates,Brunei,1
+United Arab Emirates,Bulgaria,1
+United Arab Emirates,Canada,1
+United Arab Emirates,China,1
+United Arab Emirates,Cyprus,1
+United Arab Emirates,Czechia,1
+United Arab Emirates,Denmark,1
+United Arab Emirates,Djibouti,1
+United Arab Emirates,Egypt,1
+United Arab Emirates,Ethiopia,1
+United Arab Emirates,France,1
+United Arab Emirates,Georgia,1
+United Arab Emirates,Germany,1
+United Arab Emirates,Ghana,1
+United Arab Emirates,Greece,1
+United Arab Emirates,Hong Kong,1
+United Arab Emirates,Hungary,1
+United Arab Emirates,India,1
+United Arab Emirates,Indonesia,1
+United Arab Emirates,Iran (Islamic Republic of),1
+United Arab Emirates,Iraq,1
+United Arab Emirates,Ireland,1
+United Arab Emirates,Italy,1
+United Arab Emirates,Japan,1
+United Arab Emirates,Jordan,1
+United Arab Emirates,Kazakhstan,1
+United Arab Emirates,Kenya,1
+United Arab Emirates,Kuwait,1
+United Arab Emirates,Kyrgyzstan,1
+United Arab Emirates,Lebanon,1
+United Arab Emirates,Libya,1
+United Arab Emirates,Macedonia,1
+United Arab Emirates,Malaysia,1
+United Arab Emirates,Maldives,1
+United Arab Emirates,Malta,1
+United Arab Emirates,Mauritius,1
+United Arab Emirates,Moldova,1
+United Arab Emirates,Morocco,1
+United Arab Emirates,Nepal,1
+United Arab Emirates,Netherlands,1
+United Arab Emirates,Nigeria,1
+United Arab Emirates,Oman,1
+United Arab Emirates,Pakistan,1
+United Arab Emirates,Philippines,1
+United Arab Emirates,Poland,1
+United Arab Emirates,Portugal,1
+United Arab Emirates,Qatar,1
+United Arab Emirates,Romania,1
+United Arab Emirates,Russia,1
+United Arab Emirates,Rwanda,1
+United Arab Emirates,Saudi Arabia,1
+United Arab Emirates,Senegal,1
+United Arab Emirates,Serbia,1
+United Arab Emirates,Seychelles,1
+United Arab Emirates,Singapore,1
+United Arab Emirates,Somalia,1
+United Arab Emirates,South Africa,1
+United Arab Emirates,South Korea,1
+United Arab Emirates,South Sudan,1
+United Arab Emirates,Spain,1
+United Arab Emirates,Sri Lanka,1
+United Arab Emirates,Sudan,1
+United Arab Emirates,Sweden,1
+United Arab Emirates,Switzerland,1
+United Arab Emirates,Taiwan,1
+United Arab Emirates,Tajikistan,1
+United Arab Emirates,Tanzania,1
+United Arab Emirates,Thailand,1
+United Arab Emirates,Tunisia,1
+United Arab Emirates,Turkey,1
+United Arab Emirates,Turkmenistan,1
+United Arab Emirates,Uganda,1
+United Arab Emirates,Ukraine,1
+United Arab Emirates,United Kingdom,1
+United Arab Emirates,United States,1
+United Arab Emirates,Uzbekistan,1
+United Arab Emirates,Vietnam,1
+United Arab Emirates,Yemen,1
+United Arab Emirates,Zambia,1
+United Kingdom,Albania,1
+United Kingdom,Algeria,1
+United Kingdom,Angola,1
+United Kingdom,Antigua and Barbuda,1
+United Kingdom,Argentina,1
+United Kingdom,Austria,1
+United Kingdom,Azerbaijan,1
+United Kingdom,Bahamas,1
+United Kingdom,Bahrain,1
+United Kingdom,Bangladesh,1
+United Kingdom,Barbados,1
+United Kingdom,Belarus,1
+United Kingdom,Belgium,1
+United Kingdom,Bermuda,1
+United Kingdom,Brazil,1
+United Kingdom,Bulgaria,1
+United Kingdom,Canada,1
+United Kingdom,Cabo Verde,1
+United Kingdom,China,1
+United Kingdom,Croatia,1
+United Kingdom,Cuba,1
+United Kingdom,Cyprus,1
+United Kingdom,Czechia,1
+United Kingdom,Denmark,1
+United Kingdom,Dominican Republic,1
+United Kingdom,Egypt,1
+United Kingdom,Estonia,1
+United Kingdom,Ethiopia,1
+United Kingdom,Finland,1
+United Kingdom,France,1
+United Kingdom,Germany,1
+United Kingdom,Ghana,1
+United Kingdom,Gibraltar,1
+United Kingdom,Greece,1
+United Kingdom,Guernsey,1
+United Kingdom,Hong Kong,1
+United Kingdom,Hungary,1
+United Kingdom,Iceland,1
+United Kingdom,India,1
+United Kingdom,Iran (Islamic Republic of),1
+United Kingdom,Ireland,1
+United Kingdom,Isle of Man,1
+United Kingdom,Israel,1
+United Kingdom,Italy,1
+United Kingdom,Jamaica,1
+United Kingdom,Japan,1
+United Kingdom,Jersey,1
+United Kingdom,Jordan,1
+United Kingdom,Kazakhstan,1
+United Kingdom,Kenya,1
+United Kingdom,Kuwait,1
+United Kingdom,Latvia,1
+United Kingdom,Lebanon,1
+United Kingdom,Libya,1
+United Kingdom,Lithuania,1
+United Kingdom,Luxembourg,1
+United Kingdom,Macedonia,1
+United Kingdom,Malaysia,1
+United Kingdom,Maldives,1
+United Kingdom,Malta,1
+United Kingdom,Mauritius,1
+United Kingdom,Mexico,1
+United Kingdom,Moldova,1
+United Kingdom,Montenegro,1
+United Kingdom,Morocco,1
+United Kingdom,Netherlands,1
+United Kingdom,Nigeria,1
+United Kingdom,Norway,1
+United Kingdom,Oman,1
+United Kingdom,Pakistan,1
+United Kingdom,Philippines,1
+United Kingdom,Poland,1
+United Kingdom,Portugal,1
+United Kingdom,Qatar,1
+United Kingdom,Romania,1
+United Kingdom,Russia,1
+United Kingdom,Saint Lucia,1
+United Kingdom,Saudi Arabia,1
+United Kingdom,Serbia,1
+United Kingdom,Sierra Leone,1
+United Kingdom,Singapore,1
+United Kingdom,Slovakia,1
+United Kingdom,Slovenia,1
+United Kingdom,South Africa,1
+United Kingdom,South Korea,1
+United Kingdom,Spain,1
+United Kingdom,Sri Lanka,1
+United Kingdom,Sweden,1
+United Kingdom,Switzerland,1
+United Kingdom,Thailand,1
+United Kingdom,Trinidad and Tobago,1
+United Kingdom,Tunisia,1
+United Kingdom,Turkey,1
+United Kingdom,Turkmenistan,1
+United Kingdom,Uganda,1
+United Kingdom,Ukraine,1
+United Kingdom,United Arab Emirates,1
+United Kingdom,United States,1
+United Kingdom,Uzbekistan,1
+United States,American Samoa,1
+United States,Antigua and Barbuda,1
+United States,Argentina,1
+United States,Aruba,1
+United States,Australia,1
+United States,Austria,1
+United States,Bahamas,1
+United States,Barbados,1
+United States,Belgium,1
+United States,Belize,1
+United States,Bermuda,1
+United States,Bolivia,1
+United States,Brazil,1
+United States,Canada,1
+United States,Cabo Verde,1
+United States,Cayman Islands,1
+United States,Chile,1
+United States,China,1
+United States,Colombia,1
+United States,Cook Islands,1
+United States,Costa Rica,1
+United States,Denmark,1
+United States,Dominican Republic,1
+United States,Ecuador,1
+United States,Egypt,1
+United States,El Salvador,1
+United States,Ethiopia,1
+United States,Fiji,1
+United States,Finland,1
+United States,France,1
+United States,French Polynesia,1
+United States,Germany,1
+United States,Ghana,1
+United States,Greece,1
+United States,Grenada,1
+United States,Guadeloupe,1
+United States,Guam,1
+United States,Guatemala,1
+United States,Guyana,1
+United States,Haiti,1
+United States,Honduras,1
+United States,Hong Kong,1
+United States,Iceland,1
+United States,India,1
+United States,Ireland,1
+United States,Israel,1
+United States,Italy,1
+United States,Jamaica,1
+United States,Japan,1
+United States,Jordan,1
+United States,Kiribati,1
+United States,Kuwait,1
+United States,Latvia,1
+United States,Marshall Islands,1
+United States,Martinique,1
+United States,Mexico,1
+United States,Morocco,1
+United States,Netherlands,1
+United States,Netherlands Antilles,1
+United States,New Zealand,1
+United States,Nicaragua,1
+United States,Nigeria,1
+United States,Norway,1
+United States,Pakistan,1
+United States,Panama,1
+United States,Paraguay,1
+United States,Peru,1
+United States,Philippines,1
+United States,Poland,1
+United States,Portugal,1
+United States,Puerto Rico,1
+United States,Qatar,1
+United States,Russia,1
+United States,Saint Kitts and Nevis,1
+United States,Saint Lucia,1
+United States,Samoa,1
+United States,Saudi Arabia,1
+United States,Senegal,1
+United States,South Africa,1
+United States,South Korea,1
+United States,Spain,1
+United States,Sweden,1
+United States,Switzerland,1
+United States,Taiwan,1
+United States,Trinidad and Tobago,1
+United States,Turkey,1
+United States,Turks and Caicos Islands,1
+United States,Ukraine,1
+United States,United Arab Emirates,1
+United States,United Kingdom,1
+United States,Uruguay,1
+United States,Venezuela,1
+United States,Virgin Islands,1
+Uruguay,Argentina,1
+Uruguay,Brazil,1
+Uruguay,Chile,1
+Uruguay,Panama,1
+Uruguay,Paraguay,1
+Uruguay,Peru,1
+Uruguay,Spain,1
+Uruguay,United States,1
+Uzbekistan,Azerbaijan,1
+Uzbekistan,China,1
+Uzbekistan,Czechia,1
+Uzbekistan,France,1
+Uzbekistan,Germany,1
+Uzbekistan,India,1
+Uzbekistan,Iran (Islamic Republic of),1
+Uzbekistan,Israel,1
+Uzbekistan,Italy,1
+Uzbekistan,Japan,1
+Uzbekistan,Kazakhstan,1
+Uzbekistan,Kyrgyzstan,1
+Uzbekistan,Latvia,1
+Uzbekistan,Malaysia,1
+Uzbekistan,Russia,1
+Uzbekistan,Singapore,1
+Uzbekistan,South Korea,1
+Uzbekistan,Thailand,1
+Uzbekistan,Turkey,1
+Uzbekistan,Ukraine,1
+Uzbekistan,United Arab Emirates,1
+Uzbekistan,United Kingdom,1
+Vanuatu,Australia,1
+Vanuatu,Fiji,1
+Vanuatu,New Caledonia,1
+Vanuatu,New Zealand,1
+Vanuatu,Solomon Islands,1
+Venezuela,Argentina,1
+Venezuela,Aruba,1
+Venezuela,Brazil,1
+Venezuela,Chile,1
+Venezuela,Colombia,1
+Venezuela,Cuba,1
+Venezuela,Dominican Republic,1
+Venezuela,Ecuador,1
+Venezuela,France,1
+Venezuela,Germany,1
+Venezuela,Grenada,1
+Venezuela,Guyana,1
+Venezuela,Italy,1
+Venezuela,Mexico,1
+Venezuela,Netherlands Antilles,1
+Venezuela,Panama,1
+Venezuela,Peru,1
+Venezuela,Portugal,1
+Venezuela,Puerto Rico,1
+Venezuela,Spain,1
+Venezuela,Trinidad and Tobago,1
+Venezuela,United States,1
+Vietnam,Australia,1
+Vietnam,Myanmar,1
+Vietnam,Cambodia,1
+Vietnam,China,1
+Vietnam,France,1
+Vietnam,Germany,1
+Vietnam,Hong Kong,1
+Vietnam,Indonesia,1
+Vietnam,Japan,1
+Vietnam,Kazakhstan,1
+Vietnam,Lao People's Democratic Republic,1
+Vietnam,Macao,1
+Vietnam,Malaysia,1
+Vietnam,Philippines,1
+Vietnam,Qatar,1
+Vietnam,Russia,1
+Vietnam,Singapore,1
+Vietnam,South Korea,1
+Vietnam,Taiwan,1
+Vietnam,Thailand,1
+Vietnam,United Arab Emirates,1
+Virgin Islands,Anguilla,1
+Virgin Islands,Virgin Islands (British),1
+Virgin Islands,Dominica,1
+Virgin Islands,France,1
+Virgin Islands,Netherlands Antilles,1
+Virgin Islands,Puerto Rico,1
+Virgin Islands,Saint Kitts and Nevis,1
+Virgin Islands,United States,1
+Wallis and Futuna,Fiji,1
+Wallis and Futuna,New Caledonia,1
+Western Sahara,Morocco,1
+Western Sahara,Spain,1
+Yemen,Bahrain,1
+Yemen,Djibouti,1
+Yemen,Egypt,1
+Yemen,Eritrea,1
+Yemen,Ethiopia,1
+Yemen,India,1
+Yemen,Jordan,1
+Yemen,Kenya,1
+Yemen,Kuwait,1
+Yemen,Lebanon,1
+Yemen,Qatar,1
+Yemen,Saudi Arabia,1
+Yemen,Somalia,1
+Yemen,Sudan,1
+Yemen,Turkey,1
+Yemen,United Arab Emirates,1
+Zambia,Angola,1
+Zambia,Botswana,1
+Zambia,"Congo, Democratic Republic of the",1
+Zambia,Ethiopia,1
+Zambia,Kenya,1
+Zambia,Malawi,1
+Zambia,Namibia,1
+Zambia,Netherlands,1
+Zambia,South Africa,1
+Zambia,United Arab Emirates,1
+Zambia,Zimbabwe,1
+Zimbabwe,Botswana,1
+Zimbabwe,Ethiopia,1
+Zimbabwe,Kenya,1
+Zimbabwe,Malawi,1
+Zimbabwe,Namibia,1
+Zimbabwe,South Africa,1
+Zimbabwe,Tanzania,1
+Zimbabwe,Zambia,1

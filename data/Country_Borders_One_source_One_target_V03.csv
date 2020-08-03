@@ -1,0 +1,877 @@
+Country,Neighbour,iso-alpha-3,region
+Afghanistan,China,AFG,Asia
+Afghanistan,Iran (Islamic Republic of),AFG,Asia
+Afghanistan,Pakistan,AFG,Asia
+Afghanistan,Tajikistan,AFG,Asia
+Afghanistan,Turkmenistan,AFG,Asia
+Afghanistan,Uzbekistan,AFG,Asia
+Åland Islands,Finalnd,ALA,Europe
+Åland Islands,Sweden,ALA,Europe
+Albania,Greece,ALB,Europe
+Albania,Kosovo,ALB,Europe
+Albania,Montenegro,ALB,Europe
+Albania,North Macedonia,ALB,Europe
+Algeria,Libya,DZA,Africa
+Algeria,Mali,DZA,Africa
+Algeria,Mauritania,DZA,Africa
+Algeria,Morocco,DZA,Africa
+Algeria,Niger,DZA,Africa
+Algeria,Tunisia,DZA,Africa
+Algeria,Western Sahara,DZA,Africa
+American Samoa,Niue,ASM,Oceania
+American Samoa,Samoa,ASM,Oceania
+American Samoa,Wallis and Futuna,ASM,Oceania
+Andorra,France,AND,Europe
+Andorra,Spain,AND,Europe
+Angola,Congo,AGO,Africa
+Angola,"Congo, Democratic Republic of the",AGO,Africa
+Angola,Namibia,AGO,Africa
+Angola,Zambia,AGO,Africa
+Anguilla,Antigua and Barbuda,AIA,Americas
+Anguilla,Saint Kitts and Nevis,AIA,Americas
+Antarctica,Argentina,ATA,Antartica
+Antarctica,Australia,ATA,Antartica
+Antarctica,South Africa,ATA,Antartica
+Antigua and Barbuda,Saint Kitts and Nevis,ATG,Americas
+Argentina,Bolivia,ARG,Americas
+Argentina,Brazil,ARG,Americas
+Argentina,Chile,ARG,Americas
+Argentina,Paraguay,ARG,Americas
+Argentina,Uruguay,ARG,Americas
+Armenia,Azerbaijan,ARM,Asia
+Armenia,Georgia,ARM,Asia
+Armenia,Iran (Islamic Republic of),ARM,Asia
+Armenia,Turkey,ARM,Asia
+Aruba,Curaçao,ABW,Americas
+Aruba,Venezuela (Bolivarian Republic of),ABW,Americas
+Australia,Indonesia,AUS,Oceania
+Australia,Norfolk Island,AUS,Oceania
+Austria,Czechia,AUT,Europe
+Austria,Germany,AUT,Europe
+Austria,Hungary,AUT,Europe
+Austria,Italy,AUT,Europe
+Austria,Liechtenstein,AUT,Europe
+Austria,Slovakia,AUT,Europe
+Austria,Slovenia,AUT,Europe
+Austria,Switzerland,AUT,Europe
+Azerbaijan,Armenia,AZE,Asia
+Azerbaijan,Georgia,AZE,Asia
+Azerbaijan,Iran (Islamic Republic of),AZE,Asia
+Azerbaijan,Russian Federation,AZE,Asia
+Azerbaijan,Turkey,AZE,Asia
+Bahamas,Turks and Caicos Islands,BHS,Americas
+Bahamas,United States of America,BHS,Americas
+Bahrain,Qatar,BHR,Asia
+Bahrain,Saudi Arabia,BHR,Asia
+Bangladesh,India,BGD,Asia
+Bangladesh,Myanmar,BGD,Asia
+Barbados,Grenada,BRB,Americas
+Belarus,Latvia,BLR,Europe
+Belarus,Lithuania,BLR,Europe
+Belarus,Poland,BLR,Europe
+Belarus,Russian Federation,BLR,Europe
+Belarus,Ukraine,BLR,Europe
+Belgium,France,BEL,Europe
+Belgium,Germany,BEL,Europe
+Belgium,Luxembourg,BEL,Europe
+Belgium,Netherlands,BEL,Europe
+Belize,Guatemala,BLZ,Americas
+Belize,Mexico,BLZ,Americas
+Benin,Burkina Faso,BEN,Africa
+Benin,Niger,BEN,Africa
+Benin,Nigeria,BEN,Africa
+Benin,Togo,BEN,Africa
+Bermuda,United States of America,BMU,Americas
+Bhutan,China,BTN,Asia
+Bhutan,India,BTN,Asia
+Bolivia,Argentina,BOL,Americas
+Bolivia,Brazil,BOL,Americas
+Bolivia,Chile,BOL,Americas
+Bolivia,Paraguay,BOL,Americas
+Bolivia,Peru,BOL,Americas
+"Bonaire, Sint Eustatius and Saba",Aruba,BES,Americas
+"Bonaire, Sint Eustatius and Saba",Curaçao,BES,Americas
+Bosnia and Herzegovina,Croatia,BIH,Europe
+Bosnia and Herzegovina,Montenegro,BIH,Europe
+Bosnia and Herzegovina,Serbia,BIH,Europe
+Botswana,Namibia,BWA,Africa
+Botswana,South Africa,BWA,Africa
+Botswana,Zambia,BWA,Africa
+Botswana,Zimbabwe,BWA,Africa
+Bouvet Island,South Georgia and the South Sandwich Islands,BVT,Americas
+Brazil,Argentina,BRA,Americas
+Brazil,Bolivia,BRA,Americas
+Brazil,Colombia,BRA,Americas
+Brazil,French Guiana,BRA,Americas
+Brazil,Guyana,BRA,Americas
+Brazil,Paraguay,BRA,Americas
+Brazil,Peru,BRA,Americas
+Brazil,Suriname,BRA,Americas
+Brazil,Uruguay,BRA,Americas
+Brazil,Venezuela (Bolivarian Republic of),BRA,Americas
+British Indian Ocean Territory,Sri Lanka,IOT,Africa
+British Indian Ocean Territory,"Tanzania, United Republic of",IOT,Africa
+Brunei,Malaysia,BRN,Asia
+Bulgaria,Greece,BGR,Europe
+Bulgaria,North Macedonia,BGR,Europe
+Bulgaria,Romania,BGR,Europe
+Bulgaria,Serbia,BGR,Europe
+Bulgaria,Turkey,BGR,Europe
+Burkina Faso,Benin,BFA,Africa
+Burkina Faso,Côte d'Ivoire,BFA,Africa
+Burkina Faso,Ghana,BFA,Africa
+Burkina Faso,Mali,BFA,Africa
+Burkina Faso,Niger,BFA,Africa
+Burkina Faso,Togo,BFA,Africa
+Burundi,"Congo, Democratic Republic of the",BDI,Africa
+Burundi,Rwanda,BDI,Africa
+Burundi,"Tanzania, United Republic of",BDI,Africa
+Cabo Verde,Mauritania,CPV,Africa
+Cabo Verde,Senegal,CPV,Africa
+Cambodia,Lao People's Democratic Republic,KHM,Asia
+Cambodia,Thailand,KHM,Asia
+Cambodia,Viet Nam,KHM,Asia
+Cameroon,Central African Republic,CMR,Africa
+Cameroon,Chad,CMR,Africa
+Cameroon,Congo,CMR,Africa
+Cameroon,Equatorial Guinea,CMR,Africa
+Cameroon,Gabon,CMR,Africa
+Cameroon,Nigeria,CMR,Africa
+Canada,Greenland,CAN,Americas
+Canada,United States of America,CAN,Americas
+Cayman Islands,Cuba,CYM,Americas
+Cayman Islands,Jamaica,CYM,Americas
+Central African Republic,Cameroon,CAF,Africa
+Central African Republic,Chad,CAF,Africa
+Central African Republic,Congo,CAF,Africa
+Central African Republic,"Congo, Democratic Republic of the",CAF,Africa
+Central African Republic,South Sudan,CAF,Africa
+Central African Republic,Sudan,CAF,Africa
+Chad,Cameroon,TCD,Africa
+Chad,Central African Republic,TCD,Africa
+Chad,Libya,TCD,Africa
+Chad,Niger,TCD,Africa
+Chad,Nigeria,TCD,Africa
+Chad,Sudan,TCD,Africa
+Chile,Argentina,CHL,Americas
+Chile,Bolivia,CHL,Americas
+Chile,Peru,CHL,Americas
+China,Afghanistan,CHN,Asia
+China,Bhutan,CHN,Asia
+China,Hong Kong,CHN,Asia
+China,India,CHN,Asia
+China,Kazakhstan,CHN,Asia
+China,Korea (Democratic People's Republic of),CHN,Asia
+China,Kyrgyzstan,CHN,Asia
+China,Lao People's Democratic Republic,CHN,Asia
+China,Macao,CHN,Asia
+China,Mongolia,CHN,Asia
+China,Myanmar,CHN,Asia
+China,Nepal,CHN,Asia
+China,Pakistan,CHN,Asia
+China,Russian Federation,CHN,Asia
+China,Tajikistan,CHN,Asia
+China,Viet Nam,CHN,Asia
+Christmas Island,Cocos (Keeling) Islands,CXR,Oceania
+Christmas Island,Indonesia,CXR,Oceania
+Cocos (Keeling) Islands,Indonesia,CCK,Oceania
+Colombia,Brazil,COL,Americas
+Colombia,Ecuador,COL,Americas
+Colombia,Panama,COL,Americas
+Colombia,Peru,COL,Americas
+Colombia,Venezuela (Bolivarian Republic of),COL,Americas
+Congo,Angola,COG,Africa
+Congo,Cameroon,COG,Africa
+Congo,Central African Republic,COG,Africa
+Congo,"Congo, Democratic Republic of the",COG,Africa
+Congo,Gabon,COG,Africa
+"Congo, Democratic Republic of the",Angola,COD,Africa
+"Congo, Democratic Republic of the",Burundi,COD,Africa
+"Congo, Democratic Republic of the",Central African Republic,COD,Africa
+"Congo, Democratic Republic of the",Congo,COD,Africa
+"Congo, Democratic Republic of the",Rwanda,COD,Africa
+"Congo, Democratic Republic of the",South Sudan,COD,Africa
+"Congo, Democratic Republic of the","Tanzania, United Republic of",COD,Africa
+"Congo, Democratic Republic of the",Uganda,COD,Africa
+"Congo, Democratic Republic of the",Zambia,COD,Africa
+Cook Islands,Niue,COK,Oceania
+Costa Rica,Nicaragua,CRI,Americas
+Costa Rica,Panama,CRI,Americas
+Côte d'Ivoire,Burkina Faso,CIV,Africa
+Côte d'Ivoire,Ghana,CIV,Africa
+Côte d'Ivoire,Guinea,CIV,Africa
+Côte d'Ivoire,Liberia,CIV,Africa
+Côte d'Ivoire,Mali,CIV,Africa
+,,,
+Croatia,Bosnia and Herzegovina,HRV,Europe
+Croatia,Hungary,HRV,Europe
+Croatia,Montenegro,HRV,Europe
+Croatia,Serbia,HRV,Europe
+Croatia,Slovenia,HRV,Europe
+Cuba,CaymanIslands,CUB,Americas
+Cuba,Mexico,CUB,Americas
+Cuba,UnitedStates,CUB,Americas
+Curaçao,Venezuela (Bolivarian Republic of),CUW,Americas
+Cyprus,Greece,CYP,Asia
+Cyprus,Turkey,CYP,Asia
+Czechia,Austria,,
+Czechia,Germany,,
+Czechia,Poland,,
+Czechia,Slovakia,,
+Denmark,Germany,DNK,Europe
+Denmark,Sweden,DNK,Europe
+Djibouti,Eritrea,DJI,Africa
+Djibouti,Ethiopia,DJI,Africa
+Djibouti,Somalia,DJI,Africa
+Dominica,Guadeloupe,DMA,Americas
+Dominica,Martinique,DMA,Americas
+Dominican Republic,Haiti,DOM,Americas
+Dominican Republic,Puerto Rico,DOM,Americas
+East Timor,Indonesia,TL,Asia
+Ecuador,Colombia,ECU,Americas
+Ecuador,Peru,ECU,Americas
+Egypt,GazaStrip,EGY,Africa
+Egypt,Israel,EGY,Africa
+Egypt,Libya,EGY,Africa
+Egypt,Sudan,EGY,Africa
+El Salvador,Guatemala,SLV,Americas
+El Salvador,Honduras,SLV,Americas
+Equatorial Guinea,Cameroon,GNQ,Africa
+Equatorial Guinea,Gabon,GNQ,Africa
+Eritrea,Djibouti,ERI,Africa
+Eritrea,Ethiopia,ERI,Africa
+Eritrea,South Sudan,ERI,Africa
+Eritrea,Sudan,ERI,Africa
+Estonia,Latvia,EST,Europe
+Estonia,Russian Federation,EST,Europe
+Eswatini,Mozambique,SWZ,Africa
+Eswatini,South Africa,SWZ,Africa
+Ethiopia,Djibouti,ETH,Africa
+Ethiopia,Eritrea,ETH,Africa
+Ethiopia,Kenya,ETH,Africa
+Ethiopia,Somalia,ETH,Africa
+Ethiopia,South Sudan,ETH,Africa
+Ethiopia,Sudan,ETH,Africa
+Falkland Islands (Malvinas),Argentina,FLK,Americas
+Faroe Islands,Iceland,FRO,Europe
+Faroe Islands,UnitedKingdom,FRO,Europe
+Fiji,New Caledonia,FJI,Oceania
+Fiji,Samoa,FJI,Oceania
+Fiji,Tuvalu,FJI,Oceania
+Fiji,Vanuatu,FJI,Oceania
+Fiji,Wallis and Futuna,FJI,Oceania
+Finland,Norway,FIN,Europe
+Finland,Russian Federation,FIN,Europe
+Finland,Sweden,FIN,Europe
+France,Andorra,FRA,Europe
+France,Belgium,FRA,Europe
+France,Germany,FRA,Europe
+France,Italy,FRA,Europe
+France,Luxembourg,FRA,Europe
+France,Monaco,FRA,Europe
+France,Spain,FRA,Europe
+France,Switzerland,FRA,Europe
+French Guiana,Brazil,,
+French Guiana,Suriname,,
+French Polynesia,Cook Islands,PYF,Oceania
+French Southern Territories,Antartica,ATF,Africa
+French Southern Territories,Madagascar,ATF,Africa
+Gabon,Cameroon,GAB,Africa
+Gabon,Congo,GAB,Africa
+Gabon,Equatorial Guinea,GAB,Africa
+Gambia,Senegal,GMB,Africa
+Georgia,Azerbaijan,GEO,Asia
+Georgia,Russian Federation,GEO,Asia
+Georgia,Turkey,GEO,Asia
+Germany,Austria,DEU,Europe
+Germany,Belgium,DEU,Europe
+Germany,Czechia,DEU,Europe
+Germany,Denmark,DEU,Europe
+Germany,France,DEU,Europe
+Germany,Luxembourg,DEU,Europe
+Germany,Netherlands,DEU,Europe
+Germany,Poland,DEU,Europe
+Germany,Switzerland,DEU,Europe
+Ghana,Burkina Faso,GHA,Africa
+Ghana,Côte d'Ivoire,GHA,Africa
+Ghana,Togo,GHA,Africa
+Gibraltar,Spain,GIB,Europe
+Greece,Albania,GRC,Europe
+Greece,Bulgaria,GRC,Europe
+Greece,North Macedonia,GRC,Europe
+Greece,Turkey,,
+Greenland,Iceland,GRL,Americas
+Grenada,Trinidad and Tobago,GRD,Americas
+Guadeloupe,Antigua and Barbuda,GLP,Americas
+Guadeloupe,Montserrat,GLP,Americas
+Guam,Northern Mariana Islands,GUM,Oceania
+Guam,Palau,,
+Guatemala,Belize,GTM,Americas
+Guatemala,El Salvador,GTM,Americas
+Guatemala,Honduras,GTM,Americas
+Guatemala,Mexico,GTM,Americas
+Guernsey,France,GGY,Europe
+Guernsey,United Kingdom of Great Britain and Northern Ireland,GGY,Europe
+Guinea,Côte d'Ivoire,GIN,Africa
+Guinea,Guinea-Bissau,GIN,Africa
+Guinea,Liberia,GIN,Africa
+Guinea,Mali,GIN,Africa
+Guinea,Senegal,GIN,Africa
+Guinea,Sierra Leone,GIN,Africa
+Guinea-Bissau,Guinea,GNB,Africa
+Guinea-Bissau,Senegal,GNB,Africa
+Guyana,Brazil,GUY,Americas
+Guyana,Suriname,GUY,Americas
+Guyana,Venezuela (Bolivarian Republic of),GUY,Americas
+Haiti,Cuba,HTI,Americas
+Haiti,Dominican Republic,HTI,Americas
+Heard Island and McDonald Islands,French Southern Territories,HMD,Oceania
+Holy See,Italy,VAT,Europe
+Honduras,El Salvador,HND,Americas
+Honduras,Guatemala,HND,Americas
+Honduras,Nicaragua,HND,Americas
+Hong Kong,China,HKG,Asia
+Hungary,Austria,HUN,Europe
+Hungary,Croatia,HUN,Europe
+Hungary,Romania,HUN,Europe
+Hungary,Serbia,HUN,Europe
+Hungary,Slovakia,HUN,Europe
+Hungary,Slovenia,HUN,Europe
+Hungary,Ukraine,HUN,Europe
+India,Bangladesh,IND,Asia
+India,Bhutan,IND,Asia
+India,China,IND,Asia
+India,Myanmar,IND,Asia
+India,Nepal,IND,Asia
+India,Pakistan,IND,Asia
+Indonesia,EastTimor,IDN,Asia
+Indonesia,Malaysia,IDN,Asia
+Indonesia,Papua New Guinea,IDN,Asia
+Iran (Islamic Republic of),Afghanistan,IRN,Asia
+Iran (Islamic Republic of),Armenia,IRN,Asia
+Iran (Islamic Republic of),Azerbaijan,IRN,Asia
+Iran (Islamic Republic of),Iraq,IRN,Asia
+Iran (Islamic Republic of),Pakistan,IRN,Asia
+Iran (Islamic Republic of),Turkey,IRN,Asia
+Iran (Islamic Republic of),Turkmenistan,IRN,Asia
+Iraq,Iran (Islamic Republic of),IRQ,Asia
+Iraq,Jordan,IRQ,Asia
+Iraq,Kuwait,IRQ,Asia
+Iraq,Saudi Arabia,IRQ,Asia
+Iraq,Syrian Arab Republic,IRQ,Asia
+Iraq,Turkey,IRQ,Asia
+Ireland,United Kingdom of Great Britain and Northern Ireland,IRL,Europe
+Isle of Man,Ireland,IMN,Europe
+Isle of Man,United Kingdom of Great Britain and Northern Ireland,IMN,Europe
+Israel,Egypt,ISR,Asia
+Israel,Jordan,ISR,Asia
+Israel,Lebanon,ISR,Asia
+Israel,"Palestine, State of",,
+Israel,Syrian Arab Republic,ISR,Asia
+Italy,Austria,ITA,Europe
+Italy,France,ITA,Europe
+Italy,SanMarino,ITA,Europe
+Italy,Slovenia,ITA,Europe
+Italy,Switzerland,ITA,Europe
+Italy,VaticanCity,ITA,Europe
+Jamaica,Cuba,JAM,Americas
+Jamaica,Haiti,JAM,Americas
+Japan,Korea (Democratic People's Republic of),JPN,Asia
+Jersey,France,JEY,Europe
+Jersey,United Kingdom of Great Britain and Northern Ireland,JEY,Europe
+Jordan,Iraq,JOR,Asia
+Jordan,Israel,JOR,Asia
+Jordan,Saudi Arabia,JOR,Asia
+Jordan,Syrian Arab Republic,JOR,Asia
+Jordan,WestBank,JOR,Asia
+Kazakhstan,China,KAZ,Asia
+Kazakhstan,Kyrgyzstan,KAZ,Asia
+Kazakhstan,Russian Federation,KAZ,Asia
+Kazakhstan,Turkmenistan,KAZ,Asia
+Kazakhstan,Uzbekistan,KAZ,Asia
+Kenya,Ethiopia,KEN,Africa
+Kenya,Somalia,KEN,Africa
+Kenya,South Sudan,KEN,Africa
+Kenya,"Tanzania, United Republic of",KEN,Africa
+Kenya,Uganda,KEN,Africa
+Korea (Democratic People's Republic of),China,PRK,Asia
+Korea (Democratic People's Republic of),"Korea, Republic of",PRK,Asia
+Korea (Democratic People's Republic of),Russian Federation,PRK,Asia
+"Korea, Republic of",Korea (Democratic People's Republic of),KOR,Asia
+Kuwait,Iraq,KWT,Asia
+Kuwait,Saudi Arabia,KWT,Asia
+Kyrgyzstan,China,KGZ,Asia
+Kyrgyzstan,Kazakhstan,KGZ,Asia
+Kyrgyzstan,Tajikistan,KGZ,Asia
+Kyrgyzstan,Uzbekistan,KGZ,Asia
+Lao People's Democratic Republic,Cambodia,LAO,Asia
+Lao People's Democratic Republic,China,LAO,Asia
+Lao People's Democratic Republic,Myanmar,LAO,Asia
+Lao People's Democratic Republic,Thailand,LAO,Asia
+Lao People's Democratic Republic,Viet Nam,LAO,Asia
+Latvia,Belarus,LVA,Europe
+Latvia,Estonia,LVA,Europe
+Latvia,Lithuania,LVA,Europe
+Latvia,Russian Federation,LVA,Europe
+Lebanon,Israel,LBN,Asia
+Lebanon,Syrian Arab Republic,LBN,Asia
+Lesotho,South Africa,LSO,Africa
+Liberia,Côte d'Ivoire,LBR,Africa
+Liberia,Guinea,LBR,Africa
+Liberia,Sierra Leone,LBR,Africa
+Libya,Algeria,LBY,Africa
+Libya,Chad,LBY,Africa
+Libya,Egypt,LBY,Africa
+Libya,Niger,LBY,Africa
+Libya,Sudan,LBY,Africa
+Libya,Tunisia,LBY,Africa
+Liechtenstein,Austria,LIE,Europe
+Liechtenstein,Switzerland,LIE,Europe
+Lithuania,Belarus,LTU,Europe
+Lithuania,Latvia,LTU,Europe
+Lithuania,Poland,LTU,Europe
+Lithuania,Russian Federation,LTU,Europe
+Luxembourg,Belgium,LUX,Europe
+Luxembourg,France,LUX,Europe
+Luxembourg,Germany,LUX,Europe
+Macao,China,MAC,Asia
+Madagascar,Mayotte,MDG,Africa
+Madagascar,Réunion,MDG,Africa
+Malawi,Mozambique,MWI,Africa
+Malawi,"Tanzania, United Republic of",MWI,Africa
+Malawi,Zambia,MWI,Africa
+Malaysia,Brunei,MYS,Asia
+Malaysia,Indonesia,MYS,Asia
+Malaysia,Philippines,MYS,Asia
+Malaysia,Singapore,MYS,Asia
+Malaysia,Thailand,MYS,Asia
+Mali,Algeria,MLI,Africa
+Mali,Burkina Faso,MLI,Africa
+Mali,Côte d'Ivoire,MLI,Africa
+Mali,Guinea,MLI,Africa
+Mali,Mauritania,MLI,Africa
+Mali,Niger,MLI,Africa
+Mali,Senegal,MLI,Africa
+Malta,Italy,MLT,Europe
+Malta,Tunisia,MLT,Europe
+Mauritania,Algeria,MRT,Africa
+Mauritania,Mali,MRT,Africa
+Mauritania,Senegal,MRT,Africa
+Mauritania,Western Sahara,MRT,Africa
+Mauritius,Réunion,MUS,Africa
+Mexico,Belize,MEX,Americas
+Mexico,Guatemala,MEX,Americas
+Mexico,United States of America,MEX,Americas
+Micronesia (Federated States of),Papua New Guinea,FSM,Oceania
+"Moldova, Republic of",Romania,MDA,Europe
+"Moldova, Republic of",Ukraine,MDA,Europe
+Monaco,France,MCO,Europe
+Mongolia,China,MNG,Asia
+Mongolia,Russian Federation,MNG,Asia
+Montenegro,Albania,MNE,Europe
+Montenegro,Bosnia and Herzegovina,MNE,Europe
+Montenegro,Croatia,MNE,Europe
+Montenegro,Kosovo,MNE,Europe
+Montenegro,Serbia,MNE,Europe
+Montserrat,Guadeloupe,MSR,Americas
+Montserrat,Saint Kitts and Nevis,MSR,Americas
+Morocco,Algeria,MAR,Africa
+Morocco,Spain,MAR,Africa
+Morocco,Western Sahara,MAR,Africa
+Mozambique,Madagascar,MOZ,Africa
+Mozambique,Malawi,MOZ,Africa
+Mozambique,Mayotte,MOZ,Africa
+Mozambique,South Africa,MOZ,Africa
+Mozambique,Swaziland,MOZ,Africa
+Mozambique,"Tanzania, United Republic of",MOZ,Africa
+Mozambique,Zambia,MOZ,Africa
+Mozambique,Zimbabwe,MOZ,Africa
+Myanmar,Bangladesh,MMR,Asia
+Myanmar,China,MMR,Asia
+Myanmar,India,MMR,Asia
+Myanmar,Lao People's Democratic Republic,MMR,Asia
+Myanmar,Thailand,MMR,Asia
+Namibia,Angola,NAM,Africa
+Namibia,Botswana,NAM,Africa
+Namibia,South Africa,NAM,Africa
+Namibia,Zambia,NAM,Africa
+Nauru,Marshall Islands,NRU,Oceania
+Nauru,Micronesia (Federated States of),NRU,Oceania
+Nauru,Solomon Islands,NRU,Oceania
+Nepal,China,NPL,Asia
+Nepal,India,NPL,Asia
+Netherlands,Belgium,NLD,Europe
+Netherlands,Germany,NLD,Europe
+New Caledonia,Australia,NCL,Oceania
+New Caledonia,Vanuatu,NCL,Oceania
+New Zealand,Australia,NZL,Oceania
+Nicaragua,Costa Rica,NIC,Americas
+Nicaragua,Honduras,NIC,Americas
+Niger,Algeria,NER,Africa
+Niger,Benin,NER,Africa
+Niger,Burkina Faso,NER,Africa
+Niger,Chad,NER,Africa
+Niger,Libya,NER,Africa
+Niger,Mali,NER,Africa
+Niger,Nigeria,NER,Africa
+Nigeria,Benin,NGA,Africa
+Nigeria,Cameroon,NGA,Africa
+Nigeria,Chad,NGA,Africa
+Nigeria,Niger,NGA,Africa
+Norfolk Island,New Zealand,NFK,Oceania
+North Macedonia,Albania,MKD,Europe
+North Macedonia,Bulgaria,MKD,Europe
+North Macedonia,Greece,MKD,Europe
+North Macedonia,Kosovo,MKD,Europe
+North Macedonia,Serbia,MKD,Europe
+Northern Mariana Islands,Guam,MNP,Oceania
+Norway,Finland,NOR,Europe
+Norway,Russian Federation,NOR,Europe
+Norway,Sweden,NOR,Europe
+Oman,Saudi Arabia,OMN,Asia
+Oman,United Arab Emirates,OMN,Asia
+Oman,Yemen,OMN,Asia
+Pakistan,Afghanistan,PAK,Asia
+Pakistan,China,PAK,Asia
+Pakistan,India,PAK,Asia
+Pakistan,Iran (Islamic Republic of),PAK,Asia
+Palau,Guam,PLW,Oceania
+Palau,Indonesia,PLW,Oceania
+Palau,Philippines,PLW,Oceania
+"Palestine, State of",Jordan,PSE,Asia
+"Palestine, State of",Lebanon,PSE,Asia
+"Palestine, State of",Syrian Arab Republic,PSE,Asia
+Panama,Colombia,PAN,Americas
+Panama,Costa Rica,PAN,Americas
+PapuaNewGuinea,Australia,PNG,Oceania
+PapuaNewGuinea,Indonesia,PNG,Oceania
+PapuaNewGuinea,Solomon Islands,PNG,Oceania
+Paraguay,Argentina,PRY,Americas
+Paraguay,Bolivia,PRY,Americas
+Paraguay,Brazil,PRY,Americas
+Peru,Bolivia,PER,Americas
+Peru,Brazil,PER,Americas
+Peru,Chile,PER,Americas
+Peru,Colombia,PER,Americas
+Peru,Ecuador,PER,Americas
+Philippines,Indonesia,PHL,Asia
+Pitcairn,French Polynesia,PCN,Oceania
+Poland,Belarus,POL,Europe
+Poland,Czechia,POL,Europe
+Poland,Germany,POL,Europe
+Poland,Lithuania,POL,Europe
+Poland,Russian Federation,POL,Europe
+Poland,Slovakia,POL,Europe
+Poland,Ukraine,POL,Europe
+Portugal,Spain,PRT,Europe
+Puerto Rico,Dominican Republic,PRI,Americas
+Qatar,Saudi Arabia,QAT,Asia
+Romania,Bulgaria,ROU,Europe
+Romania,Hungary,ROU,Europe
+Romania,"Moldova, Republic of",ROU,Europe
+Romania,Serbia,ROU,Europe
+Romania,Ukraine,ROU,Europe
+Russian Federation,Azerbaijan,RUS,Europe
+Russian Federation,Belarus,RUS,Europe
+Russian Federation,China,RUS,Europe
+Russian Federation,Estonia,RUS,Europe
+Russian Federation,Finland,RUS,Europe
+Russian Federation,Georgia,RUS,Europe
+Russian Federation,Kazakhstan,RUS,Europe
+Russian Federation,Korea (Democratic People's Republic of),RUS,Europe
+Russian Federation,Latvia,RUS,Europe
+Russian Federation,Lithuania,RUS,Europe
+Russian Federation,Mongolia,RUS,Europe
+Russian Federation,Norway,RUS,Europe
+Russian Federation,Poland,RUS,Europe
+Russian Federation,Ukraine,RUS,Europe
+Rwanda,Burundi,RWA,Africa
+Rwanda,"Congo, Democratic Republic of the",RWA,Africa
+Rwanda,"Tanzania, United Republic of",RWA,Africa
+Rwanda,Uganda,RWA,Africa
+Saint Barthélemy,Anguilla,BLM,Americas
+Saint Barthélemy,Saint Kitts and Nevis,BLM,Americas
+"Saint Helena, Ascension and Tristan da Cunha",Brazil,SHN,Africa
+"Saint Helena, Ascension and Tristan da Cunha",Namibia,SHN,Africa
+Saint Lucia,Barbados,LCA,Americas
+Saint Lucia,Martinique,LCA,Americas
+Saint Lucia,Saint Vincent and the Grenadines,LCA,Americas
+Saint Martin (French part),Anguilla,MAF,Americas
+Saint Martin (French part),Saint Kitts and Nevis,MAF,Americas
+Saint Pierre and Miquelon,Canada,SPM,Americas
+Saint Vincent and the Grenadines,Barbados,,
+Saint Vincent and the Grenadines,Grenada,VCT,Americas
+Samoa,Tokelau,WSM,Oceania
+San Marino,Italy,SMR,Europe
+Sao Tome and Principe,Gabon,STP,Africa
+Saudi Arabia,Iraq,SAU,Asia
+Saudi Arabia,Jordan,SAU,Asia
+Saudi Arabia,Kuwait,SAU,Asia
+Saudi Arabia,Oman,SAU,Asia
+Saudi Arabia,Qatar,SAU,Asia
+Saudi Arabia,United Arab Emirates,SAU,Asia
+Saudi Arabia,Yemen,SAU,Asia
+Senegal,Gambia,SEN,Africa
+Senegal,Guinea,SEN,Africa
+Senegal,Guinea-Bissau,SEN,Africa
+Senegal,Mali,SEN,Africa
+Senegal,Mauritania,SEN,Africa
+Serbia,Bosnia and Herzegovina,SRB,Europe
+Serbia,Bulgaria,SRB,Europe
+Serbia,Croatia,SRB,Europe
+Serbia,Hungary,SRB,Europe
+Serbia,Kosovo,SRB,Europe
+Serbia,Montenegro,SRB,Europe
+Serbia,North Macedonia,SRB,Europe
+Serbia,Romania,SRB,Europe
+Seychelles,Madagascar,SYC,Africa
+Seychelles,Somalia,SYC,Africa
+Sierra Leone,Guinea,SLE,Africa
+Sierra Leone,Liberia,SLE,Africa
+Singapore,Indonesia,SGP,Asia
+Sint Maarten (Dutch part),Guadeloupe,SXM,Americas
+Slovakia,Austria,SVK,Europe
+Slovakia,Czechia,SVK,Europe
+Slovakia,Hungary,SVK,Europe
+Slovakia,Poland,SVK,Europe
+Slovakia,Ukraine,SVK,Europe
+Slovenia,Austria,SVN,Europe
+Slovenia,Croatia,SVN,Europe
+Slovenia,Hungary,SVN,Europe
+Slovenia,Italy,SVN,Europe
+Somalia,Djibouti,SOM,Africa
+Somalia,Ethiopia,SOM,Africa
+Somalia,Kenya,SOM,Africa
+South Africa,Botswana,ZAF,Africa
+South Africa,Lesotho,ZAF,Africa
+South Africa,Mozambique,ZAF,Africa
+South Africa,Namibia,ZAF,Africa
+South Africa,Swaziland,ZAF,Africa
+South Africa,Zimbabwe,ZAF,Africa
+South Georgia and the South Sandwich Islands,Antartica,SGS,Americas
+South Georgia and the South Sandwich Islands,Falkland Islands (Malvinas),SGS,Americas
+South Sudan,Central African Republic,SSD,Africa
+South Sudan,"Congo, Democratic Republic of the",SSD,Africa
+South Sudan,Eritrea,SSD,Africa
+South Sudan,Ethiopia,SSD,Africa
+South Sudan,Kenya,SSD,Africa
+South Sudan,Sudan,SSD,Africa
+South Sudan,Uganda,SSD,Africa
+Spain,Andorra,ESP,Europe
+Spain,France,ESP,Europe
+Spain,Gibraltar,ESP,Europe
+Spain,Morocco,ESP,Europe
+Spain,Portugal,ESP,Europe
+Sri Lanka,India,LKA,Asia
+Sri Lanka,Indonesia,LKA,Asia
+Sudan,Central African Republic,SDN,Africa
+Sudan,Chad,SDN,Africa
+Sudan,Egypt,SDN,Africa
+Sudan,Eritrea,SDN,Africa
+Sudan,Ethiopia,SDN,Africa
+Sudan,Libya,SDN,Africa
+Sudan,South Sudan,SDN,Africa
+Suriname,Brazil,SUR,Americas
+Suriname,French Guiana,SUR,Americas
+Suriname,Guyana,SUR,Americas
+Svalbard and Jan Mayen,Greenland,SJM,Europe
+Swaziland,Mozambique,,
+Swaziland,South Africa,,
+Sweden,Denmark,SWE,Europe
+Sweden,Finland,SWE,Europe
+Sweden,Norway,SWE,Europe
+Switzerland,Austria,CHE,Europe
+Switzerland,France,CHE,Europe
+Switzerland,Germany,CHE,Europe
+Switzerland,Italy,CHE,Europe
+Switzerland,Liechtenstein,CHE,Europe
+Syrian Arab Republic,Iraq,SYR,Asia
+Syrian Arab Republic,Israel,SYR,Asia
+Syrian Arab Republic,Jordan,SYR,Asia
+Syrian Arab Republic,Lebanon,SYR,Asia
+Syrian Arab Republic,Turkey,SYR,Asia
+Taiwan,China,TWN,Asia
+Taiwan,Philippines,TWN,Asia
+Tajikistan,Afghanistan,TJK,Asia
+Tajikistan,China,TJK,Asia
+Tajikistan,Kyrgyzstan,TJK,Asia
+Tajikistan,Uzbekistan,TJK,Asia
+"Tanzania, United Republic of",Burundi,TZA,Africa
+"Tanzania, United Republic of","Congo, Democratic Republic of the",TZA,Africa
+"Tanzania, United Republic of",Kenya,TZA,Africa
+"Tanzania, United Republic of",Malawi,TZA,Africa
+"Tanzania, United Republic of",Mozambique,TZA,Africa
+"Tanzania, United Republic of",Rwanda,TZA,Africa
+"Tanzania, United Republic of",Uganda,TZA,Africa
+"Tanzania, United Republic of",Zambia,TZA,Africa
+Thailand,Cambodia,THA,Asia
+Thailand,Lao People's Democratic Republic,THA,Asia
+Thailand,Malaysia,THA,Asia
+Thailand,Myanmar,THA,Asia
+Timor-Leste,Indonesia,TLS,Asia
+Togo,Benin,TGO,Africa
+Togo,Burkina Faso,TGO,Africa
+Togo,Ghana,TGO,Africa
+Tokelau,American Samoa,TKL,Oceania
+Tokelau,Kiribati,,
+Tokelau,Marshall Islands,,
+Tokelau,Samoa,,
+Tonga,American Samoa,TON,Oceania
+Tonga,Fiji,TON,Oceania
+Tonga,Niue,TON,Oceania
+Trinidad and Tobago,Grenada,TTO,Americas
+Trinidad and Tobago,Venezuela (Bolivarian Republic of),TTO,Americas
+Tunisia,Algeria,TUN,Africa
+Tunisia,Libya,TUN,Africa
+Turkey,Armenia,TUR,Asia
+Turkey,Azerbaijan,TUR,Asia
+Turkey,Bulgaria,TUR,Asia
+Turkey,Georgia,TUR,Asia
+Turkey,Greece,TUR,Asia
+Turkey,Iran (Islamic Republic of),TUR,Asia
+Turkey,Iraq,TUR,Asia
+Turkey,Syrian Arab Republic,TUR,Asia
+Turkmenistan,Afghanistan,TKM,Asia
+Turkmenistan,Iran (Islamic Republic of),TKM,Asia
+Turkmenistan,Kazakhstan,TKM,Asia
+Turkmenistan,Uzbekistan,TKM,Asia
+Tuvalu,Wallis and Futuna,TUV,Oceania
+Uganda,"Congo, Democratic Republic of the",UGA,Africa
+Uganda,Kenya,UGA,Africa
+Uganda,Rwanda,UGA,Africa
+Uganda,South Sudan,UGA,Africa
+Uganda,"Tanzania, United Republic of",UGA,Africa
+Ukraine,Belarus,UKR,Europe
+Ukraine,Hungary,UKR,Europe
+Ukraine,"Moldova, Republic of",UKR,Europe
+Ukraine,Poland,UKR,Europe
+Ukraine,Romania,UKR,Europe
+Ukraine,Russian Federation,UKR,Europe
+Ukraine,Slovakia,UKR,Europe
+United Arab Emirates,Oman,ARE,Asia
+United Arab Emirates,Saudi Arabia,ARE,Asia
+United Kingdom of Great Britain and Northern Ireland,Ireland,GBR,Europe
+United States Minor Outlying Islands,Marshall Islands,UMI,Oceania
+United States of America,Canada,USA,Americas
+United States of America,Mexico,USA,Americas
+Uruguay,Argentina,URY,Americas
+Uruguay,Brazil,URY,Americas
+Uzbekistan,Afghanistan,UZB,Asia
+Uzbekistan,Kazakhstan,UZB,Asia
+Uzbekistan,Kyrgyzstan,UZB,Asia
+Uzbekistan,Tajikistan,UZB,Asia
+Uzbekistan,Turkmenistan,UZB,Asia
+Vanuatu,Fiji,VUT,Oceania
+Vanuatu,Papua New Guinea,VUT,Oceania
+Venezuela (Bolivarian Republic of),Brazil,VEN,Americas
+Venezuela (Bolivarian Republic of),Colombia,VEN,Americas
+Venezuela (Bolivarian Republic of),Grenada,VEN,Americas
+Venezuela (Bolivarian Republic of),Guyana,VEN,Americas
+Viet Nam,Cambodia,VNM,Asia
+Viet Nam,China,VNM,Asia
+Viet Nam,Lao People's Democratic Republic,VNM,Asia
+Virgin Islands (British),Anguilla,VGB,Americas
+Virgin Islands (British),Puerto Rico,VGB,Americas
+Virgin Islands (British),Virgin Islands (U.S.),VGB,Americas
+Virgin Islands (U.S.),Anguilla,VIR,Americas
+Virgin Islands (U.S.),Puerto Rico,VIR,Americas
+Wallis and Futuna,Samoa,WLF,Oceania
+Western Sahara,Algeria,ESH,Africa
+Western Sahara,Mauritania,ESH,Africa
+Western Sahara,Morocco,ESH,Africa
+Yemen,Oman,YEM,Asia
+Yemen,Saudi Arabia,YEM,Asia
+Zambia,Angola,ZMB,Africa
+Zambia,Botswana,ZMB,Africa
+Zambia,"Congo, Democratic Republic of the",ZMB,Africa
+Zambia,Malawi,ZMB,Africa
+Zambia,Mozambique,ZMB,Africa
+Zambia,Namibia,ZMB,Africa
+Zambia,"Tanzania, United Republic of",ZMB,Africa
+Zambia,Zimbabwe,ZMB,Africa
+Zimbabwe,Botswana,ZWE,Africa
+Zimbabwe,Mozambique,ZWE,Africa
+Zimbabwe,South Africa,ZWE,Africa
+Zimbabwe,Zambia,ZWE,Africa
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,
+, ,,

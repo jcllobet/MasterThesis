@@ -1,0 +1,15 @@
+source,target,fake weight
+Albania,Greece,1
+Albania,Slovenia,1
+Bosnia and Herzegovina,Slovenia,1
+Montenegro,Slovenia,1
+North Macedonia,Slovenia,1
+Greece,Albania,1
+Slovenia,Albania,1
+Croatia,Bosnia and Herzegovina,1
+Serbia,Bosnia and Herzegovina,1
+Slovenia,Bosnia and Herzegovina,1
+Bosnia and Herzegovina,Croatia,1
+Slovenia,North Macedonia,1
+Slovenia,Montenegro,1
+Bosnia and Herzegovina,Serbia,1

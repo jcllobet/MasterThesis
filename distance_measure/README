@@ -1,0 +1,16 @@
+This archive contains the code and the data to replicate the study of network node distance measures detailed in the paper "The Node Vector Distance Problem in Complex Networks". We provide only the code and the data we have the right to share, pointing to the original sources when the original material could not be repackaged.
+
+The implementation folder contains the library implementing in Python 3.6.5 all known node vector distance measures. The minimal code to use it, assuming you placed network_distance.py in your path or in the same folder of execution, is the following:
+
+import network_distance as nd
+ge_dist = nd.ge(src, trg, G)
+
+Assuming that G is a networkx unweighted graph and that src and trg are two dictionary, whose keys are the nodes the agent is accupying and whose values are the occupation intensity. The above code calculates the Laplacian Generalized Euclidean distance.
+
+The library prerequisites are the following (the versions are the ones for which the library has been developed, newer or older version could still work): Numpy 1.17.2, Scipy 1.3.1, Pandas 0.25.1, Networkx 2.4, pyemd 0.5.1. Additionally, some experiments also require statsmodels 0.10.1.
+
+WARNING: The calculation of shortest path lengths relies on the multiprocessing library. Moreover, MAPF relies on running an external binary with the subprocess library. Both operations are tested and work relibably on Ubuntu 18.04.1 LTS. I know Windows might have issues with the code as it stands. Thus you might need to calculate the shortest paths independently from the library. 
+
+Each folder in this archive allows you to replicate the figures and the tables of the result section. The specific figure and table to replicate is determined by the folder name.
+
+To run the MAPF node vector distance (and reproduce its results) you will need the binary insolver_reLOC from http://surynek.com/research/files/reLOC-0.20-kruh_043.tgz. For some experiments, you will also need the binary_network benchmark from https://sites.google.com/site/andrealancichinetti/files to generate LFR synthetic networks.
