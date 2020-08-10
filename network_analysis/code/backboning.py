@@ -7,13 +7,14 @@ from scipy.stats import binom
 import os
 
 dirname = os.path.dirname(__file__)
-datafile = os.path.join(dirname, "../data/c_flights_clean_01.csv")
+
+datafile = os.path.join(dirname, "../data/c_flights_clean_04.csv")
 
 #critical_edges = {"e1": ["Iceland", "Greenland", "Denmark", "Norway"], "e2":["France", "Spain"], "e3": ["Serbia"]
 
 print("We're inside matrix")
 
-def read(filename, column_of_interest, triangular_input = False, consider_self_loops = True, undirected = False, drop_zeroes = True, sep = "\t"):
+def read(filename, column_of_interest, columns_to_ignore, triangular_input = False, consider_self_loops = True, undirected = False, drop_zeroes = True, sep = "\t"):
    """Reads a field separated input file into the internal backboning format (a Pandas Dataframe).
    The input file should have three or more columns (default separator: tab).
    The input file must have a one line header with the column names.
@@ -36,7 +37,10 @@ def read(filename, column_of_interest, triangular_input = False, consider_self_l
    The parsed network data, the number of nodes in the network and the number of edges.
    """
    table = pd.read_csv(filename, sep = sep)
+   ignore = ["src", "trg"] + columns_to_ignore
+   ignore_t = table[ignore]
    table = table[["src", "trg", column_of_interest]]
+   
    table.rename(columns = {column_of_interest: "nij"}, inplace = True)
    if drop_zeroes:
       table = table[table["nij"] > 0]
@@ -47,9 +51,9 @@ def read(filename, column_of_interest, triangular_input = False, consider_self_l
    original_nodes = len(set(table["src"]) | set(table["trg"]))
    original_edges = table.shape[0]
    if undirected:
-      return table, original_nodes, original_edges / 2
+      return table, ignore_t, original_nodes, original_edges / 2
    else:
-      return table, original_nodes, original_edges
+      return table, ignore_t, original_nodes, original_edges
 
 def make_symmetric(table):
    table2 = table.copy()
@@ -297,14 +301,23 @@ def maximum_spanning_tree(table, undirected = False):
 
 def main():
    print("running...\n")
-   df = read(datafile, "weights", sep=",")
+   col_i = ["region", "weeks_since_100_cases"]
+   df = read(datafile, column_of_interest = "norm-log-weight", columns_to_ignore = col_i, sep=",")
+
+   ignore_columns = df[1]
+
+   # we only want [table], ignore_t, original_nodes, original_edges
    taula = noise_corrected(df[0])
+
    resultat = test_densities(taula, 11.56, 13.56, 0.04)
+   
    final = thresholding(taula, threshold=11.56)
    
+   merge_df = pd.merge(final, ignore_columns, on=['src','trg'], how="inner")
+
+   merge_df.to_csv('countries_flights_norm_backbone_04.csv')
    print("...done")
    print(final)
-   final.to_csv('countries_flights_backbone_02.csv')
 
 
 
