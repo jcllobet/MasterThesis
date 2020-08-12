@@ -1,0 +1,225 @@
+,src,iso_code_src,days_to_first_100_cases,weeks_since_100_cases
+0,Afghanistan,AFG,71.0,10
+1,Albania,ALB,67.0,9
+2,Algeria,DZA,63.0,9
+3,American Samoa,ASM,999.0,142
+4,Angola,AGO,145.0,20
+5,Anguilla,AIA,999.0,142
+6,Antigua and Barbuda,ATG,999.0,142
+7,Argentina,ARG,62.0,8
+8,Armenia,ARM,61.0,8
+9,Aruba,ABW,110.0,15
+10,Australia,AUS,53.0,7
+11,Austria,AUT,51.0,7
+12,Azerbaijan,AZE,69.0,9
+13,Bahamas,BHS,132.0,18
+14,Bahrain,BHR,52.0,7
+15,Bangladesh,BGD,80.0,11
+16,Barbados,BRB,176.0,25
+17,Belarus,BLR,73.0,10
+18,Belgium,BEL,47.0,6
+19,Belize,BLZ,999.0,142
+20,Benin,BEN,110.0,15
+21,Bermuda,BMU,100.0,14
+22,Bhutan,BTN,999.0,142
+23,Bolivia,BOL,73.0,10
+24,Bosnia and Herzegovina,BIH,65.0,9
+25,Botswana,BWA,161.0,23
+26,Brazil,BRA,57.0,8
+27,Brunei,BRN,67.0,9
+28,Bulgaria,BGR,62.0,8
+29,Burkina Faso,BFA,68.0,9
+30,Burundi,BDI,150.0,21
+31,Cabo Verde,CPV,100.0,14
+32,Cambodia,KHM,70.0,10
+33,Cameroon,CMR,73.0,10
+34,Canada,CAN,54.0,7
+35,Cayman Islands,CYM,123.0,17
+36,Central African Republic,CAF,112.0,16
+37,Chad,TCD,106.0,15
+38,Chile,CHL,59.0,8
+39,China,CHN,1.0,0
+40,Christmas Island,CXR,999.0,142
+41,Cocos (Keeling) Islands,CCK,999.0,142
+42,Colombia,COL,61.0,8
+43,Comoros,COM,134.0,19
+44,Congo,COG,89.0,12
+45,"Congo, Democratic Republic of the",COD,75.0,10
+46,Cook Islands,COK,999.0,142
+47,Costa Rica,CRI,63.0,9
+48,Côte d'Ivoire,CIV,70.0,10
+49,Croatia,HRV,62.0,8
+50,Cuba,CUB,71.0,10
+51,Cyprus,CYP,66.0,9
+52,Czechia,CZE,55.0,7
+53,Denmark,DNK,52.0,7
+54,Djibouti,DJI,81.0,11
+55,Dominica,DMA,999.0,142
+56,Dominican Republic,DOM,64.0,9
+57,East Timor,TLS,999.0,142
+58,Ecuador,ECU,60.0,8
+59,Egypt,EGY,58.0,8
+60,El Salvador,SLV,82.0,11
+61,Equatorial Guinea,GNQ,98.0,14
+62,Eritrea,ERI,150.0,21
+63,Estonia,EST,57.0,8
+64,Ethiopia,ETH,92.0,13
+65,Falkland Islands (Malvinas),FLK,999.0,142
+66,Faroe Islands,FRO,65.0,9
+67,Fiji,FJI,999.0,142
+68,Finland,FIN,55.0,7
+69,France,FRA,44.0,6
+70,French Guiana,GUF,999.0,142
+71,French Polynesia,PYF,999.0,142
+72,Gabon,GAB,91.0,13
+73,Gambia,GMB,999.0,142
+74,Georgia,GEO,74.0,10
+75,Germany,DEU,43.0,6
+76,Ghana,GHA,69.0,9
+77,Gibraltar,GIB,79.0,11
+78,Greece,GRC,55.0,7
+79,Greenland,GRL,999.0,142
+80,Grenada,GRD,999.0,142
+81,Guadeloupe,GLP,999.0,142
+82,Guam,GUM,79.0,11
+83,Guatemala,GTM,83.0,11
+84,Guernsey,GGY,77.0,11
+85,Guinea,GIN,78.0,11
+86,Guinea-Bissau,GNB,104.0,14
+87,Guyana,GUY,114.0,16
+88,Haiti,HTI,109.0,15
+89,Honduras,HND,71.0,10
+90,Hong Kong,HKG,999.0,142
+91,Hungary,HUN,63.0,9
+92,Iceland,ISL,55.0,7
+93,India,IND,59.0,8
+94,Indonesia,IDN,58.0,8
+95,Iran (Islamic Republic of),IRN,40.0,5
+96,Iraq,IRQ,58.0,8
+97,Ireland,IRL,57.0,8
+98,Isle of Man,IMN,77.0,11
+99,Israel,ISR,56.0,8
+100,Italy,ITA,37.0,5
+101,Jamaica,JAM,88.0,12
+102,Japan,JPN,35.0,5
+103,Jersey,JEY,77.0,11
+104,Jordan,JOR,66.0,9
+105,Kazakhstan,KAZ,69.0,9
+106,Kenya,KEN,76.0,10
+107,Kiribati,KIR,999.0,142
+108,Korea (Democratic People's Republic of),PRK,999.0,142
+109,"Korea, Republic of",KOR,34.0,4
+110,Kuwait,KWT,57.0,8
+111,Kyrgyzstan,KGZ,74.0,10
+112,Lao People's Democratic Republic,LAO,999.0,142
+113,Latvia,LVA,63.0,9
+114,Lebanon,LBN,59.0,8
+115,Lesotho,LSO,174.0,24
+116,Liberia,LBR,95.0,13
+117,Libya,LBY,132.0,18
+118,Lithuania,LTU,64.0,9
+119,Luxembourg,LUX,60.0,8
+120,Macao,MAC,999.0,142
+121,Madagascar,MDG,84.0,12
+122,Malawi,MWI,129.0,18
+123,Malaysia,MYS,52.0,7
+124,Maldives,MDV,97.0,13
+125,Mali,MLI,85.0,12
+126,Malta,MLT,65.0,9
+127,Marshall Islands,MHL,999.0,142
+128,Martinique,MTQ,999.0,142
+129,Mauritania,MRT,124.0,17
+130,Mauritius,MUS,71.0,10
+131,Mayotte,MYT,999.0,142
+132,Mexico,MEX,61.0,8
+133,Micronesia (Federated States of),FSM,999.0,142
+134,"Moldova, Republic of",MDA,66.0,9
+135,Mongolia,MNG,119.0,17
+136,Montenegro,MNE,74.0,10
+137,Morocco,MAR,65.0,9
+138,Mozambique,MOZ,115.0,16
+139,Myanmar,MMR,92.0,13
+140,Namibia,NAM,161.0,23
+141,Nauru,NRU,999.0,142
+142,Nepal,NPL,111.0,15
+143,Netherlands,NLD,49.0,7
+144,New Caledonia,NCL,999.0,142
+145,New Zealand,NZL,65.0,9
+146,Nicaragua,NIC,126.0,18
+147,Niger,NER,78.0,11
+148,Nigeria,NGA,73.0,10
+149,Niue,NIU,999.0,142
+150,Norfolk Island,NFK,999.0,142
+151,North Macedonia,MKD,65.0,9
+152,Northern Mariana Islands,MNP,999.0,142
+153,Norway,NOR,49.0,7
+154,Oman,OMN,69.0,9
+155,Pakistan,PAK,59.0,8
+156,Palau,PLW,999.0,142
+157,Panama,PAN,61.0,8
+158,Papua New Guinea,PNG,999.0,142
+159,Paraguay,PRY,78.0,11
+160,Peru,PER,60.0,8
+161,Philippines,PHL,57.0,8
+162,Poland,POL,57.0,8
+163,Portugal,PRT,56.0,8
+164,Puerto Rico,PRI,72.0,10
+165,Qatar,QAT,54.0,7
+166,Réunion,REU,999.0,142
+167,Romania,ROU,57.0,8
+168,Russian Federation,RUS,60.0,8
+169,Rwanda,RWA,78.0,11
+170,Saint Lucia,LCA,999.0,142
+171,Saint Pierre and Miquelon,SPM,999.0,142
+172,Saint Vincent and the Grenadines,VCT,999.0,142
+173,Sao Tome and Principe,STP,108.0,15
+174,Saudi Arabia,SAU,58.0,8
+175,Senegal,SEN,69.0,9
+176,Serbia,SRB,62.0,8
+177,Seychelles,SYC,999.0,142
+178,Sierra Leone,SLE,102.0,14
+179,Singapore,SGP,43.0,6
+180,Slovakia,SVK,61.0,8
+181,Slovenia,SVN,56.0,8
+182,Somalia,SOM,91.0,13
+183,Solomon Islands,SLB,999.0,142
+184,South Africa,ZAF,61.0,8
+185,South Sudan,SSD,112.0,16
+186,Spain,ESP,44.0,6
+187,Sri Lanka,LKA,67.0,9
+188,Sudan,SDN,95.0,13
+189,Suriname,SUR,142.0,20
+190,Swaziland,SWZ,105.0,15
+191,Sweden,SWE,49.0,7
+192,Switzerland,CHE,49.0,7
+193,Taiwan,TWN,61.0,8
+194,Tajikistan,TJK,108.0,15
+195,"Tanzania, United Republic of",TZA,91.0,13
+196,Thailand,THA,58.0,8
+197,Togo,TGO,103.0,14
+198,Tonga,TON,999.0,142
+199,Trinidad and Tobago,TTO,78.0,11
+200,Tunisia,TUN,67.0,9
+201,Turkey,TUR,61.0,8
+202,Turkmenistan,TKM,999.0,142
+203,Turks and Caicos Islands,TCA,999.0,142
+204,Tuvalu,TUV,999.0,142
+205,Uganda,UGA,111.0,15
+206,Ukraine,UKR,68.0,9
+207,United Arab Emirates,ARE,60.0,8
+208,United Kingdom of Great Britain and Northern Ireland,GBR,48.0,6
+209,United States of America,USA,45.0,6
+210,Uruguay,URY,63.0,9
+211,Uzbekistan,UZB,70.0,10
+212,Vanuatu,VUT,999.0,142
+213,Venezuela (Bolivarian Republic of),VEN,68.0,9
+214,Viet Nam,VNM,65.0,9
+215,Virgin Islands (British),VGB,999.0,142
+216,Wallis and Futuna,WLF,999.0,142
+217,Western Sahara,ESH,162.0,23
+218,Yemen,YEM,119.0,17
+219,Zambia,ZMB,104.0,14
+220,Zimbabwe,ZWE,131.0,18
+221,Netherlands Antilles,ANT,999.0,142
+222,Samoa,WSM,999.0,142
+223,Saint Kitts and Nevis,KNA,999.0,142
