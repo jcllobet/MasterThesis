@@ -6,10 +6,6 @@ from collections import defaultdict
 from scipy.stats import binom
 import os
 
-dirname = os.path.dirname(__file__)
-
-datafile = os.path.join(dirname, "../data/c_flights_clean_04.csv")
-
 #critical_edges = {"e1": ["Iceland", "Greenland", "Denmark", "Norway"], "e2":["France", "Spain"], "e3": ["Serbia"]
 
 print("We're inside matrix")
@@ -300,22 +296,41 @@ def maximum_spanning_tree(table, undirected = False):
 
 
 def main():
+
+   dirname = os.path.dirname(__file__)
+
+   path = "/home/jan/Code/MasterThesis/data/0_Golden_Standard"
+
+   datafile = os.path.join(path, "flights_clean_05_removing_low_log.tsv")
+   savefile = os.path.join(path, "countries_flights_norm_backbone_05_low_threshold.csv")
+
+
    print("running...\n")
-   col_i = ["region", "weeks_since_100_cases"]
-   df = read(datafile, column_of_interest = "norm-log-weight", columns_to_ignore = col_i, sep=",")
+   #col_i = ["region", "weeks_since_100_cases"]
+   df = read(datafile, column_of_interest = "norm-log-weight", columns_to_ignore = [], sep="\t")
 
    ignore_columns = df[1]
 
    # we only want [table], ignore_t, original_nodes, original_edges
    taula = noise_corrected(df[0])
 
-   resultat = test_densities(taula, 11.56, 13.56, 0.04)
+   resultat = test_densities(taula, 1, 2, 0.05)
    
-   final = thresholding(taula, threshold=11.56)
-   
-   merge_df = pd.merge(final, ignore_columns, on=['src','trg'], how="inner")
+   print(resultat)
 
-   merge_df.to_csv('countries_flights_norm_backbone_04.csv')
+   #LOW TRESHOLD
+
+   #END TARGET: 
+   #target treshold 3.65
+   final = thresholding(taula, threshold=1.65)
+
+   #target treshold = 4.52
+
+   #SAVING FAT EDGES TABLE FIRST
+   
+   #merge_df = pd.merge(final, ignore_columns, on=['src','trg'], how="inner")
+
+   final.to_csv(savefile)
    print("...done")
    print(final)
 
