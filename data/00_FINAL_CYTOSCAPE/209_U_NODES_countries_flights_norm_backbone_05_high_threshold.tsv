@@ -310,11 +310,10 @@
 1135	Guadeloupe	Puerto Rico	0.1998315695	0.9647791529
 1136	Martinique	Puerto Rico	0.1998315695	0.9685596821
 1126	Anguilla	Puerto Rico	0.1998315695	0.984482295
-1128	Virgin Islands (British)	Puerto Rico	0.3697323384	0.9805693332
 1131	Dominica	Puerto Rico	0.2997473543	0.9796008359
 1142	Puerto Rico	Virgin Islands (British)	0.4388618422	0.9794034492
 1138	Anguilla	Virgin Islands (British)	0.09991578476	0.977572807
-1140	Dominica	Virgin Islands (British)	0.2319972678	0.9808752165
+1140	Dominica	Virgin Islands (British)	0.4318288373	0.9808752165
 1143	United States of America	Virgin Islands (British)	0.5280951105	0.9877853399
 1161	Dominican Republic	Guadeloupe	0.2582785568	0.9282728909
 1158	Antigua and Barbuda	Guadeloupe	0.1998315695	0.947084634
@@ -464,7 +463,6 @@
 1144	Antigua and Barbuda	Barbados	0.1998315695	0.990883905
 1145	Antigua and Barbuda	Dominica	0.09991578476	0.9640275128
 1146	Barbados	Dominica	0.09991578476	0.9771180185
-1147	Virgin Islands (British)	Dominica	0.1998315695	0.9936706181
 1171	Antigua and Barbuda	Saint Kitts and Nevis	0.2997473543	0.9788576024
 1173	Puerto Rico	Saint Kitts and Nevis	0.2997473543	0.9872217395
 1172	Virgin Islands (British)	Saint Kitts and Nevis	0.09991578476	0.9780210547
@@ -480,3 +478,14 @@
 2208	Guam	Micronesia (Federated States of)	0.1998315695	0.9934405949
 2148	Comoros	Djibouti	0.09991578476	0.996883504
 1125	Anguilla	Antigua and Barbuda	0.09991578476	0.9986333091
+862	Slovenia	Switzerland	0.1998315695	0.8596295748
+1678	Finland	Hungary	0.2582785568	0.7764442993
+1683	Bahrain	Iraq	0.1998315695	0.8828092977
+1714	Georgia	Israel	0.2582785568	0.8550726381
+1760	Greece	Luxembourg	0.2997473543	0.8019758838
+1798	Latvia	Norway	0.4318288373	0.8253150576
+1876	North Macedonia	Sweden	0.2582785568	0.8465338513
+1881	Poland	Sweden	0.4696481232	0.7121228076
+1885	Serbia	Sweden	0.3581943416	0.8147640498
+1965	Qatar	Sudan	0.1998315695	0.8787530121
+1886	Spain	Sweden	0.608233627	0.7379546719
