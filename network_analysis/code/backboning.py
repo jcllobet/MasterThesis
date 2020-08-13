@@ -314,20 +314,21 @@ def main():
    # we only want [table], ignore_t, original_nodes, original_edges
    taula = noise_corrected(df[0])
 
-   resultat = test_densities(taula, 10.5, 10.9, 0.05)
+   resultat = test_densities(taula, 10.75, 11, 0.01)
    
    print(resultat)
 
    #LOW TRESHOLD
    # TARGET = 3.05
 
-   # TARGET EDGES: 387 - less nodes 
+   # TARGET EDGES: 387 - (209-188) - 4 missed connections = 362
    # TARGET END NODES: 209
+   # REAL END NODES: 188
 
 
    #END TARGET: 
-   #target treshold 10.73
-   final = thresholding(taula, threshold=10.73)
+   #target treshold 10.89
+   final = thresholding(taula, threshold=10.89)
 
    #target treshold = 4.52
 
