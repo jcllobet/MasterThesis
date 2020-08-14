@@ -1,0 +1,391 @@
+src	trg	nij
+Afghanistan	Azerbaijan	0.09991578476
+Austria	Azerbaijan	0.1998315695
+Afghanistan	India	0.3804148549
+Bhutan	India	0.2582785568
+Afghanistan	Iran (Islamic Republic of)	0.3319130525
+Afghanistan	Pakistan	0.2997473543
+Oman	Pakistan	0.4750883162
+Sudan	United Arab Emirates	0.4318288373
+Sri Lanka	United Arab Emirates	0.4581101264
+Albania	Italy	0.575004101
+Montenegro	Slovenia	0.1998315695
+Tunisia	United Kingdom of Great Britain and Northern Ireland	0.5454833945
+Gibraltar	United Kingdom of Great Britain and Northern Ireland	0.3581943416
+Isle of Man	United Kingdom of Great Britain and Northern Ireland	0.4318288373
+Jersey	United Kingdom of Great Britain and Northern Ireland	0.5639103203
+Uganda	Belgium	0.1998315695
+Liberia	Belgium	0.1583627721
+Togo	Belgium	0.1583627721
+Bahamas	Canada	0.2804990701
+Barbados	Canada	0.1998315695
+Bermuda	Canada	0.1998315695
+Aruba	Canada	0.1998315695
+Myanmar	China	0.399663139
+Cambodia	China	0.4388618422
+Iraq	Jordan	0.3697323384
+Kyrgyzstan	Russian Federation	0.663826105
+Korea (Democratic People's Republic of)	Russian Federation	0.09991578476
+Libya	Tunisia	0.5421695013
+Trinidad and Tobago	United States of America	0.4455676098
+Honduras	United States of America	0.5243507959
+Kiribati	United States of America	0.1998315695
+Nicaragua	United States of America	0.3581943416
+Saint Kitts and Nevis	United States of America	0.2319972678
+Samoa	United States of America	0.09991578476
+Turks and Caicos Islands	United States of America	0.4803306397
+United Kingdom of Great Britain and Northern Ireland	United States of America	0.8672170655
+Austria	Belarus	0.1998315695
+Armenia	Belarus	0.09991578476
+Armenia	Czechia	0.1998315695
+Guam	Japan	0.5243507959
+Macao	Taiwan	0.399663139
+Palau	Taiwan	0.1998315695
+Lao People's Democratic Republic	Thailand	0.4318288373
+Austria	Bosnia and Herzegovina	0.09991578476
+Austria	Bulgaria	0.2582785568
+Belgium	Bulgaria	0.2997473543
+Austria	Croatia	0.3581943416
+Bosnia and Herzegovina	Croatia	0.09991578476
+Bulgaria	Cyprus	0.2997473543
+Estonia	Finland	0.2582785568
+Azerbaijan	Georgia	0.1998315695
+Belarus	Georgia	0.2582785568
+Iran (Islamic Republic of)	Iraq	0.2997473543
+Georgia	Iraq	0.1998315695
+Faroe Islands	Norway	0.1998315695
+Moldova, Republic of	Romania	0.2582785568
+Montenegro	Serbia	0.2997473543
+Mozambique	South Africa	0.4902758246
+Botswana	South Africa	0.4166413289
+Malawi	South Africa	0.2582785568
+Namibia	South Africa	0.4166413289
+Réunion	South Africa	0.09991578476
+Brazil	Chile	0.3581943416
+Argentina	Chile	0.4244350111
+Bolivia	Chile	0.2582785568
+Australia	Brunei	0.09991578476
+Australia	East Timor	0.1998315695
+Australia	Fiji	0.4455676098
+Australia	Guam	0.09991578476
+Australia	Indonesia	0.5695639079
+Brunei	Indonesia	0.2997473543
+East Timor	Indonesia	0.09991578476
+Brunei	Malaysia	0.3804148549
+Indonesia	Malaysia	0.6518068123
+Madagascar	Mauritius	0.1998315695
+Australia	New Caledonia	0.2997473543
+Fiji	New Caledonia	0.09991578476
+Australia	New Zealand	0.7133538762
+Fiji	New Zealand	0.3319130525
+New Caledonia	New Zealand	0.1998315695
+Australia	Norfolk Island	0.1998315695
+Australia	Papua New Guinea	0.4166413289
+Macao	Philippines	0.3319130525
+Papua New Guinea	Philippines	0.1998315695
+Fiji	Samoa	0.09991578476
+New Zealand	Samoa	0.2319972678
+East Timor	Singapore	0.09991578476
+Australia	Solomon Islands	0.1998315695
+Fiji	Solomon Islands	0.1998315695
+Papua New Guinea	Solomon Islands	0.09991578476
+Mongolia	Korea, Republic of	0.1998315695
+Palau	Korea, Republic of	0.1998315695
+Northern Mariana Islands	Korea, Republic of	0.1998315695
+Fiji	Tonga	0.1998315695
+New Zealand	Tonga	0.1998315695
+Australia	Vanuatu	0.3804148549
+Fiji	Vanuatu	0.1998315695
+New Zealand	Vanuatu	0.1998315695
+New Caledonia	Vanuatu	0.1998315695
+Solomon Islands	Vanuatu	0.2582785568
+Thailand	Viet Nam	0.4318288373
+Taiwan	Viet Nam	0.4696481232
+Lao People's Democratic Republic	Viet Nam	0.3581943416
+Iraq	Lebanon	0.3319130525
+Djibouti	Ethiopia	0.3319130525
+Chad	Ethiopia	0.09991578476
+Equatorial Guinea	Ethiopia	0.1998315695
+Maldives	Sri Lanka	0.4581101264
+Seychelles	Sri Lanka	0.1998315695
+Saudi Arabia	Sudan	0.399663139
+South Sudan	Sudan	0.1998315695
+Eritrea	Sudan	0.09991578476
+Djibouti	Yemen	0.2319972678
+Saudi Arabia	Yemen	0.4950024122
+Somalia	Yemen	0.1583627721
+United Arab Emirates	Yemen	0.4519752428
+Eritrea	Yemen	0.1998315695
+Bangladesh	Bhutan	0.09991578476
+Bangladesh	Myanmar	0.09991578476
+Bangladesh	Nepal	0.2997473543
+Bhutan	Nepal	0.09991578476
+Belgium	Burkina Faso	0.2997473543
+Benin	Burkina Faso	0.09991578476
+Benin	Côte d'Ivoire	0.345651825
+Burkina Faso	Côte d'Ivoire	0.399663139
+Guinea-Bissau	Morocco	0.09991578476
+Mauritania	Morocco	0.2582785568
+Guinea	Senegal	0.399663139
+Gambia	Senegal	0.2997473543
+Guinea-Bissau	Senegal	0.1998315695
+Mali	Senegal	0.3319130525
+Mauritania	Senegal	0.2319972678
+Cameroon	Congo, Democratic Republic of the	0.3167255442
+Angola	Congo, Democratic Republic of the	0.1998315695
+Congo	Congo, Democratic Republic of the	0.2804990701
+Belgium	Angola	0.1998315695
+Belgium	Benin	0.1998315695
+Belgium	Burundi	0.1998315695
+Belgium	Cameroon	0.4166413289
+Benin	Cameroon	0.2997473543
+Denmark	Estonia	0.1998315695
+Greenland	Iceland	0.1998315695
+Kenya	Rwanda	0.3697323384
+Gabon	Rwanda	0.09991578476
+Burundi	Rwanda	0.3697323384
+Ghana	Sierra Leone	0.2582785568
+Senegal	Sierra Leone	0.1998315695
+Liberia	Sierra Leone	0.3903600398
+Gambia	Sierra Leone	0.1998315695
+Myanmar	Cambodia	0.09991578476
+Kazakhstan	Tajikistan	0.2804990701
+Kyrgyzstan	Tajikistan	0.1998315695
+Russian Federation	Tajikistan	0.7153841634
+Congo, Democratic Republic of the	Kenya	0.2997473543
+Burundi	Kenya	0.2997473543
+Comoros	Kenya	0.2319972678
+Guatemala	Mexico	0.2582785568
+Turkey	Turkmenistan	0.1998315695
+China	Lao People's Democratic Republic	0.3319130525
+Cambodia	Lao People's Democratic Republic	0.3319130525
+China	Kyrgyzstan	0.3319130525
+Kazakhstan	Kyrgyzstan	0.2582785568
+China	Macao	0.6518068123
+Japan	Macao	0.3581943416
+Kyrgyzstan	Mongolia	0.09991578476
+China	Korea (Democratic People's Republic of)	0.2582785568
+Japan	Northern Mariana Islands	0.2582785568
+Guam	Northern Mariana Islands	0.1998315695
+Egypt	Libya	0.4318288373
+Jordan	Libya	0.3581943416
+Côte d'Ivoire	Ghana	0.3903600398
+Ghana	Nigeria	0.345651825
+Chad	Nigeria	0.1998315695
+Equatorial Guinea	Nigeria	0.1583627721
+Gabon	Nigeria	0.1583627721
+Niger	Nigeria	0.09991578476
+Rwanda	Uganda	0.399663139
+Tanzania, United Republic of	Uganda	0.2997473543
+Somalia	Uganda	0.09991578476
+South Sudan	Uganda	0.1583627721
+Burundi	Uganda	0.09991578476
+Kenya	Tanzania, United Republic of	0.5040145971
+Rwanda	Tanzania, United Republic of	0.1998315695
+Mayotte	Tanzania, United Republic of	0.09991578476
+Egypt	Eritrea	0.09991578476
+Ethiopia	South Sudan	0.1998315695
+Kenya	South Sudan	0.1998315695
+Rwanda	South Sudan	0.09991578476
+Benin	Mali	0.2582785568
+Burkina Faso	Mali	0.2582785568
+Côte d'Ivoire	Mali	0.2319972678
+Guinea	Mali	0.1998315695
+Burkina Faso	Niger	0.3903600398
+Chad	Niger	0.09991578476
+Kenya	Mozambique	0.2997473543
+Angola	Mozambique	0.09991578476
+South Africa	Zimbabwe	0.4166413289
+Tanzania, United Republic of	Zimbabwe	0.09991578476
+Botswana	Zimbabwe	0.1998315695
+Zambia	Zimbabwe	0.4388618422
+Namibia	Zimbabwe	0.1998315695
+Cameroon	Gabon	0.3167255442
+Benin	Gabon	0.2582785568
+Congo	Gabon	0.3581943416
+Equatorial Guinea	Gabon	0.1583627721
+Nigeria	Togo	0.1998315695
+Benin	Togo	0.2319972678
+Burkina Faso	Togo	0.1998315695
+Côte d'Ivoire	Togo	0.2804990701
+Gabon	Togo	0.09991578476
+Congo, Democratic Republic of the	Zambia	0.2319972678
+South Africa	Zambia	0.3804148549
+Malawi	Zambia	0.345651825
+Namibia	Zambia	0.1998315695
+Djibouti	Somalia	0.3167255442
+Kenya	Somalia	0.3697323384
+Kenya	Malawi	0.2997473543
+Dominican Republic	Puerto Rico	0.4166413289
+Guadeloupe	Puerto Rico	0.1998315695
+Martinique	Puerto Rico	0.1998315695
+Anguilla	Puerto Rico	0.1998315695
+Dominica	Puerto Rico	0.2997473543
+Puerto Rico	Virgin Islands (British)	0.4388618422
+Anguilla	Virgin Islands (British)	0.09991578476
+Dominica	Virgin Islands (British)	0.2319972678
+United States of America	Virgin Islands (British)	0.5280951105
+Dominican Republic	Guadeloupe	0.2582785568
+Antigua and Barbuda	Guadeloupe	0.1998315695
+Dominica	Guadeloupe	0.2582785568
+Haiti	Panama	0.1998315695
+Honduras	Panama	0.1998315695
+Nicaragua	Panama	0.1998315695
+Chile	Peru	0.3804148549
+Bolivia	Peru	0.399663139
+Ecuador	Peru	0.345651825
+Paraguay	Peru	0.09991578476
+Trinidad and Tobago	Venezuela (Bolivarian Republic of)	0.1998315695
+Aruba	Venezuela (Bolivarian Republic of)	0.4455676098
+Panama	Venezuela (Bolivarian Republic of)	0.3581943416
+United States of America	Venezuela (Bolivarian Republic of)	0.4166413289
+Guadeloupe	Martinique	0.3167255442
+French Guiana	Martinique	0.1998315695
+France	French Guiana	0.2582785568
+France	Madagascar	0.2997473543
+Comoros	Madagascar	0.09991578476
+Comoros	Mayotte	0.2804990701
+Madagascar	Mayotte	0.3581943416
+Mauritius	Réunion	0.3804148549
+Comoros	Réunion	0.09991578476
+Madagascar	Réunion	0.3697323384
+Mayotte	Réunion	0.1583627721
+Côte d'Ivoire	Guinea	0.1998315695
+Ghana	Liberia	0.3319130525
+Côte d'Ivoire	Liberia	0.09991578476
+Guernsey	Jersey	0.2804990701
+Guinea	Mauritania	0.09991578476
+Mali	Mauritania	0.09991578476
+Ghana	Namibia	0.09991578476
+Angola	Namibia	0.2582785568
+Botswana	Namibia	0.09991578476
+Cayman Islands	Jamaica	0.1583627721
+Guyana	Jamaica	0.09991578476
+Mauritius	Seychelles	0.09991578476
+Armenia	Austria	0.2582785568
+Albania	Austria	0.09991578476
+Canada	Cuba	0.5802464244
+Colombia	Cuba	0.2582785568
+Bahamas	Cuba	0.1998315695
+Cayman Islands	Cuba	0.09991578476
+Antigua and Barbuda	Dominican Republic	0.2804990701
+Aruba	Dominican Republic	0.1998315695
+Antigua and Barbuda	Saint Lucia	0.1998315695
+Barbados	Saint Lucia	0.1583627721
+Grenada	Saint Lucia	0.2319972678
+Martinique	Saint Lucia	0.3167255442
+Saint Lucia	Trinidad and Tobago	0.2997473543
+Panama	Trinidad and Tobago	0.1998315695
+Grenada	Trinidad and Tobago	0.2582785568
+Guyana	Trinidad and Tobago	0.09991578476
+Suriname	Trinidad and Tobago	0.2582785568
+Aruba	Colombia	0.1998315695
+Chile	Colombia	0.1998315695
+Canada	Cayman Islands	0.1998315695
+Bahamas	Cayman Islands	0.09991578476
+Dominican Republic	Turks and Caicos Islands	0.2582785568
+Bahamas	Turks and Caicos Islands	0.2804990701
+Haiti	Turks and Caicos Islands	0.2582785568
+Canada	Grenada	0.1998315695
+Barbados	Grenada	0.09991578476
+Canada	Guyana	0.1998315695
+Barbados	Guyana	0.09991578476
+Colombia	El Salvador	0.2582785568
+Costa Rica	El Salvador	0.1998315695
+Ecuador	El Salvador	0.1998315695
+Belize	El Salvador	0.09991578476
+Canada	Costa Rica	0.2582785568
+Colombia	Costa Rica	0.09991578476
+Dominican Republic	Haiti	0.2319972678
+Guadeloupe	Haiti	0.1998315695
+Canada	Saint Pierre and Miquelon	0.2582785568
+Denmark	Faroe Islands	0.1998315695
+Denmark	Greenland	0.09991578476
+Colombia	Ecuador	0.4455676098
+Chile	Ecuador	0.1583627721
+Brazil	Paraguay	0.3319130525
+Argentina	Paraguay	0.2997473543
+Chile	Paraguay	0.1998315695
+Bolivia	Paraguay	0.1998315695
+Brazil	Uruguay	0.4166413289
+Argentina	Uruguay	0.4166413289
+Paraguay	Uruguay	0.09991578476
+United States of America	Uruguay	0.1998315695
+Aruba	Suriname	0.09991578476
+Guyana	Suriname	0.09991578476
+French Guiana	Suriname	0.09991578476
+Brazil	Cabo Verde	0.09991578476
+Cameroon	Congo	0.3167255442
+Benin	Congo	0.3804148549
+Cameroon	Equatorial Guinea	0.3319130525
+Benin	Equatorial Guinea	0.1998315695
+Cameroon	Central African Republic	0.1998315695
+Cameroon	Chad	0.2582785568
+Ireland	Isle of Man	0.09991578476
+Japan	Palau	0.2319972678
+Guam	Palau	0.09991578476
+Micronesia (Federated States of)	Palau	0.09991578476
+Morocco	Western Sahara	0.2997473543
+Spain	Western Sahara	0.2582785568
+Portugal	Sao Tome and Principe	0.1583627721
+Angola	Sao Tome and Principe	0.09991578476
+Cabo Verde	Sao Tome and Principe	0.09991578476
+Angola	Brazil	0.1998315695
+Argentina	Brazil	0.5827977832
+Bolivia	Brazil	0.2319972678
+Argentina	Bolivia	0.1998315695
+Cabo Verde	Gambia	0.09991578476
+Cabo Verde	Guinea-Bissau	0.09991578476
+Guinea	Guinea-Bissau	0.1998315695
+Gambia	Guinea-Bissau	0.09991578476
+Costa Rica	Guatemala	0.2582785568
+El Salvador	Guatemala	0.1998315695
+Belize	Guatemala	0.1998315695
+Antigua and Barbuda	Barbados	0.1998315695
+Antigua and Barbuda	Dominica	0.09991578476
+Barbados	Dominica	0.09991578476
+		
+Antigua and Barbuda	Saint Kitts and Nevis	0.2997473543
+Puerto Rico	Saint Kitts and Nevis	0.2997473543
+Virgin Islands (British)	Saint Kitts and Nevis	0.09991578476
+Costa Rica	Honduras	0.3319130525
+El Salvador	Honduras	0.2582785568
+Belize	Honduras	0.1998315695
+Cayman Islands	Honduras	0.1998315695
+Guatemala	Honduras	0.4166413289
+Costa Rica	Nicaragua	0.2804990701
+El Salvador	Nicaragua	0.1998315695
+Guatemala	Nicaragua	0.09991578476
+Fiji	Kiribati	0.2582785568
+Guam	Micronesia (Federated States of)	0.1998315695
+Comoros	Djibouti	0.09991578476
+Anguilla	Antigua and Barbuda	0.09991578476
+Slovenia	Switzerland	0.1998315695
+Finland	Hungary	0.2582785568
+Bahrain	Iraq	0.1998315695
+Georgia	Israel	0.2582785568
+Greece	Luxembourg	0.2997473543
+Latvia	Norway	0.4318288373
+North Macedonia	Sweden	0.2582785568
+Poland	Sweden	0.4696481232
+Serbia	Sweden	0.3581943416
+Qatar	Sudan	0.1998315695
+Spain	Sweden	0.608233627
+Algeria	Austria	0.09991578476
+Bosnia and Herzegovina	Germany	0.2997473543
+China	Hong Kong	0.7869883719
+Iran (Islamic Republic of)	Kuwait	0.4318288373
+Estonia	Lithuania	0.2582785568
+Italy	Luxembourg	0.3903600398
+Libya	Malta	0.2804990701
+Netherlands	Suriname	0.1998315695
+Czechia	Slovakia	0.3167255442
+Spain	Ukraine	0.4455676098
+Kyrgyzstan	Uzbekistan	0.1998315695
+Croatia	Denmark	0.3581943416
+Bosnia and Herzegovina	Serbia	0.2582785568
+Romania	Serbia	0.1998315695
+Turkey	Ukraine	0.531744622
+Russian Federation	Ukraine	0.6261508951
+Australia	China	0.5083178422
+Canada	China	0.4902758246
