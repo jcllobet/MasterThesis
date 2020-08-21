@@ -302,7 +302,7 @@ def main():
    path = "/home/jan/Code/MasterThesis/data/0_Golden_Standard"
 
    datafile = os.path.join(path, "flights_normalized_06.tsv")
-   savefile = os.path.join(path, "countries_flights_norm_backbone_05_high_threshold.csv")
+   savefile = os.path.join(path, "countries_flights_norm_backbone_05_low_threshold.csv")
 
 
    print("running...\n")
@@ -314,7 +314,7 @@ def main():
    # we only want [table], ignore_t, original_nodes, original_edges
    taula = noise_corrected(df[0])
 
-   resultat = test_densities(taula, 10.75, 11, 0.01)
+   resultat = test_densities(taula, 3, 3.10, 0.01)
    
    print(resultat)
 
@@ -328,7 +328,7 @@ def main():
 
    #END TARGET: 
    #target treshold 10.89
-   final = thresholding(taula, threshold=10.89)
+   final = thresholding(taula, threshold=3.05)
 
    #target treshold = 4.52
 
