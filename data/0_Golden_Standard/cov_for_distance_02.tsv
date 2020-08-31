@@ -1,0 +1,225 @@
+name_src	src	days_to_first_100_cases	weeks_since_100_cases
+Afghanistan	AFG	71	10
+Albania	ALB	67	9
+Algeria	DZA	63	9
+American Samoa	ASM	999	142
+Angola	AGO	145	20
+Anguilla	AIA	999	142
+Antigua and Barbuda	ATG	999	142
+Argentina	ARG	62	8
+Armenia	ARM	61	8
+Aruba	ABW	110	15
+Australia	AUS	53	7
+Austria	AUT	51	7
+Azerbaijan	AZE	69	9
+Bahamas	BHS	132	18
+Bahrain	BHR	52	7
+Bangladesh	BGD	80	11
+Barbados	BRB	176	25
+Belarus	BLR	73	10
+Belgium	BEL	47	6
+Belize	BLZ	999	142
+Benin	BEN	110	15
+Bermuda	BMU	100	14
+Bhutan	BTN	999	142
+Bolivia	BOL	73	10
+Bosnia and Herzegovina	BIH	65	9
+Botswana	BWA	161	23
+Brazil	BRA	57	8
+Brunei	BRN	67	9
+Bulgaria	BGR	62	8
+Burkina Faso	BFA	68	9
+Burundi	BDI	150	21
+Cabo Verde	CPV	100	14
+Cambodia	KHM	70	10
+Cameroon	CMR	73	10
+Canada	CAN	54	7
+Cayman Islands	CYM	123	17
+Central African Republic	CAF	112	16
+Chad	TCD	106	15
+Chile	CHL	59	8
+China	CHN	1	0
+Christmas Island	CXR	999	142
+Cocos (Keeling) Islands	CCK	999	142
+Colombia	COL	61	8
+Comoros	COM	134	19
+Congo	COG	89	12
+Congo, Democratic Republic of the	COD	75	10
+Cook Islands	COK	999	142
+Costa Rica	CRI	63	9
+Côte d'Ivoire	CIV	70	10
+Croatia	HRV	62	8
+Cuba	CUB	71	10
+Cyprus	CYP	66	9
+Czechia	CZE	55	7
+Denmark	DNK	52	7
+Djibouti	DJI	81	11
+Dominica	DMA	999	142
+Dominican Republic	DOM	64	9
+East Timor	TLS	999	142
+Ecuador	ECU	60	8
+Egypt	EGY	58	8
+El Salvador	SLV	82	11
+Equatorial Guinea	GNQ	98	14
+Eritrea	ERI	150	21
+Estonia	EST	57	8
+Ethiopia	ETH	92	13
+Falkland Islands (Malvinas)	FLK	999	142
+Faroe Islands	FRO	65	9
+Fiji	FJI	999	142
+Finland	FIN	55	7
+France	FRA	44	6
+French Guiana	GUF	999	142
+French Polynesia	PYF	999	142
+Gabon	GAB	91	13
+Gambia	GMB	999	142
+Georgia	GEO	74	10
+Germany	DEU	43	6
+Ghana	GHA	69	9
+Gibraltar	GIB	79	11
+Greece	GRC	55	7
+Greenland	GRL	999	142
+Grenada	GRD	999	142
+Guadeloupe	GLP	999	142
+Guam	GUM	79	11
+Guatemala	GTM	83	11
+Guernsey	GGY	77	11
+Guinea	GIN	78	11
+Guinea-Bissau	GNB	104	14
+Guyana	GUY	114	16
+Haiti	HTI	109	15
+Honduras	HND	71	10
+Hong Kong	HKG	999	142
+Hungary	HUN	63	9
+Iceland	ISL	55	7
+India	IND	59	8
+Indonesia	IDN	58	8
+Iran (Islamic Republic of)	IRN	40	5
+Iraq	IRQ	58	8
+Ireland	IRL	57	8
+Isle of Man	IMN	77	11
+Israel	ISR	56	8
+Italy	ITA	37	5
+Jamaica	JAM	88	12
+Japan	JPN	35	5
+Jersey	JEY	77	11
+Jordan	JOR	66	9
+Kazakhstan	KAZ	69	9
+Kenya	KEN	76	10
+Kiribati	KIR	999	142
+Korea (Democratic People's Republic of)	PRK	999	142
+Korea, Republic of	KOR	34	4
+Kuwait	KWT	57	8
+Kyrgyzstan	KGZ	74	10
+Lao People's Democratic Republic	LAO	999	142
+Latvia	LVA	63	9
+Lebanon	LBN	59	8
+Lesotho	LSO	174	24
+Liberia	LBR	95	13
+Libya	LBY	132	18
+Lithuania	LTU	64	9
+Luxembourg	LUX	60	8
+Macao	MAC	999	142
+Madagascar	MDG	84	12
+Malawi	MWI	129	18
+Malaysia	MYS	52	7
+Maldives	MDV	97	13
+Mali	MLI	85	12
+Malta	MLT	65	9
+Marshall Islands	MHL	999	142
+Martinique	MTQ	999	142
+Mauritania	MRT	124	17
+Mauritius	MUS	71	10
+Mayotte	MYT	999	142
+Mexico	MEX	61	8
+Micronesia (Federated States of)	FSM	999	142
+Moldova, Republic of	MDA	66	9
+Mongolia	MNG	119	17
+Montenegro	MNE	74	10
+Morocco	MAR	65	9
+Mozambique	MOZ	115	16
+Myanmar	MMR	92	13
+Namibia	NAM	161	23
+Nauru	NRU	999	142
+Nepal	NPL	111	15
+Netherlands	NLD	49	7
+New Caledonia	NCL	999	142
+New Zealand	NZL	65	9
+Nicaragua	NIC	126	18
+Niger	NER	78	11
+Nigeria	NGA	73	10
+Niue	NIU	999	142
+Norfolk Island	NFK	999	142
+North Macedonia	MKD	65	9
+Northern Mariana Islands	MNP	999	142
+Norway	NOR	49	7
+Oman	OMN	69	9
+Pakistan	PAK	59	8
+Palau	PLW	999	142
+Panama	PAN	61	8
+Papua New Guinea	PNG	999	142
+Paraguay	PRY	78	11
+Peru	PER	60	8
+Philippines	PHL	57	8
+Poland	POL	57	8
+Portugal	PRT	56	8
+Puerto Rico	PRI	72	10
+Qatar	QAT	54	7
+Réunion	REU	999	142
+Romania	ROU	57	8
+Russian Federation	RUS	60	8
+Rwanda	RWA	78	11
+Saint Lucia	LCA	999	142
+Saint Pierre and Miquelon	SPM	999	142
+Saint Vincent and the Grenadines	VCT	999	142
+Sao Tome and Principe	STP	108	15
+Saudi Arabia	SAU	58	8
+Senegal	SEN	69	9
+Serbia	SRB	62	8
+Seychelles	SYC	999	142
+Sierra Leone	SLE	102	14
+Singapore	SGP	43	6
+Slovakia	SVK	61	8
+Slovenia	SVN	56	8
+Somalia	SOM	91	13
+Solomon Islands	SLB	999	142
+South Africa	ZAF	61	8
+South Sudan	SSD	112	16
+Spain	ESP	44	6
+Sri Lanka	LKA	67	9
+Sudan	SDN	95	13
+Suriname	SUR	142	20
+Swaziland	SWZ	105	15
+Sweden	SWE	49	7
+Switzerland	CHE	49	7
+Taiwan	TWN	61	8
+Tajikistan	TJK	108	15
+Tanzania, United Republic of	TZA	91	13
+Thailand	THA	58	8
+Togo	TGO	103	14
+Tonga	TON	999	142
+Trinidad and Tobago	TTO	78	11
+Tunisia	TUN	67	9
+Turkey	TUR	61	8
+Turkmenistan	TKM	999	142
+Turks and Caicos Islands	TCA	999	142
+Tuvalu	TUV	999	142
+Uganda	UGA	111	15
+Ukraine	UKR	68	9
+United Arab Emirates	ARE	60	8
+United Kingdom of Great Britain and Northern Ireland	GBR	48	6
+United States of America	USA	45	6
+Uruguay	URY	63	9
+Uzbekistan	UZB	70	10
+Vanuatu	VUT	999	142
+Venezuela (Bolivarian Republic of)	VEN	68	9
+Viet Nam	VNM	65	9
+Virgin Islands (British)	VGB	999	142
+Wallis and Futuna	WLF	999	142
+Western Sahara	ESH	162	23
+Yemen	YEM	119	17
+Zambia	ZMB	104	14
+Zimbabwe	ZWE	131	18
+Netherlands Antilles	ANT	999	142
+Samoa	WSM	999	142
+Saint Kitts and Nevis	KNA	999	142

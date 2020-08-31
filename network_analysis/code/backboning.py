@@ -219,6 +219,7 @@ def disparity_filter(table, undirected = False, return_self_loops = False):
 
 def high_salience_skeleton(table, undirected = False, return_self_loops = False):
    #sys.stderr.write("Calculating HSS score...\n")
+   print("APPLYING HSS")
    table = table.copy()
    table["distance"] = 1.0 / table["nij"]
    nodes = set(table["src"]) | set(table["trg"])
@@ -301,8 +302,8 @@ def main():
 
    path = "/home/jan/Code/MasterThesis/data/0_Golden_Standard"
 
-   datafile = os.path.join(path, "flights_normalized_06.tsv")
-   savefile = os.path.join(path, "countries_flights_norm_backbone_05_low_threshold.csv")
+   datafile = os.path.join(path, "flights_normalized_07.tsv")
+   savefile = os.path.join(path, "countries_flights_disparity_filter_backbone_02_high_threshold.tsv")
 
 
    print("running...\n")
@@ -312,12 +313,12 @@ def main():
    ignore_columns = df[1]
 
    # we only want [table], ignore_t, original_nodes, original_edges
-   taula = noise_corrected(df[0])
+   taula = disparity_filter(df[0])
+   print(taula)
 
-   resultat = test_densities(taula, 3, 3.10, 0.01)
+   resultat = test_densities(taula, 0.75, 0.8, 0.002)
    
-   print(resultat)
-
+   print("DENSITIES TABLE: {}".format(resultat))
    #LOW TRESHOLD
    # TARGET = 3.05
 
@@ -328,7 +329,7 @@ def main():
 
    #END TARGET: 
    #target treshold 10.89
-   final = thresholding(taula, threshold=3.05)
+   final = thresholding(taula, threshold=0.788)
 
    #target treshold = 4.52
 
@@ -336,7 +337,7 @@ def main():
    
    #merge_df = pd.merge(final, ignore_columns, on=['src','trg'], how="inner")
 
-   final.to_csv(savefile)
+   final.to_csv(savefile, sep="\t")
    print("...done")
    print(final)
 

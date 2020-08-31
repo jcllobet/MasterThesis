@@ -1,4 +1,4 @@
-,src,trg,iso_code_src,region,iso_code_trg,kmdist,proximity,log-prox,norm-log-prox
+,name_src,name_trg,src,region,trg,kmdist,proximity,log-prox,norm-log-prox
 0,Afghanistan,China,AFG,Asia,CHN,4199.0,0.00023815194093831864,0.1198666840723466,0.06665607265127181
 1,Afghanistan,Iran (Islamic Republic of),AFG,Asia,IRN,1618.0,0.0006180469715698393,0.13533729801091854,0.13414836587161083
 2,Afghanistan,Pakistan,AFG,Asia,PAK,371.0,0.0026954177897574125,0.16902735731768975,0.2811250385732701
